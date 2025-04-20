@@ -47,8 +47,12 @@ nav:
       - Reunião 1 - 04/04/2025: atas-reuniao/ata-1.md
       - Reunião 2 - 08/04/2025: atas-reuniao/ata-2.md
   - Apresentações:
-      - Apresentação 1: Apresentações/Apresentção1.md
-      - Apresentação Inpeção da etapa 1: Apresentações/Apresentação-inpseção1.md
+      - Apresentação das Etapas:
+          - Apresentação Etapa 1: Apresentações/Apresentação das Etapas/Apresentção1.md
+          - Apresentação Etapa 2: Apresentações/Apresentação das Etapas/Apresentação2.md
+      - Apresentação das Inspeções das Etapas:
+          - Apresentação Inspeção da etapa 1: Apresentações/Apresentação das Inspeções das etapas/Apresentação-inpseção1.md
+          - Apresentação Inspeção da etapa 2: Apresentações/Apresentação das Inspeções das etapas/Apresentação-inspeção2.md
   - Planejamento:
       - Heatmap: planejamento/heatmap.md
       - Aplicativos Avaliados: planejamento/apps-avaliados.md

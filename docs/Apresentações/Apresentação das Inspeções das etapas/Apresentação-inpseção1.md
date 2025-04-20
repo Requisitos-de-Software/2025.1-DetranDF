@@ -14,7 +14,8 @@ Utilizamos a técnica/ferramenta para fazer todas gravações através do Micros
 
     Video da apresentação
 
-
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/yKj5iJhm34s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/yKj5iJhm34s" target="blanket">Vídeo da Reunião 1</a></p>
 
 
 O video acima descreve a apresentação que foi realizada na etapa de inspeção da etapa 1 do projeto, inspirada no plano de ensino da disciplina Requisitos, da matéria de Requisitos. Abaixo estão listados os critérios de avaliação:

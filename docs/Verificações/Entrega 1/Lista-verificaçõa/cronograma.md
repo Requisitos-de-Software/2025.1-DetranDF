@@ -4,7 +4,7 @@
 Esse documento tem como objetivo documentar a lista de verificação do cronograma 
 
 ## Checklist Cronograma
-A tabela 1 descreve a checklist respondido do artefato Cronograma.
+A tabela 1 descreve o checklist do artefato Cronograma.
 
     Tabela 1: Checklist Cronograma
 

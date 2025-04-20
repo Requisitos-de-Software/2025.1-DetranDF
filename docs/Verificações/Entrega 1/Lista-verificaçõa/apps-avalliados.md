@@ -1,4 +1,7 @@
-## Lista de verificação apss avaliados
+# Lista de verificação apss avaliados
+
+## Introdução
+Esse artefato tem como objetivo documentar a lista de verificação do app avaliado
 
 A **tabela 1** descreve a lista de verificação 
 

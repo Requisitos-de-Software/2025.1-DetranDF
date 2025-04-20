@@ -8,8 +8,6 @@ Tem como objetivo verificar se os apps avaliados estão de acordo com a lista de
 
 A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 
-<center>
-    <font size="3"><p style="text-align: center">**Tabela 1**</p></font>
 
 | Integrante                                     | Site Avaliado         |
 | ---------------------------------------------- | --------------------- |
@@ -22,8 +20,6 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
-</center>
-
 
 ## DetranDF
 
@@ -32,8 +28,6 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 
 A **tabela 2** descreve a lista de verificação do app Detran DF
 
-<center>
-    <font size="3"><p style="text-align: center">**Tabela 2:** lista do app Detran DF</p></font>
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
 | --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
@@ -42,30 +36,28 @@ A **tabela 2** descreve a lista de verificação do app Detran DF
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas ](https://github.com/gbevi), 2025.</p></font>
 
-</center>
 
 ## Sou.gov
 
-A **tabela 3** descreve a lista de verificação do app sou.gov
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/kwz0yrEfntk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/kwz0yrEfntk" target="blanket">Vídeo da verificação do app Sou gov</a></p>
 
-<center>
-    <font size="3"><p style="text-align: center">**Tabela 3:** lista do app.sou gov</p></font>
+A **tabela 2** descreve a lista de verificação do app sou.gov
 
-| ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
-| --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
-| 1   | Possui 7 funcionalidades                       | Sim                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
-| 2   | Possui autorização para estudo no termo de uso | Sim                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+
+| ID  | Critérios                                      | Sim/Não/Incompleto | Print                              | Quando foi feito?|
+| --- | ---------------------------------------------- | ------------------ | ------------------ |------------------------------------------------------------------------------------------------ |
+| 1   | Possui 7 funcionalidades                       | Sim                | [Print](../../../assets/verificação/sou%20gov.png) |20/04 ás 20:00|
+| 2   | Possui autorização para estudo no termo de uso | Sim                | [Print](../../../assets/verificação/sou%20gov.png) |20/04 ás 20:00|
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
-</center>
+
 
 ## Metrô-DF
 
 A **tabela 4** descreve a lista de verificação do app Metrô-DF
 
-<center>
-    <font size="3"><p style="text-align: center">**Tabela 4:** lista do app Metrô-DF</p></font>
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
 | --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
@@ -74,14 +66,11 @@ A **tabela 4** descreve a lista de verificação do app Metrô-DF
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
-</center>
 
 ## e-Título
 
 A **tabela 5** descreve a lista de verificação do app e-Título
 
-<center>
-    <font size="3"><p style="text-align: center">Tabela 5: lista do app e-Título</p></font>
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
@@ -90,13 +79,10 @@ A **tabela 5** descreve a lista de verificação do app e-Título
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
-</center>
 
 ## CNHDigital
 A **tabela 6** descreve a lista de verificação do app CNH Digital
 
-<center>
-    <font size="3"><p style="text-align: center">Tabela 6: lista do app CNH Digital</p></font>
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
@@ -104,13 +90,11 @@ A **tabela 6** descreve a lista de verificação do app CNH Digital
 |2| Possui autorização para estudo no termo de uso|Sim|[Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
-</center>
+
 
 ## BRBMobilidade
 A **tabela 7** descreve a lista de verificação do app BRB Mobilidade
 
-<center>
-    <font size="3"><p style="text-align: center">Tabela 7: lista do app BRB Mobilidade</p></font>
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
@@ -119,7 +103,6 @@ A **tabela 7** descreve a lista de verificação do app BRB Mobilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
-</center>
 
 ## Bibliografia
 

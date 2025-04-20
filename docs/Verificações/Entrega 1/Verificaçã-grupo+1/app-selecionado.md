@@ -6,8 +6,6 @@ Tem como objetivo verificar se o aplictivo selecionado esta de acordo com a list
 
 A **tabela 1** descreve a lista de verificação do app Guardiões da Saúde
 
-<center>
-    <font size="3"><p style="text-align: center">Tabela 1: lista do app Guardiões da Saúde</p></font>
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | ---------------------------------------------- | --------------------- |--------------------- |--------------------- |
@@ -16,7 +14,6 @@ A **tabela 1** descreve a lista de verificação do app Guardiões da Saúde
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda ](https://github.com/maaduh), 2025.</p></font>
 
-</center>
 
 ## Histórico de versão
 

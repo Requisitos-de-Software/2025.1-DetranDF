@@ -8,8 +8,6 @@ Tem como objetivo verificar se os apps avaliados estão de acordo com a lista de
 
 A **tabela 1** descreve qual app cada integrante avaliou.
 
-<center>
-    <font size="3"><p style="text-align: center">**Tabela 1**</p></font>
 
 | Integrante                                     | Site Avaliado                           |
 | ---------------------------------------------- | --------------------------------------- |
@@ -23,23 +21,19 @@ A **tabela 1** descreve qual app cada integrante avaliou.
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
-</center>
 
 ## OpenFoodFacts
 
 A **tabela 2** descreve a lista de verificação do app Open Food Facts
 
-<center>
-    <font size="3"><p style="text-align: center">Tabela 3: lista do app Open Food Facts</p></font>
+
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
 | --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
 | 1   | Possui 7 funcionalidades                       | Sim                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
 | 2   | Possui autorização para estudo no termo de uso | Incompleto         | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
 
-<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
-</center>
 
 ## DetranDF
 
@@ -48,9 +42,6 @@ A **tabela 2** descreve a lista de verificação do app Open Food Facts
 
 A **tabela 3** descreve a lista de verificação do app Detran DF.
 
-<center>
-  
-   <font size="3"><p style="text-align: center">**Tabela 3:** lista do app DetranDF</p></font>
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
 | --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
@@ -59,30 +50,30 @@ A **tabela 3** descreve a lista de verificação do app Detran DF.
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas ](https://github.com/gbevi), 2025.</p></font>
 
-</center>
+
 
 ## CDT
 
-A **tabela 4** descreve a lista de verificação do app CDT
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/SH34yUqBx_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/SH34yUqBx_g" target="blanket">Vídeo da verificação do cronograma</a></p>
 
-<center>
-    <font size="3"><p style="text-align: center">**Tabela 4:** lista do app CDT</p></font>
+
+A **tabela 4** descreve a lista de verificação do app CDT
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
 | --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
-| 1   | Possui 7 funcionalidades                       | Sim                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
-| 2   | Possui autorização para estudo no termo de uso | Sim                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+| 1   | Possui 7 funcionalidades                       | Sim                | [Print](../../../assets/verificação/cdt.png) |
+| 2   | Possui autorização para estudo no termo de uso | Sim                | [Print](../../../assets/verificação/cdt.png) |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
-</center>
+
 
 ## ConectSUS
 
 A **tabela 5** descreve a lista de verificação do app ConectSUS
 
-<center>
-    <font size="3"><p style="text-align: center">**Tabela 5:** lista do app ConectSUS</p></font>
+
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
 | --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
@@ -91,14 +82,13 @@ A **tabela 5** descreve a lista de verificação do app ConectSUS
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
-</center>
+
 
 ## NeoEnergia
 
 A **tabela 6** descreve a lista de verificação do app NeoEnergia
 
-<center>
-    <font size="3"><p style="text-align: center">Tabela 6: lista do app NeoEnergia</p></font>
+
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
 | --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
@@ -107,14 +97,11 @@ A **tabela 6** descreve a lista de verificação do app NeoEnergia
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
-</center>
 
 ## MeuINSS
 
 A **tabela 7** descreve a lista de verificação do app MeuINSS
 
-<center>
-    <font size="3"><p style="text-align: center">Tabela 7: lista do app MeuINSS</p></font>
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
 | --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
@@ -123,21 +110,18 @@ A **tabela 7** descreve a lista de verificação do app MeuINSS
 
 <font size="3"><p style="text-align: center">[Pedro Camilo ](https://github.com/PedrooCamilo), 2025.</p></font>
 
-</center>
 
 ## Guardioes da Saude
 
 A **tabela 8** descreve a lista de verificação do app Guardiões da Saúde
 
-<center>
-    <font size="3"><p style="text-align: center">Tabela 8: lista do app Guardiões da Saúde</p></font>
+
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
 | --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
 | 1   | Possui 7 funcionalidades                       | Sim                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
 | 2   | Possui autorização para estudo no termo de uso | Sim                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
 
-</center>
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 

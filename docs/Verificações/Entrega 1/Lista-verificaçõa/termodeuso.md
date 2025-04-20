@@ -7,7 +7,7 @@ Verificar o termo de uso.
 ## Metodologia
 A metodologia abordada é a de checklist. Vamos responder a checklist previamente elaborado
 
-## Checklist Cronograma
+## Checklist Termo de uso
 A tabela 1 descreve a checklist respondido do artefato Termo de uso.
 
     Tabela 1: Checklist termo de uso

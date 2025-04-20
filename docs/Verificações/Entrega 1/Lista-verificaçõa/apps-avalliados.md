@@ -1,9 +1,12 @@
-## DLista de verificação apss avaliados
+# Lista de verificação apss avaliados
+
+## Introdução
+Esse artefato tem como objetivo documentar a lista de verificação do app avaliado
 
 A **tabela 1** descreve a lista de verificação 
 
-<center>
-    <font size="3"><p style="text-align: center">**Tabela 1:** lista de verificação</p></font>
+
+   
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
 | --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
@@ -12,7 +15,7 @@ A **tabela 1** descreve a lista de verificação
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas ](https://github.com/gbevi), 2025.</p></font>
 
-</center>
+
 
 
 # Histórico de versão

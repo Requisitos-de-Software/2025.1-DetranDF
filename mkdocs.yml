@@ -59,6 +59,16 @@ nav:
       - Cronograma Executado: planejamento/Cronograma-executado.md
       - Metodologia: planejamento/metodologia.md
       - Rich Pictures: planejamento/Rich-picture.md
+  - Elicitação:
+      - Perfil do Uusário: Elicitação/Perfil-usuario.md
+      - Personas: Elicitação/personas.md
+      - Tecnicas de Elecitação:
+          - Brainstorming: Elicitação/Tecnicas-de-elecitação/Brainstorming.md
+          - Observação: Elicitação/Tecnicas-de-elecitação/Observação.md
+          - Introspecção: Elicitação/Tecnicas-de-elecitação/Introspecção.md
+      - Tecnicas de Priorização:
+          - First thing First:  Elicitação/tecnicas-de-priorização/First thing First.md
+          - QFD: Elicitação/tecnicas-de-priorização/QFD.md
   - Verificações:
       - Entrega 1:
           - Lista de Verificação:
@@ -91,3 +101,30 @@ nav:
               - Cronograma: Verificações/Entrega 1/Verificaçã-grupo+1/cronograma.md
               - Rich picture: Verificações/Entrega 1/Verificaçã-grupo+1/rich-picture.md
               - Metodologia: Verificações/Entrega 1/Verificaçã-grupo+1/metodologia.md
+      - Entrega 2:
+          - Lista de Verificação:
+              - Perfil de Usuário: Verificações/Entrega 2/Lista-verificação/perfil-usuario.md
+              - Personas: Verificações/Entrega 2/Lista-verificação/Personas.md
+              - Brainstorming: Verificações/Entrega 2/Lista-verificação/Brainstorming.md
+              - Observação: Verificações/Entrega 2/Lista-verificação/Observação.md
+              - Introspecção: Verificações/Entrega 2/Lista-verificação/Introspecção.md
+              - First thing First: Verificações/Entrega 2/Lista-verificação/First thing First.md
+              - QFD: Verificações/Entrega 2/Lista-verificação/QFD.md
+          - Verificação Nosso Grupo:
+              - Perfil de Usuário: Verificações/Entrega 2/verificação-Grupo+1/perfil-usuario.md
+              - Personas: Verificações/Entrega 2/verificação-Grupo+1/personas.md
+              - Brainstorming: Verificações/Entrega 2/verificação-Grupo+1/Brainstorming.md
+              - Observação: Verificações/Entrega 2/verificação-Grupo+1/Observação.md
+              - Introspecção: Verificações/Entrega 2/verificação-Grupo+1/Introspecção.md
+              - First thing First: Verificações/Entrega 2/verificação-Grupo+1/First thing First.md
+              - QFD: Verificações/Entrega 2/verificação-Grupo+1/QFD.md
+          - Verificação Grupo +1:
+              - Perfil de Usuário: Verificações/Entrega 2/Verificação-nosso-grupo/perfil-usuario.md
+              - Personas: Verificações/Entrega 2/Verificação-nosso-grupo/personas.md
+              - Brainstorming: Verificações/Entrega 2/Verificação-nosso-grupo/Brainstorming.md
+              - Observação: Verificações/Entrega 2/Verificação-nosso-grupo/Observação.md
+              - Introspecção: Verificações/Entrega 2/Verificação-nosso-grupo/Introspecção.md
+              - First thing First: Verificações/Entrega 2/Verificação-nosso-grupo/First thing First.md
+              - QFD: Verificações/Entrega 2/Verificação-nosso-grupo/QFD.md
+              
+

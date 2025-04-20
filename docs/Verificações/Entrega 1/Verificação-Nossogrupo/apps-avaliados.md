@@ -27,6 +27,9 @@ A **tabela 1** descreve o integrante que fez a avaliação, e o app que avaliou.
 
 ## DetranDF
 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/ho7dmxs9pHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/ho7dmxs9pHc" target="blanket">Vídeo da verificação do app DetranDF</a></p>
+
 A **tabela 2** descreve a lista de verificação do app Detran DF
 
 <center>

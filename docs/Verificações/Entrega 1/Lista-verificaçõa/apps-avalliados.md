@@ -1,0 +1,22 @@
+## DLista de verificação apss avaliados
+
+A **tabela 1** descreve a lista de verificação 
+
+<center>
+    <font size="3"><p style="text-align: center">**Tabela 1:** lista de verificação</p></font>
+
+| ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |
+| --- | ---------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
+| 1   | Possui 7 funcionalidades                       |                | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+| 2   | Possui autorização para estudo no termo de uso |             | [Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas ](https://github.com/gbevi), 2025.</p></font>
+
+</center>
+
+
+# Histórico de versão
+
+| Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
+| :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
+|  1.0   | 20/04/2025 | Lista de verificação | [Gabriel Dantas ](https://github.com/gbevi)  | [Giovana Barbosa ](https://github.com/gio221) |

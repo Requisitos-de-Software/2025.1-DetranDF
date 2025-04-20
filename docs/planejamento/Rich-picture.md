@@ -4,7 +4,7 @@ Cada membro da equipe realizou do seu app escolhido um Rich Picture
 
 A tabela 1 descreve o integrante que fez a avaliação, e o app que avaliou.
 
-<center>
+
 
 <font size="3"><p style="text-align: center">**Tabela 1 -** Aplicativos avaliados</p></font>
 
@@ -18,7 +18,7 @@ A tabela 1 descreve o integrante que fez a avaliação, e o app que avaliou.
 | [Maria Eduarda](https://github.com/maaduh)     |  [CNH Digital](#CNH Digital)                     |
 | [Pedro Tulio](https://github.com/PedrooCamilo) |  [BRB Mobilidade](#BRB Mobilidade)                     |
 
-</center>
+
 
 ## Objetivo
 
@@ -32,28 +32,28 @@ A metodologia utilizada foi o Rich Picture
 
 O integrante responsável por avaliar o Sigaa foi o Eric Akio. O Rich Picture é o apresentado na Figura 1.
 
-<center>
+
 ![Sigaa](../assets/Rich-picture/RichPictureSigaa_page-0001.jpg){width=70%}
 <font size="3"><p style="text-align: center">**Figura 1:** Imagem Rich Picture do site sigaa. **Fonte:** Rich Picture  (Autoria: [Eric](https://github.com/eric-kingu)), 2025.</p></font>
-</center>
+
 
 ## DetranDF
 
 O integrante responsável por avaliar o DetranDF foi o Gabriel Dantas. O Rich Picture é esse apresentado na Figura 2.
 
-<center>
+
 ![DetranDF](../assets/Rich-picture/DetranDF.png){ width=70% }
 <font size="3"><p style="text-align: center">**Figura 2:** Imagem Rich Picture do app DetranDF. **Fonte:** Rich Picture  (Autoria: [Gabriel Dantas](https://github.com/gbevi)), 2025.</p></font>
-</center>
+
 
 ## Sou.gov
 
 A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. O Rich Picture é esse apresentado na Figura 3
 
-<center>
+
 ![Sou.gov](../assets/Rich-picture/Sou-gov.png){ width70% }
 <font size="3"><p style="text-align: center">**Figura 3:** Imagem Rich Picture do app Sou.gov. **Fonte:** Rich Picture  (Autoria: [Giovana Barbosa ](https://github.com/gio221)), 2025.</p></font>
-</center>
+
 
 <br>
 
@@ -61,35 +61,35 @@ A integrante responsável por avaliar o Sou.gov foi a Giovana Barbosa. O Rich Pi
 
 O integrante responsável por avaliar o Metrô-DF foi o João Carlos Lobo. O Rich Picture é esse apresentado na Figura 4
 
-<center>
+
 ![Metrô-DF](../assets/Rich-picture/rich-picture-metrdf.jpg){ width=80% }
 <font size="3"><p style="text-align: center">**Figura 4:** Imagem Rich Picture do app Metrô-DF. **Fonte:** Rich Picture  (Autoria: [João Lobo](https://github.com/joaolobo10)), 2025.</p></font>
-</center>
+
 
 ## e-Título
 
 O integrante responsável por avaliar o e-Título foi o Luiz Felipe Bessa. O Rich Picture é esse apresentado na Figura 5
 
-<center>
+
 ![e-Título](../assets/Rich-picture/e-titulo.png){ width=70% }
 <font size="3"><p style="text-align: center">**Figura 5:** Imagem Rich Picture do app e-Título. **Fonte:** Rich Picture  (Autoria: [Luiz Bessa](https://github.com/lfelipebessa)), 2025.</p></font>
-</center>
+
 
 ## CNH Digital
 A integrante responsável por avaliar o CNH Digital foi a Maria Eduarda Araujo Pereira. O Rich Picture é esse apresentado na Figura 6
-<center>
+
 ![CNH Digital](../assets/Rich-picture/CNHDigital.jpg){ width=70% }
 <font size="3"><p style="text-align: center">**Figura 6:** Imagem Rich Picture do CNH Digital. **Fonte:** Rich Picture  (Autoria: [Maria Eduarda](https://github.com/maaduh)), 2025.</p></font>
-</center>
+
 
 ## BRB Mobilidade
 
 O integrante responsável por avaliar o BRB Mobilidade foi o Pedro Túlio Curvelo Camilo. O Rich Picture é esse apresentado na Figura 7
 
-<center>
+
 ![Sou.gov](../assets/Rich-picture/BRB_Mobilidade.jpeg){ width=70% }
 <font size="3"><p style="text-align: center">**Figura 7:** Imagem Rich Picture do app BRB Mobilidade. **Fonte:** Rich Picture  (Autoria: [Pedro Camilo](https://github.com/PedrooCamilo)), 2025.</p></font>
-</center>
+
 
 ## Bibliografia
 

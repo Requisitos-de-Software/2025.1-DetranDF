@@ -1,8 +1,10 @@
 # Detran-DF
 
-<center>
-![Detran-df](./assets/Detran-df/DETRAN-DF.jpg){ width=50% }
-</center>
+
+<div style="text-align: center;">
+  <img src="assets/Detran-df/DETRAN-DF.jpg" alt="Detran-df" width="400px">
+</div>
+
 <font size="3"><p style="text-align: center">**Figura 1 -** Imagem do app Detran-DF. **Fonte:** App Detran DF</p></font>
 
 ## Sobre a disciplina

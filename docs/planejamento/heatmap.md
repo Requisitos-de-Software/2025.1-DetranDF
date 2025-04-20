@@ -17,11 +17,11 @@ Para agilizar a identificação da disponibilidade dos membros da equipe, criamo
 
 <font size="3"><p style="text-align: center">Tabela 1: Heatmap.</p></font>
 
-<center>
+
 
 ![Heatmap](../assets/heatmap/heatmap.png)
 
-</center>
+
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 

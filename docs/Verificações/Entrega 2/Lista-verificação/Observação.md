@@ -1,48 +1,21 @@
 #Introdução
-<p align="justify">
-Com o avanço das tecnologias móveis, órgãos públicos passaram a disponibilizar serviços por meio de aplicativos, visando otimizar o atendimento à população e reduzir a necessidade de deslocamentos presenciais. O aplicativo do Departamento de Trânsito do Distrito Federal (DETRAN-DF) integra essa tendência, oferecendo funcionalidades como consulta de débitos, agendamento de serviços, acompanhamento de processos, entre outras. A análise do uso real desses sistemas digitais é essencial para entender como ocorrem as interações dos usuários e quais obstáculos surgem durante a navegação. A observação direta se apresenta como uma técnica eficaz de elicitação de requisitos, permitindo identificar, com base no comportamento espontâneo dos usuários, problemas de usabilidade e oportunidades de melhoria.
-</p>
+Esse artefato é para que possamos ter acesso a lista de verificação que será utilizada para verificar a elicitação por meio da observação
 
-#Objetivo
-<p align="justify">
-Identificar aspectos relacionados à usabilidade, navegação e desempenho do aplicativo DETRAN-DF por meio da técnica de elicitação por observação, analisando o comportamento dos usuários durante o uso e apontando possíveis ajustes que contribuam para a melhoria da experiência e eficiência no uso do sistema.
-</p>
+#Lista de verificação 
 
-#Resultados
-
-##Requisitos funcionais
-<p align="justify">
-São as funcionalidades que o sistema deve oferecer.
-
-| Código | Requisito Funcional                                              | Observação durante o uso | Nível de Prioridade | Sugestão de Melhoria |
-|--------|------------------------------------------------------------------|---------------------------|----------------------|-----------------------|
-| RF01   | Permitir consulta de multas e débitos do veículo                |                           | Alta                 |                       |
-| RF02   | Realizar agendamento de serviços (vistoria, CNH, etc.)         |                           | Alta                 |                       |
-| RF03   | Exibir informações da CNH e pontuação                           |                           | Média                |                       |
-| RF04   | Permitir acompanhamento de processos                            |                           | Média                |                       |
-| RF05   | Exibir notificações de prazos e documentos vencidos            |                           | Alta                 |                       |
-
-
-</p>
-
-##Requisitos Não-Funcionais
-<p align="justify">
-São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, etc.).
-
-| Código | Requisito Não-Funcional                                         | Observação durante o uso | Nível de Prioridade | Sugestão de Melhoria |
-|--------|------------------------------------------------------------------|---------------------------|----------------------|-----------------------|
-| RNF01  | Interface intuitiva e fácil de navegar                          |                           | Alta                 |                       |
-| RNF02  | Carregamento rápido das páginas                                 |                           | Alta                 |                       |
-| RNF03  | Acessibilidade para diferentes perfis de usuário                |                           | Média                |                       |
-| RNF04  | Compatibilidade com diferentes dispositivos e sistemas          |                           | Alta                 |                       |
-| RNF05  | Segurança na exibição de dados pessoais                         |                           | Alta                 |                       |
-
-
-</p>
+| Item | Verificação                                                                                      | Sim / Não-Incompleto |
+|------|--------------------------------------------------------------------------------------------------|----------------------|
+| 1    | Os objetivos da observação foram claramente definidos                                            |                      |
+| 2    | O contexto da observação foi documentado (local, data, tipo de dispositivo usado, etc.)          |                      |
+| 3    | Os usuários observados representam o público-alvo do aplicativo                                  |                      |
+| 4    | As tarefas observadas foram reais e relevantes                                                   |                      |
+| 5    | Problemas de usabilidade foram identificados de forma clara                                      |                      |
+| 6    | Os requisitos foram organizados em uma tabela estruturada                                        |                      |
+| 7    | As observações foram analisadas e priorizadas (Alta, Média, Baixa)                               |                      |
 
 ## Bibliografia
 
-> 1. Aplicativo do DetranDF. Disponível em: Apple Store. Acesso em: 12 abr 2025.
+> 1. Plano de ensino requisitos de software. Disponível em: [Plano de ensino](https://drive.google.com/file/d/1_Bw2pDJrGP1Hib7hcq0J7LPVyIaFZGGC/view?usp=sharing)
 
 ## Histórico de versão
 

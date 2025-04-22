@@ -13,7 +13,7 @@ A tabela 1 descreve a checklist relativa a home do projeto.
 | :----: | --------- | ---------- | ---------- | 
 | 1 | A home do projeto apresenta introdução sobre a disciplina/artefatos?| Sim.| [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
 | 2 | A home dá uma breve introdução sobre o que é o aplicativo escolhido?| Sim.| [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
-| 3 | A home explica brevemente o motivo da escolha do aplicativo?| Sim.| [print]https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing() |
+| 3 | A home explica brevemente o motivo da escolha do aplicativo?| Sim.| [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
 | 4 | Nome e foto de todos os membros do grupo constam?| Sim.| [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
 | 5 | A home segue o padrão para referências e formatação?| Sim.| [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
 

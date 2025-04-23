@@ -54,4 +54,4 @@ São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, 
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 21/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)  |  |
+|  1.0   | 21/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     |[Luiz Bessa](https://github.com/lfelipebessa)|

@@ -10,41 +10,43 @@ Identificar aspectos relacionados à usabilidade, navegação e desempenho do ap
 
 #Resultados
 Para realizar a técnica de observação, foi-se utilizado um forms, onde, para preencher, era necessário ser usuário do aplicativo, visando ter informações embasadas.
-##Requisitos funcionais
-<p align="justify">
+## Requisitos funcionais
+
 São as funcionalidades que o sistema deve oferecer.
 **A tabela 1** descreve as funcionalidades
 
 <font size="3"><p style="text-align: center">**Tabela 1:** Requisitos Funcionais.</p></font>
 
-| Código | Requisito Funcional                                              | Observação durante o uso | Nível de Prioridade | Sugestão de Melhoria |
+| Código | Requisito Funcional                                              | Nome | Nível de Prioridade | Sugestão de Melhoria |
 |--------|------------------------------------------------------------------|---------------------------|----------------------|-----------------------|
-| RF01   | Permitir consulta de multas e débitos do veículo                |                           | Alta                 |                       |
-| RF02   | Realizar agendamento de serviços (vistoria, CNH, etc.)         |                           | Alta                 |                       |
-| RF03   | Exibir informações da CNH e pontuação                           |                           | Média                |                       |
-| RF04   | Permitir acompanhamento de processos                            |                           | Média                |                       |
-| RF05   | Exibir notificações de prazos e documentos vencidos            |                           | Alta                 |                       |
+| RF01   | Permitir consulta de multas e débitos do veículo                |       OBS001                        | Alta                 |                       |
+| RF02   | Realizar agendamento de serviços (vistoria, CNH, etc.)         |        OBS002                       | Alta                 |                       |
+| RF03   | Exibir informações da CNH e pontuação                           |       OBS003                        | Média                |                       |
+| RF04   | Permitir acompanhamento de processos                            |       OBS004                        | Média                |                       |
+| RF05   | Exibir notificações de prazos e documentos vencidos            |       OBS005                       | Alta                 |                       |
+
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
-</p>
 
-##Requisitos Não-Funcionais
-<p align="justify">
+
+## Requisitos Não-Funcionais
+
 São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, etc.).
 **A tabela 2** descreve as qualidades
 
 <font size="3"><p style="text-align: center">**Tabela 2:** Requisitos Não-Funcionais.</p></font>
 
-| Código | Requisito Não-Funcional                                         | Observação durante o uso | Nível de Prioridade | Sugestão de Melhoria |
+| Código | Requisito Não-Funcional                                         |Nome | Nível de Prioridade | Sugestão de Melhoria |
 |--------|------------------------------------------------------------------|---------------------------|----------------------|-----------------------|
-| RNF01  | Interface intuitiva e fácil de navegar                          |                           | Alta                 |                       |
-| RNF02  | Carregamento rápido das páginas                                 |                           | Alta                 |                       |
-| RNF03  | Acessibilidade para diferentes perfis de usuário                |                           | Média                |                       |
-| RNF04  | Compatibilidade com diferentes dispositivos e sistemas          |                           | Alta                 |                       |
-| RNF05  | Segurança na exibição de dados pessoais                         |                           | Alta                 |                       |
+| RNF01  | Interface intuitiva e fácil de navegar                          |          OBS001                 | Alta                 |                       |
+| RNF02  | Carregamento rápido das páginas                                 |         OBS002                  | Alta                 |                       |
+| RNF03  | Acessibilidade para diferentes perfis de usuário                |        OBS003                   | Média                |                       |
+| RNF04  | Compatibilidade com diferentes dispositivos e sistemas          |        OBS004                   | Alta                 |                       |
+| RNF05  | Segurança na exibição de dados pessoais                         |         OBS005                  | Alta                 |                       |
+
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
-</p>
+
 
 ## Bibliografia
 
@@ -54,4 +56,5 @@ São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, 
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 21/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     |[Luiz Bessa](https://github.com/lfelipebessa)|
+|  1.0   | 21/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     |[Luiz Bessa](https://github.com/lfelipebessa), [Giovana Barbosa](https://github.com/gio221) |
+  1.1   | 01/05/2025 | adicionando nomeclatura | [Giovana Barbosa](https://github.com/gio221) ||

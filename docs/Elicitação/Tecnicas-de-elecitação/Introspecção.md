@@ -12,8 +12,9 @@ Identificar aspectos relacionados à usabilidade, navegação e desempenho do ap
 <p align="justify">
 Para realizar a técnica de introspecção, as funcionalidades do aplicativo foram idealizadas e, posteriormente, verificadas se coincidem com funcionalidades já implementadas.
 </p>
-##Requisitos funcionais
-<p align="justify">
+
+## Requisitos funcionais
+
 São as funcionalidades que o sistema deve oferecer.
 **A tabela 1** descreve as funcionalidades
 
@@ -30,10 +31,10 @@ São as funcionalidades que o sistema deve oferecer.
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
-</p>
 
-##Requisitos Não-Funcionais
-<p align="justify">
+
+## Requisitos Não-Funcionais
+
 São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, etc.).
 **A tabela 2** descreve as qualidades
 
@@ -49,7 +50,7 @@ São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, 
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
-</p>
+
 
 ## Bibliografia
 

@@ -21,7 +21,7 @@ A metodologia consiste na utilização de um checklist previamente elaborado, o 
 |  1  | A visualização do heatmap está clara e fácil de interpretar, com um bom uso das cores? | Sim.               | [heatmap da equipe](https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/planejamento/heatmap/) |
 |  2  | Os dados do heatmap estão corretos e refletem com precisão a escala da equipe?         | Sim.               | [heatmap da equipe](https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/planejamento/heatmap/) |
 |  3  | O heatmap ajuda na identificação rápida de horários de pico e baixa demanda?           | Sim.               | [heatmap da equipe](https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/planejamento/heatmap/) |
-|  4  | Todos os horários relevantes para a reunião estão incluídos?                           | Sim.               | [heatmap da equipe](https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/planejamento/heatmap/) |
+|  4  |Todos os horários relevantes para a reunião estão incluídos?                           | Sim.               | [heatmap da equipe](https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/planejamento/heatmap/) |
 |  5  | A distribuição da equipe entre os dias da semana está equilibrada?                     | Sim.               | [heatmap da equipe](https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/planejamento/heatmap/) |
 |  6  | A ferramenta serve bem ao propósito de planejamento e organização?                     | Sim.               | [heatmap da equipe](https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/planejamento/heatmap/) |
 

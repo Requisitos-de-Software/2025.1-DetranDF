@@ -36,4 +36,4 @@ Tabela 1: Checklist Perfil do Usuário
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 03/05/2025 | criação da lista de verificação | [Gabriel Dantas ](https://github.com/gbevi)  |  |
+|  1.0   | 03/05/2025 | criação da lista de verificação de perfil | [Gabriel Dantas ](https://github.com/gbevi)  |  |

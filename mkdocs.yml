@@ -66,13 +66,17 @@ nav:
   - Elicitação:
       - Perfil do Uusário: Elicitação/Perfil-usuario.md
       - Personas: Elicitação/personas.md
-      - Tecnicas de Elecitação:
+      - Tecnicas de Elicitação:
           - Brainstorming: Elicitação/Tecnicas-de-elecitação/Brainstorming.md
           - Observação: Elicitação/Tecnicas-de-elecitação/Observação.md
           - Introspecção: Elicitação/Tecnicas-de-elecitação/Introspecção.md
+          - Glossário: Elicitação/Tecnicas-de-elecitação/glossario.md
+          - Requisitos Elicitados: Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md
       - Tecnicas de Priorização:
           - First thing First:  Elicitação/tecnicas-de-priorização/First thing First.md
           - QFD: Elicitação/tecnicas-de-priorização/QFD.md
+          - 100 Points Method: Elicitação/tecnicas-de-priorização/100 Points Method.md
+          - Moscow: Elicitação/tecnicas-de-priorização/moscow.md
   - Verificações:
       - Entrega 1:
           - Lista de Verificação:
@@ -112,23 +116,37 @@ nav:
               - Brainstorming: Verificações/Entrega 2/Lista-verificação/Brainstorming.md
               - Observação: Verificações/Entrega 2/Lista-verificação/Observação.md
               - Introspecção: Verificações/Entrega 2/Lista-verificação/Introspecção.md
+              - Glossário: Verificações/Entrega 2/Lista-verificação/glossario.md
+              - Verificação Elicitados: Verificações/Entrega 2/Lista-verificação/verificação.md
               - First thing First: Verificações/Entrega 2/Lista-verificação/First thing First.md
+              - MosCoW: Verificações/Entrega 2/Lista-verificação/MosCoW.md
               - QFD: Verificações/Entrega 2/Lista-verificação/QFD.md
-          - Verificação Nosso Grupo:
+              - 100 Points Method: Verificações/Entrega 2/Lista-verificação/100.md
+              - Moscow: Verificações/Entrega 2/Lista-verificação/moscow.md
+          - Verificação Grupo +1:
               - Perfil de Usuário: Verificações/Entrega 2/verificação-Grupo+1/perfil-usuario.md
               - Personas: Verificações/Entrega 2/verificação-Grupo+1/personas.md
               - Brainstorming: Verificações/Entrega 2/verificação-Grupo+1/Brainstorming.md
               - Observação: Verificações/Entrega 2/verificação-Grupo+1/Observação.md
               - Introspecção: Verificações/Entrega 2/verificação-Grupo+1/Introspecção.md
+              - Glossário: Verificações/Entrega 2/verificação-Grupo+1/glossario.md
+              - Verificação Elicitados: Verificações/Entrega 2/verificação-Grupo+1/verficação.md
               - First thing First: Verificações/Entrega 2/verificação-Grupo+1/First thing First.md
               - QFD: Verificações/Entrega 2/verificação-Grupo+1/QFD.md
-          - Verificação Grupo +1:
+              - 100 Points Method: Verificações/Entrega 2/verificação-Grupo+1/100.md
+              - Moscow: Verificações/Entrega 2/verificação-Grupo+1/moscow.md
+          - Verificação Nosso Grupo:
               - Perfil de Usuário: Verificações/Entrega 2/Verificação-nosso-grupo/perfil-usuario.md
               - Personas: Verificações/Entrega 2/Verificação-nosso-grupo/personas.md
               - Brainstorming: Verificações/Entrega 2/Verificação-nosso-grupo/Brainstorming.md
               - Observação: Verificações/Entrega 2/Verificação-nosso-grupo/Observação.md
+              - MosCoW: Verificações/Entrega 2/Verificação-nosso-grupo/MosCoW.md
               - Introspecção: Verificações/Entrega 2/Verificação-nosso-grupo/Introspecção.md
+              - Glossário: Verificações/Entrega 2/Verificação-nosso-grupo/glossario.md
+              - Verificação Elicitados: Verificações/Entrega 2/Verificação-nosso-grupo/verificação.md
               - First thing First: Verificações/Entrega 2/Verificação-nosso-grupo/First thing First.md
               - QFD: Verificações/Entrega 2/Verificação-nosso-grupo/QFD.md
+              - 100 Points Method: Verificações/Entrega 2/Verificação-nosso-grupo/100.md
+              - Moscow: Verificações/Entrega 2/Verificação-nosso-grupo/moscow.md
               
 

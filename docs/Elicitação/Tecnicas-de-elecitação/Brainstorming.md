@@ -129,5 +129,5 @@ Apesar do número de participantes ser menor que o ideal (5 participantes ao inv
 
 | Versão |    Data    |              Descrição               |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :----------------------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 23/04/2025 | Criação da estrutura da página de Brainstorming | [Luiz Felipe Bessa](https://github.com/)       |                                            |
-|  1.1   | 25/04/2025 | Preenchimento do dados após a Reunião | [Luiz Felipe Bessa](https://github.com/)       |                                            |
+|  1.0   | 23/04/2025 | Criação da estrutura da página de Brainstorming | [Luiz Felipe Bessa](https://github.com/)       |      [Giovana Barbosa ](https://github.com/gio221)                                       |
+|  1.1   | 25/04/2025 | Preenchimento do dados após a Reunião | [Luiz Felipe Bessa](https://github.com/)       |         [Giovana Barbosa ](https://github.com/gio221)                                    |

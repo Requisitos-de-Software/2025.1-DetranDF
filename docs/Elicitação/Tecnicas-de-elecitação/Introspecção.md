@@ -60,4 +60,4 @@ São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, 
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 21/04/2025 | Início da documentação | [Eric Akio](https://github.com/eric-kingu)  |  |
+|  1.0   | 21/04/2025 | Início da documentação | [Eric Akio](https://github.com/eric-kingu)  |  [Giovana Barbosa ](https://github.com/gio221) |

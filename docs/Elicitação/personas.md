@@ -146,4 +146,4 @@ A partir dos dados coletados por meio de um questionário de perfil de usuário,
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 01/05/2025 | criação das personas |  [Giovana Barbosa](https://github.com/gio221)   |  |
+|  1.0   | 01/05/2025 | criação das personas |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Dantas](https://github.com/gbevi) |

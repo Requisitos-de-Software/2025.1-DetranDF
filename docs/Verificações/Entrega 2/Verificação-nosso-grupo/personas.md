@@ -9,19 +9,25 @@ A metodologia é uma inspeção gravada no youtube em que verificamos se as pers
 
 # Lista de Verificação de Personas
 
+## Checklist Personas
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/L8tx39drq0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/L8tx39drq0M" target="blanket">Vídeo da verificação das personas</a></p>
+
+
 A tabela 1 descreve o checklist do artefato Personas
 
     Tabela 1: Checklist Personas
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
-|  1   |                                         As personas estão descrevendo usuários típicos do sistema?                                         |     -    | [Print](../../../assets/verificação/personas/1.png) |
-|  2   | As personas têm os elementos principais (identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas)? |     -   | [Print](../../../assets/verificação/personas/2.png) |
-|  3   |                                    O projeto possui um elenco de personas de 3 a 12 personas distintas?                                    |     -    |  [Print](../../../assets/verificação/personas/3.png) |
-|  4   |                                               O elenco possui ao menos uma persona primária?                                               |     -  | [Print](../../../assets/verificação/personas/4.png) |
-|  5   |                                              O elenco cobre os principais grupos de usuário?                                               |     -    | [Print](../../../assets/verificação/personas/5.png) |
-|  6   |                                                  O elenco possui três personas primárias?                                                  |     -     | [Print](../../../assets/verificação/personas/6.png) |
-|  7   |                                      As personas possuem objetivos de experiência, finais e de vida?                                       |     -     |  [Print](../../../assets/verificação/personas/7.png) |
+|  1   |        As personas estão descrevendo usuários típicos do sistema?                                         |     Sim     | [Print](https://drive.google.com/file/d/1u1g_9q9jbYM1tBlK4-8Bm1pHH3kAETYn/view?usp=sharing) |
+|  2   | As personas têm os elementos principais (identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas)? |     Sim      | [Print](https://drive.google.com/file/d/1u1g_9q9jbYM1tBlK4-8Bm1pHH3kAETYn/view?usp=sharing) |
+|  3   |                                    O projeto possui um elenco de personas de 3 a 12 personas distintas?                                    |     Sim       |  [Print](https://drive.google.com/file/d/1u1g_9q9jbYM1tBlK4-8Bm1pHH3kAETYn/view?usp=sharing) |
+|  4   |                                               O elenco possui ao menos uma persona primária?                                               |      Sim    | [Print](https://drive.google.com/file/d/1u1g_9q9jbYM1tBlK4-8Bm1pHH3kAETYn/view?usp=sharing)|
+|  5   |                                              O elenco cobre os principais grupos de usuário?                                               |     Sim       |[Print](https://drive.google.com/file/d/1u1g_9q9jbYM1tBlK4-8Bm1pHH3kAETYn/view?usp=sharing) |
+|  6   |   O elenco possui três personas primárias?      |     Não     |[Print](https://drive.google.com/file/d/1u1g_9q9jbYM1tBlK4-8Bm1pHH3kAETYn/view?usp=sharing) |
+|  7   |  As personas possuem objetivos de experiência, finais e de vida?      |     Sim      | [Print](https://drive.google.com/file/d/1u1g_9q9jbYM1tBlK4-8Bm1pHH3kAETYn/view?usp=sharing) |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 

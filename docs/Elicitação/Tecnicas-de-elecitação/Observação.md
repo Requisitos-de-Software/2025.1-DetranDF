@@ -57,6 +57,6 @@ São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 21/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     |[Luiz Bessa](https://github.com/lfelipebessa), [Giovana Barbosa](https://github.com/gio221) |
-|  1.1   | 01/05/2025 | adicionando nomeclatura | [Giovana Barbosa](https://github.com/gio221) ||
-|  1.2   | 03/05/2025 | adicionando sugestão de melhoria | [Maria Eduarda](https://github.com/maaduh)     | |
+|  1.1   | 01/05/2025 | adicionando nomeclatura | [Giovana Barbosa](https://github.com/gio221) | [Maria Eduarda](https://github.com/maaduh)  |
+|  1.2   | 03/05/2025 | adicionando sugestão de melhoria | [Maria Eduarda](https://github.com/maaduh)     | [Giovana Barbosa ](https://github.com/gio221) |
 

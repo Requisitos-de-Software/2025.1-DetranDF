@@ -61,6 +61,14 @@ As tabelas a seguir contém a priorização dos requisitos elicitados com base n
 | RNF12         | Explicações acessíveis sobre siglas (ex: RENAVAM)                      |
 | RF16          | Atendimento ao vivo com servidor do DETRAN via chat/vídeo              |
 
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+
+## Gravação da Reunião
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/4djemZHqm-8"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/4djemZHqm-8" target="blanket">Link para o vídeo</a></p>
+
 
 ## 4. Referências
 > WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.

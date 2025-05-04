@@ -94,14 +94,14 @@ A sessão de Brainstorming resultou na identificação de diversos requisitos fu
   <li><b>Necessidade de centralização de serviços:</b> Os participantes apontaram a importância de reunir em um único app a consulta de multas, agendamento de serviços, acompanhamento de processos, acesso à CNH e documentação do veículo.</li>
   <li><b>Importância das notificações automáticas:</b> Foi destacado que o aplicativo deve notificar os usuários sobre prazos, vencimentos e descontos em multas, melhorando a organização pessoal dos motoristas.</li>
   <li><b>Preocupação com a segurança dos dados:</b> Os participantes reforçaram a necessidade de protocolos de segurança robustos, especialmente considerando que o app lidaria com informações sensíveis.</li>
-  <li><b>Acessibilidade como prioridade:</b> Foram sugeridos recursos como fonte ampliada, modo noturno, leitor de tela e assistente por voz, para garantir que o app seja acessível para [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) os públicos.</li>
+  <li><b>Acessibilidade como prioridade:</b> Foram sugeridos recursos como fonte ampliada, modo noturno, leitor de tela e assistente por voz, para garantir que o app seja acessível para os públicos.</li>
   <li><b>Facilidade de uso e simplicidade:</b> Houve consenso sobre a necessidade de uma interface intuitiva, com foco em usabilidade, especialmente para públicos que não têm familiaridade com tecnologia.</li>
   <li><b>Inovação e apoio educativo:</b> Além dos serviços tradicionais, surgiram ideias inovadoras, como área educacional sobre processos do DETRAN, guia para provas da autoescola, avaliações de autoescolas licenciadas e integração com sistemas já existentes como CNH Digital e Gov.br.</li>
   <li><b>Atendimento humanizado:</b> Sugeriu-se a criação de um atendimento online direto com servidores do DETRAN, via chat ou videoconferência, para suporte em dúvidas mais complexas.</li>
 </ul>
 
 <p align="justify">
-Apesar do número de participantes ser menor que o ideal (5 participantes ao invés de 8-12), a qualidade das ideias e a diversidade de sugestões superaram as expectativas, proporcionando uma base rica para a definição dos requisitos do projeto.
+Após as duas reuniões percebe-se que a qualidade das ideias e a diversidade de sugestões superaram as expectativas, proporcionando uma base rica para a definição dos requisitos do projeto.
 </p>
 
 ## Requisitos Funcionais
@@ -149,4 +149,4 @@ Apesar do número de participantes ser menor que o ideal (5 participantes ao inv
 |  1.0   | 23/04/2025 | Criação da estrutura da página de Brainstorming | [Luiz Bessa](https://github.com/)       |     [Giovana Barbosa ](https://github.com/gio221)                                       |
 |  1.1   | 25/04/2025 | Preenchimento do dados após a Reunião | [Luiz Bessa](https://github.com/)       |         [Giovana Barbosa ](https://github.com/gio221)                                   | 
 |  1.2   | 03/05/2025 | Adicionando dados e fazendo alterações após a segunda reunião de Brainstorming | [Luiz Bessa](https://github.com/)       |          [Pedro Camilo](https://github.com/PedrooCamilo)                                  |
-
+|  1.2   | 04/05/2025 | Ajustando o resumo das 2 sessões | [Luiz Bessa](https://github.com/)       |                                     |

@@ -67,7 +67,8 @@ As tabelas a seguir contém a priorização dos requisitos elicitados com base n
 Disponível em: https://aprender3.unb.br/pluginfile.php/3096091/mod_resource/content/3/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf Acesso em: 4 maio. 2025.
 
 
-## 5. Versionamento 
-| Versão | Data    | Autor                         | Alterações                                                           |         Revisor         |
-|:------:| --- | ----------------------------- | -------------------------------------------------------------------- |:-----------------------:|
-|  1.0   |  04/05/2025   | [Pedro Camilo](https://github.com/PedrooCamilo) | Confecção da primeira versão da técnica de priorização In or Out  
+## Histórico de versão
+
+| Versão | Data | Descrição | Autor | Revisor |
+| :----: | :--: | :-------: | :---: | :-----: |
+| 1.0 | 04/05/2025  | Confecção da primeira versão da técnica de priorização In or Out | [Pedro Camilo](https://github.com/PedrooCamilo)| [João Lobo](https://github.com/joaolobo10)  |

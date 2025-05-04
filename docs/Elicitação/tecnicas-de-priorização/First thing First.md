@@ -64,4 +64,4 @@ Com base nos serviços disponíveis, as funcionalidades foram classificadas da s
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 03/05/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     |  [Giovana Barbosa ](https://github.com/gio221)  |
-|  1.1   | 04/05/2025 | correção de erros | [Maria Eduarda](https://github.com/maaduh)     |   |
+|  1.1   | 04/05/2025 | correção de erros | [Maria Eduarda](https://github.com/maaduh)     |       [Giovana Barbosa ](https://github.com/gio221)                                   | 

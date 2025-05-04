@@ -149,4 +149,5 @@ Após as duas reuniões percebe-se que a qualidade das ideias e a diversidade de
 |  1.0   | 23/04/2025 | Criação da estrutura da página de Brainstorming | [Luiz Bessa](https://github.com/)       |     [Giovana Barbosa ](https://github.com/gio221)                                       |
 |  1.1   | 25/04/2025 | Preenchimento do dados após a Reunião | [Luiz Bessa](https://github.com/)       |         [Giovana Barbosa ](https://github.com/gio221)                                   | 
 |  1.2   | 03/05/2025 | Adicionando dados e fazendo alterações após a segunda reunião de Brainstorming | [Luiz Bessa](https://github.com/)       |          [Pedro Camilo](https://github.com/PedrooCamilo)                                  |
-|  1.2   | 04/05/2025 | Ajustando o resumo das 2 sessões | [Luiz Bessa](https://github.com/)       |                                     |
+|  1.2   | 04/05/2025 | Ajustando o resumo das 2 sessões | [Luiz Bessa](https://github.com/)       |                                  [Giovana Barbosa ](https://github.com/gio221)                                   | 
+

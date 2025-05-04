@@ -38,5 +38,6 @@ Tabela 1: Critérios de avaliação para a entrega da inspeção da etapa 1
 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
-|  1.0   | 20/04/2025 |       Início da documentação        | [Giovana Barbosa ](https://github.com/gio221) |      |
+|  1.0   | 20/04/2025 |       Início da documentação        | [Giovana Barbosa ](https://github.com/gio221) |     [Gabriel Dantas](https://github.com/gbevi)         |
+
 

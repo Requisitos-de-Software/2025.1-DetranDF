@@ -278,4 +278,4 @@ O cronograma em si não é uma metodologia de fato, mas sim uma ferramenta que u
 |  1.5   | 11/04/2025 | Cronograma etapa 5, 6 e final e inspeção da etapa 5, 6 e final | [Giovana Barbosa](https://github.com/gio221) |         [João Lobo](https://github.com/joaolobo10)                                     |
 |  1.6   | 11/04/2025 |       Ajuste de títulos e legenda, deixando padronizado        |  [João Lobo](https://github.com/joaolobo10)  |   [Luiz Bessa](https://github.com/lfelipebessa)|
 |  1.67  | 11/04/2025 |       Adição da Atividade de Metodologia        |  [Luiz Bessa](https://github.com/lfelipebessa)  |   [Giovana Barbosa](https://github.com/gio221)|
-| 2  | 01/05/2025 |       mudança na palvara todos, e especificação melhor    |    [Giovana Barbosa](https://github.com/gio221)|
+| 2  | 01/05/2025 |       mudança na palvara todos, e especificação melhor    |    [Giovana Barbosa](https://github.com/gio221)|[Gabriel Dantas](https://github.com/gbevi)         |

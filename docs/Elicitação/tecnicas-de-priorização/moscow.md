@@ -109,4 +109,4 @@ Vale ressaltar que, por se tratar de um exercício teórico, não houve a partic
 
 | Versão | Data    | Autor                         | Alterações                                                           |         Revisor         |
 |:------:| --- | ----------------------------- | -------------------------------------------------------------------- |:-----------------------:|
-|  1.0   |  12/07/2022   | [Gabriel Dantas](https://github.com/gbevi) | Confecção da primeira versão da técnica de priorização MosCoW                          |  |
+|  1.0   |  03/005/2025   | [Gabriel Dantas](https://github.com/gbevi) | Confecção da primeira versão da técnica de priorização MosCoW                          | Pedro Camilo (https://github.com/PedrooCamilo)  |

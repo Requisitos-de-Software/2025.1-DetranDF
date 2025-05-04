@@ -64,4 +64,4 @@ Para alcançar os objetivos propostos, foram aplicadas as seguintes técnicas de
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 01/05/2025 | requisitos funcionais e não funcionais |  [Giovana Barbosa](https://github.com/gio221)   |  |
+|  1.0   | 01/05/2025 | requisitos funcionais e não funcionais |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Dantas](https://github.com/gbevi) |

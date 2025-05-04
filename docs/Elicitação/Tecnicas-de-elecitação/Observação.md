@@ -19,11 +19,11 @@ São as funcionalidades que o sistema deve oferecer.
 
 | Código | Requisito Funcional                                              | Nome | Nível de Prioridade | Sugestão de Melhoria |
 |--------|------------------------------------------------------------------|---------------------------|----------------------|-----------------------|
-| RF01   | Permitir consulta de multas e débitos do veículo                |       OBS001                        | Alta                 |                       |
-| RF02   | Realizar agendamento de serviços (vistoria, CNH, etc.)         |        OBS002                       | Alta                 |                       |
-| RF03   | Exibir informações da CNH e pontuação                           |       OBS003                        | Média                |                       |
-| RF04   | Permitir acompanhamento de processos                            |       OBS004                        | Média                |                       |
-| RF05   | Exibir notificações de prazos e documentos vencidos            |       OBS005                       | Alta                 |                       |
+| RF01   | Permitir consulta de multas e débitos do veículo                |       OBS001                        | Alta                 |   Tornar a opção mais visível e acessível na tela principal                    |
+| RF02   | Realizar agendamento de serviços (vistoria, CNH, etc.)         |        OBS002                       | Alta                 |            Simplificar o fluxo e adicionar barra de progresso           |
+| RF03   | Exibir informações da CNH e pontuação                           |       OBS003                        | Média                |          Melhorar desempenho e indicar carregamento em andamento             |
+| RF04   | Permitir acompanhamento de processos                            |       OBS004                        | Média                |          	Renomear menu com termos mais claros e autoexplicativos             |
+| RF05   | Exibir notificações de prazos e documentos vencidos            |       OBS005                       | Alta                 |       Corrigir sistema de push notifications                |
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
@@ -38,11 +38,11 @@ São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, 
 
 | Código | Requisito Não-Funcional                                         |Nome | Nível de Prioridade | Sugestão de Melhoria |
 |--------|------------------------------------------------------------------|---------------------------|----------------------|-----------------------|
-| RNF01  | Interface intuitiva e fácil de navegar                          |          OBS001                 | Alta                 |                       |
-| RNF02  | Carregamento rápido das páginas                                 |         OBS002                  | Alta                 |                       |
-| RNF03  | Acessibilidade para diferentes perfis de usuário                |        OBS003                   | Média                |                       |
-| RNF04  | Compatibilidade com diferentes dispositivos e sistemas          |        OBS004                   | Alta                 |                       |
-| RNF05  | Segurança na exibição de dados pessoais                         |         OBS005                  | Alta                 |                       |
+| RNF01  | Interface intuitiva e fácil de navegar                          |          OBS001                 | Alta                 |    Redesenhar o layout e menus com foco na hierarquia visual                   |
+| RNF02  | Carregamento rápido das páginas                                 |         OBS002                  | Alta                 |                 Otimizar chamadas à API e melhorar tempo de resposta      |
+| RNF03  | Acessibilidade para diferentes perfis de usuário                |        OBS003                   | Média                |              Adotar padrões de acessibilidade e contraste adequado         |
+| RNF04  | Compatibilidade com diferentes dispositivos e sistemas          |        OBS004                   | Alta                 |               Melhorar testes de compatibilidade e otimização por modelo        |
+| RNF05  | Segurança na exibição de dados pessoais                         |         OBS005                  | Alta                 |                	Adicionar autenticação de dois fatores para dados críticos       |
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
@@ -57,4 +57,6 @@ São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 21/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     |[Luiz Bessa](https://github.com/lfelipebessa), [Giovana Barbosa](https://github.com/gio221) |
-  1.1   | 01/05/2025 | adicionando nomeclatura | [Giovana Barbosa](https://github.com/gio221) ||
+|  1.1   | 01/05/2025 | adicionando nomeclatura | [Giovana Barbosa](https://github.com/gio221) | [Maria Eduarda](https://github.com/maaduh)  |
+|  1.2   | 03/05/2025 | adicionando sugestão de melhoria | [Maria Eduarda](https://github.com/maaduh)     | [Giovana Barbosa ](https://github.com/gio221) |
+

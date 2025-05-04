@@ -11,11 +11,15 @@ Coletar percepções e ideias dos participantes acerca de um futuro aplicativo d
 </p>
 
 ## Metodologia
-<p align="justify">
-A sessão de Brainstorming foi realizada na plataforma Microsoft Teams, com a participação de 5 pessoas. Um dos membros atuou como moderador da sessão, responsável por manter o foco da discussão e guiar a conversa com perguntas estratégicas. Outro membro atuou como secretário, registrando todas as ideias sugeridas pelos participantes. Embora o número ideal de participantes seja entre 8 a 12 pessoas, foi possível obter bons resultados com os presentes, considerando a dificuldade de reunir voluntários em meio à rotina. As ideias levantadas foram posteriormente organizadas e categorizadas.
+<p align="justify">  
+Foram realizadas duas sessões de Brainstorming na plataforma Microsoft Teams, com o objetivo de ampliar a coleta de ideias e garantir uma diversidade maior de percepções. A primeira sessão contou com 5 participantes, enquanto a segunda reuniu 11 participantes, totalizando 16 pessoas envolvidas nas discussões.  
+Em ambas as sessões, um dos membros do grupo atuou como moderador, conduzindo a conversa com perguntas estratégicas para manter o foco e estimular a participação. Outro membro ficou responsável por registrar todas as ideias sugeridas, atuando como secretário da sessão.
+
+Apesar de a primeira reunião ter ocorrido com um número abaixo do ideal (recomenda-se entre 8 a 12 participantes), ela serviu como ponto de partida para a segunda, que complementou e validou os resultados obtidos inicialmente. As ideias levantadas nas duas sessões foram posteriormente organizadas, categorizadas e analisadas para a identificação dos requisitos funcionais e não funcionais do sistema.
 </p>
 
-## Participantes da sessão
+
+## Participantes da sessão (1 brainstorming)
 <font size="3"><p style="text-align: center">**Tabela 1: Participantes da Sessão de Brainstorming DETRAN-DF**</p></font>
 
 | Nome                 | Função na Sessão     |
@@ -26,10 +30,38 @@ A sessão de Brainstorming foi realizada na plataforma Microsoft Teams, com a pa
 | Eduardo Waski        | Cliente convidado    |
 | Jose Gabriel         | Cliente convidado    |
 
-## Registro da Sessão
+## Participantes da sessão (2 brainstorming)
+<font size="3"><p style="text-align: center">**Tabela 2: Participantes da Sessão de Brainstorming DETRAN-DF**</p></font>
+
+| Nome                 | Função na Sessão     |
+|----------------------|----------------------|
+| <span style="background-color:#d0f0c0">Luiz Felipe Bessa</span> | Moderador (Membro do grupo) |
+| <span style="background-color:#d0f0c0">Giovana Barbosa</span>         | Secretário (Membro do grupo) |
+| Giovanni Dornelas    | Cliente convidado    |
+| Eduardo Waski        | Cliente convidado    |
+| André Meyer        | Cliente convidado    |
+| Leonardo Mendes        | Cliente convidado    |
+| Pedro Holanda        | Cliente convidado    |
+| Adrielly        | Cliente convidado    |
+| Bernardo Gomes        | Cliente convidado    |
+| Tiago Santos        | Cliente convidado    |
+| Yuri Andrade       | Cliente convidado    |
+
+
+## Registro das Sessões
+
 <div align="center">
+  <p><strong>Vídeo 1:</strong> Primeira sessão de brainstorming com 5 participantes, onde foram discutidas ideias iniciais para funcionalidades, acessibilidade e centralização de serviços no aplicativo do DETRAN-DF.</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DfFPVr6Fm6g" 
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  title="Reunião 1 - Brainstorming DETRAN-DF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>
+
+<div align="center">
+  <p><strong>Vídeo 2:</strong> Segunda sessão de brainstorming com mais de 8 participantes, aprofundando sugestões de interface, usabilidade, suporte ao usuário, notificações e melhorias baseadas em experiências práticas com o DETRAN-DF.</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/p99ftJuDDLM" 
+  title="Reunião 2 - Brainstorming DETRAN-DF" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## Principais Perguntas da Sessão de Brainstorming
@@ -73,7 +105,7 @@ Apesar do número de participantes ser menor que o ideal (5 participantes ao inv
 </p>
 
 ## Requisitos Funcionais
-<font size="3"><p style="text-align: center">**Tabela 2:** Requisitos funcionais elicitados através do Brainstorm.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 3:** Requisitos funcionais elicitados através do Brainstorm.</p></font>
 
 | ID         | Requisito Funcional                                                                 |
 |------------|--------------------------------------------------------------------------------------|
@@ -91,7 +123,7 @@ Apesar do número de participantes ser menor que o ideal (5 participantes ao inv
 | BS12 (RF12)| Atendimento ao vivo com servidor do DETRAN via chat/vídeo                          |
 
 ## Requisitos Não Funcionais
-<font size="3"><p style="text-align: center">**Tabela 3:** Requisitos não-funcionais elicitados através do Brainstorm.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 4:** Requisitos não-funcionais elicitados através do Brainstorm.</p></font>
 
 | ID          | Requisito Não-Funcional                                                                      |
 |-------------|-----------------------------------------------------------------------------------------------|
@@ -105,21 +137,6 @@ Apesar do número de participantes ser menor que o ideal (5 participantes ao inv
 | BS20 (RNF08)| Propaganda mais efetiva para aumentar o conhecimento da existência do app                     |
 | BS21 (RNF09)| Layout com foco em simplicidade e legibilidade                                                |
 
-## Lista de Verificação da Técnica de Brainstorming
-
-<font size="3"><p style="text-align: center">**Tabela 4:** Verificação da Aplicação da Técnica de Brainstorming.</p></font>
-
-| ID | Critérios                                                                                       | Sim/Não | Print                                                                                                           |
-|----|--------------------------------------------------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------------|
-| 1  | Resultou em uma lista priorizada de necessidades e desejos dos usuários?                        | Sim     | [Print](https://drive.google.com/file/d/1BuyXt2ezq9XBqEjKBnHJdMd0UAuK23up/view?usp=sharing)                     |
-| 2  | Existe uma ou mais perguntas que sumarizam o objetivo de entender o que os usuários precisam?   | Sim     | [Print](https://drive.google.com/file/d/1INYFZEu25fTqrJAK4wDCHLEnhT0v7ED_/view?usp=sharing)                     |
-| 3  | A sessão teve um moderador?                                                                      | Sim     | [Print](https://drive.google.com/file/d/1-QP0-a0z2e8U7cYLxz3fT518g09_1bQs/view?usp=sharing)                     |
-| 4  | A sessão teve um secretário?                                                                      | Sim     | [Print](https://drive.google.com/file/d/1-QP0-a0z2e8U7cYLxz3fT518g09_1bQs/view?usp=sharing)                 
-| 5  | Os participantes foram informados sobre o objetivo e procedimento da atividade no início?       | Sim     | [Print](https://drive.google.com/file/d/1Haj1240SuxqUpjPsE5SveiLIZAvHxVda/view?usp=sharing)                     |
-| 6  | A sessão de Brainstorming gerou uma tabela/lista com os desejos sumarizados dos usuários?       | Sim     | [Print](https://drive.google.com/file/d/1Lm-TkN5EEnZt45q09bU2IwItP-LE6Bsr/view?usp=sharing)                     |
-| 7  | A sessão teve duração aproximada de uma hora?                                                    | Sim     | [Gravação](https://www.youtube.com/embed/DfFPVr6Fm6g) *(pode ser comprovado pela gravação)*                                                                 |
-| 8  | A sessão contou com aproximadamente 8 a 12 participantes?                                        | Não     | *(Justificativa: difícil conseguir voluntários para um app ainda hipotético; em um caso real seria diferente)* |
-
 ## Bibliografia
 
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Disponível em: [Aprender 3](https://aprender3.unb.br/pluginfile.php/3096073/mod_resource/content/2/ihc-ux-%20Personas.pdf).  
@@ -129,5 +146,7 @@ Apesar do número de participantes ser menor que o ideal (5 participantes ao inv
 
 | Versão |    Data    |              Descrição               |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :----------------------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 23/04/2025 | Criação da estrutura da página de Brainstorming | [Luiz Felipe Bessa](https://github.com/)       |                                            |
-|  1.1   | 25/04/2025 | Preenchimento do dados após a Reunião | [Luiz Felipe Bessa](https://github.com/)       |                                            |
+|  1.0   | 23/04/2025 | Criação da estrutura da página de Brainstorming | [Luiz Bessa](https://github.com/)       |     [Giovana Barbosa ](https://github.com/gio221)                                       |
+|  1.1   | 25/04/2025 | Preenchimento do dados após a Reunião | [Luiz Bessa](https://github.com/)       |         [Giovana Barbosa ](https://github.com/gio221)                                   | 
+|  1.2   | 03/05/2025 | Adicionando dados e fazendo alterações após a segunda reunião de Brainstorming | [Luiz Bessa](https://github.com/)       |          [Pedro Camilo](https://github.com/PedrooCamilo)                                  |
+

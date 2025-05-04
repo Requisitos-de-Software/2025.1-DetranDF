@@ -65,9 +65,9 @@ As tabelas a seguir contém a priorização dos requisitos elicitados com base n
 
 
 ## Gravação da Reunião
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/4djemZHqm-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/4djemZHqm-8" target="blanket">Link para o video</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/4djemZHqm-8"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/4djemZHqm-8" target="blanket">Link para o vídeo</a></p>
 
 
 ## 4. Referências
@@ -79,4 +79,4 @@ Disponível em: https://aprender3.unb.br/pluginfile.php/3096091/mod_resource/con
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
-| 1.0 | 04/05/2025  | Confecção da primeira versão da técnica de priorização In or Out | [Pedro Camilo](https://github.com/PedrooCamilo)| [João Lobo](https://github.com/joaolobo10)  |
+| 1.0 | 04/05/2025  | Confecção da primeira versão da técnica de priorização In or Out | [Pedro Camilo](https://github.com/PedrooCamilo)| [João Lobo](https://github.com/joaolobo10) ,  [Giovana Barbosa ](https://github.com/gio221)                                   | 

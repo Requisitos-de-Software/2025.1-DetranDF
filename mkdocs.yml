@@ -73,9 +73,9 @@ nav:
           - Glossário: Elicitação/Tecnicas-de-elecitação/glossario.md
           - Requisitos Elicitados: Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md
       - Tecnicas de Priorização:
-          - First thing First:  Elicitação/tecnicas-de-priorização/First thing First.md
+          - First thing First:  Elicitação/tecnicas-de-priorização/First thing First.md        
           - In or out: Elicitação/tecnicas-de-priorização/In or out.md
-          - 100 Points Method: Elicitação/tecnicas-de-priorização/100 Points Method.md
+          - $100: Elicitação/tecnicas-de-priorização/$100.md
           - Moscow: Elicitação/tecnicas-de-priorização/moscow.md
   - Verificações:
       - Entrega 1:
@@ -120,8 +120,8 @@ nav:
               - Verificação Elicitados: Verificações/Entrega 2/Lista-verificação/verificação.md
               - First thing First: Verificações/Entrega 2/Lista-verificação/First thing First.md
               - MosCoW: Verificações/Entrega 2/Lista-verificação/MosCoW.md
-              - QFD: Verificações/Entrega 2/Lista-verificação/QFD.md
-              - 100 Points Method: Verificações/Entrega 2/Lista-verificação/100.md
+              - QFD: Verificações/Entrega 2/Lista-verificação/QFD.md     
+              - $100: Verificações/Entrega 2/Lista-verificação/$100.md
               - Moscow: Verificações/Entrega 2/Lista-verificação/moscow.md
           - Verificação Grupo +1:
               - Perfil de Usuário: Verificações/Entrega 2/verificação-Grupo+1/perfil-usuario.md

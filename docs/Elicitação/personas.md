@@ -11,7 +11,7 @@ A partir dos dados coletados por meio de um questionário de perfil de usuário,
 
 ### **Persona 1 - primária**
 
-<font size="3"><p style="text-align: center"><b> Figura 1:</b> Persona primária - Lucas Ferreira</font>
+<font size="3"><p style="text-align: center"><b> Figura 1:</b> Persona primária</font>
 ![personas](../assets/personas/Face.jpeg)
  <font size="3"><p style="text-align: center"><b>Fonte:</b> This person doesnt exists, 2024</font>
 
@@ -45,7 +45,7 @@ A partir dos dados coletados por meio de um questionário de perfil de usuário,
 
 ### **Persona 2 - primária**
 
-<font size="3"><p style="text-align: center"><b> Figura 2:</b> Persona primária - Lucas Ferreira</font>
+<font size="3"><p style="text-align: center"><b> Figura 2:</b> Persona primária </font>
 ![personas](../assets/personas/Face%20(1).jpeg)
  <font size="3"><p style="text-align: center"><b>Fonte:</b> This person doesnt exists, 2024</font>
 
@@ -79,7 +79,7 @@ A partir dos dados coletados por meio de um questionário de perfil de usuário,
 
 ### **Persona 3 - secundária**
 
-<font size="3"><p style="text-align: center"><b> Figura 3:</b> Persona primária - Lucas Ferreira</font>
+<font size="3"><p style="text-align: center"><b> Figura 3:</b> Persona primária </font>
 ![personas](../assets/personas/Face%20(2).jpeg)
  <font size="3"><p style="text-align: center"><b>Fonte:</b> This person doesnt exists, 2024</font>
 
@@ -113,7 +113,7 @@ A partir dos dados coletados por meio de um questionário de perfil de usuário,
 
 ### **Persona 4 - antipersona**
 
-<font size="3"><p style="text-align: center"><b> Figura 4:</b> Persona primária - Lucas Ferreira</font>
+<font size="3"><p style="text-align: center"><b> Figura 4:</b> Persona primária </font>
 ![personas](../assets/personas/Face%20(3).jpeg)
  <font size="3"><p style="text-align: center"><b>Fonte:</b> This person doesnt exists, 2024</font>
 

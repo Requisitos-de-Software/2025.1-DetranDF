@@ -39,4 +39,4 @@ O aplicativo DetranDF foi escolhido a partir de uma análise comparativa entre c
 |  1.5   | 12/04/2025 |      App Metrô-DF      |  [João Lobo](https://github.com/joaolobo10)   |      [João Lobo](https://github.com/joaolobo10)    |
 |  1.6   | 12/04/2025 |      App CNH Digital      |  [Maria Eduarda](https://github.com/maaduh)   |   [João Lobo](https://github.com/joaolobo10)       |
 |  1.6   | 12/04/2025 |      Padronização das legendas      |  [João Lobo](https://github.com/joaolobo10)   |   [Giovana Barbosa](https://github.com/gio221)       |
-|  1.7   | 12/04/2025 |      Arrumando o artefato priorizando o rich picture do detran df     |  [Giovana Barbosa](https://github.com/gio221)       |  
+|  1.7   | 12/04/2025 |      Arrumando o artefato priorizando o rich picture do detran df     |  [Giovana Barbosa](https://github.com/gio221)       |  [Gabriel Dantas](https://github.com/gbevi)         |

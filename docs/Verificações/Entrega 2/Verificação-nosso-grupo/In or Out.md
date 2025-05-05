@@ -6,6 +6,11 @@ Esse artefato tem como objetivo inspecionar a tecnica de priorização de requis
 
 # Lista de Verificação da técnica In or out
 
+<font size="3"><p style="text-align: center">**Vídeo da verificação** da técnica de priorização In or Out </p></font>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=d2f5edrUFw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=d2f5edrUFw0" target="blanket">Link para o vídeo</a></p>
+
 A tabela 1 descreve o checklist do artefato de técnica de priorização, sendo a técnica In or Out.
 
 <font size="3"><p style="text-align: center">**Tabela 1 **- Checklist In or Out </p></font>
@@ -13,7 +18,7 @@ A tabela 1 descreve o checklist do artefato de técnica de priorização, sendo 
 | ID | Critérios                                                                                   | Sim/Não/Incompleto | Evidência |
 |----|---------------------------------------------------------------------------------------------|--------------------|-----------|
 | 1  | Todos os itens da lista foram previamente identificados e compreendidos pelo cliente?       | Sim                |    [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)       |
-| 2 [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)[Print](../../../assets/verificação/moscow.png)       |
+| 2  | Os critérios que definem o que é "IN" e o que é "OUT" foram estabelecidos antes da priorização? | Sim             |    [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)       |
 | 3  | Houve envolvimento dos usuários na priorização?                                             | Sim                |     [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |
 | 4  | O usuário foi informado sobre a técnica de priorização?                                     | Sim                |     [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |
 | 5  | Foi gravada uma reunião da priorização dos requisitos?                                      | Sim                |     [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |

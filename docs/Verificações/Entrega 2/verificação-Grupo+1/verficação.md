@@ -7,7 +7,10 @@ Esse artefato tem como objetivo documentar a lista de verificação dos requisit
 # Metodologia
 Criamos uma lista como descrita na tabela 1 
 
-# Lista de Verificação do Glossario
+# Lista de Verificação 
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/idPOd9rPlCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/idPOd9rPlCw" target="blanket">Vídeo da verificação </a></p>
 
 A tabela 1 descreve o checklist do artefato dos requisitos elicitados
 

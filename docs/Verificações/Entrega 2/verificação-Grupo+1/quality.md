@@ -40,6 +40,6 @@ A tabela 1 descreve o checklist do artefato técnica de priorização QFD.
 
 | Versão |    Data    |                             Descrição                              |                   Autor                    | Revisor |
 | :----: | :--------: | :----------------------------------------------------------------: | :----------------------------------------: | :-----: |
-|  1.0   | 05/05/2025 |           Criação da lista de verificação Grupo+1 da QFD           | [João Lobo](https://github.com/joaolobo10) |         |
-|  2.0   | 05/05/2025 | Lista de verificação validada de acordo com a referência utilizada | [João Lobo](https://github.com/joaolobo10) |         |
-|  3.0   | 05/05/2025 |                  Adição de vídeos de verificação                   | [João Lobo](https://github.com/joaolobo10) |         |
+|  1.0   | 05/05/2025 |           Criação da lista de verificação Grupo+1 da QFD           | [João Lobo](https://github.com/joaolobo10) |   [Pedro Camilo](https://github.com/PedrooCamilo)      |
+|  2.0   | 05/05/2025 | Lista de verificação validada de acordo com a referência utilizada | [João Lobo](https://github.com/joaolobo10) |  [Pedro Camilo](https://github.com/PedrooCamilo)       |
+|  3.0   | 05/05/2025 |                  Adição de vídeos de verificação                   | [João Lobo](https://github.com/joaolobo10) | [Pedro Camilo](https://github.com/PedrooCamilo)        |

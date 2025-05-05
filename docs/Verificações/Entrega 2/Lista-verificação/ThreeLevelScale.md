@@ -24,4 +24,4 @@ Esse artefato é para que possamos ter acesso a lista de verificação que será
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 05/05/2025 | Criação e implementação da lista de verificação | [Luiz Bessa](https://github.com/lfelipebessa)  | |
+|  1.0   | 05/05/2025 | Criação e implementação da lista de verificação | [Luiz Bessa](https://github.com/lfelipebessa)  | [Giovana Barbosa ](https://github.com/gio221)   |

@@ -8,8 +8,7 @@ Com o avanço das tecnologias móveis, órgãos públicos passaram a disponibili
 Identificar aspectos relacionados à usabilidade, navegação e desempenho do aplicativo DETRAN-DF por meio da técnica de elicitação por observação, analisando o comportamento dos usuários durante o uso e apontando possíveis ajustes que contribuam para a melhoria da experiência e eficiência no uso do sistema.
 </p>
 
-#Resultados
-Para realizar a técnica de observação, foi-se utilizado um forms, onde, para preencher, era necessário ser usuário do aplicativo, visando ter informações embasadas.
+
 ## Requisitos funcionais
 
 São as funcionalidades que o sistema deve oferecer.

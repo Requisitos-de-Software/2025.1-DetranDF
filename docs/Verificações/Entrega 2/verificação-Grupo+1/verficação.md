@@ -18,11 +18,11 @@ A tabela 1 descreve o checklist do artefato dos requisitos elicitados
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
-|  1   | Foi feita uma preparação de requisitos                                     |     -    | [Print](https://drive.google.com/file/d/1BKDhoxV8WcDavqXzZgKzO1PXNDD3Dg67/view?usp=sharing) |
-|  2   |Foi feito a execução das tecnicas? |     -   | [Print](https://drive.google.com/file/d/1BKDhoxV8WcDavqXzZgKzO1PXNDD3Dg67/view?usp=sharing) |
-|  3   |   Foi feito uma documentação das tecnicas?                             |     -    | [Print](https://drive.google.com/file/d/1BKDhoxV8WcDavqXzZgKzO1PXNDD3Dg67/view?usp=sharing) |
-|  4   |  Os requisitos funcionais foram organizados?                                 |     -  | [Print](https://drive.google.com/file/d/1BKDhoxV8WcDavqXzZgKzO1PXNDD3Dg67/view?usp=sharing) |
-|  5   |  Os requisitos não funcionais foram organizados?                                     |     -    | [Print](https://drive.google.com/file/d/1BKDhoxV8WcDavqXzZgKzO1PXNDD3Dg67/view?usp=sharing) |
+|  1   | Foi feita uma preparação de requisitos                                     |    sim   | [Print](https://drive.google.com/file/d/1BKDhoxV8WcDavqXzZgKzO1PXNDD3Dg67/view?usp=sharing) |
+|  2   |Foi feito a execução das tecnicas? |     sim   | [Print](https://drive.google.com/file/d/1BKDhoxV8WcDavqXzZgKzO1PXNDD3Dg67/view?usp=sharing) |
+|  3   |   Foi feito uma documentação das tecnicas?                             |      sim    | [Print](https://drive.google.com/file/d/1BKDhoxV8WcDavqXzZgKzO1PXNDD3Dg67/view?usp=sharing) |
+|  4   |  Os requisitos funcionais foram organizados?                                 |      sim   | [Print](https://drive.google.com/file/d/1BKDhoxV8WcDavqXzZgKzO1PXNDD3Dg67/view?usp=sharing) |
+|  5   |  Os requisitos não funcionais foram organizados?                                     |     sim     | [Print](https://drive.google.com/file/d/1BKDhoxV8WcDavqXzZgKzO1PXNDD3Dg67/view?usp=sharing) |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 

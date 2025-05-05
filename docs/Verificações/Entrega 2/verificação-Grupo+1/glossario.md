@@ -19,10 +19,10 @@ A tabela 1 descreve o checklist do artefato Analise de Documentos
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
-|  1   | Foi identificada as necessidade do negocio?                                    |     -    | [Print](https://drive.google.com/file/d/1yA5d9t0SKMN1dxZ6-Oaip8h_9lcJXwpV/view?usp=sharing) |
-|  2   |foi identificada as partes interessadas?|     -   | [Print](https://drive.google.com/file/d/1wMElyjUIjCsBPMfkmw2rwtg_X4IEcSeO/view?usp=sharing) |
-|  3   |    Teve uma preparação antes da analise?                              |     -    |  [Print](https://drive.google.com/file/d/1h2VqOULVvHVrZEWi6mbWRKRAycAe5u4Y/view?usp=sharing) |
-|  4   | Foi detalhado o escopo?                                          |     -  | [Print](https://drive.google.com/file/d/1nMZcd-TxyVOcaJVNT3ZECu9sDMcd8KBw/view?usp=sharing) |
+|  1   | Foi identificada as necessidade do negocio?                                    |     sim   | [Print](https://drive.google.com/file/d/1yA5d9t0SKMN1dxZ6-Oaip8h_9lcJXwpV/view?usp=sharing) |
+|  2   |foi identificada as partes interessadas?|     sim  | [Print](https://drive.google.com/file/d/1wMElyjUIjCsBPMfkmw2rwtg_X4IEcSeO/view?usp=sharing) |
+|  3   |    Teve uma preparação antes da analise?                              |     sim   |  [Print](https://drive.google.com/file/d/1h2VqOULVvHVrZEWi6mbWRKRAycAe5u4Y/view?usp=sharing) |
+|  4   | Foi detalhado o escopo?                                          |    sim  | [Print](https://drive.google.com/file/d/1nMZcd-TxyVOcaJVNT3ZECu9sDMcd8KBw/view?usp=sharing) |
 
 
 

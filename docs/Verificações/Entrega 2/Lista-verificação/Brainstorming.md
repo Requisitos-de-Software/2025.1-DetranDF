@@ -2,6 +2,7 @@
 Esse artefato é para que possamos ter acesso a lista de verificação que será utilizada para verificar a elicitação por meio do Brainstorming
 
 # Lista de verificação 
+<font size="3"><p style="text-align: center">**Tabela 1:** Lista de Verificação da Técnica de Brainstorming.</p></font>
 
 | ID | Critérios                                                                                                     | Sim/Não | Print                                                                                                           |
 |----|--------------------------------------------------------------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------------|

@@ -31,4 +31,4 @@ A tabela 1 descreve o checklist do artefato Personas
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 01/05/2025 | criação da lista de verificação | [Giovana Barbosa ](https://github.com/gio221)  |  |
+|  1.0   | 01/05/2025 | criação da lista de verificação | [Giovana Barbosa ](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |

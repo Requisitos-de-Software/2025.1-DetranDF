@@ -39,4 +39,4 @@ Tabela 1: Checklist MoSCoW
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 03/05/2025 | Lista de verificação nosso grupo do moscow e vídeo | [Gabriel Dantas ](https://github.com/gbevi)  |  |
+|  1.0   | 03/05/2025 | Lista de verificação nosso grupo do moscow e vídeo | [Gabriel Dantas ](https://github.com/gbevi)  | [Luiz Bessa](https://github.com/lfelipebessa) |

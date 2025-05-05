@@ -21,4 +21,4 @@ Esse artefato é para que possamos ter acesso a lista de verificação que será
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 21/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     |[Luiz Bessa](https://github.com/lfelipebessa),[Giovana Barbosa ](https://github.com/gio221) |
-|  1.1   | 05/05/2025 | ajustes na lista de verificação| [Maria Eduarda](https://github.com/maaduh)     | |
+|  1.1   | 05/05/2025 | ajustes na lista de verificação| [Maria Eduarda](https://github.com/maaduh)     |  [Giovana Barbosa ](https://github.com/gio221) |

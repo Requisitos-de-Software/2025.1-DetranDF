@@ -21,11 +21,11 @@ A tabela 1 descreve o checklist do artefato Personas
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
-|  1   | O glossário monstra o vocabulário comum das partes interessadas?                                      |     -    | [Print](https://drive.google.com/file/d/1yA5d9t0SKMN1dxZ6-Oaip8h_9lcJXwpV/view?usp=sharing) |
-|  2   |foi feito alguma tecnica de elicitação antes do glossário |     -   | [Print](https://drive.google.com/file/d/1wMElyjUIjCsBPMfkmw2rwtg_X4IEcSeO/view?usp=sharing) |
-|  3   |     Foi usado termos pensando dentro das 7 carcateristicas                              |     -    |  [Print](https://drive.google.com/file/d/1h2VqOULVvHVrZEWi6mbWRKRAycAe5u4Y/view?usp=sharing) |
-|  4   |  O grupo foi consultado de faltava algum termo?                                            |     -  | [Print](https://drive.google.com/file/d/1nMZcd-TxyVOcaJVNT3ZECu9sDMcd8KBw/view?usp=sharing) |
-|  5   |  Foi pensando no projeto como todo para montar os termos                                           |     -    | [Print](https://drive.google.com/file/d/1nMZcd-TxyVOcaJVNT3ZECu9sDMcd8KBw/view?usp=sharing) |
+|  1   | O glossário monstra o vocabulário comum das partes interessadas?                                      |     sim   | [Print](https://drive.google.com/file/d/1yA5d9t0SKMN1dxZ6-Oaip8h_9lcJXwpV/view?usp=sharing) |
+|  2   |foi feito alguma tecnica de elicitação antes do glossário |     sim   | [Print](https://drive.google.com/file/d/1wMElyjUIjCsBPMfkmw2rwtg_X4IEcSeO/view?usp=sharing) |
+|  3   |     Foi usado termos pensando dentro das 7 carcateristicas                              |     sim     |  [Print](https://drive.google.com/file/d/1h2VqOULVvHVrZEWi6mbWRKRAycAe5u4Y/view?usp=sharing) |
+|  4   |  O grupo foi consultado de faltava algum termo?                                            |     sim   | [Print](https://drive.google.com/file/d/1nMZcd-TxyVOcaJVNT3ZECu9sDMcd8KBw/view?usp=sharing) |
+|  5   |  Foi pensando no projeto como todo para montar os termos                                           |    sim     | [Print](https://drive.google.com/file/d/1nMZcd-TxyVOcaJVNT3ZECu9sDMcd8KBw/view?usp=sharing) |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>

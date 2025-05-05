@@ -39,6 +39,6 @@ A tabela 1 descreve o checklist do artefato técnica de elicitação Análise de
 
 | Versão |    Data    |                             Descrição                              |                   Autor                    | Revisor |
 | :----: | :--------: | :----------------------------------------------------------------: | :----------------------------------------: | :-----: |
-|  1.0   | 05/05/2025 |  Criação da lista de verificação Grupo+1 da análise de interface   | [João Lobo](https://github.com/joaolobo10) |         |
-|  2.0   | 05/05/2025 | Lista de verificação validada de acordo com a referência utilizada | [João Lobo](https://github.com/joaolobo10) |         |
-|  3.0   | 05/05/2025 |                  Adição de vídeos de verificação                   | [João Lobo](https://github.com/joaolobo10) |         |
+|  1.0   | 05/05/2025 |  Criação da lista de verificação Grupo+1 da análise de interface   | [João Lobo](https://github.com/joaolobo10) |           [Giovana Barbosa ](https://github.com/gio221)|
+|  2.0   | 05/05/2025 | Lista de verificação validada de acordo com a referência utilizada | [João Lobo](https://github.com/joaolobo10) |           [Giovana Barbosa ](https://github.com/gio221)|
+|  3.0   | 05/05/2025 |                  Adição de vídeos de verificação                   | [João Lobo](https://github.com/joaolobo10) |        [Giovana Barbosa ](https://github.com/gio221)|

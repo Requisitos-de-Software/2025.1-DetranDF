@@ -6,10 +6,6 @@ Este artefato tem como objetivo analisar a interface da página inicial (home) d
 
 Conforme exemplificado na Tabela 1, cada item do checklist é composto por: uma identificação numérica, a descrição do elemento avaliado, a resposta correspondente à análise (que pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link com um print que comprova a fonte utilizada para fundamentar o item. Ao final da verificação, os itens com avaliações negativas são detalhados na seção de Problemas Encontrados.
 
-## Checklist Home
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/LaIROGPmOyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/LaIROGPmOyc" target="blanket">Vídeo da verificação da Home</a></p>
 
 A tabela 1 descreve a checklist relativa a home do projeto.
 

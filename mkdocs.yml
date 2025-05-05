@@ -73,7 +73,7 @@ nav:
           - Glossário: Elicitação/Tecnicas-de-elecitação/glossario.md
           - Requisitos Elicitados: Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md
       - Tecnicas de Priorização:
-          - First thing First:  Elicitação/tecnicas-de-priorização/First thing First.md        
+          - First thing First: Elicitação/tecnicas-de-priorização/First thing First.md
           - In or out: Elicitação/tecnicas-de-priorização/In or out.md
           - $100: Elicitação/tecnicas-de-priorização/$100.md
           - Moscow: Elicitação/tecnicas-de-priorização/moscow.md
@@ -120,7 +120,7 @@ nav:
               - Verificação Elicitados: Verificações/Entrega 2/Lista-verificação/verificação.md
               - First thing First: Verificações/Entrega 2/Lista-verificação/First thing First.md
               - MosCoW: Verificações/Entrega 2/Lista-verificação/MosCoW.md
-              - QFD: Verificações/Entrega 2/Lista-verificação/QFD.md     
+              - QFD: Verificações/Entrega 2/Lista-verificação/QFD.md
               - $100: Verificações/Entrega 2/Lista-verificação/$100.md
               - Moscow: Verificações/Entrega 2/Lista-verificação/moscow.md
           - Verificação Grupo +1:
@@ -133,8 +133,9 @@ nav:
               - Verificação Elicitados: Verificações/Entrega 2/verificação-Grupo+1/verficação.md
               - First thing First: Verificações/Entrega 2/verificação-Grupo+1/First thing First.md
               - QFD: Verificações/Entrega 2/verificação-Grupo+1/QFD.md
-              - $100: Verificações/Entrega 2/verificação-Grupo+1/100.md
               - Moscow: Verificações/Entrega 2/verificação-Grupo+1/moscow.md
+              - Análise de Interface: Verificações/Entrega 2/verificação-Grupo+1/analiseInterface.md
+              - Quality Function Deployment: Verificações/Entrega 2/verificação-Grupo+1/quality.md
           - Verificação Nosso Grupo:
               - Perfil de Usuário: Verificações/Entrega 2/Verificação-nosso-grupo/perfil-usuario.md
               - Personas: Verificações/Entrega 2/Verificação-nosso-grupo/personas.md
@@ -148,5 +149,3 @@ nav:
               - QFD: Verificações/Entrega 2/Verificação-nosso-grupo/QFD.md
               - $100: Verificações/Entrega 2/Verificação-nosso-grupo/100.md
               - Moscow: Verificações/Entrega 2/Verificação-nosso-grupo/moscow.md
-              
-

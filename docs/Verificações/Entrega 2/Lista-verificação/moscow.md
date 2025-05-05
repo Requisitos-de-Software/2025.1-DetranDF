@@ -1,18 +1,18 @@
 # Introdução
-Esse artefato mostra como foi montado a lista de verificação do MosCoW
-
+ Esse artefato mostra como foi montado a lista de verificação do MosCoW
+ 
 # Objetivo
-Esse artefato tem como objetivo documentar a lista de verificação do MosCoW
-
+ Esse artefato tem como objetivo documentar a lista de verificação do MosCoW
+ 
 # Metodologia
-Criamos uma lista como descrita na tabela 1 
-
+ Criamos uma lista como descrita na tabela 1 
+ 
 # Lista de Verificação do MoSCoW
-
+ 
 A tabela abaixo descreve o checklist do artefato de priorização de requisitos MoSCoW.
-
+ 
 Tabela 1: Checklist MoSCoW
-
+ 
 | ID  | Critérios                                                                 | Sim/Não/Incompleto | Print |
 |:---:|---------------------------------------------------------------------------|:-------------------:|:-----:|
 |  1  | O artefato apresenta uma introdução clara explicando o que é a técnica MoSCoW e sua finalidade? |    -     | [Print](../../../assets/verificação/moscow.png) |
@@ -24,15 +24,15 @@ Tabela 1: Checklist MoSCoW
 |  7  | O artefato demonstra coerência com os objetivos do projeto e as necessidades dos usuários? |    -     | [Print](../../../assets/verificação/moscow.png) |
 |  8  | As categorias estão equilibradas, evitando excesso de itens como "Must"?  |    -     | [Print](../../../assets/verificação/moscow.png) |
 |  9  | O documento está organizado, com visualização clara das prioridades?     |    -     | [Print](../../../assets/verificação/moscow.png) |
-
+ 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi), 2025.</p></font>
-
-
+ 
+ 
 # Bibliografia
-> SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 3 maio. 2025.
-
+ > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 3 maio. 2025.
+ 
 # Histórico de versão
-
+ 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 03/05/2025 | criação da lista de verificação do moscow | [Gabriel Dantas ](https://github.com/gbevi)  | [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.0   | 01/05/2025 | criação da lista de verificação | [Gabriel Dantas ](https://github.com/gbevi)  |  |

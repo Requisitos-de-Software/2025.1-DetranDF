@@ -14,8 +14,10 @@
 | 7  | A sessão teve duração aproximada de uma hora?                                                    | Sim     | [Gravação](https://www.youtube.com/embed/DfFPVr6Fm6g) *(pode ser comprovado pela gravação)*                                                                 |
 | 8  | A sessão contou com aproximadamente 8 a 12 participantes?                                        | Sim     | [Gravação](https://www.youtube.com/embed/DfFPVr6Fm6g) *(pode ser comprovado pela gravação)* |
 
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
 ## Histórico de versão
 
 | Versão |    Data    |              Descrição               |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :----------------------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 02/05/2025 | Adicionando Lista de Verificaçãp Página de Brainstorming | [Luiz Bessa](https://github.com/)       |                                            |
+|  1.0   | 02/05/2025 | Adicionando Lista de Verificação Página de Brainstorming | [Luiz Bessa](https://github.com/lfelipebessa)       |                                            |

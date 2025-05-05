@@ -12,6 +12,13 @@ A metodologia consiste na utilização de um checklist previamente elaborado, o 
 
 # Lista de Verificação da Técnica de Brainstorming
 
+<font size="3"><p style="text-align: center">**Vídeo da verificação** da técnica de elicitação Brainstorming</p></font>
+
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/lrrsnTAOzjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/lrrsnTAOzjo" target="blanket">Vídeo da verificação do Brainstorming</a></p>
+
+
 <font size="3"><p style="text-align: center">**Tabela 1:** Verificação da Aplicação da Técnica de Brainstorming.</p></font>
 
 | ID | Critérios                                                                                       | Conforme | Comprovação |
@@ -24,6 +31,8 @@ A metodologia consiste na utilização de um checklist previamente elaborado, o 
 | 6  | A sessão de Brainstorming gerou uma tabela/lista com os desejos sumarizados dos usuários?       | Conforme |  [PDF](https://drive.google.com/file/d/1_A-XBGFnOMtXbJbtFMggStDDB8-Qvah3/view?usp=sharing)           |
 | 7  | A sessão teve duração aproximada de uma hora?                                                    | Conforme |  [PDF](https://drive.google.com/file/d/1_A-XBGFnOMtXbJbtFMggStDDB8-Qvah3/view?usp=sharing)           |
 | 8  | A sessão contou com aproximadamente 8 a 12 participantes?                                        | Conforme |   [PDF](https://drive.google.com/file/d/1_A-XBGFnOMtXbJbtFMggStDDB8-Qvah3/view?usp=sharing)          |
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
 # Bibliografia
 

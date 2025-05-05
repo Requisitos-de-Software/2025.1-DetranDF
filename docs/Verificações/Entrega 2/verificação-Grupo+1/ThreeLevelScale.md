@@ -12,6 +12,12 @@ A metodologia consiste na utilização de um checklist previamente elaborado, o 
 
 # Checklist – Técnica de Priorização: Three Level Scale
 
+<font size="3"><p style="text-align: center">**Vídeo da verificação** da técnica de priorização Three Level Scale </p></font>
+
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/eG_vTVI23iY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/eG_vTVI23iY" target="blanket">Vídeo da verificação do Three Level Scale</a></p>
+
 <font size="3"><p style="text-align: center">**Tabela 1:** Verificação da Aplicação da Técnica de Three Level Scale.</p></font>
 
 | Item | Conformidade | Comprovação |
@@ -25,6 +31,8 @@ A metodologia consiste na utilização de um checklist previamente elaborado, o 
 | 7. As prioridades atribuídas aos requisitos estão justificadas com base em critérios compreensíveis e previamente acordados? |     Conforme         |   [PDF](https://docs.google.com/document/d/1gpJvIL081jabH1zg1DmnSy90ItlVmRM9ywquNS6HQCQ/edit?usp=sharing)    |
 | 8. A técnica de priorização foi utilizada com o objetivo de apoiar a futura definição de escopo e planejamento? |      Conforme        |   [PDF](https://docs.google.com/document/d/1gpJvIL081jabH1zg1DmnSy90ItlVmRM9ywquNS6HQCQ/edit?usp=sharing)    |
 
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
 # Bibliografia
 
 1. GRUPO 02. Técnica de Priorização – Three Level Scale. Disponível em: [https://requisitos-de-software.github.io/2025.1-Deepseek/priorizacao/three-level-scale/](https://requisitos-de-software.github.io/2025.1-Deepseek/priorizacao/three-level-scale/). Acesso em: 5 maio 2025.  
@@ -35,3 +43,4 @@ A metodologia consiste na utilização de um checklist previamente elaborado, o 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 05/05/2025 | Execução da lista de verificação/inspeção | [Luiz Bessa](https://github.com/lfelipebessa)  | |
+|  1.1   | 05/05/2025 | Adicionando vídeo da inspeção | [Luiz Bessa](https://github.com/)       |                                            |

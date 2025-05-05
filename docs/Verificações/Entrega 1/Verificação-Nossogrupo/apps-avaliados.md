@@ -77,6 +77,9 @@ A **tabela 5** descreve a lista de verificação do app e-Título
 
 ## CNHDigital
 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/21z-UW8q0-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/21z-UW8q0-o" target="blanket">Vídeo da verificação do app Detran DF</a></p>
+
 A **tabela 6** descreve a lista de verificação do app CNH Digital
 
 | ID  | Critérios                                      | Sim/Não/Incompleto | Print                                                                                            |

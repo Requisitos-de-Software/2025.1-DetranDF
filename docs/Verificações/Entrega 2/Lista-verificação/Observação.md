@@ -10,8 +10,7 @@ Esse artefato é para que possamos ter acesso a lista de verificação que será
 | 3    | Os usuários observados representam o público-alvo do aplicativo                                  |                      |
 | 4    | As tarefas observadas foram reais e relevantes                                                   |                      |
 | 5    | Problemas de usabilidade foram identificados de forma clara                                      |                      |
-| 6    | Os requisitos foram organizados em uma tabela estruturada                                        |                      |
-| 7    | As observações foram analisadas e priorizadas (Alta, Média, Baixa)                               |                      |
+| 6    | As observações foram analisadas e priorizadas (Alta, Média, Baixa)                               |                      |
 
 ## Bibliografia
 
@@ -22,3 +21,4 @@ Esse artefato é para que possamos ter acesso a lista de verificação que será
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 21/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     |[Luiz Bessa](https://github.com/lfelipebessa),[Giovana Barbosa ](https://github.com/gio221) |
+|  1.1   | 05/05/2025 | ajustes na lista de verificação| [Maria Eduarda](https://github.com/maaduh)     | |

@@ -9,9 +9,7 @@ Esse artefato é para que possamos ter acesso a lista de verificação que será
 | 2    | A matriz de priorização levou em conta a viabilidade técnica de cada requisito?                  |                      |
 | 3    | Existe um equilíbrio entre requisitos de curto prazo e objetivos estratégicos de longo prazo?    |                      |
 | 4    | A priorização levou em conta restrições de tempo, orçamento e recursos disponíveis?              |                      |
-| 5    | Os resultados da priorização estão documentados e acessíveis à equipe do projeto?                |                      |
-| 6    | A equipe compreendeu claramente os critérios utilizados na priorização (ex: urgência, impacto, esforço)?   |                      |
-| 7    | A priorização foi discutida e aprovada em conjunto com a equipe de desenvolvimento e produto?    |                      |
+| 5    | A equipe compreendeu claramente os critérios utilizados na priorização (ex: urgência, impacto, esforço)?   |                      |
 
 ## Bibliografia
 
@@ -22,3 +20,4 @@ Esse artefato é para que possamos ter acesso a lista de verificação que será
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 03/05/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     | [Giovana Barbosa ](https://github.com/gio221)   |
+|  1.1   | 05/05/2025 | Correções na lista de verificação | [Maria Eduarda](https://github.com/maaduh)     |    |

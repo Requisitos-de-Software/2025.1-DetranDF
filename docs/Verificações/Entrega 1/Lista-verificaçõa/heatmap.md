@@ -29,4 +29,4 @@ Esse artefato tem como objetivo documentar a lista de verificação do Heatmap.
 
 | Versão |    Data    |       Descrição        |                     Autor                     |                    Revisor                    |
 | :----: | :--------: | :--------------------: | :-------------------------------------------: | :-------------------------------------------: |
-|  1.0   | 14/04/2025 | Documentação  da lista de verificação do heatmap | [João Lobo](https://github.com/joaolobo10) |  |
+|  1.0   | 14/04/2025 | Documentação  da lista de verificação do heatmap | [João Lobo](https://github.com/joaolobo10) |   [Giovana Barbosa ](https://github.com/gio221) |

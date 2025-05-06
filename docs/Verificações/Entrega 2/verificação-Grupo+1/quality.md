@@ -10,9 +10,8 @@ Criamos uma lista como descrita na tabela 1.
 
 <font size="3"><p style="text-align: center">**Vídeo da verificação** da técnica de priorização QFD </p></font>
 
-Colocar Vídeo
-
-<font size="3"><p style="text-align: center">[Link para o vídeo](https://github.com/joaolobo10)</p></font>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/8bNsNOuZMI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/8bNsNOuZMI4" target="blanket">Link para o vídeo</a></p>
 
 A tabela 1 descreve o checklist do artefato técnica de priorização QFD.
 
@@ -41,5 +40,6 @@ A tabela 1 descreve o checklist do artefato técnica de priorização QFD.
 
 | Versão |    Data    |                             Descrição                              |                   Autor                    | Revisor |
 | :----: | :--------: | :----------------------------------------------------------------: | :----------------------------------------: | :-----: |
-|  1.0   | 05/05/2025 |           Criação da lista de verificação Grupo+1 da QFD           | [João Lobo](https://github.com/joaolobo10) |         |
-|  2.0   | 05/05/2025 | Lista de verificação validada de acordo com a referência utilizada | [João Lobo](https://github.com/joaolobo10) |         |
+|  1.0   | 05/05/2025 |           Criação da lista de verificação Grupo+1 da QFD           | [João Lobo](https://github.com/joaolobo10) |   [Pedro Camilo](https://github.com/PedrooCamilo)      |
+|  2.0   | 05/05/2025 | Lista de verificação validada de acordo com a referência utilizada | [João Lobo](https://github.com/joaolobo10) |  [Pedro Camilo](https://github.com/PedrooCamilo)       |
+|  3.0   | 05/05/2025 |                  Adição de vídeos de verificação                   | [João Lobo](https://github.com/joaolobo10) | [Pedro Camilo](https://github.com/PedrooCamilo)        |

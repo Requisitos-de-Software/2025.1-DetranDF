@@ -5,7 +5,7 @@ Vamos verificar a elicitação por meio do questionário ou da pesquisa do grupo
 O objetivo desse documento é documentar o resultado da inspeção do questionário (ou pesquisa) do grupo 2.
 
 # Metodologia
-A metodologia utilizada é uma inspeção gravada no youtube em que verificamos os requisitos elicitados pelo grupo 2 pela técnica do questionário.
+A metodologia utilizada é uma inspeção gravada no youtube em que verificamos os requisitos elicitados pelo grupo 2 pela técnica do questionário.(3)
 
 # Lista de verificação do questionário
 
@@ -27,10 +27,13 @@ A tabela 1 descreve a lista de verificação do artefato Pesquisa/Questionário 
 > 1. Plano de ensino requisitos de software. Disponível em: [Plano de ensino](https://drive.google.com/file/d/1_Bw2pDJrGP1Hib7hcq0J7LPVyIaFZGGC/view?usp=sharing)
 >
 > 2. Bastos Junior, Paulo Roberto de Oliveira; Leite, Julio César Sampaio do
-Prado; Elicitação de requisitos de software através da utilização de
-questionários. Rio de Janeiro, 2005. 81p. Dissertação de Mestrado –
-Departamento de Informática, Pontifícia Universidade Católica do Rio de
-Janeiro. Disponível em <https://www-di.inf.puc-rio.br/~julio/Dissertacao-paulo.pdf> (p. 13).
+> Prado; Elicitação de requisitos de software através da utilização de
+> questionários. Rio de Janeiro, 2005. 81p. Dissertação de Mestrado –
+> Departamento de Informática, Pontifícia Universidade Católica do Rio de
+> Janeiro. Disponível em <https://www-di.inf.puc-rio.br/~julio/Dissertacao-paulo.pdf> (p. 13).
+>
+> 3. NISHIMURA, Eric. Inspeção detran-DF questionário. Disponível em <https://youtu.be/c_2vpg_iRN4>
+
 
 ## Histórico de versão
 

@@ -1,5 +1,5 @@
 #Introdução
-Esse artefato é para que possamos ter acesso a lista de verificação que será utilizada para verificar a elicitação por meio da introspecção. Conforme visto na tabela 1.
+Esse artefato é para que possamos verificar a elicitação por meio da introspecção. Conforme visto na tabela 1 e no vídeo referenciado. (2)
 
 #Lista de verificação 
 
@@ -15,6 +15,8 @@ Esse artefato é para que possamos ter acesso a lista de verificação que será
 ## Bibliografia
 
 > 1. Plano de ensino requisitos de software. Disponível em: [Plano de ensino](https://drive.google.com/file/d/1_Bw2pDJrGP1Hib7hcq0J7LPVyIaFZGGC/view?usp=sharing)
+>
+> 2. NISHIMURA, Eric. Inspeção-introspecção-dentran-df. Disponível em <https://youtu.be/uI1v4F2wIIE>
 
 ## Histórico de versão
 

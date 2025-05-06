@@ -6,12 +6,14 @@ Este artefato apresenta a inspeção da aplicação da técnica de elicitação 
 
 Criamos uma lista como descrita na tabela 1.
 
-## Lista de Verificação – Técnica de elicitação Análise de Interface
+## Lista de Verificação – Técnica de elicitação Análise de Interface 
+
 
 <font size="3"><p style="text-align: center">**Vídeo da verificação** da técnica de elicitação Análise de Interface </p></font>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/4s6naz5RSkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/4s6naz5RSkw" target="blanket">Link para o vídeo</a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/4s6naz5RSkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/4s6naz5RSkw" target="blanket">Vídeo da verificação do peril de usuário</a></p>
+
 
 A tabela 1 descreve o checklist do artefato técnica de elicitação Análise de Interface.
 

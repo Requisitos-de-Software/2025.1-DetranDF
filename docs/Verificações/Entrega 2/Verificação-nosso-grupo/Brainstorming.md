@@ -15,8 +15,8 @@ A metodologia consiste na utilização de um checklist previamente elaborado, o 
 <font size="3"><p style="text-align: center">**Vídeo da verificação** da técnica de elicitação Brainstorming</p></font>
 
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/lrrsnTAOzjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/lrrsnTAOzjo" target="blanket">Vídeo da verificação do Brainstorming</a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/lrrsnTAOzjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/lrrsnTAOzjow" target="blanket">Vídeo da verificação do peril de usuário</a></p>
 
 
 <font size="3"><p style="text-align: center">**Tabela 1:** Verificação da Aplicação da Técnica de Brainstorming.</p></font>
@@ -45,5 +45,5 @@ A metodologia consiste na utilização de um checklist previamente elaborado, o 
 
 | Versão |    Data    |              Descrição               |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :----------------------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 02/05/2025 | Adicionando Lista de Verificação Página de Brainstorming | [Luiz Bessa](https://github.com/)       |                                            |
-|  1.1   | 05/05/2025 | Realizando inspeção do artefato | [Luiz Bessa](https://github.com/)       |                                            |
+|  1.0   | 02/05/2025 | Adicionando Lista de Verificação Página de Brainstorming | [Luiz Bessa](https://github.com/)       |                                        [Giovana Barbosa ](https://github.com/gio221)|
+|  1.1   | 05/05/2025 | Realizando inspeção do artefato | [Luiz Bessa](https://github.com/)       |                                     [Giovana Barbosa ](https://github.com/gio221)|

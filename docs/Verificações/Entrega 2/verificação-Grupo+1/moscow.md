@@ -39,4 +39,4 @@ Tabela 1: Checklist MoSCoW
  
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 05/05/2025 | criação da lista de verificação | [Gabriel Dantas ](https://github.com/gbevi)  | 
+|  1.0   | 05/05/2025 | criação da lista de verificação | [Gabriel Dantas ](https://github.com/gbevi)  |[Giovana Barbosa ](https://github.com/gio221)   |

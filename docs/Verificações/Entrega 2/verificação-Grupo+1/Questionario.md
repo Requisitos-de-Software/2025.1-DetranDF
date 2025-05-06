@@ -39,4 +39,4 @@ A tabela 1 descreve a lista de verificação do artefato Pesquisa/Questionário 
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 05/05/2025 | Início da documentação e criação da lista de verificação | [Eric Akio](https://github.com/eric-kingu)  |   |
+|  1.0   | 05/05/2025 | Início da documentação e criação da lista de verificação | [Eric Akio](https://github.com/eric-kingu)   |[Giovana Barbosa ](https://github.com/gio221)   |

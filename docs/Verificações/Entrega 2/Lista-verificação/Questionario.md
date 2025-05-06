@@ -20,4 +20,4 @@ Esse artefato é para que possamos ter acesso a lista de verificação que será
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 05/05/2025 | Início da documentação e criação da lista de verificação | [Eric Akio](https://github.com/eric-kingu)  |   |
+|  1.0   | 05/05/2025 | Início da documentação e criação da lista de verificação | [Eric Akio](https://github.com/eric-kingu)   |[Giovana Barbosa ](https://github.com/gio221)   |

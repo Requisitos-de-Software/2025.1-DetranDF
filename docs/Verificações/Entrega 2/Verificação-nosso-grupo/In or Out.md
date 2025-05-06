@@ -8,8 +8,9 @@ Esse artefato tem como objetivo inspecionar a tecnica de priorização de requis
 
 <font size="3"><p style="text-align: center">**Vídeo da verificação** da técnica de priorização In or Out </p></font>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=d2f5edrUFw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=d2f5edrUFw0" target="blanket">Link para o vídeo</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/d2f5edrUFw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/d2f5edrUFw0" target="blanket">Link para o vídeo</a></p>
 
 A tabela 1 descreve o checklist do artefato de técnica de priorização, sendo a técnica In or Out.
 
@@ -37,5 +38,5 @@ A tabela 1 descreve o checklist do artefato de técnica de priorização, sendo 
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 05/05/2025 | Lista de verificação In or Out | [Pedro Camilo](https://github.com/PedrooCamilo)  |  |
-|  1.1   | 05/05/2025 | Adicionando vídeo de inspeção | [Pedro Camilo](https://github.com/PedrooCamilo)  |  |
+|  1.0   | 05/05/2025 | Lista de verificação In or Out | [Pedro Camilo](https://github.com/PedrooCamilo)  |    [Giovana Barbosa ](https://github.com/gio221)|
+|  1.1   | 05/05/2025 | Adicionando vídeo de inspeção | [Pedro Camilo](https://github.com/PedrooCamilo)  |    [Giovana Barbosa ](https://github.com/gio221)|

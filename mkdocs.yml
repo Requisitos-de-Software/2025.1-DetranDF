@@ -77,6 +77,11 @@ nav:
           - In or out: Elicitação/tecnicas-de-priorização/In or out.md
           - $100: Elicitação/tecnicas-de-priorização/$100.md
           - Moscow: Elicitação/tecnicas-de-priorização/moscow.md
+  - Modelagem:
+          - Cenários: modelagem/Cenários..md
+          - Léxicos: modelagem/lexico.md
+          - Casos de Uso: modelagem/caso-de-uso.md
+          - Especificação Suplementar: modelagem/especificação-suplementar.md
   - Verificações:
       - Entrega 1:
           - Lista de Verificação:

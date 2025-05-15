@@ -72,8 +72,9 @@ A tabela 4 descreve o cenário do requisito funcional Sistema de pagamento de ta
 
 ## Histórico de versão
 
-| Versão |    Data    |                           Descrição                            |                    Autor                     | Revisor |
-| :----: | :--------: | :------------------------------------------------------------: | :------------------------------------------: | :-----: |
-|  1.0   | 14/05/2025 |    criação do documento, introdução, metodologia e objetivo    | [Giovana Barbosa](https://github.com/gio221) |         |
-|  1.1   | 15/05/2025 | cenário Realizar agendamentos presencias (vistoria, CNH, etc.) | [Giovana Barbosa](https://github.com/gio221) |         |
-|  1.2   | 15/05/2025 |        cenário Sistema de pagamento de taxas e débitos         | [Giovana Barbosa](https://github.com/gio221) |         |
+| Versão |    Data    |                           Descrição                            |                    Autor                     |                  Revisor                   |
+| :----: | :--------: | :------------------------------------------------------------: | :------------------------------------------: | :----------------------------------------: |
+|  1.0   | 14/05/2025 |    criação do documento, introdução, metodologia e objetivo    | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
+|  1.1   | 15/05/2025 | cenário Realizar agendamentos presencias (vistoria, CNH, etc.) | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
+|  1.2   | 15/05/2025 |        cenário Sistema de pagamento de taxas e débitos         | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
+|  1.3   | 15/05/2025 |           Ajuste de metodologia e ajuste de tabelas            |  [João Lobo](https://github.com/joaolobo10)  |                                            |

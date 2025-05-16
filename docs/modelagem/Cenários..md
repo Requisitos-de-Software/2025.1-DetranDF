@@ -31,6 +31,8 @@ Cada cenário foi estruturado conforme o modelo apresentado na Tabela 1, que org
 | :------------------------------------------: | :----------------------------------------------------: |
 | [Giovana Barbosa](https://github.com/gio221) | Realizar agendamentos presencias (vistoria, CNH, etc.) |
 | [Giovana Barbosa](https://github.com/gio221) |       Autorização de estacionamento para idosos        |
+| [Gabriel Mendes](https://github.com/gbevi) |       Integração com CNH digital e gov.br       |
+| [Gabriel Mendes](https://github.com/gbevi) |       área para autoescolas com avaliações e comentários       |
 
 ## Realizar agendamentos presencias (vistoria, CNH, etc.)
 
@@ -70,6 +72,40 @@ A tabela 4 descreve o cenário do requisito funcional Sistema de pagamento de ta
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
+## Sistema de pagamento de taxas e débitos
+
+A tabela 4 descreve o cenário do requisito funcional Sistema de pagamento de taxas e débitos, que foi rastreada pela técnica de elecitação BS03
+
+#### Tabela 5: Cenário -Integração com a CNH digital e gov.br
+
+| **Item**      | **Descrição**                                                                                                                                                                                                                                                                                                                                 |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**    | Integração com a CNH digital e gov.br                                                                                                                                                                                                                                                                                         |
+| **Objetivo**  | Permitir que o usuário tenha todas as infromações referentes ao DETRAN centralizadas em um só aplicativo.                                                                                                                                                                               |
+| **Contexto**  | **Local:** Aplicativo do Detran-DF <br>**Tempo:** Em tempo real <br>**Pré-condição:** O usuário deve estar logado, com CNH ativa e conta no gov.br.br                                                                                                                                                  |
+| **Atores**    | Usuários do aplicativo Detran-DF                                                                                                                                                                                                                                                                                                              |
+| **Recursos**  | Conexão com a internet <br>Smartphone com o aplicativo Detran-DF instalado e conta ativa <br>Conta ativa no gov.br e CNH digital                                                                                                                                                                                                 |
+| **Episódios** | 1. O usuário acessa o aplicativo DetranDF<br>2. Conecta sua conta do gov.br e CNH digital <br>3. Consegue visualizar e consultar informações da sua CNH digital (dados cadastrais, validade, categorias, etc.) <br>4. Consegue visualizar e consultar informações do gov.br relacionadas ao Detran(débitos, etc.)  |
+| **Restrição** |  A integração depende da disponibilidade e correto funcionamento das APIs do gov.br e da CNH digital.                                                                                                                                                                                                                                                  |
+| **Exceção** | Falha na conexão com a internet.&lt;br>Indisponibilidade temporária dos serviços do gov.br ou da CNH digital.&lt;br>Dados inconsistentes entre as plataformas.                                                                                                                                                                                                                                          |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
+
+#### Tabela 6: Cenário -Área para auto-escolas com avaliações, comentários e localização
+
+| **Item**      | **Descrição**                                                                                                                                                                                                                                                                                                                                 |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**    | Área para auto-escolas com avaliações, comentários e localização                                                                                                                                                                                                                                                                                         |
+| **Objetivo**  | Permitir que o usuário visualize auto-escolas credenciadas na região, visualize as avaliações, avalie, comente sobre outras avaliações e visualize a localização da auto-escola.                                                                                                                                                                              |
+| **Contexto**  | **Local:** Aplicativo do Detran-DF, na seção "Empresas credenciadas" <br>**Tempo:** Em tempo real <br>**Pré-condição:** O usuário deve estar logado                                                                                                                                                         |
+| **Atores**    | Usuários do aplicativo Detran-DF                                                                                                                                                                                                                                                                                                              |
+| **Recursos**  | Conexão com a internet <br>Smartphone com o aplicativo Detran-DF instalado e conta ativa                                                                                                                                                                                                   |
+| **Episódios** | 1. O usuário acessa a área de "Empresas credenciadas" no aplicativo <br>2. Visualiza as auto-escolas da região <br>3. Viusaliza as avaliações e localização <br>4. Avalia uma auto-escola ou deixa um comentário. |
+| **Restrição** | Auto-escolas desatualizadas ou baixo engajamento de usuários ocorre em informações erradas.                                                                                                                                                                                                                                                       |
+| **Exceção**   | Localização errada <br>Falta de conexão com a internet <br>Serviço indisponível temporariamente                                                                                                                                                                                                                                       |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
+
 ## Histórico de versão
 
 | Versão |    Data    |                           Descrição                            |                    Autor                     |                  Revisor                   |
@@ -77,4 +113,6 @@ A tabela 4 descreve o cenário do requisito funcional Sistema de pagamento de ta
 |  1.0   | 14/05/2025 |    criação do documento, introdução, metodologia e objetivo    | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.1   | 15/05/2025 | cenário Realizar agendamentos presencias (vistoria, CNH, etc.) | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.2   | 15/05/2025 |        cenário Sistema de pagamento de taxas e débitos         | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
-|  1.3   | 15/05/2025 |           Ajuste de metodologia e ajuste de tabelas            |  [João Lobo](https://github.com/joaolobo10)  |                                            |
+|  1.3   | 15/05/2025 |           Ajuste de metodologia e ajuste de tabelas            |  [João Lobo](https://github.com/joaolobo10)  |                 [Gabriel Mendes](https://github.com/gbevi)                           |
+|  1.4   | 16/05/2025 |    cenário Integração CNH e gov.br    | [Gabriel Mendes](https://github.com/gbevi) |  |
+|  1.5   | 16/05/2025 | cenário área para auto-escolas | [Gabriel Mendes](https://github.com/gbevi) |  |

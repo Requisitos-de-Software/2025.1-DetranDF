@@ -37,6 +37,8 @@ Cada cenário foi estruturado conforme o modelo apresentado na Tabela 1, que org
 |  [Eric Akio](https://github.com/eric-kingu)  |      Acessibilidade para diferentes tipos de usuário      |
 |  [João Lobo](https://github.com/joaolobo10)  |              Chat com IA para tirar dúvidas               |
 |  [João Lobo](https://github.com/joaolobo10)  | Atendimento ao vivo com servidor do DETRAN via chat/vídeo |
+|[Luiz Bessa](https://github.com/lfelipebessa)|Histórico de Pesquisas e Serviços Recentes|
+|[Luiz Bessa](https://github.com/lfelipebessa)|Notificação antecipada da data de vencimento da CNH|
 |  [Pedro Camilo](https://github.com/PedrooCamilo) |Área educacional com explicações e vídeos              |
 |  [Pedro Camilo](https://github.com/PedrooCamilo) | Acesso rápido a explicações de siglas                 |
 

@@ -91,5 +91,5 @@ A seção de Ajuda e Documentação de um aplicativo é composta por uma série 
 |  1.0   | 14/05/2025 |                                criação do documento                                | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.1   | 14/05/2025 |                    adicionei introdução, obejtivo e metodlogia                     | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.1   | 14/05/2025 |                       adicionei funcionalidade e usabilidade                       | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
-|  1.2   | 17/05/2025 | Adição de tabelas de Confiabilida e desempenho, relacionando as mesmas com as RNFS |  [João Lobo](https://github.com/joaolobo10)  |                                            |
+|  1.2   | 17/05/2025 | Adição de tabelas de Confiabilida e desempenho, relacionando as mesmas com as RNFS |  [João Lobo](https://github.com/joaolobo10)  |            [Pedro Camilo](https://github.com/PedrooCamilo)                                |
 |  1.3   | 17/05/2025 | Adição de tabelas de Ajuda e Documentação |  [Pedro Camilo](https://github.com/PedrooCamilo)  |                                            |

@@ -35,6 +35,8 @@ Cada cenário foi estruturado conforme o modelo apresentado na Tabela 1, que org
 |  [Gabriel Mendes](https://github.com/gbevi)  |   área para autoescolas com avaliações e comentários   |
 |  [Eric Akio](https://github.com/eric-kingu)  |       Agendamento de provas teóricas e práticas        |
 |  [Eric Akio](https://github.com/eric-kingu)  |    Acessibilidade para diferentes tipos de usuário     |
+|[João Lobo](https://github.com/joaolobo10)|Chat com IA para tirar dúvidas|
+|[João Lobo](https://github.com/joaolobo10)|Chat com IA para tirar dúvidas|
 
 ## Realizar agendamentos presencias (vistoria, CNH, etc.)
 
@@ -198,5 +200,6 @@ A tabela 10 descreve o cenário do requisito funcional Atendimento ao vivo com s
 |  1.3   | 15/05/2025 |                               Ajuste de metodologia e ajuste de tabelas                                |  [João Lobo](https://github.com/joaolobo10)  | [Gabriel Mendes](https://github.com/gbevi) |
 |  1.4   | 16/05/2025 |                                    cenário Integração CNH e gov.br                                     |  [Gabriel Mendes](https://github.com/gbevi)  | [Eric Akio](https://github.com/eric-kingu) |
 |  1.5   | 16/05/2025 |                                     cenário área para auto-escolas                                     |  [Gabriel Mendes](https://github.com/gbevi)  | [Eric Akio](https://github.com/eric-kingu) |
-|  1.6   | 16/05/2025 | Cenários: agendamento de provas teóricas e práticas, e acessibilidade para diferentes tipos de usuário |  [Eric Akio](https://github.com/eric-kingu)  |                                            |
-|  1.7   | 16/05/2025 | Cénarios de Chat com IA para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo |  [João Lobo](https://github.com/joaolobo10)  |                                            |
+|  1.6   | 16/05/2025 | Cenários: agendamento de provas teóricas e práticas, e acessibilidade para diferentes tipos de usuário |  [Eric Akio](https://github.com/eric-kingu)  |      [Giovana Barbosa](https://github.com/gio221)                                      |
+|  1.7   | 16/05/2025 | Cénarios de Chat com IA para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo |  [João Lobo](https://github.com/joaolobo10)  |      [Giovana Barbosa](https://github.com/gio221)                                      |
+|  1.7   | 17/05/2025 | Atualizei tabela 2 |      [Giovana Barbosa](https://github.com/gio221)       ||

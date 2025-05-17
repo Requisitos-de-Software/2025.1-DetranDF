@@ -153,41 +153,43 @@ Abaixo, na tabela 7, está especificado o caso de uso para a funcionalidade de "
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
-### Integração com CNH digital e gov br
+### Integração com CNH Digital e Gov BR  
 
-Abaixo, na tabela 8, está especificado o caso de uso para a funcionalidade de "Integração com CNH digital e gov br".
+Abaixo, na Tabela 8, está especificado o caso de uso para a funcionalidade **“Integração com CNH Digital e Gov BR”**.
 
-<font size="3"><p style="text-align: center">**Tabela 8 -** Integração com CNH digital e gov br.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 8 –** Integração com CNH Digital e Gov BR.</p></font>
 
-| UC05                  | Nome do caso de uso                                                                                                                                           |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descrição**         | Uma breve explicação do que o caso de uso faz ou descreve.                                                                                                    |
-| **Atores**            | Os papéis ou entidades que interagem com o sistema.                                                                                                           |
-| **Pré-condição**      | As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.                                                                            |
-| **Pós-condição**      | As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.                                                                          |
-| **Fluxo principal**   | A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.                                        |
-| **Fluxo alternativo** | Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal. |
-| **Fluxo de exceções** | Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.                                           |
+| UC05                  | Integração com CNH Digital e Gov BR                                                                                                   |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição**         | Permite que a pessoa usuária autentique-se via Gov BR (OAuth 2.0) e importe automaticamente os dados da sua CNH Digital para o app.   |
+| **Atores**            | • Usuário do aplicativo<br>• Serviço de Autenticação Gov BR<br>• API SENATRAN (CNH Digital)                                           |
+| **Pré-condição**      | • Usuário possui cadastro ativo no Gov BR.<br>• Dispositivo conectado à internet.                                                     |
+| **Pós-condição**      | • Token JWT válido armazenado com segurança.<br>• Dados da CNH sincronizados no perfil do usuárie.                                    |
+| **Fluxo principal**   | 1. Usuário seleciona “Entrar com Gov BR”.<br>2. Sistema redireciona para a tela de login Gov BR (OAuth 2.0).<br>3. Usuário autentica-se e concede consentimento.<br>4. Gov BR retorna *authorization code*.<br>5. Sistema troca o código por um token JWT.<br>6. Com o token, o sistema requisita dados da CNH na API SENATRAN.<br>7. Dados são armazenados e exibidos no aplicativo.<br>8. Caso de uso termina com usuário autenticado e CNH validada. |
+| **Fluxo alternativo** | **A1 – Usuárie já logade:**<br>• Passo 1: sistema detecta sessão ativa.<br>• Vai direto ao Passo 6.<br><br>**A2 – Consentimento negado:**<br>• Passo 3: usuárie nega consentimento.<br>• Sistema exibe mensagem “Integração cancelada” e encerra. |
+| **Fluxo de exceções** | **E1 – Falha na autenticação Gov BR:**<br>• Sistema exibe erro e oferece tentar novamente.<br><br>**E2 – API SENATRAN indisponível:**<br>• Sistema armazena token, agenda nova tentativa de sincronização e notifica usuárie. |
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi) , 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi), 2025.</p></font>
 
-### Área para autoescolas com avaliações, comentários e localizações
 
-Abaixo, na tabela 9, está especificado o caso de uso para a funcionalidade de "Área para autoescolas com avaliações, comentários e localizações".
 
-<font size="3"><p style="text-align: center">**Tabela 9 -** Área para autoescolas com avaliações, comentários e localizações.</p></font>
+### Área para autoescolas com avaliações, comentários e localização  
 
-| UC06                  | Nome do caso de uso                                                                                                                                           |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descrição**         | Uma breve explicação do que o caso de uso faz ou descreve.                                                                                                    |
-| **Atores**            | Os papéis ou entidades que interagem com o sistema.                                                                                                           |
-| **Pré-condição**      | As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.                                                                            |
-| **Pós-condição**      | As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.                                                                          |
-| **Fluxo principal**   | A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.                                        |
-| **Fluxo alternativo** | Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal. |
-| **Fluxo de exceções** | Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.                                           |
+Abaixo, na Tabela 9, está especificado o caso de uso para a funcionalidade **“Área para autoescolas com avaliações, comentários e localização”**.
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi) , 2025.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 9 –** Área para autoescolas com avaliações, comentários e localização.</p></font>
+
+| UC06                  | Área para Autoescolas                                                                                                                  |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| **Descrição**         | Permite que autoescolas cadastrem perfis, publiquem informações e recebam avaliações e comentários de alunes, exibindo localização no mapa. |
+| **Atores**            | • Autoescola (perfil empresarial)<br>• Aluno/cliente<br>• Sistema de Geolocalização                                                    |
+| **Pré-condição**      | • Autoescola possui cadastro aprovado.<br>• Alune autenticade no aplicativo.                                                           |
+| **Pós-condição**      | • Avaliação ou comentário registrado e visível.<br>• Média de pontuação atualizada.                                                    |
+| **Fluxo principal**   | 1. Aluno acessa perfil de uma autoescola.<br>2. Sistema exibe detalhes (endereço, nota média, comentários).<br>3. Aluno clica em “Avaliar”.<br>4. Insere nota (1-5) e comentário opcional.<br>5. Sistema valida entrada e salva avaliação.<br>6. Nota média da autoescola é recalculada.<br>7. Avaliação aparece na lista pública. |
+| **Fluxo alternativo** | **A1 – Avaliação anônima:**<br>• Passo 4: aluno opta por anonimizar nome.<br>• Sistema registra avaliação como “Usuárie anônime”. |
+| **Fluxo de exceções** | **E1 – Comentário ofensivo detectado:**<br>• Sistema bloqueia envio, exibe mensagem e oferece editar.<br><br>**E2 – Autoescola desativada:**<br>• Sistema impede novas avaliações e informa indisponibilidade. |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi), 2025.</p></font>
 
 ### Histórico de Pesquisas e Serviços Recentes
 
@@ -353,5 +355,6 @@ Abaixo, na tabela 17, está especificado o caso de uso para a funcionalidade de 
 |  1.5   | 17/05/2025 |                                                            Realizando as tabelas 11 e 12 dos casos de uso                                                            | [Luiz Bessa](https://github.com/lfelipebessa) |  [João Lobo](https://github.com/joaolobo10)   |
 |  1.6   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades: Chat com IA para tirar dúvidas e Atendimento ao vivo com servidor do Detran-DF uso             |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
 | 1.7 | 17/05/2025 | Realização das tabelas de caso de uso: Agendamento online para provas teóricas e práticas, e Acessibilidade para diferentes perfis de usuário | [Eric Akio](https://github.com/eric-kingu) | [Pedro Camilo](https://github.com/PedrooCamilo) |
-|  1.8   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Área educacional com explicações e vídeos, Explicações acessíveis sobre siglas             |  [Pedro Camilo](https://github.com/PedrooCamilo)   |                                               |
+|  1.8   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Área educacional com explicações e vídeos, Explicações acessíveis sobre siglas             |  [Pedro Camilo](https://github.com/PedrooCamilo)   |                  [Gabriel Mendes](https://github.com/gbevi)                             |
+|  1.9   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Integração CNH digital e gov.br, área de autoescolas             |  [Gabriel Mendes](https://github.com/gbevi)   |                                               |
 

@@ -56,7 +56,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 1: Checklist Cenários
+Tabela 2: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
 | :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
@@ -79,7 +79,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 1: Checklist Cenários
+Tabela 3: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
 | :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
@@ -101,7 +101,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 1: Checklist Cenários
+Tabela 4: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
 | :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
@@ -118,6 +118,6 @@ Tabela 1: Checklist Cenários
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | |
+|  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi)|
 |  1.1  | 14/05/2025 | Introdução,objetivo, inspeção Sistema de pagamento de taxas e débitos e Realizar agendamentos presencias |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi)|
 |  1.2  | 17/05/2025 | Integração com gov.br e área para auto-escolas |  [Gabriel Mendes](https://github.com/gbevi)   | |

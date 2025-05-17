@@ -35,20 +35,14 @@ A tabela abaixo descreve o checklist do artefato
  
 Tabela 1: Checklist Cenários
 
-| ID | Critérios | Sim/Não/Incompleto | Tempo no vídeo |
-| :-: | --- | :---: | --- |
-| 1 | Os atores são representados por um boneco com a legenda “ator”? | Sim | 02:18 |
-| 2 | Os atores estão posicionados fora do retângulo? | Sim  | 02:52 |
-| 3 | Os atores são categóricos? |Sim   | 03:11 |
-| 4 | Os atores são divididos em primários e secundários? |Sim   | 03:18 |
-| 5 | Os atores principais estão à direita? |  Sim | 03:55 |
-| 6 | Os atores secundários estão do lado direito? | Sim  | 03:55 |
-| 7 | O caso de uso está dentro do sistema? | Sim  | 04:15 |
-| 8 | O caso de uso representa uma ação? | Sim  | 04:15 |
-| 9 | O caso de uso é retangular? |  Sim | 04:24 |
-| 10 | Começa no verbo infinitivo (fazer, consultar)? | Sim  | 05:25 |
-| 11 | O relacionamento é exibido por uma linha sólida simples (associação)? | Sim  | 05:44 |
-| 12 | Cada ator precisa interagir com ao menos um caso de uso? | Sim  | 05:59 |
+| ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |Sim  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
 
 ##  Sistema de pagamento de taxas e débitos 
 
@@ -59,26 +53,61 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 1: Checklist Cenários
+Tabela 2: Checklist Cenários
 
-| ID | Critérios | Sim/Não/Incompleto | Tempo no vídeo |
-| :-: | --- | :---: | --- |
-| 1 | Os atores são representados por um boneco com a legenda “ator”? | Sim | 02:18 |
-| 2 | Os atores estão posicionados fora do retângulo? | Sim  | 02:52 |
-| 3 | Os atores são categóricos? |Sim   | 03:11 |
-| 4 | Os atores são divididos em primários e secundários? |Sim   | 03:18 |
-| 5 | Os atores principais estão à direita? |  Sim | 03:55 |
-| 6 | Os atores secundários estão do lado direito? | Sim  | 03:55 |
-| 7 | O caso de uso está dentro do sistema? | Sim  | 04:15 |
-| 8 | O caso de uso representa uma ação? | Sim  | 04:15 |
-| 9 | O caso de uso é retangular? |  Sim | 04:24 |
-| 10 | Começa no verbo infinitivo (fazer, consultar)? | Sim  | 05:25 |
-| 11 | O relacionamento é exibido por uma linha sólida simples (associação)? | Sim  | 05:44 |
-| 12 | Cada ator precisa interagir com ao menos um caso de uso? | Sim  | 05:59 |
+| ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |Sim  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+
+##  Integração com CNH digital e gov.br
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/ASZuqqH9ljA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/ASZuqqH9ljA" target="blanket">Vídeo da verificação </a></p>
+ 
+A tabela abaixo descreve o checklist do artefato 
+ 
+Tabela 3: Checklist Cenários
+
+| ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |Sim  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+
+##  Área da auto-escola
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/ASZuqqH9ljA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/ASZuqqH9ljA" target="blanket">Vídeo da verificação </a></p>
+ 
+A tabela abaixo descreve o checklist do artefato 
+ 
+Tabela 4: Checklist Cenários
+
+| ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |Sim  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
 
 ## Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | |
-|  1.1  | 14/05/2025 | Introdução,objetivo, inspeção Sistema de pagamento de taxas e débitos e Realizar agendamentos presencias |  [Giovana Barbosa](https://github.com/gio221)   | |
+|  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
+|  1.1  | 14/05/2025 | Introdução,objetivo, inspeção Sistema de pagamento de taxas e débitos e Realizar agendamentos presencias |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
+|  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)   | |

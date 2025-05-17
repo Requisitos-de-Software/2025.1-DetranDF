@@ -45,4 +45,5 @@ A usabilidade trata da experiência do usuário ao interagir com o sistema. Foca
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | |
-|  1.0   | 14/05/2025 | adicionei introdução, obejtivo e metodlogia|  [Giovana Barbosa](https://github.com/gio221)   | |
+|  1.1   | 14/05/2025 | adicionei introdução, obejtivo e metodlogia|  [Giovana Barbosa](https://github.com/gio221)   | |
+|  1.1   | 14/05/2025 | adicionei funcionalidade e usabilidade |  [Giovana Barbosa](https://github.com/gio221)   | |

@@ -154,3 +154,20 @@ nav:
               - $100: Verificações/Entrega 2/Verificação-nosso-grupo/100.md
               - Moscow: Verificações/Entrega 2/Verificação-nosso-grupo/moscow.md
               - In or Out: Verificações/Entrega 2/Verificação-nosso-grupo/In or Out.md
+      - Entrega 3:
+          - Lista de Verificação:
+              - Cenários: Verificações/Entrega 3/Lista-verificação/cenarios.md
+              - Léxicos: Verificações/Entrega 3/Lista-verificação/lexicos.md
+              - Casos de Uso: Verificações/Entrega 3/Lista-verificação/caso-de-uso.md
+              - Especificação Suplementar: Verificações/Entrega 3/Lista-verificação/especificação-suplementar.md
+          - Verificação Grupo +1:
+             - Cenários: Verificações/Entrega 3/gtupo +1/cenários.md
+             - Léxicos: Verificações/Entrega 3/gtupo +1/lexicos.md
+             - Casos de Uso: Verificações/Entrega 3/gtupo +1/caso-de-uso.md
+             - Especificação Suplementar: Verificações/Entrega 3/gtupo +1/especificação-suplementar.md
+          - Verificação Nosso Grupo:
+             - Cenários: Verificações/Entrega 3/nossogrupo/cenarios.md
+             - Léxicos: Verificações/Entrega 3/nossogrupo/lexicos.md
+             - Casos de Uso: Verificações/Entrega 3/nossogrupo/caso-de-uso.md
+             - Especificação Suplementar: Verificações/Entrega 3/nossogrupo/especificação-suplementar.md
+              

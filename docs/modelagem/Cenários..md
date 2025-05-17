@@ -135,7 +135,7 @@ A tabela 7 descreve o cenário do requisito funcional agendamento online para pr
 
 ## Acessibilidade para diferentes perfis de usuários
 
-A tabela 8 descreve o cenário do requisito não funcional acessibilidade para diferentes perfis de usuários, que foi rastreada pela técnica de elicitação BS17
+A tabela 8 descreve o cenário do requisito não funcional acessibilidade para diferentes perfis de usuários, que foi rastreada pela técnica de elicitação IS09.
 
 ### Tabela 8: Cenário - Acessibilidade para diferentes perfis de usuários
 

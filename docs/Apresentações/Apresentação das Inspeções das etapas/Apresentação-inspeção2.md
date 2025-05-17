@@ -22,7 +22,7 @@ O video acima descreve a apresentação que foi realizada na etapa de inspeção
 
 ## Critérios para entrega
 
-Tabela 1: Critérios de avaliação para a entrega da inspeção da etapa 1
+Tabela 1: Critérios de avaliação para a entrega da inspeção da etapa 2
 
 |                                                                                                                      O git-pages possui?                                                                                                                      | Sim/Não/Incompleto | 
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------: |

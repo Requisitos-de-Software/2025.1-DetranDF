@@ -44,10 +44,22 @@ A tabela 2 descreve qual funcionalidade cada integrante fez um caso de uso.
 
 <font size="3"><p style="text-align: center">**Tabela 2 -** Divisão de caso de uso por integrantes da equipe.</p></font>
 
-|                  Integrante                  |                        Cenário                         |
-| :------------------------------------------: | :----------------------------------------------------: |
-| [Giovana Barbosa](https://github.com/gio221) | Realizar agendamentos presencias (vistoria, CNH, etc.) |
-| [Giovana Barbosa](https://github.com/gio221) |       Autorização de estacionamento para idosos        |
+| Ordem | Código | Funcionalidade                                                           | Responsável         |
+|-------|--------|---------------------------------------------------------------------------|---------------------|
+| 1     | UC01   | Realizar agendamentos presenciais (vistoria, CNH, etc.)                  | [Giovana Barbosa](https://github.com/gio221)  |
+| 2     | UC02   | Sistema de pagamento de taxas e débitos                                  | [Giovana Barbosa](https://github.com/gio221)     |
+| 3     | UC03   | Chat com IA para tirar dúvidas                                           | [João Lobo](https://github.com/joaolobo10)          |
+| 4     | UC04   | Atendimento ao vivo com servidor do DETRAN via chat/vídeo               | [João Lobo](https://github.com/joaolobo10)          |
+| 5     | UC05   | Integração com CNH digital e gov.br                                      | [Gabriel Mendes](https://github.com/gbevi)     |
+| 6     | UC06   | Área para autoescolas com avaliações, comentários e localizações        | [Gabriel Mendes](https://github.com/gbevi)      |
+| 7     | UC07   | Histórico de Pesquisas e Serviços Recentes                              | Luiz Bessa          |
+| 8     | UC08   | Notificação antecipada da data de vencimento da CNH                     | Luiz Bessa          |
+| 9     | UC09   | Área educacional com explicações e vídeos                               | Pedro Camilo        |
+| 10    | UC10   | Explicações acessíveis sobre siglas                                     | Pedro Camilo        |
+| 11    | UC11   | Notificação de multas e prazos com desconto                             | Maria Eduarda       |
+| 12    | UC12   | Aviso automático em caso de roubo/recuperação do carro                  | Maria Eduarda       |
+| 13    | UC13   | Agendamento online para provas teóricas e práticas                      | [Eric Akio](https://github.com/eric-kingu)          |
+| 14    | UC14   | Acessibilidade para diferentes perfis de usuários                       | [Eric Akio](https://github.com/eric-kingu)         |
 
 Já na tabela 3 temos o modelo base usado em nossas especificações dos casos de uso.
 
@@ -73,13 +85,23 @@ Abaixo, na tabela 4, está especificado o caso de uso para a funcionalidade de "
 
 | UC01                  | Nome do caso de uso                                                                                                                                           |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descrição**         | Uma breve explicação do que o caso de uso faz ou descreve.                                                                                                    |
-| **Atores**            | Os papéis ou entidades que interagem com o sistema.                                                                                                           |
-| **Pré-condição**      | As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.                                                                            |
-| **Pós-condição**      | As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.                                                                          |
-| **Fluxo principal**   | A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.                                        |
-| **Fluxo alternativo** | Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal. |
-| **Fluxo de exceções** | Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.                                           |
+| **UC01**            | Realizar agendamento de serviços                                                                                                                    |
+| **Descrição**       | Este caso de uso descreve como o usuário realiza o agendamento de um serviço presencial (ex: vistoria, CNH, etc.) por meio da plataforma.           |
+| **Atores**          | Usuário (ator principal), Sistema                                                                                                                    |
+| **Pré-condição**    | O usuário deve estar autenticado no sistema e ter acesso aos serviços disponíveis para agendamento.                                                 |
+| **Pós-condição**    | Um agendamento é criado e armazenado no sistema. O usuário recebe uma confirmação com os detalhes do agendamento.                                   |
+| **Fluxo principal** | 1. O usuário acessa a área de agendamentos.  
+2. O sistema exibe os serviços disponíveis.  
+3. O usuário seleciona o serviço desejado.  
+4. O sistema apresenta os horários e locais disponíveis.  
+5. O usuário escolhe data, horário e local.  
+6. O sistema solicita confirmação.  
+7. O usuário confirma.  
+8. O sistema registra o agendamento e apresenta a confirmação ao usuário. |
+| **Fluxo alternativo** | - 3a. O usuário decide alterar o serviço selecionado: retorna à lista de serviços.  
+- 5a. O horário selecionado está indisponível: o sistema exibe uma mensagem e solicita nova escolha. |
+| **Fluxo de exceções** | - E1. Falha de conexão com o sistema: exibir mensagem de erro e tentar nova conexão.  
+- E2. Dados obrigatórios não preenchidos: sistema alerta e impede a confirmação do agendamento. |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
@@ -91,13 +113,23 @@ Abaixo, na tabela 5, está especificado o caso de uso para a funcionalidade de "
 
 | UC02                  | Nome do caso de uso                                                                                                                                           |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descrição**         | Uma breve explicação do que o caso de uso faz ou descreve.                                                                                                    |
-| **Atores**            | Os papéis ou entidades que interagem com o sistema.                                                                                                           |
-| **Pré-condição**      | As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.                                                                            |
-| **Pós-condição**      | As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.                                                                          |
-| **Fluxo principal**   | A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.                                        |
-| **Fluxo alternativo** | Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal. |
-| **Fluxo de exceções** | Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.                                           |
+| **UC02**            | Sistema de pagamento de taxas e débitos                                                                                                             |
+| **Descrição**       | Este caso de uso descreve como o usuário acessa e realiza o pagamento de taxas e débitos vinculados aos seus serviços no sistema.                   |
+| **Atores**          | Usuário (ator principal), Sistema, Instituição financeira (ator secundário)                                                                         |
+| **Pré-condição**    | O usuário deve estar autenticado no sistema e possuir débitos ou taxas pendentes.                                                                   |
+| **Pós-condição**    | O pagamento é processado e registrado no sistema. O usuário recebe um comprovante.                                                                  |
+| **Fluxo principal** | 1. O usuário acessa a seção de pagamentos.  
+2. O sistema exibe os débitos e taxas pendentes.  
+3. O usuário seleciona os itens que deseja pagar.  
+4. O sistema exibe o valor total e as formas de pagamento disponíveis.  
+5. O usuário escolhe a forma de pagamento (boleto, cartão, Pix, etc.).  
+6. O sistema redireciona para o ambiente seguro de pagamento.  
+7. O usuário realiza o pagamento.  
+8. O sistema confirma o pagamento e gera um comprovante. |
+| **Fluxo alternativo** | - 3a. O usuário decide parcelar os débitos: o sistema apresenta as opções de parcelamento.  
+- 5a. A forma de pagamento não está disponível: o sistema sugere alternativas. |
+| **Fluxo de exceções** | - E1. Falha de conexão com o sistema de pagamento: exibir mensagem e oferecer tentativa posterior.  
+- E2. Pagamento recusado: notificar o usuário e manter os débitos como pendentes. |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
@@ -325,5 +357,6 @@ Abaixo, na tabela 17, está especificado o caso de uso para a funcionalidade de 
 |        |
 |  1.1   | 15/05/2025 |                                                                  introdução, objetivo e metodologia                                                                  | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |        |
-|  1.2   | 16/05/2025 | Criação de todas tabelas de especificação de cenários assim como a tabela modelo, e a tabela adição de símbolos da tabela dos componentes do diagrama de caso de uso |  [João Lobo](https://github.com/joaolobo10)  |
-|        |
+|  1.2   | 16/05/2025 | Criação de todas tabelas de especificação de cenários assim como a tabela modelo, e a tabela adição de símbolos da tabela dos componentes do diagrama de caso de uso |  [João Lobo](https://github.com/joaolobo10)  |[Giovana Barbosa](https://github.com/gio221)    |
+|  1.3   | 16/05/2025 | Tabela das funcionalidades Realizar agendamento de serviços e Realizar agendamento de serviços|  [Giovana Barbosa](https://github.com/gio221)  |        |
+|  1.4   | 16/05/2025 | Tabela de quem ficou responsavel por qual funcionalidade|  [Giovana Barbosa](https://github.com/gio221)  |        |

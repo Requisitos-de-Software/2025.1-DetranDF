@@ -27,16 +27,16 @@ Cada cenário foi estruturado conforme o modelo apresentado na Tabela 1, que org
 
 <font size="3"><p style="text-align: center">**Tabela 2 -**Distribuição de funcionalidades entre os integrantes para elaboração dos cenários .</p></font>
 
-|                  Integrante                  |                        Cenário                         |
-| :------------------------------------------: | :----------------------------------------------------: |
-| [Giovana Barbosa](https://github.com/gio221) | Realizar agendamentos presencias (vistoria, CNH, etc.) |
-| [Giovana Barbosa](https://github.com/gio221) |Sistema de pagamento de taxas e débitos      |
-|  [Gabriel Mendes](https://github.com/gbevi)  |          Integração com CNH digital e gov.br           |
-|  [Gabriel Mendes](https://github.com/gbevi)  |   área para autoescolas com avaliações e comentários   |
-|  [Eric Akio](https://github.com/eric-kingu)  |       Agendamento de provas teóricas e práticas        |
-|  [Eric Akio](https://github.com/eric-kingu)  |    Acessibilidade para diferentes tipos de usuário     |
-|[João Lobo](https://github.com/joaolobo10)|Chat com IA para tirar dúvidas|
-|[João Lobo](https://github.com/joaolobo10)|Chat com IA para tirar dúvidas|
+|                  Integrante                  |                          Cenário                          |
+| :------------------------------------------: | :-------------------------------------------------------: |
+| [Giovana Barbosa](https://github.com/gio221) |  Realizar agendamentos presencias (vistoria, CNH, etc.)   |
+| [Giovana Barbosa](https://github.com/gio221) |          Sistema de pagamento de taxas e débitos          |
+|  [Gabriel Mendes](https://github.com/gbevi)  |            Integração com CNH digital e gov.br            |
+|  [Gabriel Mendes](https://github.com/gbevi)  |    área para autoescolas com avaliações e comentários     |
+|  [Eric Akio](https://github.com/eric-kingu)  |         Agendamento de provas teóricas e práticas         |
+|  [Eric Akio](https://github.com/eric-kingu)  |      Acessibilidade para diferentes tipos de usuário      |
+|  [João Lobo](https://github.com/joaolobo10)  |              Chat com IA para tirar dúvidas               |
+|  [João Lobo](https://github.com/joaolobo10)  | Atendimento ao vivo com servidor do DETRAN via chat/vídeo |
 
 ## Realizar agendamentos presencias (vistoria, CNH, etc.)
 
@@ -61,7 +61,7 @@ A tabela 3 descreve o cenário do requisito funcional Realizar agendamentos pres
 
 A tabela 4 descreve o cenário do requisito funcional Sistema de pagamento de taxas e débitos, que foi rastreada pela técnica de elicitação BS03
 
-#### Tabela 4: Cenário -Sistema de pagamento de taxas e débitos
+#### Tabela 4: Cenário - Sistema de pagamento de taxas e débitos
 
 | **Item**      | **Descrição**                                                                                                                                                                                                                                                                                                                                 |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -99,7 +99,7 @@ A tabela 5 descreve o cenário do requisito funcional Integração com a CNH dig
 
 A tabela 6 descreve o cenário do requisito funcional área para auto-escolas com avaliações, comentários e localização, que foi rastreada pela técnica de elicitação BS08.
 
-#### Tabela 6: Cenário -Área para auto-escolas com avaliações, comentários e localização
+#### Tabela 6: Cenário - Área para auto-escolas com avaliações, comentários e localização
 
 | **Item**      | **Descrição**                                                                                                                                                                                                     |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -196,16 +196,16 @@ A tabela 11 descreve o cenário do requisito funcional Histórico de Pesquisas e
 
 #### Tabela 11: Cenário - Histórico de Pesquisas e Serviços Recentes
 
-| **Item**      | **Descrição**                                                                                                                                                                                                                                                                                              |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**    | Histórico de Pesquisas e Serviços Recentes                                                                                                                                                                                                                                                                 |
-| **Objetivo**  | Permitir que o usuário visualize rapidamente os últimos serviços acessados ou pesquisas realizadas dentro do aplicativo, facilitando o acesso recorrente.                                                                                                                                                |
-| **Contexto**  | **Local:** Aplicativo do Detran-DF <br>**Tempo:** Em tempo real <br>**Pré-condição:** O usuário deve estar autenticado no sistema e já ter realizado alguma ação como acessar um serviço ou realizar uma pesquisa.                                                                                       |
-| **Atores**    | Usuário                                                                                                                                                                                                                                                                                                   |
-| **Recursos**  | Conexão com a internet <br>Smartphone com o aplicativo Detran-DF instalado e conta ativa                                                                                                                                                                                                                   |
-| **Episódios** | 1. O usuário realiza o login no aplicativo <br>2. O sistema armazena as ações mais recentes realizadas <br>3. Ao retornar ao app, o sistema exibe as pesquisas ou serviços recentes acessados pelo usuário                                                                                               |
-| **Restrição** | Exibição limitada aos últimos X itens recentes <br>Privacidade dos dados locais                                                                                                                                                                                                                           |
-| **Exceção**   | Falha no armazenamento ou carregamento do histórico <br>Conexão instável com a internet                                                                                                                                                                                                                   |
+| **Item**      | **Descrição**                                                                                                                                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Título**    | Histórico de Pesquisas e Serviços Recentes                                                                                                                                                                         |
+| **Objetivo**  | Permitir que o usuário visualize rapidamente os últimos serviços acessados ou pesquisas realizadas dentro do aplicativo, facilitando o acesso recorrente.                                                          |
+| **Contexto**  | **Local:** Aplicativo do Detran-DF <br>**Tempo:** Em tempo real <br>**Pré-condição:** O usuário deve estar autenticado no sistema e já ter realizado alguma ação como acessar um serviço ou realizar uma pesquisa. |
+| **Atores**    | Usuário                                                                                                                                                                                                            |
+| **Recursos**  | Conexão com a internet <br>Smartphone com o aplicativo Detran-DF instalado e conta ativa                                                                                                                           |
+| **Episódios** | 1. O usuário realiza o login no aplicativo <br>2. O sistema armazena as ações mais recentes realizadas <br>3. Ao retornar ao app, o sistema exibe as pesquisas ou serviços recentes acessados pelo usuário         |
+| **Restrição** | Exibição limitada aos últimos X itens recentes <br>Privacidade dos dados locais                                                                                                                                    |
+| **Exceção**   | Falha no armazenamento ou carregamento do histórico <br>Conexão instável com a internet                                                                                                                            |
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
@@ -217,30 +217,30 @@ A tabela 12 descreve o cenário do requisito funcional Notificação antecipada 
 
 #### Tabela 12: Cenário - Notificação antecipada da data de vencimento da CNH
 
-| **Item**      | **Descrição**                                                                                                                                                                                                                                                                                                     |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Título**    | Notificação antecipada da data de vencimento da CNH                                                                                                                                                                                                                                                              |
-| **Objetivo**  | Alertar o usuário com antecedência sobre o vencimento da sua CNH para que ele possa renovar o documento dentro do prazo.                                                                                                                                                                                         |
-| **Contexto**  | **Local:** Aplicativo do Detran-DF <br>**Tempo:** Diariamente, em processo automatizado <br>**Pré-condição:** O usuário deve possuir CNH cadastrada e ativa no sistema                                                                                                                                           |
-| **Atores**    | Sistema (automação), Usuário                                                                                                                                                                                                                                                                                     |
-| **Recursos**  | Aplicativo do Detran-DF <br>Base de dados com vencimentos da CNH <br>Serviço de notificação push                                                                                                                                                                                                                 |
+| **Item**      | **Descrição**                                                                                                                                                                                                                                                                                                       |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**    | Notificação antecipada da data de vencimento da CNH                                                                                                                                                                                                                                                                 |
+| **Objetivo**  | Alertar o usuário com antecedência sobre o vencimento da sua CNH para que ele possa renovar o documento dentro do prazo.                                                                                                                                                                                            |
+| **Contexto**  | **Local:** Aplicativo do Detran-DF <br>**Tempo:** Diariamente, em processo automatizado <br>**Pré-condição:** O usuário deve possuir CNH cadastrada e ativa no sistema                                                                                                                                              |
+| **Atores**    | Sistema (automação), Usuário                                                                                                                                                                                                                                                                                        |
+| **Recursos**  | Aplicativo do Detran-DF <br>Base de dados com vencimentos da CNH <br>Serviço de notificação push                                                                                                                                                                                                                    |
 | **Episódios** | 1. O sistema verifica a base de dados com as datas de vencimento das CNHs <br>2. Detecta que a CNH do usuário vencerá em 30 dias <br>3. Envia uma notificação push ao usuário alertando sobre o vencimento próximo <br>4. O usuário clica na notificação e é redirecionado à página com informações sobre renovação |
-| **Restrição** | A notificação será enviada somente para CNHs com vencimento cadastrado <br>Notificações dependem de permissão do sistema operacional do celular                                                                                                                           |
-| **Exceção**   | Falha no serviço de notificação <br>CNH sem dados atualizados no sistema <br>Usuário desativou o recebimento de notificações                                                                                                                                                                                    |
+| **Restrição** | A notificação será enviada somente para CNHs com vencimento cadastrado <br>Notificações dependem de permissão do sistema operacional do celular                                                                                                                                                                     |
+| **Exceção**   | Falha no serviço de notificação <br>CNH sem dados atualizados no sistema <br>Usuário desativou o recebimento de notificações                                                                                                                                                                                        |
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
 ## Histórico de versão
 
-| Versão |    Data    |                                               Descrição                                                |                    Autor                     |                  Revisor                   |
-| :----: | :--------: | :----------------------------------------------------------------------------------------------------: | :------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/05/2025 |                        criação do documento, introdução, metodologia e objetivo                        | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
-|  1.1   | 15/05/2025 |                     cenário Realizar agendamentos presencias (vistoria, CNH, etc.)                     | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
-|  1.2   | 15/05/2025 |                            cenário Sistema de pagamento de taxas e débitos                             | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
-|  1.3   | 15/05/2025 |                               Ajuste de metodologia e ajuste de tabelas                                |  [João Lobo](https://github.com/joaolobo10)  | [Gabriel Mendes](https://github.com/gbevi) |
-|  1.4   | 16/05/2025 |                                    cenário Integração CNH e gov.br                                     |  [Gabriel Mendes](https://github.com/gbevi)  | [Eric Akio](https://github.com/eric-kingu) |
-|  1.5   | 16/05/2025 |                                     cenário área para auto-escolas                                     |  [Gabriel Mendes](https://github.com/gbevi)  | [Eric Akio](https://github.com/eric-kingu) |
-|  1.6   | 16/05/2025 | Cenários: agendamento de provas teóricas e práticas, e acessibilidade para diferentes tipos de usuário |  [Eric Akio](https://github.com/eric-kingu)  |      [Giovana Barbosa](https://github.com/gio221)                                      |
-|  1.7   | 16/05/2025 | Cénarios de Chat com IA para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo |  [João Lobo](https://github.com/joaolobo10)  |      [Giovana Barbosa](https://github.com/gio221)                                      |
-|  1.7   | 17/05/2025 | Atualizei tabela 2 |      [Giovana Barbosa](https://github.com/gio221)       |[Luiz Bessa](https://github.com/lfelipebessa)|
-|  1.7   | 17/05/2025 | Realizando as tabelas 11 e 12 |      [Luiz Bessa](https://github.com/lfelipebessa)       | |
+| Versão |    Data    |                                               Descrição                                                |                     Autor                     |                    Revisor                    |
+| :----: | :--------: | :----------------------------------------------------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: |
+|  1.0   | 14/05/2025 |                        criação do documento, introdução, metodologia e objetivo                        | [Giovana Barbosa](https://github.com/gio221)  |  [João Lobo](https://github.com/joaolobo10)   |
+|  1.1   | 15/05/2025 |                     cenário Realizar agendamentos presencias (vistoria, CNH, etc.)                     | [Giovana Barbosa](https://github.com/gio221)  |  [João Lobo](https://github.com/joaolobo10)   |
+|  1.2   | 15/05/2025 |                            cenário Sistema de pagamento de taxas e débitos                             | [Giovana Barbosa](https://github.com/gio221)  |  [João Lobo](https://github.com/joaolobo10)   |
+|  1.3   | 15/05/2025 |                               Ajuste de metodologia e ajuste de tabelas                                |  [João Lobo](https://github.com/joaolobo10)   |  [Gabriel Mendes](https://github.com/gbevi)   |
+|  1.4   | 16/05/2025 |                                    cenário Integração CNH e gov.br                                     |  [Gabriel Mendes](https://github.com/gbevi)   |  [Eric Akio](https://github.com/eric-kingu)   |
+|  1.5   | 16/05/2025 |                                     cenário área para auto-escolas                                     |  [Gabriel Mendes](https://github.com/gbevi)   |  [Eric Akio](https://github.com/eric-kingu)   |
+|  1.6   | 16/05/2025 | Cenários: agendamento de provas teóricas e práticas, e acessibilidade para diferentes tipos de usuário |  [Eric Akio](https://github.com/eric-kingu)   | [Giovana Barbosa](https://github.com/gio221)  |
+|  1.7   | 16/05/2025 | Cénarios de Chat com IA para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo |  [João Lobo](https://github.com/joaolobo10)   | [Giovana Barbosa](https://github.com/gio221)  |
+|  1.7   | 17/05/2025 |                                           Atualizei tabela 2                                           | [Giovana Barbosa](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.7   | 17/05/2025 |                                     Realizando as tabelas 11 e 12                                      | [Luiz Bessa](https://github.com/lfelipebessa) |                                               |

@@ -16,20 +16,15 @@ A **tabela 1** descreve o checklist dos casos de uso
 
 <font size="3"><p style="text-align: center">**Tabela 1 **- Checklist técnica dos casos de uso </p></font>
 
-| ID | Critérios | Sim/Não/Incompleto | Tempo no vídeo |
-| :-: | --- | :---: | --- |
-| 1 | Os atores são representados por um boneco com a legenda “ator”? |  | 02:18 |
-| 2 | Os atores estão posicionados fora do retângulo? |  | 02:52 |
-| 3 | Os atores são categóricos? |  | 03:11 |
-| 4 | Os atores são divididos em primários e secundários? |  | 03:18 |
-| 5 | Os atores principais estão à direita? |  | 03:55 |
-| 6 | Os atores secundários estão do lado direito? |  | 03:55 |
-| 7 | O caso de uso está dentro do sistema? |  | 04:15 |
-| 8 | O caso de uso representa uma ação? |  | 04:15 |
-| 9 | O caso de uso é retangular? |  | 04:24 |
-| 10 | Começa no verbo infinitivo (fazer, consultar)? |  | 05:25 |
-| 11 | O relacionamento é exibido por uma linha sólida simples (associação)? |  | 05:44 |
-| 12 | Cada ator precisa interagir com ao menos um caso de uso? |  | 05:59 |
+| ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento do chat?                             |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   |  | [Print](/docs/assets/verificação/casodeuso.png) |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 

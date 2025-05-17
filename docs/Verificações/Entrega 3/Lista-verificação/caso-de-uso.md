@@ -10,7 +10,7 @@ Esse artefato tem como objetivo documentar a lista de verificação dos casos de
 
 Criamos uma lista como descrita na tabela 1.
 
-## Lista de Verificação da técnica dos $100
+## Lista de Verificação
 
 A **tabela 1** descreve o checklist dos casos de uso
 

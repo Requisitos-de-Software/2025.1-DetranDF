@@ -28,8 +28,8 @@ Criamos uma lista como descrita na tabela 1
 
 Video da verificação
  
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/mDGhsYD6ZDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="https://youtu.be/mDGhsYD6ZDg" target="blanket">Vídeo da verificação </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/i5Nbujb-y_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/i5Nbujb-y_c" target="blanket">Vídeo da verificação </a></p>
  
 A tabela abaixo descreve o checklist do artefato 
  
@@ -54,8 +54,8 @@ Tabela 1: Checklist Cenários
 
 Video da verificação
  
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/mDGhsYD6ZDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="https://youtu.be/mDGhsYD6ZDg" target="blanket">Vídeo da verificação </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/i5Nbujb-y_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/i5Nbujb-y_c" target="blanket">Vídeo da verificação </a></p>
  
 A tabela abaixo descreve o checklist do artefato 
  

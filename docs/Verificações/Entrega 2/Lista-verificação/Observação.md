@@ -1,7 +1,7 @@
-#Introdução
+# Introdução
 Esse artefato é para que possamos ter acesso a lista de verificação que será utilizada para verificar a elicitação por meio da observação
 
-#Lista de verificação 
+# Lista de verificação 
 
 | Item | Verificação                                                                                      | Sim / Não-Incompleto |
 |------|--------------------------------------------------------------------------------------------------|----------------------|

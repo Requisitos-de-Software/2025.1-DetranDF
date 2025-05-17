@@ -26,8 +26,10 @@ A aplicação do léxico no Detran-DF envolve a identificação de termos releva
 |       L02        | [Giovana Barbosa](https://github.com/gio221)  |          Sistema de pagamento de taxas e débitos          |
 |       L03        | [Luiz Bessa](https://github.com/lfelipebessa) |        Histórico de Pesquisas e Serviços Recentes         |
 |       L04        | [Luiz Bessa](https://github.com/lfelipebessa) |    Notificação antecipada da data de vencimento da CNH    |
-|       L03        |  [João Lobo](https://github.com/joaolobo10)   |              Chat com IA para tirar dúvidas               |
-|       L04        |  [João Lobo](https://github.com/joaolobo10)   | Atendimento ao vivo com servidor do DETRAN via chat/vídeo |
+|       L05        |  [João Lobo](https://github.com/joaolobo10)   |              Chat com IA para tirar dúvidas               |
+|       L06        |  [João Lobo](https://github.com/joaolobo10)   | Atendimento ao vivo com servidor do DETRAN via chat/vídeo |
+| L07 | [Eric Akio](https://github.com/eric-kingu) | Realizar agendamentos online de provas teóricas e práticas |
+| L08 | [Eric Akio](https://github.com/eric-kingu) | Acessibilidade para diferentes tipos de usuários |
 
 ## Objeto
 
@@ -46,8 +48,10 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 | L08 - Servidor                                   | Objeto        | Funcionário do Detran DF responsável pelo atendimento.                                              | Presta atendimento remoto ao cidadão.                                                                        | Atendente, Funcionário              | [João Lobo](https://github.com/joaolobo10)    |
 | L09 - Agendamento                                | Objeto        | Ato de marcar data e horário para atendimento.                                                      | Pré-requisito para iniciar o atendimento ao vivo.                                                            | Reserva de horário                  | [João Lobo](https://github.com/joaolobo10)    |
 | L10 - Atendimento ao vivo                        | Objeto        | Sessão de conversa com servidor via chat, voz ou vídeo.                                             | Resolve dúvidas com presença humana.                                                                         | Sessão remota                       | [João Lobo](https://github.com/joaolobo10)    |
+| L11 - Prova | Objeto | Avaliação de conhecimentos teóricos ou práticos | Permite dar continuidade ao processo de obtenção da CNH | Avaliação | [Eric Akio](https://github.com/eric-kingu) |
+| L12 - Acessibilidade | Objeto | Garantia que todos tenham autonomia para realizar tarefas | Facilita o uso do aplicativo para alguns usuários | Alcance, acesso | [Eric Akio](https://github.com/eric-kingu) |
 
-<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## Verbo
 
@@ -67,8 +71,9 @@ Nos léxicos do tipo Verbo, se referem às ações que os usuários podem fazer 
 | L08 - Agendar                                 | Verbo         | Escolher data e horário para atendimento ao vivo.                                                      | Garante que o atendimento ocorra no momento apropriado.                                       | Marcar horário                    | [João Lobo](https://github.com/joaolobo10)    |
 | L09 - Iniciar atendimento                     | Verbo         | Ação de começar a conversa com o servidor.                                                             | Dá início ao processo de atendimento remoto.                                                  | Começar sessão                    | [João Lobo](https://github.com/joaolobo10)    |
 | L10 - Comparecer                              | Verbo         | Entrar na sessão no horário marcado.                                                                   | Requisito para que o atendimento ocorra.                                                      | Participar                        | [João Lobo](https://github.com/joaolobo10)    |
+| L11 - Realizar agendamentos de provas       | Verbo         | Permite ao usuário reservar um horário para realização da prova teórica ou prática | Ação que permite ao usuário marcar previamente a realização das provas | Agendar, Reservar, Marcar horário | [Eric Akio](https://github.com/eric-kingu) |
 
-<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## Estado
 
@@ -97,4 +102,5 @@ Os léxicos do tipo Estado se referem às condições ou situações específica
 |  1.2   | 16/05/2025 |                                      Adição de tabelas padronizadas para léxicos de estado, verbo e objeto                                       |  [João Lobo](https://github.com/joaolobo10)   | [Giovana Barbosa](https://github.com/gio221)  |
 |  1.3   | 16/05/2025 |                                                             Adição do lexico 01 e 02                                                             | [Giovana Barbosa](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.4   | 17/05/2025 |                                                             Adição do lexico 03 e 04                                                             | [Luiz Bessa](https://github.com/lfelipebessa) |  [João Lobo](https://github.com/joaolobo10)   |
-|  1.5   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidade Chat com IA para tirar dúvidas, e Atendimento com servidor do Detran-DF ao vivo |  [João Lobo](https://github.com/joaolobo10)   |                                               |
+|  1.5   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidade Chat com IA para tirar dúvidas, e Atendimento com servidor do Detran-DF ao vivo |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
+| 1.6 | 17/06/2025 | [Eric Akio](https://github.com/eric-kingu) |  |

@@ -36,7 +36,7 @@ No diagrama de caso de uso , precisamos ter todos esses componentes:
 
 ## Diagrama de Caso de Uso do app Detran-DF
 
-## Especifiação do Caso de Uso
+## Especificação do Caso de Uso
 
 A especificação dos casos de uso é uma técnica utilizada para descrever detalhadamente as interações entre os usuários e o sistema. Ela documenta os passos seguidos em cada caso de uso, incluindo os eventos que desencadeiam a interação, as ações realizadas e as respostas esperadas do sistema.
 
@@ -245,7 +245,7 @@ Abaixo, na tabela 12, está especificado o caso de uso para a funcionalidade de 
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
 
-### Explicacoes acessíveis sobre siglas
+### Explicações acessíveis sobre siglas
 
 Abaixo, na tabela 13, está especificado o caso de uso para a funcionalidade de "Explicacoes acessíveis sobre siglas".
 
@@ -305,15 +305,15 @@ Abaixo, na tabela 16, está especificado o caso de uso para a funcionalidade de 
 
 <font size="3"><p style="text-align: center">**Tabela 16 -** Agendamento online para provas teóricas e práticas.</p></font>
 
-| UC13                  | Nome do caso de uso                                                                                                                                           |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descrição**         | Uma breve explicação do que o caso de uso faz ou descreve.                                                                                                    |
-| **Atores**            | Os papéis ou entidades que interagem com o sistema.                                                                                                           |
-| **Pré-condição**      | As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.                                                                            |
-| **Pós-condição**      | As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.                                                                          |
-| **Fluxo principal**   | A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.                                        |
-| **Fluxo alternativo** | Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal. |
-| **Fluxo de exceções** | Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.                                           |
+| UC13                  | Agendamento online para provas teóricas e práticas |
+| --------------------- | --------------------------------------- |
+| **Descrição**         | Permite que o usuário visualize os dias e horários livres para se realizar as provas, assim como fazer o agendamento das mesmas. |
+| **Atores**            | Usuário (ator principal), Sistema |
+| **Pré-condição**      | O usuário deve estar autenticado no sistema e ter acesso aos serviços disponíveis para agendamento. |
+| **Pós-condição**      | Um agendamento é criado e armazenado no sistema. O usuário recebe uma confirmação com os detalhes do agendamento. |
+| **Fluxo principal**   | 1. O usuário acessa a área de agendamentos.<br>2. O sistema exibe os serviços disponíveis.<br>3. O usuário seleciona o serviço desejado.<br>4. O sistema apresenta os horários e locais disponíveis.<br>5. O usuário escolhe data, horário e local.<br>6. O sistema solicita confirmação.<br>7. O usuário confirma.<br>8. O sistema registra o agendamento e apresenta a confirmação ao usuário. |
+| **Fluxo alternativo** | 5a. O horário selecionado está indisponível: o sistema exibe uma mensagem e solicita nova escolha. <br>5b. O usuário escolhe outra data/horário/local. |
+| **Fluxo de exceções** | - E1. Falha de conexão com o sistema: exibir mensagem de erro e tentar nova conexão. <br>- E2. Dados obrigatórios não preenchidos: sistema alerta e impede a confirmação do agendamento. <br>- E3. Usuário tenta selecionar prova prática mas não fez ou não passou na prova teórica: Sistema alerta e impede a confirmação do agendamento. |
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
 
@@ -323,15 +323,15 @@ Abaixo, na tabela 17, está especificado o caso de uso para a funcionalidade de 
 
 <font size="3"><p style="text-align: center">**Tabela 17 -** Acessibilidade para diferentes perfis de usuários.</p></font>
 
-| UC14                  | Nome do caso de uso                                                                                                                                           |
+| UC14                  | Acessibilidade para diferentes perfis de usuários |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descrição**         | Uma breve explicação do que o caso de uso faz ou descreve.                                                                                                    |
-| **Atores**            | Os papéis ou entidades que interagem com o sistema.                                                                                                           |
-| **Pré-condição**      | As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.                                                                            |
-| **Pós-condição**      | As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.                                                                          |
-| **Fluxo principal**   | A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.                                        |
-| **Fluxo alternativo** | Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal. |
-| **Fluxo de exceções** | Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.                                           |
+| **Descrição**         | Permite que o usuário utilize o aplicativo da maneira mais confortável |
+| **Atores**            | Usuário (ator principal), Sistema, extensões ou aplicativos de terceiros |
+| **Pré-condição**      | O usuário possuir o aplicativo instalado e tenta o acessar. |
+| **Pós-condição**      | O usuário não tem reclamações sobre o uso do sistema |
+| **Fluxo principal**   | 1. O usuário acessa o aplicativo. <br>2. A extensão, aplicativo ou o próprio sistema modifica o aplicativo visual ou sonoramente. |
+| **Fluxo alternativo** | 1a. O usuário pede auxílio para outra pessoa para configurar o aplicativo.  |
+| **Fluxo de exceções** | - E1. Sistema não tem suporte para a extensão ou aplicativo: Sistema alerta e impede o acesso. <br>- E2. Sistema não possui configurações de acessibilidade: Sistema apresenta um botão de reclamações. |
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
 
@@ -347,4 +347,5 @@ Abaixo, na tabela 17, está especificado o caso de uso para a funcionalidade de 
 |  1.3   | 16/05/2025 |                                    Tabela das funcionalidades Realizar agendamento de serviços e Realizar agendamento de serviços                                    | [Giovana Barbosa](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.4   | 16/05/2025 |                                                       Tabela de quem ficou responsavel por qual funcionalidade                                                       | [Giovana Barbosa](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.5   | 17/05/2025 |                                                            Realizando as tabelas 11 e 12 dos casos de uso                                                            | [Luiz Bessa](https://github.com/lfelipebessa) |  [João Lobo](https://github.com/joaolobo10)   |
-|  1.6   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Chat com IA para tirar dúvidas e Atendimento ao vivo com servidor do Detran-DF uso             |  [João Lobo](https://github.com/joaolobo10)   |                                               |
+|  1.6   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades: Chat com IA para tirar dúvidas e Atendimento ao vivo com servidor do Detran-DF uso             |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
+| 1.7 | 17/05/2025 | Realização das tabelas de caso de uso: Agendamento online para provas teóricas e práticas, e Acessibilidade para diferentes perfis de usuário | |

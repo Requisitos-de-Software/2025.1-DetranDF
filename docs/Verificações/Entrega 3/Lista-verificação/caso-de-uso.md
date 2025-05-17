@@ -21,7 +21,7 @@ A **tabela 1** descreve o checklist dos casos de uso
 | 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |  | [Print](/docs/assets/verificação/casodeuso.png) |
 | 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             |  | [Print](/docs/assets/verificação/casodeuso.png) |
 | 3 | As **pré-condições** e **pós-condições** estão completas?    |  | [Print](/docs/assets/verificação/casodeuso.png) |
-| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento do chat?                             |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             |  | [Print](/docs/assets/verificação/casodeuso.png) |
 | 5 | Existem **fluxos alternativo e de exceções** bem definidos?            |  | [Print](/docs/assets/verificação/casodeuso.png) |
 | 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   |  | [Print](/docs/assets/verificação/casodeuso.png) |
 

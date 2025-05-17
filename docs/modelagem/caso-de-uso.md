@@ -52,10 +52,10 @@ A tabela 2 descreve qual funcionalidade cada integrante fez um caso de uso.
 | 4     | UC04   | Atendimento ao vivo com servidor do DETRAN via chat/vídeo        | [João Lobo](https://github.com/joaolobo10)   |
 | 5     | UC05   | Integração com CNH digital e gov.br                              | [Gabriel Mendes](https://github.com/gbevi)   |
 | 6     | UC06   | Área para autoescolas com avaliações, comentários e localizações | [Gabriel Mendes](https://github.com/gbevi)   |
-| 7     | UC07   | Histórico de Pesquisas e Serviços Recentes                       | Luiz Bessa(https://github.com/lfelipebessa)  |
-| 8     | UC08   | Notificação antecipada da data de vencimento da CNH              | Luiz Bessa(https://github.com/lfelipebessa)  |
-| 9     | UC09   | Área educacional com explicações e vídeos                        | Pedro Camilo                                 |
-| 10    | UC10   | Explicações acessíveis sobre siglas                              | Pedro Camilo                                 |
+| 7     | UC07   | Histórico de Pesquisas e Serviços Recentes                       | [Luiz Bessa](https://github.com/lfelipebessa)  |
+| 8     | UC08   | Notificação antecipada da data de vencimento da CNH              | [Luiz Bessa](https://github.com/lfelipebessa)  |
+| 9     | UC09   | Área educacional com explicações e vídeos                        |[Pedro Camilo](https://github.com/PedrooCamilo)|
+| 10    | UC10   | Explicações acessíveis sobre siglas                              |[Pedro Camilo](https://github.com/PedrooCamilo)|
 | 11    | UC11   | Notificação de multas e prazos com desconto                      | Maria Eduarda                                |
 | 12    | UC12   | Aviso automático em caso de roubo/recuperação do carro           | Maria Eduarda                                |
 | 13    | UC13   | Agendamento online para provas teóricas e práticas               | [Eric Akio](https://github.com/eric-kingu)   |
@@ -233,33 +233,37 @@ Abaixo, na tabela 12, está especificado o caso de uso para a funcionalidade de 
 
 <font size="3"><p style="text-align: center">**Tabela 12 -** Área educacional com explicações e vídeos.</p></font>
 
-| UC09                  | Nome do caso de uso                                                                                                                                           |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descrição**         | Uma breve explicação do que o caso de uso faz ou descreve.                                                                                                    |
-| **Atores**            | Os papéis ou entidades que interagem com o sistema.                                                                                                           |
-| **Pré-condição**      | As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.                                                                            |
-| **Pós-condição**      | As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.                                                                          |
-| **Fluxo principal**   | A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.                                        |
-| **Fluxo alternativo** | Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal. |
-| **Fluxo de exceções** | Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.                                           |
+| **Campo**             | **Descrição**                                                                                                                                                                                                                                                                                                        |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **UC09**              | Área educacional com explicações e vídeos                                                                                                                                                                                                                                                                            |
+| **Descrição**         | Este caso de uso descreve a interação do usuário com a área educacional do aplicativo do Detran-DF, onde é possível acessar vídeos e textos educativos sobre trânsito, legislação e cidadania no trânsito.                                                                                                           |
+| **Atores**            | Usuário (cidadão), Sistema do Detran-DF                                                                                                                                                                                                                                                                              |
+| **Pré-condição**      | O usuário deve estar com o aplicativo instalado e com acesso à internet.                                                                                                                                                                                                                                             |
+| **Pós-condição**      | O usuário acessou, visualizou ou interagiu com os conteúdos educacionais da plataforma.                                                                                                                                                                                                                              |
+| **Fluxo principal**   | 1. O usuário abre o aplicativo do Detran-DF. <br> 2. O usuário navega até a “Área Educacional”. <br> 3. O sistema exibe os temas disponíveis. <br> 4. O usuário seleciona um tema. <br> 5. O sistema apresenta vídeos e textos explicativos sobre o tema. <br> 6. O usuário assiste aos vídeos ou lê as explicações. |
+| **Fluxo alternativo** | A1. O usuário utiliza o campo de busca para encontrar um tema específico. <br> A2. O sistema exibe apenas os conteúdos relacionados ao termo buscado.                                                                                                                                                                |
+| **Fluxo de exceções** | E1. Falha na conexão com a internet. <br> → O sistema exibe mensagem de erro: “Conexão indisponível. Verifique sua internet.” <br> E2. Nenhum conteúdo disponível no momento. <br> → O sistema informa que novos conteúdos serão adicionados em breve.                                                               |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
 
-### Explicacoes acessíveis sobre siglas
+### Explicações acessíveis sobre siglas
 
-Abaixo, na tabela 13, está especificado o caso de uso para a funcionalidade de "Explicacoes acessíveis sobre siglas".
+Abaixo, na tabela 13, está especificado o caso de uso para a funcionalidade de "Explicações acessíveis sobre siglas".
 
 <font size="3"><p style="text-align: center">**Tabela 13 -** Explicacoes acessíveis sobre siglas.</p></font>
 
-| UC10                  | Nome do caso de uso                                                                                                                                           |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descrição**         | Uma breve explicação do que o caso de uso faz ou descreve.                                                                                                    |
-| **Atores**            | Os papéis ou entidades que interagem com o sistema.                                                                                                           |
-| **Pré-condição**      | As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.                                                                            |
-| **Pós-condição**      | As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.                                                                          |
-| **Fluxo principal**   | A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.                                        |
-| **Fluxo alternativo** | Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal. |
-| **Fluxo de exceções** | Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.                                           |
+| **Campo**             | **Descrição**                                                                                                                                                                                                                                                                             |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **UC10**              | Explicações acessíveis sobre siglas                                                                                                                                                                                                                                                       |
+| **Descrição**         | Este caso de uso descreve como o usuário pode acessar explicações simples e claras sobre siglas como RENAVAM, CRLV e CNH diretamente nas telas onde elas aparecem, facilitando o entendimento do conteúdo.                                                                                |
+| **Atores**            | Usuário (cidadão), Sistema do Detran-DF                                                                                                                                                                                                                                                   |
+| **Pré-condição**      | O usuário deve estar utilizando o aplicativo e visualizar uma sigla desconhecida em alguma funcionalidade.                                                                                                                                                                                |
+| **Pós-condição**      | O usuário compreende o significado da sigla consultada.                                                                                                                                                                                                                                   |
+| **Fluxo principal**   | 1. O usuário acessa uma funcionalidade no aplicativo (ex: consulta de veículo). <br> 2. O usuário se depara com uma sigla (ex: RENAVAM). <br> 3. O usuário toca no ícone de ajuda ao lado da sigla. <br> 4. O sistema exibe um popup com o significado da sigla e uma explicação simples. |
+| **Fluxo alternativo** | A1. O usuário acessa uma seção dedicada com a lista completa de siglas e significados. <br> A2. O sistema exibe a lista e permite busca por sigla.                                                                                                                                        |
+| **Fluxo de exceções** | E1. A sigla não possui explicação cadastrada. <br> → O sistema exibe a mensagem: “Estamos trabalhando para adicionar essa explicação. Você pode enviar sua dúvida aqui.”                                                                                                                  |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
 
@@ -347,4 +351,5 @@ Abaixo, na tabela 17, está especificado o caso de uso para a funcionalidade de 
 |  1.3   | 16/05/2025 |                                    Tabela das funcionalidades Realizar agendamento de serviços e Realizar agendamento de serviços                                    | [Giovana Barbosa](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.4   | 16/05/2025 |                                                       Tabela de quem ficou responsavel por qual funcionalidade                                                       | [Giovana Barbosa](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.5   | 17/05/2025 |                                                            Realizando as tabelas 11 e 12 dos casos de uso                                                            | [Luiz Bessa](https://github.com/lfelipebessa) |  [João Lobo](https://github.com/joaolobo10)   |
-|  1.6   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Chat com IA para tirar dúvidas e Atendimento ao vivo com servidor do Detran-DF uso             |  [João Lobo](https://github.com/joaolobo10)   |                                               |
+|  1.6   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Chat com IA para tirar dúvidas e Atendimento ao vivo com servidor do Detran-DF uso             |  [João Lobo](https://github.com/joaolobo10)   |     [Pedro Camilo](https://github.com/PedrooCamilo)                                          |
+|  1.7   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Área educacional com explicações e vídeos, Explicações acessíveis sobre siglas             |  [Pedro Camilo](https://github.com/PedrooCamilo)   |                                               |

@@ -34,7 +34,7 @@ No diagrama de caso de uso , precisamos ter todos esses componentes:
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
-## Diagram de Caso de Uso do app Detran- DF
+## Diagrama de Caso de Uso do app Detran-DF
 
 ## Especifiação do Caso de Uso
 
@@ -44,22 +44,22 @@ A tabela 2 descreve qual funcionalidade cada integrante fez um caso de uso.
 
 <font size="3"><p style="text-align: center">**Tabela 2 -** Divisão de caso de uso por integrantes da equipe.</p></font>
 
-| Ordem | Código | Funcionalidade                                                           | Responsável         |
-|-------|--------|---------------------------------------------------------------------------|---------------------|
-| 1     | UC01   | Realizar agendamentos presenciais (vistoria, CNH, etc.)                  | [Giovana Barbosa](https://github.com/gio221)  |
-| 2     | UC02   | Sistema de pagamento de taxas e débitos                                  | [Giovana Barbosa](https://github.com/gio221)     |
-| 3     | UC03   | Chat com IA para tirar dúvidas                                           | [João Lobo](https://github.com/joaolobo10)          |
-| 4     | UC04   | Atendimento ao vivo com servidor do DETRAN via chat/vídeo               | [João Lobo](https://github.com/joaolobo10)          |
-| 5     | UC05   | Integração com CNH digital e gov.br                                      | [Gabriel Mendes](https://github.com/gbevi)     |
-| 6     | UC06   | Área para autoescolas com avaliações, comentários e localizações        | [Gabriel Mendes](https://github.com/gbevi)      |
-| 7     | UC07   | Histórico de Pesquisas e Serviços Recentes                              | Luiz Bessa(https://github.com/lfelipebessa)          |
-| 8     | UC08   | Notificação antecipada da data de vencimento da CNH                     | Luiz Bessa(https://github.com/lfelipebessa)          |
-| 9     | UC09   | Área educacional com explicações e vídeos                               | Pedro Camilo        |
-| 10    | UC10   | Explicações acessíveis sobre siglas                                     | Pedro Camilo        |
-| 11    | UC11   | Notificação de multas e prazos com desconto                             | Maria Eduarda       |
-| 12    | UC12   | Aviso automático em caso de roubo/recuperação do carro                  | Maria Eduarda       |
-| 13    | UC13   | Agendamento online para provas teóricas e práticas                      | [Eric Akio](https://github.com/eric-kingu)          |
-| 14    | UC14   | Acessibilidade para diferentes perfis de usuários                       | [Eric Akio](https://github.com/eric-kingu)         |
+| Ordem | Código | Funcionalidade                                                   | Responsável                                  |
+| ----- | ------ | ---------------------------------------------------------------- | -------------------------------------------- |
+| 1     | UC01   | Realizar agendamentos presenciais (vistoria, CNH, etc.)          | [Giovana Barbosa](https://github.com/gio221) |
+| 2     | UC02   | Sistema de pagamento de taxas e débitos                          | [Giovana Barbosa](https://github.com/gio221) |
+| 3     | UC03   | Chat com IA para tirar dúvidas                                   | [João Lobo](https://github.com/joaolobo10)   |
+| 4     | UC04   | Atendimento ao vivo com servidor do DETRAN via chat/vídeo        | [João Lobo](https://github.com/joaolobo10)   |
+| 5     | UC05   | Integração com CNH digital e gov.br                              | [Gabriel Mendes](https://github.com/gbevi)   |
+| 6     | UC06   | Área para autoescolas com avaliações, comentários e localizações | [Gabriel Mendes](https://github.com/gbevi)   |
+| 7     | UC07   | Histórico de Pesquisas e Serviços Recentes                       | Luiz Bessa(https://github.com/lfelipebessa)  |
+| 8     | UC08   | Notificação antecipada da data de vencimento da CNH              | Luiz Bessa(https://github.com/lfelipebessa)  |
+| 9     | UC09   | Área educacional com explicações e vídeos                        | Pedro Camilo                                 |
+| 10    | UC10   | Explicações acessíveis sobre siglas                              | Pedro Camilo                                 |
+| 11    | UC11   | Notificação de multas e prazos com desconto                      | Maria Eduarda                                |
+| 12    | UC12   | Aviso automático em caso de roubo/recuperação do carro           | Maria Eduarda                                |
+| 13    | UC13   | Agendamento online para provas teóricas e práticas               | [Eric Akio](https://github.com/eric-kingu)   |
+| 14    | UC14   | Acessibilidade para diferentes perfis de usuários                | [Eric Akio](https://github.com/eric-kingu)   |
 
 Já na tabela 3 temos o modelo base usado em nossas especificações dos casos de uso.
 
@@ -83,25 +83,16 @@ Abaixo, na tabela 4, está especificado o caso de uso para a funcionalidade de "
 
 <font size="3"><p style="text-align: center">**Tabela 4 -** Requisitos Realizar agendamento de serviços.</p></font>
 
-| UC01                  | Nome do caso de uso                                                                                                                                           |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **UC01**            | Realizar agendamento de serviços                                                                                                                    |
-| **Descrição**       | Este caso de uso descreve como o usuário realiza o agendamento de um serviço presencial (ex: vistoria, CNH, etc.) por meio da plataforma.           |
-| **Atores**          | Usuário (ator principal), Sistema                                                                                                                    |
-| **Pré-condição**    | O usuário deve estar autenticado no sistema e ter acesso aos serviços disponíveis para agendamento.                                                 |
-| **Pós-condição**    | Um agendamento é criado e armazenado no sistema. O usuário recebe uma confirmação com os detalhes do agendamento.                                   |
-| **Fluxo principal** | 1. O usuário acessa a área de agendamentos.  
-2. O sistema exibe os serviços disponíveis.  
-3. O usuário seleciona o serviço desejado.  
-4. O sistema apresenta os horários e locais disponíveis.  
-5. O usuário escolhe data, horário e local.  
-6. O sistema solicita confirmação.  
-7. O usuário confirma.  
-8. O sistema registra o agendamento e apresenta a confirmação ao usuário. |
-| **Fluxo alternativo** | - 3a. O usuário decide alterar o serviço selecionado: retorna à lista de serviços.  
-- 5a. O horário selecionado está indisponível: o sistema exibe uma mensagem e solicita nova escolha. |
-| **Fluxo de exceções** | - E1. Falha de conexão com o sistema: exibir mensagem de erro e tentar nova conexão.  
-- E2. Dados obrigatórios não preenchidos: sistema alerta e impede a confirmação do agendamento. |
+| UC01                  | Nome do caso de uso                                                                                                                                                                                                                                                                                                                                                                              |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **UC01**              | Realizar agendamento de serviços                                                                                                                                                                                                                                                                                                                                                                 |
+| **Descrição**         | Este caso de uso descreve como o usuário realiza o agendamento de um serviço presencial (ex: vistoria, CNH, etc.) por meio da plataforma.                                                                                                                                                                                                                                                        |
+| **Atores**            | Usuário (ator principal), Sistema                                                                                                                                                                                                                                                                                                                                                                |
+| **Pré-condição**      | O usuário deve estar autenticado no sistema e ter acesso aos serviços disponíveis para agendamento.                                                                                                                                                                                                                                                                                              |
+| **Pós-condição**      | Um agendamento é criado e armazenado no sistema. O usuário recebe uma confirmação com os detalhes do agendamento.                                                                                                                                                                                                                                                                                |
+| **Fluxo principal**   | 1. O usuário acessa a área de agendamentos.<br>2. O sistema exibe os serviços disponíveis.<br>3. O usuário seleciona o serviço desejado.<br>4. O sistema apresenta os horários e locais disponíveis.<br>5. O usuário escolhe data, horário e local.<br>6. O sistema solicita confirmação.<br>7. O usuário confirma.<br>8. O sistema registra o agendamento e apresenta a confirmação ao usuário. |
+| **Fluxo alternativo** | <br>- 3a. O usuário decide alterar o serviço selecionado: retorna à lista de serviços.<br>- 5a. O horário selecionado está indisponível: o sistema exibe uma mensagem e solicita nova escolha.                                                                                                                                                                                                   |
+| **Fluxo de exceções** | - E1. Falha de conexão com o sistema: exibir mensagem de erro e tentar nova conexão. <br>- E2. Dados obrigatórios não preenchidos: sistema alerta e impede a confirmação do agendamento.                                                                                                                                                                                                         |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
@@ -111,25 +102,17 @@ Abaixo, na tabela 5, está especificado o caso de uso para a funcionalidade de "
 
 <font size="3"><p style="text-align: center">**Tabela 5 -** Sistema de pagamento de taxas e débitos.</p></font>
 
-| UC02                  | Nome do caso de uso                                                                                                                                           |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **UC02**            | Sistema de pagamento de taxas e débitos                                                                                                             |
-| **Descrição**       | Este caso de uso descreve como o usuário acessa e realiza o pagamento de taxas e débitos vinculados aos seus serviços no sistema.                   |
-| **Atores**          | Usuário (ator principal), Sistema, Instituição financeira (ator secundário)                                                                         |
-| **Pré-condição**    | O usuário deve estar autenticado no sistema e possuir débitos ou taxas pendentes.                                                                   |
-| **Pós-condição**    | O pagamento é processado e registrado no sistema. O usuário recebe um comprovante.                                                                  |
-| **Fluxo principal** | 1. O usuário acessa a seção de pagamentos.  
-2. O sistema exibe os débitos e taxas pendentes.  
-3. O usuário seleciona os itens que deseja pagar.  
-4. O sistema exibe o valor total e as formas de pagamento disponíveis.  
-5. O usuário escolhe a forma de pagamento (boleto, cartão, Pix, etc.).  
-6. O sistema redireciona para o ambiente seguro de pagamento.  
-7. O usuário realiza o pagamento.  
-8. O sistema confirma o pagamento e gera um comprovante. |
-| **Fluxo alternativo** | - 3a. O usuário decide parcelar os débitos: o sistema apresenta as opções de parcelamento.  
-- 5a. A forma de pagamento não está disponível: o sistema sugere alternativas. |
-| **Fluxo de exceções** | - E1. Falha de conexão com o sistema de pagamento: exibir mensagem e oferecer tentativa posterior.  
-- E2. Pagamento recusado: notificar o usuário e manter os débitos como pendentes. |
+| **Seção**               | **Descrição**                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ID**                  | UC02                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Nome**                | Sistema de pagamento de taxas e débitos                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| **Descrição**           | Este caso de uso descreve como o usuário acessa e realiza o pagamento de taxas e débitos vinculados aos seus serviços no sistema.                                                                                                                                                                                                                                                                                                                                                |
+| **Atores**              | Usuário (ator principal), Sistema, Instituição financeira (ator secundário)                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Pré-condição**        | O usuário deve estar autenticado no sistema e possuir débitos ou taxas pendentes.                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Pós-condição**        | O pagamento é processado e registrado no sistema. O usuário recebe um comprovante.                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Fluxo Principal**     | 1. O usuário acessa a seção de pagamentos. <br>2. O sistema exibe os débitos e taxas pendentes. <br>3. O usuário seleciona os itens que deseja pagar. <br>4. O sistema exibe o valor total e as formas de pagamento disponíveis. <br>5. O usuário escolhe a forma de pagamento (boleto, cartão, Pix, etc.). <br>6. O sistema redireciona para o ambiente seguro de pagamento. <br>7. O usuário realiza o pagamento. <br>8. O sistema confirma o pagamento e gera um comprovante. |
+| **Fluxos Alternativos** | - **3a.** O usuário decide parcelar os débitos: o sistema apresenta as opções de parcelamento. <br> - **5a.** A forma de pagamento não está disponível: o sistema sugere alternativas.                                                                                                                                                                                                                                                                                           |
+| **Fluxos de Exceção**   | - **E1.** Falha de conexão com o sistema de pagamento: exibir mensagem e oferecer tentativa posterior. <br> - **E2.** Pagamento recusado: notificar o usuário e manter os débitos como pendentes.                                                                                                                                                                                                                                                                                |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
@@ -211,18 +194,15 @@ Abaixo, na Tabela 10, está especificado o caso de uso para a funcionalidade de 
 
 <font size="3"><p style="text-align: center">**Tabela 10 -** Histórico de Pesquisas e Serviços Recentes.</p></font>
 
-| UC07                  | Histórico de Pesquisas e Serviços Recentes |
-|----------------------|---------------------------------------------|
-| **Descrição**         | Permite ao usuário visualizar rapidamente os últimos serviços acessados ou pesquisas realizadas dentro do aplicativo, facilitando o acesso recorrente. |
-| **Atores**            | Usuário |
-| **Pré-condição**      | O usuário deve estar autenticado no sistema e já ter realizado alguma ação como acessar um serviço ou realizar uma pesquisa. |
-| **Pós-condição**      | Os serviços ou pesquisas realizadas são salvos e exibidos em uma seção visível na tela inicial ou área de histórico. |
-| **Fluxo principal**   | 1. O usuário realiza o login.  
-2. O sistema verifica as ações mais recentes feitas pelo usuário.  
-3. O sistema armazena essas ações localmente ou no servidor.  
-4. Ao acessar o app novamente, o sistema exibe as últimas pesquisas ou serviços acessados. |
-| **Fluxo alternativo** | 1a. Se o usuário não realizou nenhuma ação anterior, a seção de histórico estará vazia ou exibirá uma mensagem "Nenhum histórico encontrado". |
-| **Fluxo de exceções** | 1e. Em caso de erro no carregamento do histórico, o sistema deve exibir uma mensagem de erro amigável e sugerir que o usuário tente novamente mais tarde. |
+| UC07                  | Histórico de Pesquisas e Serviços Recentes                                                                                                                                                                                                                       |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Descrição**         | Permite ao usuário visualizar rapidamente os últimos serviços acessados ou pesquisas realizadas dentro do aplicativo, facilitando o acesso recorrente.                                                                                                           |
+| **Atores**            | Usuário                                                                                                                                                                                                                                                          |
+| **Pré-condição**      | O usuário deve estar autenticado no sistema e já ter realizado alguma ação como acessar um serviço ou realizar uma pesquisa.                                                                                                                                     |
+| **Pós-condição**      | Os serviços ou pesquisas realizadas são salvos e exibidos em uma seção visível na tela inicial ou área de histórico.                                                                                                                                             |
+| **Fluxo principal**   | 1. O usuário realiza o login.<br>2. O sistema verifica as ações mais recentes feitas pelo usuário.<br>3. O sistema armazena essas ações localmente ou no servidor.<br>4. Ao acessar o app novamente, o sistema exibe as últimas pesquisas ou serviços acessados. |
+| **Fluxo alternativo** | 1a. Se o usuário não realizou nenhuma ação anterior, a seção de histórico estará vazia ou exibirá uma mensagem "Nenhum histórico encontrado".                                                                                                                    |
+| **Fluxo de exceções** | 1e. Em caso de erro no carregamento do histórico, o sistema deve exibir uma mensagem de erro amigável e sugerir que o usuário tente novamente mais tarde.                                                                                                        |
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
@@ -234,18 +214,15 @@ Abaixo, na Tabela 11, está especificado o caso de uso para a funcionalidade de 
 
 <font size="3"><p style="text-align: center">**Tabela 11 -** Notificação antecipada da data de vencimento da CNH.</p></font>
 
-| UC08                  | Notificação antecipada da data de vencimento da CNH |
-|----------------------|------------------------------------------------------|
-| **Descrição**         | O sistema verifica periodicamente a data de vencimento da CNH registrada e envia uma notificação ao usuário com antecedência de 30 dias. |
-| **Atores**            | Sistema (automação), Usuário |
-| **Pré-condição**      | O usuário deve ter uma CNH cadastrada no sistema com data de validade registrada. |
-| **Pós-condição**      | O usuário recebe uma notificação push alertando sobre o vencimento próximo da CNH. |
-| **Fluxo principal**   | 1. O sistema agenda uma verificação periódica das datas de vencimento da CNH.  
-2. O sistema identifica que a CNH do usuário vencerá em 30 dias.  
-3. O sistema envia uma notificação para o dispositivo do usuário.  
-4. O usuário visualiza a notificação e pode acessar mais informações no app. |
-| **Fluxo alternativo** | 1a. Se a CNH já estiver vencida ou for inválida, o sistema não enviará a notificação. |
-| **Fluxo de exceções** | 1e. Se houver falha no envio da notificação, o sistema registra o erro e tenta reenviar na próxima execução da rotina programada. |
+| UC08                  | Notificação antecipada da data de vencimento da CNH                                                                                                                                                                                                                                                    |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Descrição**         | O sistema verifica periodicamente a data de vencimento da CNH registrada e envia uma notificação ao usuário com antecedência de 30 dias.                                                                                                                                                               |
+| **Atores**            | Sistema (automação), Usuário                                                                                                                                                                                                                                                                           |
+| **Pré-condição**      | O usuário deve ter uma CNH cadastrada no sistema com data de validade registrada.                                                                                                                                                                                                                      |
+| **Pós-condição**      | O usuário recebe uma notificação push alertando sobre o vencimento próximo da CNH.                                                                                                                                                                                                                     |
+| **Fluxo principal**   | 1. O sistema agenda uma verificação periódica das datas de vencimento da CNH.<br>2. O sistema identifica que a CNH do usuário vencerá em 30 dias.<br>3. O sistema envia uma notificação para o dispositivo do usuário.<br>4. O usuário visualiza a notificação e pode acessar mais informações no app. |
+| **Fluxo alternativo** | 1a. Se a CNH já estiver vencida ou for inválida, o sistema não enviará a notificação.                                                                                                                                                                                                                  |
+| **Fluxo de exceções** | 1e. Se houver falha no envio da notificação, o sistema registra o erro e tenta reenviar na próxima execução da rotina programada.                                                                                                                                                                      |
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
@@ -359,13 +336,13 @@ Abaixo, na tabela 17, está especificado o caso de uso para a funcionalidade de 
 
 ### Histórico de versão
 
-| Versão |    Data    |                                                                              Descrição                                                                               |                    Autor                     |                  Revisor                   |
-| :----: | :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/05/2025 |                                                                         criação do documento                                                                         | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
+| Versão |    Data    |                                                                              Descrição                                                                               |                     Autor                     |                    Revisor                    |
+| :----: | :--------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: |
+|  1.0   | 14/05/2025 |                                                                         criação do documento                                                                         | [Giovana Barbosa](https://github.com/gio221)  |  [João Lobo](https://github.com/joaolobo10)   |
 |        |
-|  1.1   | 15/05/2025 |                                                                  introdução, objetivo e metodologia                                                                  | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
+|  1.1   | 15/05/2025 |                                                                  introdução, objetivo e metodologia                                                                  | [Giovana Barbosa](https://github.com/gio221)  |  [João Lobo](https://github.com/joaolobo10)   |
 |        |
-|  1.2   | 16/05/2025 | Criação de todas tabelas de especificação de cenários assim como a tabela modelo, e a tabela adição de símbolos da tabela dos componentes do diagrama de caso de uso |  [João Lobo](https://github.com/joaolobo10)  |[Giovana Barbosa](https://github.com/gio221)    |
-|  1.3   | 16/05/2025 | Tabela das funcionalidades Realizar agendamento de serviços e Realizar agendamento de serviços|  [Giovana Barbosa](https://github.com/gio221)  |   [Luiz Bessa](https://github.com/lfelipebessa)     |
-|  1.4   | 16/05/2025 | Tabela de quem ficou responsavel por qual funcionalidade|  [Giovana Barbosa](https://github.com/gio221)  |   [Luiz Bessa](https://github.com/lfelipebessa)     |
-|  1.4   | 17/05/2025 | Realizando as tabelas 11 e 12 dos casos de uso |  [Luiz Bessa](https://github.com/lfelipebessa)  |        |
+|  1.2   | 16/05/2025 | Criação de todas tabelas de especificação de cenários assim como a tabela modelo, e a tabela adição de símbolos da tabela dos componentes do diagrama de caso de uso |  [João Lobo](https://github.com/joaolobo10)   | [Giovana Barbosa](https://github.com/gio221)  |
+|  1.3   | 16/05/2025 |                                    Tabela das funcionalidades Realizar agendamento de serviços e Realizar agendamento de serviços                                    | [Giovana Barbosa](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.4   | 16/05/2025 |                                                       Tabela de quem ficou responsavel por qual funcionalidade                                                       | [Giovana Barbosa](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.4   | 17/05/2025 |                                                            Realizando as tabelas 11 e 12 dos casos de uso                                                            | [Luiz Bessa](https://github.com/lfelipebessa) |                                               |

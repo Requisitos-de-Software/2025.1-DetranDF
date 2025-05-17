@@ -16,15 +16,17 @@ A aplicação do léxico no Detran-DF envolve a identificação de termos releva
 | ----------- | ---------------------- | ----------------------- | --------------------------------------- | -------------- | ----------------------------------- |
 | LXX - Nome. | Objeto, Verbo, Estado. | Significado do símbolo. | Efeito, uso ou ocorrência na aplicação. | Termo similar. | Integrante responsável pelo léxico. |
 
+
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 <font size="3"><p style="text-align: center">**Tabela 2 -**Distribuição de funcionalidades entre os integrantes para elaboração dos lexicos .</p></font>
 
-Numero do Lexico|                  Integrante                  |                        Cenário                         |
-| :------------------------------------------: | :----------------------------------------------------: |:------------------------------------------: | 
-|L01| [Giovana Barbosa](https://github.com/gio221) | Realizar agendamentos presencias (vistoria, CNH, etc.) |
-|L02| [Giovana Barbosa](https://github.com/gio221) |      Sistema de pagamento de taxas e débitos       |
-
+| Numero do Lexico |               Integrante               |                        Cenário                         |
+|:----------------:|:--------------------------------------:|:------------------------------------------------------:|
+| L01              | [Giovana Barbosa](https://github.com/gio221) | Realizar agendamentos presenciais (vistoria, CNH, etc.) |
+| L02              | [Giovana Barbosa](https://github.com/gio221) | Sistema de pagamento de taxas e débitos                |
+| L03              | [Luiz Bessa](https://github.com/lfelipebessa) | Histórico de Pesquisas e Serviços Recentes             |
+| L04              | [Luiz Bessa](https://github.com/lfelipebessa) | Notificação antecipada da data de vencimento da CNH    |
 
 ## Objeto
 
@@ -36,8 +38,9 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 | ----------- | ---------------------- | ----------------------- | --------------------------------------- | -------------- | ----------------------------------- |
 | LXX - Nome. | Objeto, Verbo, Estado. | Significado do símbolo. | Efeito, uso ou ocorrência na aplicação. | Termo similar. | Integrante responsável pelo léxico. |
 | L02| Autorização de estacionamento | Objeto        | Concede ao idoso o direito de utilizar vagas preferenciais em áreas públicas e privadas | Documento físico ou digital que comprova o direito de estacionar em vaga especial de idoso | Permissão, Cartão de Estacionamento | 
+| L03 | Histórico de Pesquisas e Serviços Recentes | Objeto | Registro que armazena os últimos acessos a serviços ou pesquisas feitas pelo usuário dentro do app. | Permite que o sistema exiba atalhos rápidos baseados em ações anteriores do usuário, otimizando a navegação. | Histórico, Atividades Recentes | [Luiz Bessa](https://github.com/lfelipebessa) |
 
-<font size="3"><p style="text-align: center">Autores, 2025.</p></font>
+<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa) , 2025.</p></font>
 
 ## Verbo
 
@@ -50,8 +53,9 @@ Nos léxicos do tipo Verbo, se referem às ações que os usuários podem fazer 
 | LXX - Nome. | Objeto, Verbo, Estado. | Significado do símbolo. | Efeito, uso ou ocorrência na aplicação. | Termo similar. | Integrante responsável pelo léxico. |
 | L01 | Realizar agendamentos presenciais | Verbo         | Permite ao usuário reservar um horário para atendimento presencial (vistoria, CNH, etc.)        | Ação que permite ao usuário marcar previamente um atendimento em unidades físicas do serviço.                  | Agendar, Reservar, Marcar horário            | 
 | L02 | Solicitar autorização de estacionamento | Verbo         | Permite que idosos requisitem formalmente o direito de estacionar em vagas preferenciais | Ação de enviar uma solicitação ao sistema para obter uma autorização de estacionamento       | Requerer, Pedir autorização        | 
+| L04         | Notificar vencimento da CNH | Verbo | Ação automatizada do sistema que envia um lembrete ao usuário sobre a proximidade do vencimento da CNH | Garante que o usuário seja alertado com antecedência e possa renovar sua habilitação a tempo | Avisar, Alertar | [Luiz Bessa](https://github.com/lfelipebessa) |
 
-<font size="3"><p style="text-align: center">Autores, 2025.</p></font>
+<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
 ## Estado
 
@@ -72,4 +76,5 @@ Os léxicos do tipo Estado se referem às condições ou situações específica
 |  1.0   | 14/05/2025 |                         criação do documento                          | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.1   | 14/05/2025 |             adicionei introdução, objetivo e metodologia              | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.2   | 16/05/2025 | Adição de tabelas padronizadas para léxicos de estado, verbo e objeto |  [João Lobo](https://github.com/joaolobo10)  |              [Giovana Barbosa](https://github.com/gio221)                              |
-|  1.3  | 16/05/2025 | Adição do lexico 01 e 02| [Giovana Barbosa](https://github.com/gio221)  |                                            |
+|  1.3  | 16/05/2025 | Adição do lexico 01 e 02| [Giovana Barbosa](https://github.com/gio221)  |[Luiz Bessa](https://github.com/lfelipebessa)|
+|  1.4  | 17/05/2025 | Adição do lexico 03 e 04| [Luiz Bessa](https://github.com/lfelipebessa) |                                            |

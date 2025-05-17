@@ -52,8 +52,8 @@ A tabela 2 descreve qual funcionalidade cada integrante fez um caso de uso.
 | 4     | UC04   | Atendimento ao vivo com servidor do DETRAN via chat/vídeo               | [João Lobo](https://github.com/joaolobo10)          |
 | 5     | UC05   | Integração com CNH digital e gov.br                                      | [Gabriel Mendes](https://github.com/gbevi)     |
 | 6     | UC06   | Área para autoescolas com avaliações, comentários e localizações        | [Gabriel Mendes](https://github.com/gbevi)      |
-| 7     | UC07   | Histórico de Pesquisas e Serviços Recentes                              | Luiz Bessa          |
-| 8     | UC08   | Notificação antecipada da data de vencimento da CNH                     | Luiz Bessa          |
+| 7     | UC07   | Histórico de Pesquisas e Serviços Recentes                              | Luiz Bessa(https://github.com/lfelipebessa)          |
+| 8     | UC08   | Notificação antecipada da data de vencimento da CNH                     | Luiz Bessa(https://github.com/lfelipebessa)          |
 | 9     | UC09   | Área educacional com explicações e vídeos                               | Pedro Camilo        |
 | 10    | UC10   | Explicações acessíveis sobre siglas                                     | Pedro Camilo        |
 | 11    | UC11   | Notificação de multas e prazos com desconto                             | Maria Eduarda       |
@@ -207,39 +207,47 @@ Abaixo, na tabela 9, está especificado o caso de uso para a funcionalidade de "
 
 ### Histórico de Pesquisas e Serviços Recentes
 
-Abaixo, na tabela 10, está especificado o caso de uso para a funcionalidade de "Histórico de Pesquisas e Serviços Recentes".
+Abaixo, na Tabela 10, está especificado o caso de uso para a funcionalidade de **"Histórico de Pesquisas e Serviços Recentes"**.
 
 <font size="3"><p style="text-align: center">**Tabela 10 -** Histórico de Pesquisas e Serviços Recentes.</p></font>
 
-| UC07                  | Nome do caso de uso                                                                                                                                           |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descrição**         | Uma breve explicação do que o caso de uso faz ou descreve.                                                                                                    |
-| **Atores**            | Os papéis ou entidades que interagem com o sistema.                                                                                                           |
-| **Pré-condição**      | As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.                                                                            |
-| **Pós-condição**      | As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.                                                                          |
-| **Fluxo principal**   | A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.                                        |
-| **Fluxo alternativo** | Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal. |
-| **Fluxo de exceções** | Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.                                           |
+| UC07                  | Histórico de Pesquisas e Serviços Recentes |
+|----------------------|---------------------------------------------|
+| **Descrição**         | Permite ao usuário visualizar rapidamente os últimos serviços acessados ou pesquisas realizadas dentro do aplicativo, facilitando o acesso recorrente. |
+| **Atores**            | Usuário |
+| **Pré-condição**      | O usuário deve estar autenticado no sistema e já ter realizado alguma ação como acessar um serviço ou realizar uma pesquisa. |
+| **Pós-condição**      | Os serviços ou pesquisas realizadas são salvos e exibidos em uma seção visível na tela inicial ou área de histórico. |
+| **Fluxo principal**   | 1. O usuário realiza o login.  
+2. O sistema verifica as ações mais recentes feitas pelo usuário.  
+3. O sistema armazena essas ações localmente ou no servidor.  
+4. Ao acessar o app novamente, o sistema exibe as últimas pesquisas ou serviços acessados. |
+| **Fluxo alternativo** | 1a. Se o usuário não realizou nenhuma ação anterior, a seção de histórico estará vazia ou exibirá uma mensagem "Nenhum histórico encontrado". |
+| **Fluxo de exceções** | 1e. Em caso de erro no carregamento do histórico, o sistema deve exibir uma mensagem de erro amigável e sugerir que o usuário tente novamente mais tarde. |
 
-<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa ](https://github.com/lfelipebessa) , 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+---
 
 ### Notificação antecipada da data de vencimento da CNH
 
-Abaixo, na tabela 11, está especificado o caso de uso para a funcionalidade de "Notificação antecipada da data de vencimento da CNH".
+Abaixo, na Tabela 11, está especificado o caso de uso para a funcionalidade de **"Notificação antecipada da data de vencimento da CNH"**.
 
 <font size="3"><p style="text-align: center">**Tabela 11 -** Notificação antecipada da data de vencimento da CNH.</p></font>
 
-| UC08                  | Nome do caso de uso                                                                                                                                           |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descrição**         | Uma breve explicação do que o caso de uso faz ou descreve.                                                                                                    |
-| **Atores**            | Os papéis ou entidades que interagem com o sistema.                                                                                                           |
-| **Pré-condição**      | As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.                                                                            |
-| **Pós-condição**      | As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.                                                                          |
-| **Fluxo principal**   | A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.                                        |
-| **Fluxo alternativo** | Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal. |
-| **Fluxo de exceções** | Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.                                           |
+| UC08                  | Notificação antecipada da data de vencimento da CNH |
+|----------------------|------------------------------------------------------|
+| **Descrição**         | O sistema verifica periodicamente a data de vencimento da CNH registrada e envia uma notificação ao usuário com antecedência de 30 dias. |
+| **Atores**            | Sistema (automação), Usuário |
+| **Pré-condição**      | O usuário deve ter uma CNH cadastrada no sistema com data de validade registrada. |
+| **Pós-condição**      | O usuário recebe uma notificação push alertando sobre o vencimento próximo da CNH. |
+| **Fluxo principal**   | 1. O sistema agenda uma verificação periódica das datas de vencimento da CNH.  
+2. O sistema identifica que a CNH do usuário vencerá em 30 dias.  
+3. O sistema envia uma notificação para o dispositivo do usuário.  
+4. O usuário visualiza a notificação e pode acessar mais informações no app. |
+| **Fluxo alternativo** | 1a. Se a CNH já estiver vencida ou for inválida, o sistema não enviará a notificação. |
+| **Fluxo de exceções** | 1e. Se houver falha no envio da notificação, o sistema registra o erro e tenta reenviar na próxima execução da rotina programada. |
 
-<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa ](https://github.com/lfelipebessa) , 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
 ### Área educacional com explicações e vídeos
 
@@ -358,5 +366,6 @@ Abaixo, na tabela 17, está especificado o caso de uso para a funcionalidade de 
 |  1.1   | 15/05/2025 |                                                                  introdução, objetivo e metodologia                                                                  | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |        |
 |  1.2   | 16/05/2025 | Criação de todas tabelas de especificação de cenários assim como a tabela modelo, e a tabela adição de símbolos da tabela dos componentes do diagrama de caso de uso |  [João Lobo](https://github.com/joaolobo10)  |[Giovana Barbosa](https://github.com/gio221)    |
-|  1.3   | 16/05/2025 | Tabela das funcionalidades Realizar agendamento de serviços e Realizar agendamento de serviços|  [Giovana Barbosa](https://github.com/gio221)  |        |
-|  1.4   | 16/05/2025 | Tabela de quem ficou responsavel por qual funcionalidade|  [Giovana Barbosa](https://github.com/gio221)  |        |
+|  1.3   | 16/05/2025 | Tabela das funcionalidades Realizar agendamento de serviços e Realizar agendamento de serviços|  [Giovana Barbosa](https://github.com/gio221)  |   [Luiz Bessa](https://github.com/lfelipebessa)     |
+|  1.4   | 16/05/2025 | Tabela de quem ficou responsavel por qual funcionalidade|  [Giovana Barbosa](https://github.com/gio221)  |   [Luiz Bessa](https://github.com/lfelipebessa)     |
+|  1.4   | 17/05/2025 | Realizando as tabelas 11 e 12 dos casos de uso |  [Luiz Bessa](https://github.com/lfelipebessa)  |        |

@@ -97,6 +97,37 @@ A seção de Ajuda e Documentação de um aplicativo é composta por uma série 
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
 
+#### Restrições de Design
+
+As restrições de design definem limitações e diretrizes que devem ser respeitadas no desenvolvimento do aplicativo, garantindo coerência visual, aderência a padrões institucionais e compatibilidade técnica.
+
+<font size="3"><p style="text-align: center">**Tabela 6 –** Requisitos Não Funcionais – Restrições de Design.</p></font>
+
+| ID    | Descrição                                                                                         | Rastreabilidade |
+|-------|---------------------------------------------------------------------------------------------------|-----------------|
+| RD01  | O aplicativo deve seguir a identidade visual do Governo do Distrito Federal                       | RNF09           |
+| RD02  | A interface deve adotar layout responsivo                                                         | RNF01, RNF02    |
+| RD03  | O aplicativo deve utilizar componentes nativos dos sistemas Android e iOS                         | RNF02           |
+| RD04  | Os textos devem ser exibidos em português do Brasil                                               | RNF01           |
+| RD05  | O aplicativo deve manter compatibilidade com o design system do gov.br sempre que possível        | RF15            |
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+#### Requisitos Físicos
+
+Os requisitos físicos descrevem as necessidades de hardware e ambiente para o uso do aplicativo. Embora voltado principalmente para dispositivos móveis, o sistema deve considerar as condições de uso típicas dos usuários.
+
+<font size="3"><p style="text-align: center">**Tabela 7 –** Requisitos Não Funcionais – Requisitos Físicos.</p></font>
+
+| ID    | Descrição                                                                                             | Rastreabilidade |
+|-------|-------------------------------------------------------------------------------------------------------|-----------------|
+| RF01  | O aplicativo deve funcionar em dispositivos com Android 8.0 ou superior                               | RNF02           |
+| RF02  | O aplicativo deve funcionar em dispositivos com iOS 13 ou superior                                    | RNF02           |
+| RF03  | O aplicativo deve ter desempenho satisfatório em redes móveis 3G, 4G ou Wi-Fi                         | RNF10           |
+| RF04  | O tamanho do aplicativo não deve ultrapassar 100 MB                                                   | RNF10           |
+| RF05  | O aplicativo deve permitir funcionamento offline para consultas básicas (ex: histórico de pesquisas)  | RF03, RF21      |
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
 ## Histórico de versão
 
@@ -107,5 +138,7 @@ A seção de Ajuda e Documentação de um aplicativo é composta por uma série 
 |  1.2   | 14/05/2025 |                       adicionei funcionalidade e usabilidade                       | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.3   | 17/05/2025 | Adição de tabelas de Confiabilida e desempenho, relacionando as mesmas com as RNFS |  [João Lobo](https://github.com/joaolobo10)  |        [Gabriel Mendes](https://github.com/gbevi)                                    |
 |  1.4   | 17/05/2025 | Adição de tabelas de Ajuda e Documentação |  [Pedro Camilo](https://github.com/PedrooCamilo)  |     [Gabriel Mendes](https://github.com/gbevi)                                       |
-|  1.5  | 17/05/2025 | Adição de tabelas de Suportabilidade |  [Gabriel Mendes](https://github.com/gbevi)  |                                            |
+|  1.5  | 17/05/2025 | Adição de tabelas de Suportabilidade |  [Gabriel Mendes](https://github.com/gbevi)  |    [Luiz Bessa](https://github.com/lfelipebessa)|
+|  1.6  | 17/05/2025 | Adição de tabelas de Restrições de Design |   [Luiz Bessa](https://github.com/lfelipebessa)|                                            |
+|  1.7  | 17/05/2025 | Adição de tabelas de Requisitos Físicos |   [Luiz Bessa](https://github.com/lfelipebessa)  |                                            |
 

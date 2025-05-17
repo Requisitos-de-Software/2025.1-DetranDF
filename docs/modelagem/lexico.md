@@ -125,6 +125,6 @@ Os léxicos do tipo Estado se referem às condições ou situações específica
 |  1.3   | 16/05/2025 |                                                             Adição do lexico 01 e 02                                                             | [Giovana Barbosa](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.4   | 17/05/2025 |                                                             Adição do lexico 03 e 04                                                             | [Luiz Bessa](https://github.com/lfelipebessa) |  [João Lobo](https://github.com/joaolobo10)   |
 |  1.5   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidade Chat com IA para tirar dúvidas, e Atendimento com servidor do Detran-DF ao vivo |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
-| 1.6 | 17/06/2025 | | [Eric Akio](https://github.com/eric-kingu) | [Pedro Camilo](https://github.com/PedrooCamilo)  |
+| 1.6 | 17/06/2025 | Adição dos léxicos de objeto, verbo e estado das funcionalidades: Agendamento online de provas teóricas e práticas, e Acessibilidade para diferentes tipos de usuários | [Eric Akio](https://github.com/eric-kingu) | [Pedro Camilo](https://github.com/PedrooCamilo)  |
 |  1.7   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidades Área educacional com explicações e vídeos, Acesso rápido a explicações de siglas |  [Pedro Camilo](https://github.com/PedrooCamilo)   |                                        |
 

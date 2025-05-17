@@ -34,7 +34,8 @@ A aplicação do léxico no Detran-DF envolve a identificação de termos releva
 | L08 | [Eric Akio](https://github.com/eric-kingu) | Acessibilidade para diferentes tipos de usuários |
 |       L09        |[Pedro Camilo](https://github.com/PedrooCamilo)| Área educacional com explicações e vídeos                 |
 |       L010        |[Pedro Camilo](https://github.com/PedrooCamilo)| Acesso rápido a explicações de siglas                     |
-
+|       L011        |[Gabriel Mendes](https://github.com/gbevi)| Integração com CNH digital e gov.br                     |
+|       L012        |[Gabriel Mendes](https://github.com/gbevi)| Área para auto-escolas                     |
 
 ## Objeto
 
@@ -57,9 +58,11 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 | L12 - Acessibilidade | Objeto | Garantia que todos tenham autonomia para realizar tarefas | Facilita o uso do aplicativo para alguns usuários | Alcance, acesso | [Eric Akio](https://github.com/eric-kingu) |
 | L13 - Área educacional | Objeto            | Seção do aplicativo dedicada a conteúdos informativos sobre trânsito, legislação e segurança. | Oferece ao usuário vídeos e textos educativos, promovendo a conscientização e o aprendizado. | Central de aprendizado, Conteúdo educativo | [Pedro Camilo](https://github.com/PedrooCamilo) |
 | L14 - Explicação de sigla | Objeto            | Texto curto e acessível que esclarece o significado de siglas utilizadas no app (ex: RENAVAM, CRLV). | Facilita a compreensão dos termos técnicos, tornando o aplicativo mais inclusivo. | Definição de sigla, Ajuda de sigla | [Pedro Camilo](https://github.com/PedrooCamilo) |
+| L15 - Integração CNH digital e gov.br | Objeto            | Integração de APIs | Permite que usuáries acessem e validem sua CNH Digital dentro do aplicativo, integrando as funcionalidades | [Gabriel Mendes](https://github.com/gbevi) |
+| L16 - Área para auto-escolas | Objeto            | Módulo de interação| Cria um espaço dedicado para autoescolas publicarem informações e receberem avaliações e comentários de alunos/clients | [Gabriel Mendes](https://github.com/gbevi) |
 
 
-<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), [Eric Akio](https://github.com/eric-kingu), [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), [Eric Akio](https://github.com/eric-kingu), [Pedro Camilo](https://github.com/PedrooCamilo), [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
 
 ## Verbo
@@ -86,6 +89,8 @@ Nos léxicos do tipo Verbo, se referem às ações que os usuários podem fazer 
 | L14 - Consultar sigla | Verbo             | Ação de tocar ou clicar sobre uma sigla para obter sua explicação.    | Permite ao usuário compreender imediatamente o significado sem sair da tela atual. | Visualizar significado    | [Pedro Camilo](https://github.com/PedrooCamilo) |
 | L15 - Buscar sigla    | Verbo             | Ação de procurar por uma sigla em uma lista geral com campo de busca. | Oferece um canal direto para tirar dúvidas sobre termos técnicos.                  | Pesquisar sigla, Procurar | [Pedro Camilo](https://github.com/PedrooCamilo) |
 | L16 - Realizar agendamentos de provas       | Verbo         | Permite ao usuário reservar um horário para realização da prova teórica ou prática | Ação que permite ao usuário marcar previamente a realização das provas | Agendar, Reservar, Marcar horário | [Eric Akio](https://github.com/eric-kingu) |
+| L17 - Integração com CNH digital e gov.br      | Verbo         | Possibilita que usuários validem e utilizem a CNH Digital autenticando-se via Gov BR dentro do app. | Garante autenticidade dos dados de habilitação e simplifica o login, reduzindo fraudes e etapas manuais. | Vincular, Conectar, Sincronizar dados|[Gabriel Mendes](https://github.com/gbevi) |
+| L18 - Área para auto-escolas      | Verbo         | 	Permite que alunos/clientes publiquem avaliações e comentários sobre serviços de autoescolas. | Melhora a transparência e incentiva a qualidade do serviço por meio de feedback público. | Classificar, Revisar, Comentar | [Eric Akio](https://github.com/eric-kingu) |
 
 <font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), [Eric Akio](https://github.com/eric-kingu), [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
@@ -109,6 +114,8 @@ Os léxicos do tipo Estado se referem às condições ou situações específica
 | L09 - Vídeo em reprodução | Estado            | Momento em que o vídeo está sendo reproduzido no aplicativo.                              | Indica que o usuário está consumindo ativamente o conteúdo. | Vídeo em execução      | [Pedro Camilo](https://github.com/PedrooCamilo) |
 | L10 - Sigla explicada    | Estado            | Situação em que a explicação da sigla foi exibida ao usuário com sucesso. | Garante que o usuário teve acesso à informação desejada.                                   | Explicação visível   | [Pedro Camilo](https://github.com/PedrooCamilo) |
 | L11 - Sigla desconhecida | Estado            | Situação em que a sigla não possui explicação cadastrada no sistema.      | Informa ao sistema que a sigla deve ser adicionada ou reportada como ausência de conteúdo. | Sigla não encontrada | [Pedro Camilo](https://github.com/PedrooCamilo) |
+| L12 - CNH validada   | Estado            | O(a) usuário(a) concluiu a autenticação via Gov BR e sua CNH Digital foi verificada no app. | Desbloqueia recursos que exigem dados oficiais de habilitação (ex.: geração de documentos, consulta de infrações).       | Habilitação confirmada, CNH ativa   | [Gabriel Mendes](https://github.com/gbevi) |
+| L13 - Auto-escola validada | Estado            | A ficha de uma autoescola recebeu pelo menos uma avaliação/comentário e foi registrada no sistema.     | Permite exibir média de notas e feedbacks, influenciando decisões de novos(as) alunos. | Avaliação publicada, Feedback recebido | [Gabriel Mendes](https://github.com/gbevi) |
 
 
 
@@ -127,4 +134,5 @@ Os léxicos do tipo Estado se referem às condições ou situações específica
 |  1.5   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidade Chat com IA para tirar dúvidas, e Atendimento com servidor do Detran-DF ao vivo |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
 | 1.6 | 17/06/2025 | | [Eric Akio](https://github.com/eric-kingu) | [Pedro Camilo](https://github.com/PedrooCamilo)  |
 |  1.7   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidades Área educacional com explicações e vídeos, Acesso rápido a explicações de siglas |  [Pedro Camilo](https://github.com/PedrooCamilo)   |                                        |
+|  1.8   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidades Integração CNH digital e gov.br, Área de auto-escolas |  [Gabriel Mendes](https://github.com/gbevi)   |                                        |
 

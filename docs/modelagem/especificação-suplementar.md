@@ -71,6 +71,20 @@ Desempenho refere-se à capacidade do sistema de responder de forma rápida e ef
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
+#### Suportabilidade
+ 
+Esta seção apresenta os requisitos não-funcionais já elicitados que impactam diretamente a **manutenibilidade, instalação, operação e atualização** do aplicativo — ou seja, sua suportabilidade ao longo do ciclo de vida.
+
+<font size="3"><p style="text-align: center">**Tabela 1 –** Requisitos Não Funcionais – Suportabilidade.</p></font>
+
+| ID    | Descrição originalmente elicitada | Rastreabilidade |
+|:-----:|:----------------------------------|:---------------:|
+| RNF02 | Compatibilidade com diferentes dispositivos e sistemas | RNF02 |
+| RNF10 | Carregamento rápido das páginas | RNF10 |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
+
+
 #### Ajuda e Documentação
 A seção de Ajuda e Documentação de um aplicativo é composta por uma série de recursos projetados para instruir e informar os usuários acerca da operação, funcionalidades e práticas recomendadas para o uso do aplicativo. Esta parte é essencial para assegurar que os usuários consigam empregar o aplicativo eficientemente, esclarecer incertezas e extrair o máximo proveito de suas capacidades. Na tabela 5 temos os requitos elicitados para tal.
 
@@ -91,5 +105,6 @@ A seção de Ajuda e Documentação de um aplicativo é composta por uma série 
 |  1.0   | 14/05/2025 |                                criação do documento                                | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.1   | 14/05/2025 |                    adicionei introdução, obejtivo e metodlogia                     | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.1   | 14/05/2025 |                       adicionei funcionalidade e usabilidade                       | [Giovana Barbosa](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
-|  1.2   | 17/05/2025 | Adição de tabelas de Confiabilida e desempenho, relacionando as mesmas com as RNFS |  [João Lobo](https://github.com/joaolobo10)  |                                            |
-|  1.3   | 17/05/2025 | Adição de tabelas de Ajuda e Documentação |  [Pedro Camilo](https://github.com/PedrooCamilo)  |                                            |
+|  1.2   | 17/05/2025 | Adição de tabelas de Confiabilida e desempenho, relacionando as mesmas com as RNFS |  [João Lobo](https://github.com/joaolobo10)  |        [Gabriel Mendes](https://github.com/gbevi)                                    |
+|  1.3   | 17/05/2025 | Adição de tabelas de Ajuda e Documentação |  [Pedro Camilo](https://github.com/PedrooCamilo)  |     [Gabriel Mendes](https://github.com/gbevi)                                       |
+|  1.3   | 17/05/2025 | Adição de tabelas de Suportabilidade |  [Gabriel Mendes](https://github.com/gbevi)  |                                            |

@@ -23,7 +23,7 @@ A aplicação do léxico no Detran-DF envolve a identificação de termos releva
 Numero do Lexico|                  Integrante                  |                        Cenário                         |
 | :------------------------------------------: | :----------------------------------------------------: |:------------------------------------------: | 
 |L01| [Giovana Barbosa](https://github.com/gio221) | Realizar agendamentos presencias (vistoria, CNH, etc.) |
-|L02| [Giovana Barbosa](https://github.com/gio221) |       Autorização de estacionamento para idosos        |
+|L02| [Giovana Barbosa](https://github.com/gio221) |      Sistema de pagamento de taxas e débitos       |
 
 
 ## Objeto

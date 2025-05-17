@@ -30,7 +30,7 @@ Cada cenário foi estruturado conforme o modelo apresentado na Tabela 1, que org
 |                  Integrante                  |                        Cenário                         |
 | :------------------------------------------: | :----------------------------------------------------: |
 | [Giovana Barbosa](https://github.com/gio221) | Realizar agendamentos presencias (vistoria, CNH, etc.) |
-| [Giovana Barbosa](https://github.com/gio221) |       Autorização de estacionamento para idosos        |
+| [Giovana Barbosa](https://github.com/gio221) |Sistema de pagamento de taxas e débitos      |
 |  [Gabriel Mendes](https://github.com/gbevi)  |          Integração com CNH digital e gov.br           |
 |  [Gabriel Mendes](https://github.com/gbevi)  |   área para autoescolas com avaliações e comentários   |
 |  [Eric Akio](https://github.com/eric-kingu)  |       Agendamento de provas teóricas e práticas        |

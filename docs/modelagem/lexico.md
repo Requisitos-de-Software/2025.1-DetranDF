@@ -28,8 +28,13 @@ A aplicação do léxico no Detran-DF envolve a identificação de termos releva
 |       L04        | [Luiz Bessa](https://github.com/lfelipebessa) |    Notificação antecipada da data de vencimento da CNH    |
 |       L03        |  [João Lobo](https://github.com/joaolobo10)   |              Chat com IA para tirar dúvidas               |
 |       L04        |  [João Lobo](https://github.com/joaolobo10)   | Atendimento ao vivo com servidor do DETRAN via chat/vídeo |
-|       L05        |[Pedro Camilo](https://github.com/PedrooCamilo)| Área educacional com explicações e vídeos                 |
-|       L06        |[Pedro Camilo](https://github.com/PedrooCamilo)| Acesso rápido a explicações de siglas                     |
+|       L05        |  [João Lobo](https://github.com/joaolobo10)   |              Chat com IA para tirar dúvidas               |
+|       L06        |  [João Lobo](https://github.com/joaolobo10)   | Atendimento ao vivo com servidor do DETRAN via chat/vídeo |
+| L07 | [Eric Akio](https://github.com/eric-kingu) | Realizar agendamentos online de provas teóricas e práticas |
+| L08 | [Eric Akio](https://github.com/eric-kingu) | Acessibilidade para diferentes tipos de usuários |
+|       L09        |[Pedro Camilo](https://github.com/PedrooCamilo)| Área educacional com explicações e vídeos                 |
+|       L010        |[Pedro Camilo](https://github.com/PedrooCamilo)| Acesso rápido a explicações de siglas                     |
+
 
 ## Objeto
 
@@ -48,12 +53,14 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 | L08 - Servidor                                   | Objeto        | Funcionário do Detran DF responsável pelo atendimento.                                              | Presta atendimento remoto ao cidadão.                                                                        | Atendente, Funcionário              | [João Lobo](https://github.com/joaolobo10)    |
 | L09 - Agendamento                                | Objeto        | Ato de marcar data e horário para atendimento.                                                      | Pré-requisito para iniciar o atendimento ao vivo.                                                            | Reserva de horário                  | [João Lobo](https://github.com/joaolobo10)    |
 | L10 - Atendimento ao vivo                        | Objeto        | Sessão de conversa com servidor via chat, voz ou vídeo.                                             | Resolve dúvidas com presença humana.                                                                         | Sessão remota                       | [João Lobo](https://github.com/joaolobo10)    |
-| L11 - Área educacional | Objeto            | Seção do aplicativo dedicada a conteúdos informativos sobre trânsito, legislação e segurança. | Oferece ao usuário vídeos e textos educativos, promovendo a conscientização e o aprendizado. | Central de aprendizado, Conteúdo educativo | [Pedro Camilo](https://github.com/PedrooCamilo) |
-| L12 - Explicação de sigla | Objeto            | Texto curto e acessível que esclarece o significado de siglas utilizadas no app (ex: RENAVAM, CRLV). | Facilita a compreensão dos termos técnicos, tornando o aplicativo mais inclusivo. | Definição de sigla, Ajuda de sigla | [Pedro Camilo](https://github.com/PedrooCamilo) |
+| L11 - Prova | Objeto | Avaliação de conhecimentos teóricos ou práticos | Permite dar continuidade ao processo de obtenção da CNH | Avaliação | [Eric Akio](https://github.com/eric-kingu) |
+| L12 - Acessibilidade | Objeto | Garantia que todos tenham autonomia para realizar tarefas | Facilita o uso do aplicativo para alguns usuários | Alcance, acesso | [Eric Akio](https://github.com/eric-kingu) |
+| L13 - Área educacional | Objeto            | Seção do aplicativo dedicada a conteúdos informativos sobre trânsito, legislação e segurança. | Oferece ao usuário vídeos e textos educativos, promovendo a conscientização e o aprendizado. | Central de aprendizado, Conteúdo educativo | [Pedro Camilo](https://github.com/PedrooCamilo) |
+| L14 - Explicação de sigla | Objeto            | Texto curto e acessível que esclarece o significado de siglas utilizadas no app (ex: RENAVAM, CRLV). | Facilita a compreensão dos termos técnicos, tornando o aplicativo mais inclusivo. | Definição de sigla, Ajuda de sigla | [Pedro Camilo](https://github.com/PedrooCamilo) |
 
 
+<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), [Eric Akio](https://github.com/eric-kingu), [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
-<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
 ## Verbo
 
@@ -78,10 +85,10 @@ Nos léxicos do tipo Verbo, se referem às ações que os usuários podem fazer 
 | L13 - Ler explicação textual   | Verbo             | Ler um conteúdo em texto sobre um tema do Detran.                                    | Oferece conhecimento de forma acessível e rápida.                                 | Consultar texto, Ler conteúdo                    | [Pedro Camilo](https://github.com/PedrooCamilo) |
 | L14 - Consultar sigla | Verbo             | Ação de tocar ou clicar sobre uma sigla para obter sua explicação.    | Permite ao usuário compreender imediatamente o significado sem sair da tela atual. | Visualizar significado    | [Pedro Camilo](https://github.com/PedrooCamilo) |
 | L15 - Buscar sigla    | Verbo             | Ação de procurar por uma sigla em uma lista geral com campo de busca. | Oferece um canal direto para tirar dúvidas sobre termos técnicos.                  | Pesquisar sigla, Procurar | [Pedro Camilo](https://github.com/PedrooCamilo) |
+| L16 - Realizar agendamentos de provas       | Verbo         | Permite ao usuário reservar um horário para realização da prova teórica ou prática | Ação que permite ao usuário marcar previamente a realização das provas | Agendar, Reservar, Marcar horário | [Eric Akio](https://github.com/eric-kingu) |
 
+<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), [Eric Akio](https://github.com/eric-kingu), [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
-
-<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
 ## Estado
 
@@ -117,5 +124,7 @@ Os léxicos do tipo Estado se referem às condições ou situações específica
 |  1.2   | 16/05/2025 |                                      Adição de tabelas padronizadas para léxicos de estado, verbo e objeto                                       |  [João Lobo](https://github.com/joaolobo10)   | [Giovana Barbosa](https://github.com/gio221)  |
 |  1.3   | 16/05/2025 |                                                             Adição do lexico 01 e 02                                                             | [Giovana Barbosa](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.4   | 17/05/2025 |                                                             Adição do lexico 03 e 04                                                             | [Luiz Bessa](https://github.com/lfelipebessa) |  [João Lobo](https://github.com/joaolobo10)   |
-|  1.5   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidade Chat com IA para tirar dúvidas, e Atendimento com servidor do Detran-DF ao vivo |  [João Lobo](https://github.com/joaolobo10)   |   [Pedro Camilo](https://github.com/PedrooCamilo)    |     
-|  1.6   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidades Área educacional com explicações e vídeos, Acesso rápido a explicações de siglas |  [Pedro Camilo](https://github.com/PedrooCamilo)   |                                        |
+|  1.5   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidade Chat com IA para tirar dúvidas, e Atendimento com servidor do Detran-DF ao vivo |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
+| 1.6 | 17/06/2025 | | [Eric Akio](https://github.com/eric-kingu) | [Pedro Camilo](https://github.com/PedrooCamilo)  |
+|  1.7   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidades Área educacional com explicações e vídeos, Acesso rápido a explicações de siglas |  [Pedro Camilo](https://github.com/PedrooCamilo)   |                                        |
+

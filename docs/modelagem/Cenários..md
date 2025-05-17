@@ -37,6 +37,9 @@ Cada cenário foi estruturado conforme o modelo apresentado na Tabela 1, que org
 |  [Eric Akio](https://github.com/eric-kingu)  |      Acessibilidade para diferentes tipos de usuário      |
 |  [João Lobo](https://github.com/joaolobo10)  |              Chat com IA para tirar dúvidas               |
 |  [João Lobo](https://github.com/joaolobo10)  | Atendimento ao vivo com servidor do DETRAN via chat/vídeo |
+|  [Pedro Camilo](https://github.com/PedrooCamilo) |Área educacional com explicações e vídeos              |
+|  [Pedro Camilo](https://github.com/PedrooCamilo) | Acesso rápido a explicações de siglas                 |
+
 
 ## Realizar agendamentos presencias (vistoria, CNH, etc.)
 
@@ -230,6 +233,52 @@ A tabela 12 descreve o cenário do requisito funcional Notificação antecipada 
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
+
+---
+
+## Área educacional com explicações e vídeos
+
+A tabela 13 descreve o cenário do requisito funcional Área educacional com explicações e vídeos, que foi rastreado pela técnica de elicitação BS16.
+
+#### Tabela 13: Cenário - Área educacional com explicações e vídeos
+
+| **Item**      | **Descrição**                                                                                                                                                                                                                                                                                             |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Título**    | Acesso à área educacional no aplicativo Detran-DF                                                                                                                                                                                                                                                       |
+| **Objetivo**  | Permitir que os usuários acessem conteúdos educativos em formato de texto e vídeo sobre temas relacionados ao trânsito, legislação e segurança.                                                                                                                                                         |
+| **Contexto**  | O usuário está autenticado no aplicativo Detran-DF em um smartphone com acesso à internet. São dias e horários variados, pois o acesso pode ser feito a qualquer momento.                                                                                                                               |
+| **Atores**    | Usuário do aplicativo (cidadão); Sistema do Detran-DF.                                                                                                                                                                                                                                                  |
+| **Recursos**  | Smartphone com aplicativo instalado; conexão com a internet; servidor com vídeos e textos educativos.                                                                                                                                                                                                   |
+| **Episódios** | 1. O usuário acessa o menu principal do aplicativo.  <br> 2. O usuário seleciona a opção “Área Educacional”. <br> 3. O sistema exibe uma lista de temas educativos disponíveis. <br> 4. O usuário escolhe um tema e acessa vídeos e textos explicativos. <br> 5. O sistema exibe o conteúdo solicitado. |
+| **Restrição** | O conteúdo deve estar disponível para todos os usuários, independentemente de sua formação; os vídeos devem conter legendas; o aplicativo deve garantir acessibilidade (ex: compatibilidade com leitores de tela).                                                                                      |
+| **Exceção**   | O usuário não possui conexão com a internet no momento do acesso → o sistema exibe uma mensagem de erro informando que é necessário estar online para acessar os conteúdos educativos.                                                                                                                  |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+---
+
+## Acesso rápido a explicações de siglas
+
+A tabela 14 descreve o cenário do requisito funcional Explicações de siglas no aplicativo Detran-DF, que foi rastreado pela técnica de elicitação GLO05.
+
+#### Tabela 14: Cenário - Acesso rápido a explicações de siglas
+
+| **Item**      | **Cenário**                                                                                                                                                                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Título**    | Acesso rápido a explicações de siglas no aplicativo Detran-DF                                                                                                                                                                                    |
+| **Objetivo**  | Permitir que os usuários compreendam o significado de siglas utilizadas no aplicativo, como RENAVAM, CRLV e CNH, por meio de explicações acessíveis.                                                                                             |
+| **Contexto**  | O usuário está navegando por uma funcionalidade do aplicativo (como consulta de veículo ou carteira de habilitação), e se depara com uma sigla desconhecida.                                                                                     |
+| **Atores**    | Usuário do aplicativo; Sistema do Detran-DF                                                                                                                                                                                                      |
+| **Recursos**  | Aplicativo instalado em smartphone; base de dados com explicações das siglas.                                                                                                                                                                    |
+| **Episódios** | 1. O usuário visualiza uma sigla (ex: RENAVAM) em uma tela do aplicativo. <br> 2. O usuário toca em um ícone de ajuda (ex: interrogação ao lado da sigla). <br> 3. O sistema exibe um popup com o significado e uma explicação simples da sigla. |
+| **Restrição** | As explicações devem ser exibidas de forma clara, com linguagem acessível e compatível com leitores de tela.                                                                                                                                     |
+| **Exceção**   | Se a sigla ainda não estiver cadastrada no banco de explicações → o sistema informa que a definição será adicionada em breve e oferece um canal para envio de dúvida.                                                                            |
+
+
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
 ## Histórico de versão
 
 | Versão |    Data    |                                               Descrição                                                |                     Autor                     |                    Revisor                    |
@@ -243,4 +292,5 @@ A tabela 12 descreve o cenário do requisito funcional Notificação antecipada 
 |  1.6   | 16/05/2025 | Cenários: agendamento de provas teóricas e práticas, e acessibilidade para diferentes tipos de usuário |  [Eric Akio](https://github.com/eric-kingu)   | [Giovana Barbosa](https://github.com/gio221)  |
 |  1.7   | 16/05/2025 | Cénarios de Chat com IA para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo |  [João Lobo](https://github.com/joaolobo10)   | [Giovana Barbosa](https://github.com/gio221)  |
 |  1.7   | 17/05/2025 |                                           Atualizei tabela 2                                           | [Giovana Barbosa](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |
-|  1.7   | 17/05/2025 |                                     Realizando as tabelas 11 e 12                                      | [Luiz Bessa](https://github.com/lfelipebessa) |                                               |
+|  1.7   | 17/05/2025 |                                     Realizando as tabelas 11 e 12                                      | [Luiz Bessa](https://github.com/lfelipebessa) |  [Pedro Camilo](https://github.com/PedrooCamilo) |              
+|  1.8   | 17/05/2025 |                                     Área educacional com explicações e vídeos, Acesso rápido a explicações de siglas                                   | [Pedro Camilo](https://github.com/PedrooCamilo) |                                         |

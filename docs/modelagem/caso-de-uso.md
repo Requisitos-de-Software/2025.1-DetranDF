@@ -36,6 +36,18 @@ No diagrama de caso de uso , precisamos ter todos esses componentes:
 
 ## Diagrama de Caso de Uso do app Detran-DF
 
+<font size="3"><p style="text-align: center">**Figura 1 -** Diagrama de Casos de Uso.</p></font>
+
+<center>
+
+![Diagrama Caso de uso Detran DF](../assets/casos_de_uso/simbolos/diagramaCasodeUsodetran.png)
+
+</center>
+
+Acesse a imagem nesse [link](https://drive.google.com/file/d/1cOhTLCXsaTTtm8O7iCZVKvPkB-eZoheT/view?usp=drive_link)
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
+
 ## Especificação do Caso de Uso
 
 A especificação dos casos de uso é uma técnica utilizada para descrever detalhadamente as interações entre os usuários e o sistema. Ela documenta os passos seguidos em cada caso de uso, incluindo os eventos que desencadeiam a interação, as ações realizadas e as respostas esperadas do sistema.

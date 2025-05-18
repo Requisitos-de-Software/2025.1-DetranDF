@@ -56,8 +56,8 @@ A tabela 2 descreve qual funcionalidade cada integrante fez um caso de uso.
 | 8     | UC08   | Notificação antecipada da data de vencimento da CNH              | [Luiz Bessa](https://github.com/lfelipebessa)  |
 | 9     | UC09   | Área educacional com explicações e vídeos                        |[Pedro Camilo](https://github.com/PedrooCamilo)|
 | 10    | UC10   | Explicações acessíveis sobre siglas                              |[Pedro Camilo](https://github.com/PedrooCamilo)|
-| 11    | UC11   | Notificação de multas e prazos com desconto                      | Maria Eduarda                                |
-| 12    | UC12   | Aviso automático em caso de roubo/recuperação do carro           | Maria Eduarda                                |
+| 11    | UC11   | Notificação de multas e prazos com desconto                      | [Maria Eduarda](https://github.com/maaduh)  |
+| 12    | UC12   | Aviso automático em caso de roubo/recuperação do carro           | [Maria Eduarda](https://github.com/maaduh)  |
 | 13    | UC13   | Agendamento online para provas teóricas e práticas               | [Eric Akio](https://github.com/eric-kingu)   |
 | 14    | UC14   | Acessibilidade para diferentes perfis de usuários                | [Eric Akio](https://github.com/eric-kingu)   |
 
@@ -275,15 +275,20 @@ Abaixo, na tabela 14, está especificado o caso de uso para a funcionalidade de 
 
 <font size="3"><p style="text-align: center">**Tabela 14 -** Notificação de multas e prazos com desconto.</p></font>
 
-| UC11                  | Nome do caso de uso                                                                                                                                           |
+| UC12                  | Notificação de multas e prazos com desconto                                                                                                                                            |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descrição**         | Uma breve explicação do que o caso de uso faz ou descreve.                                                                                                    |
-| **Atores**            | Os papéis ou entidades que interagem com o sistema.                                                                                                           |
-| **Pré-condição**      | As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.                                                                            |
-| **Pós-condição**      | As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.                                                                          |
-| **Fluxo principal**   | A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.                                        |
-| **Fluxo alternativo** | Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal. |
-| **Fluxo de exceções** | Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.                                           |
+| **Descrição**         | Permite que o sistema informe o usuário sobre uma multa registrada, indicando que ainda está dentro do prazo para pagamento com desconto.                                                                                                   |
+| **Atores**            | 	Usuário, Sistema do Detran DF                                                                                                           |
+| **Pré-condição**      | 	O usuário deve estar autenticado e possuir multa registrada no sistema com prazo de desconto vigente.                                                                            |
+| **Pós-condição**      | O usuário é notificado e pode visualizar detalhes da multa e formas de pagamento com desconto.                                                                       |
+| **Fluxo principal**   | 	1. O sistema identifica multa com prazo ativo.
+2. Notifica o usuário via app.
+3. O usuário acessa a notificação.
+4. Visualiza valor, vencimento e formas de pagamento.
+5. Pode prosseguir para pagar diretamente pelo sistema.                                        |
+| **Fluxo alternativo** | O usuário ignora a notificação: o sistema salva o status e exibe lembretes posteriormente. |
+| **Fluxo de exceções** | - E1. Falha de comunicação com o servidor: o sistema tenta novamente mais tarde.
+- E2. Multa vencida durante o processo: o sistema atualiza o status e remove desconto.                                           |
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
 
@@ -293,15 +298,19 @@ Abaixo, na tabela 15, está especificado o caso de uso para a funcionalidade de 
 
 <font size="3"><p style="text-align: center">**Tabela 15 -** Aviso automático em caso de roubo/recuperação do carro.</p></font>
 
-| UC12                  | Nome do caso de uso                                                                                                                                           |
+| UC12                  | Aviso automático em caso de roubo/recuperação do carro                                                                                                                                          |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Descrição**         | Uma breve explicação do que o caso de uso faz ou descreve.                                                                                                    |
-| **Atores**            | Os papéis ou entidades que interagem com o sistema.                                                                                                           |
-| **Pré-condição**      | As condições que devem ser verdadeiras antes que o caso de uso possa ser iniciado.                                                                            |
-| **Pós-condição**      | As condições que devem ser verdadeiras após a conclusão bem-sucedida do caso de uso.                                                                          |
-| **Fluxo principal**   | A sequência de passos que descreve a interação típica entre o ator e o sistema para atingir o objetivo do caso de uso.                                        |
-| **Fluxo alternativo** | Sequências de passos que ocorrem se condições específicas forem atendidas durante a execução do caso de uso, mas não são necessariamente o caminho principal. |
-| **Fluxo de exceções** | Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.                                           |
+| **Descrição**         | Permite que o sistema informe o usuário sobre a existência de uma ocorrência relacionada ao seu veículo (ex.: roubo ou recuperação).                                                                                                   |
+| **Atores**            | Usuário, Sistema do Detran DF                                                                                                           |
+| **Pré-condição**      | O usuário deve estar logado no sistema e possuir veículo vinculado com ocorrência registrada.                                                                            |
+| **Pós-condição**      | O usuário é notificado da ocorrência e pode tomar ações informadas (ex.: bloqueio, denúncia, atualização de dados).                                                                      |
+| **Fluxo principal**   | 1. O sistema detecta uma ocorrência no veículo.
+2. Notifica o usuário.
+3. O usuário acessa a notificação.
+4. Visualiza detalhes e orientações.
+5. Pode realizar ações como entrar em contato com a autoridade competente.                                        |
+| **Fluxo alternativo** | O usuário ignora a notificação: o sistema mantém a notificação em destaque no app até ser lida. |
+| **Fluxo de exceções** | Ocorre erro ao recuperar os dados da ocorrência: exibir mensagem e sugerir tentar novamente mais tarde.                                          |
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
 
@@ -356,5 +365,6 @@ Abaixo, na tabela 17, está especificado o caso de uso para a funcionalidade de 
 |  1.6   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades: Chat com IA para tirar dúvidas e Atendimento ao vivo com servidor do Detran-DF uso             |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
 | 1.7 | 17/05/2025 | Realização das tabelas de caso de uso: Agendamento online para provas teóricas e práticas, e Acessibilidade para diferentes perfis de usuário | [Eric Akio](https://github.com/eric-kingu) | [Pedro Camilo](https://github.com/PedrooCamilo) |
 |  1.8   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Área educacional com explicações e vídeos, Explicações acessíveis sobre siglas             |  [Pedro Camilo](https://github.com/PedrooCamilo)   |                  [Gabriel Mendes](https://github.com/gbevi)                             |
-|  1.9   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Integração CNH digital e gov.br, área de autoescolas             |  [Gabriel Mendes](https://github.com/gbevi)   |                                               |
+|  1.9   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Integração CNH digital e gov.br, área de autoescolas             |  [Gabriel Mendes](https://github.com/gbevi)   | [Maria Eduarda](https://github.com/maaduh) |
+|  2.0   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro             |  [Maria Eduarda](https://github.com/maaduh)   |  |
 

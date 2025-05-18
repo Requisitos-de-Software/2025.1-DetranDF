@@ -113,11 +113,29 @@ As restrições de design definem limitações e diretrizes que devem ser respei
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
+### Requisitos de Implementação
+
+Os requisitos de implementação definem aspectos técnicos e operacionais necessários para a construção, integração e entrega do sistema. Eles abordam práticas de codificação, ambiente de desenvolvimento, integração contínua e critérios específicos adotados durante a fase de desenvolvimento do aplicativo.
+
+<font size="3"><p style="text-align: center">**Tabela 7 –** Requisitos Não Funcionais – Requisitos de Implementação.</p></font>
+
+
+| ID    | Descrição                                                                                                                  | Rastreabilidade |
+|-------|----------------------------------------------------------------------------------------------------------------------------|-----------------|
+| RI01  | O sistema deve ser desenvolvido utilizando frameworks compatíveis com Android, iOS e Web. | RNF06           |
+| RI02  | O repositório do projeto deve ser hospedado no GitHub, com versionamento contínuo.                                          | RNF07           |
+| RI03  | Devem ser utilizados pipelines de integração contínua para execução automática de testes a cada novo commit.               | RNF07           |
+| RI04  | O ambiente de desenvolvimento deve ser compatível com sistemas operacionais Windows, Linux e macOS.                        | RNF06           |
+| RI05  | O projeto deve seguir boas práticas de desenvolvimento seguro, como criptografia de senhas e proteção contra injeções de código. | RNF03           |
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
+
+
 #### Requisitos Físicos
 
 Os requisitos físicos descrevem as necessidades de hardware e ambiente para o uso do aplicativo. Embora voltado principalmente para dispositivos móveis, o sistema deve considerar as condições de uso típicas dos usuários.
 
-<font size="3"><p style="text-align: center">**Tabela 7 –** Requisitos Não Funcionais – Requisitos Físicos.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 8 –** Requisitos Não Funcionais – Requisitos Físicos.</p></font>
 
 | ID    | Descrição                                                                                             | Rastreabilidade |
 |-------|-------------------------------------------------------------------------------------------------------|-----------------|
@@ -139,6 +157,7 @@ Os requisitos físicos descrevem as necessidades de hardware e ambiente para o u
 |  1.3   | 17/05/2025 | Adição de tabelas de Confiabilida e desempenho, relacionando as mesmas com as RNFS |  [João Lobo](https://github.com/joaolobo10)  |        [Gabriel Mendes](https://github.com/gbevi)                                    |
 |  1.4   | 17/05/2025 | Adição de tabelas de Ajuda e Documentação |  [Pedro Camilo](https://github.com/PedrooCamilo)  |     [Gabriel Mendes](https://github.com/gbevi)                                       |
 |  1.5  | 17/05/2025 | Adição de tabelas de Suportabilidade |  [Gabriel Mendes](https://github.com/gbevi)  |    [Luiz Bessa](https://github.com/lfelipebessa)|
-|  1.6  | 17/05/2025 | Adição de tabelas de Restrições de Design |   [Luiz Bessa](https://github.com/lfelipebessa)|                                            |
-|  1.7  | 17/05/2025 | Adição de tabelas de Requisitos Físicos |   [Luiz Bessa](https://github.com/lfelipebessa)  |                                            |
+|  1.6  | 17/05/2025 | Adição de tabelas de Restrições de Design |   [Luiz Bessa](https://github.com/lfelipebessa)| [Maria Eduarda](https://github.com/maaduh) |
+|  1.7  | 17/05/2025 | Adição de tabelas de Requisitos Físicos |   [Luiz Bessa](https://github.com/lfelipebessa)  | [Maria Eduarda](https://github.com/maaduh) |
+|  1.8  | 17/05/2025 | Adição de tabelas de Requisitos de implementação | [Maria Eduarda](https://github.com/maaduh) |                                            |
 

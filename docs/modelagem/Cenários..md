@@ -124,7 +124,7 @@ A tabela 6 descreve o cenário do requisito funcional área para auto-escolas co
 
 A tabela 7 descreve o cenário do requisito funcional agendamento online para provas teóricas e práticas, que foi rastreada pela técnica de elicitação BS07
 
-### Tabela 7: Cenário - Agendamento online para provas teóricas e práticas
+#### Tabela 7: Cenário - Agendamento online para provas teóricas e práticas
 
 | **Item**      | **Descrição**                                                                                                                                                                                                                                                                                  |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -143,7 +143,7 @@ A tabela 7 descreve o cenário do requisito funcional agendamento online para pr
 
 A tabela 8 descreve o cenário do requisito não funcional acessibilidade para diferentes perfis de usuários, que foi rastreada pela técnica de elicitação IS09.
 
-### Tabela 8: Cenário - Acessibilidade para diferentes perfis de usuários
+#### Tabela 8: Cenário - Acessibilidade para diferentes perfis de usuários
 
 | **Item**      | **Descrição**                                                                                                                                                              |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -162,7 +162,7 @@ A tabela 8 descreve o cenário do requisito não funcional acessibilidade para d
 
 A tabela 9 descreve o cenário do requisito funcional Chat com IA para tirar dúvidas, que foi rastreada pela técnica de elicitção BS10.
 
-<font size="3"><p style="text-align: center">**Tabela 9 -** Chat com IA para tirar dúvidas.</p></font>
+#### Tabela 9 - Chat com IA para tirar dúvidas.
 
 | **Item**      | **Cenário**                                                                                                                                                                                                                                                                                                                                                                                          |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -181,7 +181,7 @@ A tabela 9 descreve o cenário do requisito funcional Chat com IA para tirar dú
 
 A tabela 10 descreve o cenário do requisito funcional Atendimento ao vivo com servidor do DETRAN via chat/vídeos, que foi rastreada pela técnica de elicitção BS12.
 
-<font size="3"><p style="text-align: center">**Tabela 10 -** Atendimento ao vivo com servidor do DETRAN via chat/vídeo.</p></font>
+#### Tabela 10 - Atendimento ao vivo com servidor do DETRAN via chat/vídeo.
 
 | **Item**      | **Cenário**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

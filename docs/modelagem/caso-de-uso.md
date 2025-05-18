@@ -38,13 +38,10 @@ No diagrama de caso de uso , precisamos ter todos esses componentes:
 
 <font size="3"><p style="text-align: center">**Figura 1 -** Diagrama de Casos de Uso.</p></font>
 
+![Diagrama Caso de uso Detran DF](../assets/casos_de_uso/DiagramaCasoDeUsoDetran-DF.png)
 
 
-![Diagrama Caso de uso Detran DF](../assets/casos_de_uso/simbolos/diagramaCasodeUsodetran.png)
-
-
-
-Acesse a imagem nesse [link](https://drive.google.com/file/d/1cOhTLCXsaTTtm8O7iCZVKvPkB-eZoheT/view?usp=drive_link)
+Acesse a imagem nesse [link](https://drive.google.com/drive/folders/1pf7yX20jniQRjWgEHnimCxhAAKzyBHg6?usp=drive_link)
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 

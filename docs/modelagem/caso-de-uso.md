@@ -38,11 +38,11 @@ No diagrama de caso de uso , precisamos ter todos esses componentes:
 
 <font size="3"><p style="text-align: center">**Figura 1 -** Diagrama de Casos de Uso.</p></font>
 
-<center>
+
 
 ![Diagrama Caso de uso Detran DF](../assets/casos_de_uso/simbolos/diagramaCasodeUsodetran.png)
 
-</center>
+
 
 Acesse a imagem nesse [link](https://drive.google.com/file/d/1cOhTLCXsaTTtm8O7iCZVKvPkB-eZoheT/view?usp=drive_link)
 
@@ -378,5 +378,5 @@ Abaixo, na tabela 17, está especificado o caso de uso para a funcionalidade de 
 | 1.7 | 17/05/2025 | Realização das tabelas de caso de uso: Agendamento online para provas teóricas e práticas, e Acessibilidade para diferentes perfis de usuário | [Eric Akio](https://github.com/eric-kingu) | [Pedro Camilo](https://github.com/PedrooCamilo) |
 |  1.8   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Área educacional com explicações e vídeos, Explicações acessíveis sobre siglas             |  [Pedro Camilo](https://github.com/PedrooCamilo)   |                  [Gabriel Mendes](https://github.com/gbevi)                             |
 |  1.9   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Integração CNH digital e gov.br, área de autoescolas             |  [Gabriel Mendes](https://github.com/gbevi)   | [Maria Eduarda](https://github.com/maaduh) |
-|  2.0   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro             |  [Maria Eduarda](https://github.com/maaduh)   |  |
+|  2.0   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro             |  [Maria Eduarda](https://github.com/maaduh)   | [Giovana Barbosa](https://github.com/gio221)  |
 

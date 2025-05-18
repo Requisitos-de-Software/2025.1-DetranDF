@@ -159,5 +159,5 @@ Os requisitos físicos descrevem as necessidades de hardware e ambiente para o u
 |  1.5  | 17/05/2025 | Adição de tabelas de Suportabilidade |  [Gabriel Mendes](https://github.com/gbevi)  |    [Luiz Bessa](https://github.com/lfelipebessa)|
 |  1.6  | 17/05/2025 | Adição de tabelas de Restrições de Design |   [Luiz Bessa](https://github.com/lfelipebessa)| [Maria Eduarda](https://github.com/maaduh) |
 |  1.7  | 17/05/2025 | Adição de tabelas de Requisitos Físicos |   [Luiz Bessa](https://github.com/lfelipebessa)  | [Maria Eduarda](https://github.com/maaduh) |
-|  1.8  | 17/05/2025 | Adição de tabelas de Requisitos de implementação | [Maria Eduarda](https://github.com/maaduh) |                                            |
+|  1.8  | 17/05/2025 | Adição de tabelas de Requisitos de implementação | [Maria Eduarda](https://github.com/maaduh) |               [Giovana Barbosa](https://github.com/gio221)                             |
 

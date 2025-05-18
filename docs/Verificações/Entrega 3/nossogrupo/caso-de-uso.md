@@ -23,6 +23,8 @@ Criamos uma lista como descrita na tabela 1
 |[Luiz Bessa](https://github.com/lfelipebessa)|Notificação antecipada da data de vencimento da CNH|
 |  [Pedro Camilo](https://github.com/PedrooCamilo) |Área educacional com explicações e vídeos              |
 |  [Pedro Camilo](https://github.com/PedrooCamilo) | Acesso rápido a explicações de siglas                 |
+|  [Maria Eduarda](https://github.com/maaduh) | Notificação de multas e prazos com desconto                |
+|  [Maria Eduarda](https://github.com/maaduh) | Aviso automático em caso de roubo/recuperação do carro     |
 
 ## Realizar agendamentos presencias (vistoria, CNH, etc.)
 
@@ -33,7 +35,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 1: Checklist Cenários
+Tabela 1: Checklist casos de uso
 
 | ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
@@ -53,7 +55,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 2: Checklist Cenários
+Tabela 2: Checklist casos de uso
 
 | ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
@@ -73,7 +75,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 3: Checklist Cenários
+Tabela 3: Checklist casos de uso
 
 | ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
@@ -93,7 +95,47 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 4: Checklist Cenários
+Tabela 4: Checklist casos de uso
+
+| ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |Sim  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+
+##  Notificação de multas e prazos com desconto
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/y2bPM1lhRjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/y2bPM1lhRjQ" target="blanket">Vídeo da verificação </a></p>
+ 
+A tabela abaixo descreve o checklist do artefato 
+ 
+Tabela 5: Checklist casos de uso
+
+| ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |Sim  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+
+##  Aviso automático em caso de roubo/recuperação do carro
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/y2bPM1lhRjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/y2bPM1lhRjQ" target="blanket">Vídeo da verificação </a></p>
+ 
+A tabela abaixo descreve o checklist do artefato 
+ 
+Tabela 6: Checklist Casos de uso
 
 | ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
@@ -110,4 +152,6 @@ Tabela 4: Checklist Cenários
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
 |  1.1  | 14/05/2025 | Introdução,objetivo, inspeção Sistema de pagamento de taxas e débitos e Realizar agendamentos presencias |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
-|  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)   | |
+|  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)   | [Maria Eduarda](https://github.com/maaduh) |
+|  1.3  | 17/05/2025 | correção nos nomes das tabelas |  [Maria Eduarda](https://github.com/maaduh)   | |
+|  1.4  | 17/05/2025 | inspeção notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro |  [Maria Eduarda](https://github.com/maaduh)   | |

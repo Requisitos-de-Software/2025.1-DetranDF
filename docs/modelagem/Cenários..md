@@ -295,11 +295,7 @@ A tabela 15 descreve o cenário do requisito funcional notificação de multas e
 | **Contexto**  | Local: Aplicativo do Detran DF, acessado via smartphone. Tempo: A qualquer momento, assim que uma nova multa for registrada no sistema.                                                                                     |
 | **Atores**    | Usuário do aplicativo; Sistema de notificação do aplicativo.                                                                                                                                                                                                     |
 | **Recursos**  | Aplicativo do Detran DF; Banco de dados de infrações de trânsito; Sistema de envio de notificações push.                                                                                                                                                                    |
-| **Episódios** | 1. O sistema detecta uma nova multa vinculada ao veículo do usuário.
-2. O aplicativo envia uma notificação push informando a infração e o prazo com desconto.
-3. O usuário clica na notificação e é redirecionado para a área de “Multas”.
-4. O app exibe os detalhes da infração, o valor cheio e o valor com desconto, com opções de pagamento.
-5. O usuário opta por pagar com desconto dentro do prazo estipulado. |
+| **Episódios** | 1. O sistema detecta uma nova multa vinculada ao veículo do usuário. <br> 2. O aplicativo envia uma notificação push informando a infração e o prazo com desconto. <br> 3. O usuário clica na notificação e é redirecionado para a área de “Multas”. <br> 4. O app exibe os detalhes da infração, o valor cheio e o valor com desconto, com opções de pagamento. <br> 5. O usuário opta por pagar com desconto dentro do prazo estipulado. |
 | **Restrição** | Notificações serão enviadas apenas para multas registradas oficialmente e com prazo válido para desconto. O sistema não permite pagamento direto por boleto vencido.                                                                                                                                   |
 | **Exceção**   | Se a multa for registrada fora do prazo para desconto, o aplicativo ainda notificará, mas sem mencionar o desconto. Caso o usuário não tenha veículo vinculado, a função não será ativada.                                                                            |
 
@@ -320,11 +316,7 @@ A tabela 16 descreve o cenário do requisito funcional aviso automático em caso
 | **Contexto**  | Local: Aplicativo do Detran DF, acessado via smartphone. Tempo: Assim que o sistema for atualizado com o status de roubo ou recuperação.                                                                                     |
 | **Atores**    | Usuário do aplicativo; Sistema de notificação do Detran DF.                                                                                                                                                                                                |
 | **Recursos**  | Aplicativo do Detran DF; Base de dados de ocorrências de roubo e recuperação veicular; Sistema de notificações.                                                                                                                                                                |
-| **Episódios** | 1. O veículo do usuário é registrado como roubado no sistema.
-2. O aplicativo envia uma notificação alertando sobre o roubo.
-3. A notificação fornece instruções sobre como proceder, incluindo links para registrar boletim de ocorrência ou entrar em contato com a polícia.
-4. Posteriormente, se o veículo for recuperado, o sistema envia nova notificação com essa informação.
-5. O aplicativo orienta sobre os próximos passos, como vistoria e regularização. |
+| **Episódios** | 1. O veículo do usuário é registrado como roubado no sistema.<br> 2. O aplicativo envia uma notificação alertando sobre o roubo. <br> 3. A notificação fornece instruções sobre como proceder, incluindo links para registrar boletim de ocorrência ou entrar em contato com a polícia. <br> 4. Posteriormente, se o veículo for recuperado, o sistema envia nova notificação com essa informação. <br> 5. O aplicativo orienta sobre os próximos passos, como vistoria e regularização. |
 | **Restrição** | A função depende da atualização em tempo real da base de dados policial e do Detran. Apenas veículos vinculados à conta do usuário receberão os alertas.                                                                                                                                     |
 | **Exceção**   | Se houver erro na base de dados (por exemplo, registro incorreto de roubo), o usuário poderá reportar a inconsistência diretamente pelo aplicativo. Se o usuário não estiver com notificações ativadas, o alerta aparecerá apenas ao abrir o app.                                                                            |
 

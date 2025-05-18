@@ -120,7 +120,8 @@ Tabela 4: Checklist Cenários
 
 Video da verificação
  
-
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/iplklkNrY88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/iplklkNrY88" target="blanket">Vídeo da verificação </a></p>
  
 A tabela abaixo descreve o checklist do artefato 
  
@@ -141,7 +142,8 @@ Tabela 4: Checklist Cenários
 
 Video da verificação
  
-
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/iplklkNrY88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/iplklkNrY88" target="blanket">Vídeo da verificação </a></p>
  
 A tabela abaixo descreve o checklist do artefato 
  
@@ -164,4 +166,5 @@ Tabela 4: Checklist Cenários
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi)|
 |  1.1  | 14/05/2025 | Introdução,objetivo, inspeção Sistema de pagamento de taxas e débitos e Realizar agendamentos presencias |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi)|
-|  1.2  | 17/05/2025 | Integração com gov.br e área para auto-escolas |  [Gabriel Mendes](https://github.com/gbevi)   | |
+|  1.2  | 17/05/2025 | Integração com gov.br e área para auto-escolas |  [Gabriel Mendes](https://github.com/gbevi)   | [Maria Eduarda](https://github.com/maaduh) |
+|  1.3  | 17/05/2025 | inspeção notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro |  [Maria Eduarda](https://github.com/maaduh)   | |

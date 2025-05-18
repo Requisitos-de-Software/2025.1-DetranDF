@@ -41,7 +41,8 @@ Cada cenário foi estruturado conforme o modelo apresentado na Tabela 1, que org
 |[Luiz Bessa](https://github.com/lfelipebessa)|Notificação antecipada da data de vencimento da CNH|
 |  [Pedro Camilo](https://github.com/PedrooCamilo) |Área educacional com explicações e vídeos              |
 |  [Pedro Camilo](https://github.com/PedrooCamilo) | Acesso rápido a explicações de siglas                 |
-
+|  [Maria Eduarda](https://github.com/maaduh) | Notificação de multas e prazos com desconto                |
+|  [Maria Eduarda](https://github.com/maaduh) | Aviso automático em caso de roubo/recuperação do carro     |
 
 ## Realizar agendamentos presencias (vistoria, CNH, etc.)
 
@@ -281,6 +282,58 @@ A tabela 14 descreve o cenário do requisito funcional Explicações de siglas n
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
+## Notificação de multas e prazos com desconto
+
+A tabela 15 descreve o cenário do requisito funcional notificação de multas e prazos com desconto no aplicativo Detran-DF, que foi rastreado pela técnica de elicitação BS06.
+
+#### Tabela 15: Cenário - Notificação de multas e prazos com desconto
+
+| **Item**      | **Cenário**                                                                                                                                                                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Título**    | Notificação automatizada de multas e prazos com desconto                                                                                                                                                                                 |
+| **Objetivo**  | Informar o usuário, de maneira proativa, sobre novas multas registradas e os prazos disponíveis para pagamento com desconto, por meio de notificações no aplicativo.                               |
+| **Contexto**  | Local: Aplicativo do Detran DF, acessado via smartphone. Tempo: A qualquer momento, assim que uma nova multa for registrada no sistema.                                                                                     |
+| **Atores**    | Usuário do aplicativo; Sistema de notificação do aplicativo.                                                                                                                                                                                                     |
+| **Recursos**  | Aplicativo do Detran DF; Banco de dados de infrações de trânsito; Sistema de envio de notificações push.                                                                                                                                                                    |
+| **Episódios** | 1. O sistema detecta uma nova multa vinculada ao veículo do usuário.
+2. O aplicativo envia uma notificação push informando a infração e o prazo com desconto.
+3. O usuário clica na notificação e é redirecionado para a área de “Multas”.
+4. O app exibe os detalhes da infração, o valor cheio e o valor com desconto, com opções de pagamento.
+5. O usuário opta por pagar com desconto dentro do prazo estipulado. |
+| **Restrição** | Notificações serão enviadas apenas para multas registradas oficialmente e com prazo válido para desconto. O sistema não permite pagamento direto por boleto vencido.                                                                                                                                   |
+| **Exceção**   | Se a multa for registrada fora do prazo para desconto, o aplicativo ainda notificará, mas sem mencionar o desconto. Caso o usuário não tenha veículo vinculado, a função não será ativada.                                                                            |
+
+
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
+
+## Aviso automático em caso de roubo/recuperação do carro
+
+A tabela 16 descreve o cenário do requisito funcional aviso automático em caso de roubo/recuperação do carro no aplicativo Detran-DF, que foi rastreado pela técnica de elicitação BS04.
+
+#### Tabela 16: Cenário - Aviso automático em caso de roubo/recuperação do carro
+
+| **Item**      | **Cenário**                                                                                                                                                                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Título**    | Aviso automático sobre roubo ou recuperação do veículo                                                                                                                                                                                |
+| **Objetivo**  | Informar o usuário automaticamente sobre o status de roubo ou recuperação do seu veículo, por meio de alertas no aplicativo.                                                                                             |
+| **Contexto**  | Local: Aplicativo do Detran DF, acessado via smartphone. Tempo: Assim que o sistema for atualizado com o status de roubo ou recuperação.                                                                                     |
+| **Atores**    | Usuário do aplicativo; Sistema de notificação do Detran DF.                                                                                                                                                                                                |
+| **Recursos**  | Aplicativo do Detran DF; Base de dados de ocorrências de roubo e recuperação veicular; Sistema de notificações.                                                                                                                                                                |
+| **Episódios** | 1. O veículo do usuário é registrado como roubado no sistema.
+2. O aplicativo envia uma notificação alertando sobre o roubo.
+3. A notificação fornece instruções sobre como proceder, incluindo links para registrar boletim de ocorrência ou entrar em contato com a polícia.
+4. Posteriormente, se o veículo for recuperado, o sistema envia nova notificação com essa informação.
+5. O aplicativo orienta sobre os próximos passos, como vistoria e regularização. |
+| **Restrição** | A função depende da atualização em tempo real da base de dados policial e do Detran. Apenas veículos vinculados à conta do usuário receberão os alertas.                                                                                                                                     |
+| **Exceção**   | Se houver erro na base de dados (por exemplo, registro incorreto de roubo), o usuário poderá reportar a inconsistência diretamente pelo aplicativo. Se o usuário não estiver com notificações ativadas, o alerta aparecerá apenas ao abrir o app.                                                                            |
+
+
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
+
+
+
 ## Histórico de versão
 
 | Versão |    Data    |                                               Descrição                                                |                     Autor                     |                    Revisor                    |
@@ -295,4 +348,6 @@ A tabela 14 descreve o cenário do requisito funcional Explicações de siglas n
 |  1.7   | 16/05/2025 | Cénarios de Chat com IA para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo |  [João Lobo](https://github.com/joaolobo10)   | [Giovana Barbosa](https://github.com/gio221)  |
 |  1.7   | 17/05/2025 |                                           Atualizei tabela 2                                           | [Giovana Barbosa](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.7   | 17/05/2025 |                                     Realizando as tabelas 11 e 12                                      | [Luiz Bessa](https://github.com/lfelipebessa) |  [Pedro Camilo](https://github.com/PedrooCamilo) |              
-|  1.8   | 17/05/2025 |                                     Área educacional com explicações e vídeos, Acesso rápido a explicações de siglas                                   | [Pedro Camilo](https://github.com/PedrooCamilo) |                                         |
+|  1.8   | 17/05/2025 |                                     Área educacional com explicações e vídeos, Acesso rápido a explicações de siglas                                   | [Pedro Camilo](https://github.com/PedrooCamilo) |    [Maria Eduarda](https://github.com/maaduh)  |
+|  1.9   | 17/05/2025 |                                    Realizando a tabela 15                                   | [Maria Eduarda](https://github.com/maaduh) |   |              
+|  2.0   | 17/05/2025 |                                     Realizando a tabela 16                                     | [Maria Eduarda](https://github.com/maaduh) |   |              

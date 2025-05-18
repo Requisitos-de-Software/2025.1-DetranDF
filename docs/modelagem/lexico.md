@@ -36,6 +36,8 @@ A aplicação do léxico no Detran-DF envolve a identificação de termos releva
 |       L010        |[Pedro Camilo](https://github.com/PedrooCamilo)| Acesso rápido a explicações de siglas                     |
 |       L011        |[Gabriel Mendes](https://github.com/gbevi)| Integração com CNH digital e gov.br                     |
 |       L012        |[Gabriel Mendes](https://github.com/gbevi)| Área para auto-escolas                     |
+|       L013        |[Maria Eduarda](https://github.com/maaduh)| Notificação de multas e prazos com desconto                     |
+|       L014        |[Maria Eduarda](https://github.com/maaduh)| Aviso automático em caso de roubo/recuperação do carro                  |
 
 ## Objeto
 
@@ -60,9 +62,10 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 | L14 - Explicação de sigla | Objeto            | Texto curto e acessível que esclarece o significado de siglas utilizadas no app (ex: RENAVAM, CRLV). | Facilita a compreensão dos termos técnicos, tornando o aplicativo mais inclusivo. | Definição de sigla, Ajuda de sigla | [Pedro Camilo](https://github.com/PedrooCamilo) |
 | L15 - Integração CNH digital e gov.br | Objeto            | Integração de APIs | Permite que usuáries acessem e validem sua CNH Digital dentro do aplicativo, integrando as funcionalidades | [Gabriel Mendes](https://github.com/gbevi) |
 | L16 - Área para auto-escolas | Objeto            | Módulo de interação| Cria um espaço dedicado para autoescolas publicarem informações e receberem avaliações e comentários de alunos/clients | [Gabriel Mendes](https://github.com/gbevi) |
+|L17 - Notificação de multas e prazos com desconto | Objeto | Alerta enviado ao usuário sobre novas multas, destacando prazos com desconto para pagamento | Facilita o pagamento antecipado com desconto, evitando atrasos e prejuízos | Alerta de infração, Aviso de desconto | [Maria Eduarda](https://github.com/maaduh) |
+|L18 - Aviso automático em caso de roubo/recuperação do carro | Objeto | Notificação gerada quando o status do veículo muda para roubado ou recuperado, via integração com sistemas oficiais | Informa rapidamente o usuário sobre situações críticas envolvendo o seu veículo | Alerta de segurança, Notificação de status veicular | [Maria Eduarda](https://github.com/maaduh) |
 
-
-<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), [Eric Akio](https://github.com/eric-kingu), [Pedro Camilo](https://github.com/PedrooCamilo), [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
+<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), [Eric Akio](https://github.com/eric-kingu), [Pedro Camilo](https://github.com/PedrooCamilo), [Gabriel Mendes](https://github.com/gbevi), [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
 
 ## Verbo
@@ -91,8 +94,11 @@ Nos léxicos do tipo Verbo, se referem às ações que os usuários podem fazer 
 | L16 - Realizar agendamentos de provas       | Verbo         | Permite ao usuário reservar um horário para realização da prova teórica ou prática | Ação que permite ao usuário marcar previamente a realização das provas | Agendar, Reservar, Marcar horário | [Eric Akio](https://github.com/eric-kingu) |
 | L17 - Integração com CNH digital e gov.br      | Verbo         | Possibilita que usuários validem e utilizem a CNH Digital autenticando-se via Gov BR dentro do app. | Garante autenticidade dos dados de habilitação e simplifica o login, reduzindo fraudes e etapas manuais. | Vincular, Conectar, Sincronizar dados|[Gabriel Mendes](https://github.com/gbevi) |
 | L18 - Área para auto-escolas      | Verbo         | 	Permite que alunos/clientes publiquem avaliações e comentários sobre serviços de autoescolas. | Melhora a transparência e incentiva a qualidade do serviço por meio de feedback público. | Classificar, Revisar, Comentar | [Eric Akio](https://github.com/eric-kingu) |
+| L19 - Notificar multa e prazo com desconto | Verbo | Ação automatizada do sistema que envia ao usuário um aviso sobre nova multa, destacando prazos com desconto para pagamento | Auxilia no pagamento rápido, evitando juros e aproveitando descontos legais | Avisar multa, Alertar desconto | [Maria Eduarda](https://github.com/maaduh) |
+| L20 - Avisar sobre roubo ou recuperação do veículo | Verbo | Ação do sistema que comunica automaticamente o usuário quando há registro de roubo ou recuperação do veículo | Garante resposta rápida e aumenta a segurança do usuário ao ser informado em tempo real | Notificar roubo, Comunicar status veicular | [Maria Eduarda](https://github.com/maaduh) |
 
-<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), [Eric Akio](https://github.com/eric-kingu), [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+<font size="3"><p style="text-align: center"> [Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [João Lobo](https://github.com/joaolobo10), [Eric Akio](https://github.com/eric-kingu), [Pedro Camilo](https://github.com/PedrooCamilo), [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
 
 ## Estado
@@ -116,7 +122,8 @@ Os léxicos do tipo Estado se referem às condições ou situações específica
 | L11 - Sigla desconhecida | Estado            | Situação em que a sigla não possui explicação cadastrada no sistema.      | Informa ao sistema que a sigla deve ser adicionada ou reportada como ausência de conteúdo. | Sigla não encontrada | [Pedro Camilo](https://github.com/PedrooCamilo) |
 | L12 - CNH validada   | Estado            | O(a) usuário(a) concluiu a autenticação via Gov BR e sua CNH Digital foi verificada no app. | Desbloqueia recursos que exigem dados oficiais de habilitação (ex.: geração de documentos, consulta de infrações).       | Habilitação confirmada, CNH ativa   | [Gabriel Mendes](https://github.com/gbevi) |
 | L13 - Auto-escola validada | Estado            | A ficha de uma autoescola recebeu pelo menos uma avaliação/comentário e foi registrada no sistema.     | Permite exibir média de notas e feedbacks, influenciando decisões de novos(as) alunos. | Avaliação publicada, Feedback recebido | [Gabriel Mendes](https://github.com/gbevi) |
-
+| L14 - Multa notificada com prazo ativo | Estado | Situação em que o sistema já notificou o usuário sobre uma multa, e o prazo com desconto ainda está em vigor | Permite ao usuário se organizar para quitar a multa com redução de valor | Multa com desconto ativo, Alerta vigente | [Maria Eduarda](https://github.com/maaduh) |
+| L15 - Veículo com ocorrência registrada | Estado | Indica que o sistema detectou e notificou um registro de roubo ou recuperação do veículo | Informa situação crítica de segurança, permitindo ação imediata do usuário | Roubo detectado, Veículo recuperado | [Maria Eduarda](https://github.com/maaduh) |
 
 
 
@@ -132,7 +139,8 @@ Os léxicos do tipo Estado se referem às condições ou situações específica
 |  1.3   | 16/05/2025 |                                                             Adição do lexico 01 e 02                                                             | [Giovana Barbosa](https://github.com/gio221)  | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.4   | 17/05/2025 |                                                             Adição do lexico 03 e 04                                                             | [Luiz Bessa](https://github.com/lfelipebessa) |  [João Lobo](https://github.com/joaolobo10)   |
 |  1.5   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidade Chat com IA para tirar dúvidas, e Atendimento com servidor do Detran-DF ao vivo |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
-| 1.6 | 17/06/2025 | Adição dos léxicos de objeto, verbo e estado das funcionalidades: Agendamento online de provas teóricas e práticas, e Acessibilidade para diferentes tipos de usuários | [Eric Akio](https://github.com/eric-kingu) | [Pedro Camilo](https://github.com/PedrooCamilo)  |
-|  1.7   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidades Área educacional com explicações e vídeos, Acesso rápido a explicações de siglas |  [Pedro Camilo](https://github.com/PedrooCamilo)   |                                        |
-|  1.8   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidades Integração CNH digital e gov.br, Área de auto-escolas |  [Gabriel Mendes](https://github.com/gbevi)   |                                        |
+|  1.6    | 17/06/2025 | Adição dos léxicos de objeto, verbo e estado das funcionalidades: Agendamento online de provas teóricas e práticas, e Acessibilidade para diferentes tipos de usuários | [Eric Akio](https://github.com/eric-kingu) | [Pedro Camilo](https://github.com/PedrooCamilo)  |
+|  1.7   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidades Área educacional com explicações e vídeos, Acesso rápido a explicações de siglas |  [Pedro Camilo](https://github.com/PedrooCamilo)   | [Maria Eduarda](https://github.com/maaduh) |
+|  1.8   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidades Integração CNH digital e gov.br, Área de auto-escolas |  [Gabriel Mendes](https://github.com/gbevi)   | [Maria Eduarda](https://github.com/maaduh) |
+|  1.9   | 17/05/2025 | Adição dos léxicos de objeto, verbo e estado, das funcionalidades notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro |  [Maria Eduarda](https://github.com/maaduh)   |                                        |
 

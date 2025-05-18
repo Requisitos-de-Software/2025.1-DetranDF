@@ -23,6 +23,8 @@ Criamos uma lista como descrita na tabela 1
 |[Luiz Bessa](https://github.com/lfelipebessa)|Notificação antecipada da data de vencimento da CNH|
 |  [Pedro Camilo](https://github.com/PedrooCamilo) |Área educacional com explicações e vídeos              |
 |  [Pedro Camilo](https://github.com/PedrooCamilo) | Acesso rápido a explicações de siglas                 |
+|  [Maria Eduarda](https://github.com/maaduh) | Notificação de multas e prazos com desconto                |
+|  [Maria Eduarda](https://github.com/maaduh) | Aviso automático em caso de roubo/recuperação do carro     |
 
 ## Realizar agendamentos presencias (vistoria, CNH, etc.)
 
@@ -98,6 +100,48 @@ Video da verificação
  
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/-O7Os8zBUhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
  <p style="text-align: center"><a href="https://youtu.be/-O7Os8zBUhU" target="blanket">Vídeo da verificação </a></p>
+ 
+A tabela abaixo descreve o checklist do artefato 
+ 
+Tabela 4: Checklist Cenários
+
+| ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
+| :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
+| 1  | O cenário apresenta um contexto claro e relevante? Verifique se há uma descrição detalhada do ambiente ou situação que motiva as ações dos atores. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 2  | Foram definidos os atores principais envolvidos no cenário? Os usuários devem estar descritos com características relevantes ao contexto de uso. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 3  | O objetivo principal do ator está explícito e bem definido? O cenário deve deixar claro o que o(a) usuário(a) deseja alcançar. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 4  | Há uma narrativa coerente com uma sequência de ações e eventos? O enredo deve incluir as etapas que o(a) ator(a) percorre, os eventos que ocorrem e como isso afeta a experiência. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 5  | O planejamento do ator está representado quando necessário? A atividade mental (como tomada de decisão ou avaliação de alternativas) deve aparecer quando for essencial ao cenário. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 6  | As ações do ator são observáveis e plausíveis? O comportamento descrito deve ser concreto e realista, dentro do contexto apresentado. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 7  | Os eventos que influenciam o cenário estão descritos (positivos ou negativos)? Deve-se considerar fatores que ajudam, atrapalham ou são neutros para o alcance do objetivo. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+
+## Notificação de multas e prazos com desconto
+
+Video da verificação
+ 
+
+ 
+A tabela abaixo descreve o checklist do artefato 
+ 
+Tabela 4: Checklist Cenários
+
+| ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
+| :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
+| 1  | O cenário apresenta um contexto claro e relevante? Verifique se há uma descrição detalhada do ambiente ou situação que motiva as ações dos atores. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 2  | Foram definidos os atores principais envolvidos no cenário? Os usuários devem estar descritos com características relevantes ao contexto de uso. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 3  | O objetivo principal do ator está explícito e bem definido? O cenário deve deixar claro o que o(a) usuário(a) deseja alcançar. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 4  | Há uma narrativa coerente com uma sequência de ações e eventos? O enredo deve incluir as etapas que o(a) ator(a) percorre, os eventos que ocorrem e como isso afeta a experiência. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 5  | O planejamento do ator está representado quando necessário? A atividade mental (como tomada de decisão ou avaliação de alternativas) deve aparecer quando for essencial ao cenário. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 6  | As ações do ator são observáveis e plausíveis? O comportamento descrito deve ser concreto e realista, dentro do contexto apresentado. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 7  | Os eventos que influenciam o cenário estão descritos (positivos ou negativos)? Deve-se considerar fatores que ajudam, atrapalham ou são neutros para o alcance do objetivo. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+
+## Aviso automático em caso de roubo/recuperação do carro
+
+Video da verificação
+ 
+
  
 A tabela abaixo descreve o checklist do artefato 
  

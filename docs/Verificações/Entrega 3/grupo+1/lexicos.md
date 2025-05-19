@@ -15,8 +15,8 @@ Esse artefato tem como objetivo documentar a lista de verificação  do lexico
 
 Video da verificação
  
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/vy2fgJm7Th4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="https://youtu.be/vy2fgJm7Th4" target="blanket">Vídeo da verificação </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/vwG85O1V80M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/vwG85O1V80M" target="blanket">Vídeo da verificação </a></p>
  
 A tabela abaixo descreve o checklist do artefato 
  
@@ -35,8 +35,8 @@ Tabela 1: Checklist lexico
 
 Video da verificação
  
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/vy2fgJm7Th4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="https://youtu.be/vy2fgJm7Th4" target="blanket">Vídeo da verificação </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/vwG85O1V80M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/vwG85O1V80M" target="blanket">Vídeo da verificação </a></p>
  
 A tabela abaixo descreve o checklist do artefato 
  
@@ -97,7 +97,7 @@ Tabela 4: Checklist léxico
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi) |
+|  1.0   | 14/05/2025 | criação do documento  e inspeção Pesquisa utilizando integração por voz no DeepSeek e Acessar configurações para alterar o tema do Sistema |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi) |
 |  1.1  | 18/05/2025 | inspeção Exclusão automática de dados de upload e Permite que o usuário use o DeepSeek e o integre com plataformas Externas.   |  [Gabriel Mendes](https://github.com/gbevi)   | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.2  | 19/05/2025 | inspeção Upload de Documento.   |  [Luiz Bessa](https://github.com/lfelipebessa)   |  |
 |  1.3  | 19/05/2025 | inspeção Seleção de modelos de IA no DeepSeek.   |  [Luiz Bessa](https://github.com/lfelipebessa)   |  |

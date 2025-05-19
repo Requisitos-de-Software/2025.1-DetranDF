@@ -151,7 +151,7 @@ Tabela 6: Checklist Casos de uso
 Vídeo da verificação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="linkadd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center"><a href="linkaddd" target="blanket">Vídeo da verificação</a></p>
 
@@ -173,7 +173,7 @@ Tabela 7: Checklist casos de uso
 Vídeo da verificação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="linkadd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center"><a href="linkadd" target="blanket">Vídeo da verificação</a></p>
 

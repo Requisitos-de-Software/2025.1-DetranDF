@@ -10,6 +10,8 @@ Esse artefato tem como objetivo documentar a lista de verificação  dos cenári
 | :------------------------------------------: | :-------------------------------------------------------: |
 | [Giovana Barbosa](https://github.com/gio221) |  Pesquisa utilizando integração por voz no DeepSeek  |
 | [Giovana Barbosa](https://github.com/gio221) |         Acessar configurações para alterar o tema do Sistema     |
+| [Eric Akio](https://github.com/eric-kingu) | Visualizar status do sistema |
+| [Eric Akio](https://github.com/eric-kingu) | Entendimento por meio de tutorial interativo |
 
 ## Pesquisa utilizando integração por voz no DeepSeek 
 
@@ -185,6 +187,44 @@ Tabela 6: Checklist Cenários
 | 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[Print](https://drive.google.com/file/d/1QcGf4Y5vm1SZCXPUKVEukQxzCnk59vR8/view?usp=sharing)|Sim|
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+## Visualização em tempo real do status do servidor
+
+A tabela abaixo descreve o checklist do artefato
+
+Tabela 6: Checklist Cenários
+
+| ID  | Critérios                                                                                   |Referência                                                                                                                  |Sim/Não|
+| :-: | ------------------------------------------------------------------------------------------- |----------------------------------------------------------------------------------------------------------------------------|:------:|
+| 1  | O cenário apresenta um contexto claro e relevante? Verifique se há uma descrição detalhada do ambiente ou situação que motiva as ações dos atores. |[Print](https://drive.google.com/file/d/1U24R0GDlRos7V4EQxJFWxPyy8epZ10vN/view?usp=sharing)|Sim|
+| 2  | Foram definidos os atores principais envolvidos no cenário? Os usuários devem estar descritos com características relevantes ao contexto de uso. |[Print](https://drive.google.com/file/d/1U24R0GDlRos7V4EQxJFWxPyy8epZ10vN/view?usp=sharing)|Sim|
+| 3  | O objetivo principal do ator está explícito e bem definido? O cenário deve deixar claro o que o(a) usuário(a) deseja alcançar. |[Print](https://drive.google.com/file/d/1U24R0GDlRos7V4EQxJFWxPyy8epZ10vN/view?usp=sharing)|Sim|
+| 4  | Há uma narrativa coerente com uma sequência de ações e eventos? O enredo deve incluir as etapas que o(a) ator(a) percorre, os eventos que ocorrem e como isso afeta a experiência. |[Print](https://drive.google.com/file/d/1RZFEeCXNYGj28fQXA6fQ-CNBUxiLrKFG/view?usp=sharing)|Sim|
+| 5  | O planejamento do ator está representado quando necessário? A atividade mental (como tomada de decisão ou avaliação de alternativas) deve aparecer quando for essencial ao cenário. |[Print](https://drive.google.com/file/d/1RZFEeCXNYGj28fQXA6fQ-CNBUxiLrKFG/view?usp=sharing)|Sim|
+| 6  | As ações do ator são observáveis e plausíveis? O comportamento descrito deve ser concreto e realista, dentro do contexto apresentado. |[Print](https://drive.google.com/file/d/1RZFEeCXNYGj28fQXA6fQ-CNBUxiLrKFG/view?usp=sharing)|Sim|
+| 7  | Os eventos que influenciam o cenário estão descritos (positivos ou negativos)? Deve-se considerar fatores que ajudam, atrapalham ou são neutros para o alcance do objetivo. |[Print](https://drive.google.com/file/d/1RZFEeCXNYGj28fQXA6fQ-CNBUxiLrKFG/view?usp=sharing)|Sim|
+| 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[Print](https://drive.google.com/file/d/1RZFEeCXNYGj28fQXA6fQ-CNBUxiLrKFG/view?usp=sharing)|Sim|
+
+<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
+
+## Utilização do tutorial prático
+
+A tabela abaixo descreve o checklist do artefato
+
+Tabela 6: Checklist Cenários
+
+| ID  | Critérios                                                                                   |Referência                                                                                                                  |Sim/Não|
+| :-: | ------------------------------------------------------------------------------------------- |----------------------------------------------------------------------------------------------------------------------------|:------:|
+| 1  | O cenário apresenta um contexto claro e relevante? Verifique se há uma descrição detalhada do ambiente ou situação que motiva as ações dos atores. |[Print](https://drive.google.com/file/d/1A3NgQ6excBB2LFu9MprtKnlseMrvrsU6/view?usp=sharing)|Sim|
+| 2  | Foram definidos os atores principais envolvidos no cenário? Os usuários devem estar descritos com características relevantes ao contexto de uso. |[Print](https://drive.google.com/file/d/1A3NgQ6excBB2LFu9MprtKnlseMrvrsU6/view?usp=sharing)|Sim|
+| 3  | O objetivo principal do ator está explícito e bem definido? O cenário deve deixar claro o que o(a) usuário(a) deseja alcançar. |[Print](https://drive.google.com/file/d/1A3NgQ6excBB2LFu9MprtKnlseMrvrsU6/view?usp=sharing)|Sim|
+| 4  | Há uma narrativa coerente com uma sequência de ações e eventos? O enredo deve incluir as etapas que o(a) ator(a) percorre, os eventos que ocorrem e como isso afeta a experiência. |[Print](https://drive.google.com/file/d/1iXn-xtI47klkHKUQ9dgafFLPv5qnsMjc/view?usp=sharing)|Sim|
+| 5  | O planejamento do ator está representado quando necessário? A atividade mental (como tomada de decisão ou avaliação de alternativas) deve aparecer quando for essencial ao cenário. |[Print](https://drive.google.com/file/d/1iXn-xtI47klkHKUQ9dgafFLPv5qnsMjc/view?usp=sharing)|Sim|
+| 6  | As ações do ator são observáveis e plausíveis? O comportamento descrito deve ser concreto e realista, dentro do contexto apresentado. |[Print](https://drive.google.com/file/d/1iXn-xtI47klkHKUQ9dgafFLPv5qnsMjc/view?usp=sharing)|Sim|
+| 7  | Os eventos que influenciam o cenário estão descritos (positivos ou negativos)? Deve-se considerar fatores que ajudam, atrapalham ou são neutros para o alcance do objetivo. |[Print](https://drive.google.com/file/d/1iXn-xtI47klkHKUQ9dgafFLPv5qnsMjc/view?usp=sharing)|Sim|
+| 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[Print](https://drive.google.com/file/d/1iXn-xtI47klkHKUQ9dgafFLPv5qnsMjc/view?usp=sharing)|Sim|
+
+<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
 
 
 ## Histórico de versão

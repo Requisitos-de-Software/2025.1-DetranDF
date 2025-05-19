@@ -14,6 +14,8 @@ Esse artefato tem como objetivo documentar a lista de verificação  do lexico
 | [Eric Akio](https://github.com/eric-kingu) | Entendimento por meio de tutorial interativo |
 | [Maria Eduarda](https://github.com/maaduh) |  Limpeza do histórico de conversas  |
 | [Maria Eduarda](https://github.com/maaduh) |         Resumo de Vídeos do YouTube    |
+| [Gabriel Mendes](https://github.com/gbevi) | Exclusão automática de dados de upload |
+| [Gabriel Mendes](https://github.com/gbevi) |        Integração com Plataformas Externas    |
 
 ## Pesquisa utilizando integração por voz no DeepSeek 
 
@@ -239,6 +241,50 @@ Tabela 8: Checklist léxico UC14
 | 6 | Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos? | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
+
+## [LUC01] - Exclusão automática de dados de upload
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/y8h_7NDuetA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/y8h_7NDuetA" target="blanket">Vídeo da verificação </a></p>
+ 
+A tabela abaixo descreve o checklist do artefato 
+ 
+Tabela 9: Checklist lexico  
+
+| ID | Critérios | Sim/Não/Incompleto | referencia |
+| :-: | --- | :---: | --- |
+|1|Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?|Sim|[print](https://drive.google.com/file/d/1J0vvp0CbDt_mYlpSDyj6kwwo9UvDuH9z/view?usp=drive_link)|
+|2|Cada símbolo é descrito por ao menos uma noção e um impacto?|Sim|[print](https://drive.google.com/file/d/1nFLcIB1mUJKh5VMb0S5M2lzWS_JCtsaA/view?usp=drive_link)|
+|3|Os símbolos descritos têm sinônimo(s)?|Sim|[print](https://drive.google.com/file/d/1FMcWZvjTMrsUp8BpFPkqmRjpnOF_qUBj/view?usp=drive_link)|
+|4|São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?(Princípio do Vocabulário Mínimo)|Sim|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[print](https://drive.google.com/file/d/1ssaVVEpxzdFrR6V2w_b_9mDBII7XobNH/view?usp=drive_link)|
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi), 2025.</p></font>
+
+## [LUC02] - Integração com Plataformas Externas
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/y8h_7NDuetA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/y8h_7NDuetA" target="blanket">Vídeo da verificação </a></p>
+ 
+A tabela abaixo descreve o checklist do artefato 
+ 
+Tabela 10: Checklist lexico  
+
+| ID | Critérios | Sim/Não/Incompleto | referencia |
+| :-: | --- | :---: | --- |
+|1|Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?|Sim|[print](https://drive.google.com/file/d/1J0vvp0CbDt_mYlpSDyj6kwwo9UvDuH9z/view?usp=drive_link)|
+|2|Cada símbolo é descrito por ao menos uma noção e um impacto?|Sim|[print](https://drive.google.com/file/d/1nFLcIB1mUJKh5VMb0S5M2lzWS_JCtsaA/view?usp=drive_link)|
+|3|Os símbolos descritos têm sinônimo(s)?|Sim|[print](https://drive.google.com/file/d/1FMcWZvjTMrsUp8BpFPkqmRjpnOF_qUBj/view?usp=drive_link)|
+|4|São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?(Princípio do Vocabulário Mínimo)|Sim|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[print](https://drive.google.com/file/d/1ssaVVEpxzdFrR6V2w_b_9mDBII7XobNH/view?usp=drive_link)|
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi), 2025.</p></font>
 
 ## Histórico de versão
 

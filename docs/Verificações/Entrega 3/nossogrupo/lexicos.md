@@ -23,6 +23,8 @@ Criamos uma lista como descrita na tabela 1
 |[Luiz Bessa](https://github.com/lfelipebessa)|Notificação antecipada da data de vencimento da CNH|
 |  [Pedro Camilo](https://github.com/PedrooCamilo) |Área educacional com explicações e vídeos              |
 |  [Pedro Camilo](https://github.com/PedrooCamilo) | Acesso rápido a explicações de siglas                 |
+|  [Maria Eduarda](https://github.com/maaduh) | Notificação de multas e prazos com desconto                |
+|  [Maria Eduarda](https://github.com/maaduh) | Aviso automático em caso de roubo/recuperação do carro     |
 
 ## Realizar agendamentos presencias (vistoria, CNH, etc.)
 
@@ -227,6 +229,50 @@ Tabela 8: Checklist lexico
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
+##  Notificação de multas e prazos com desconto
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="" target="blanket">Vídeo da verificação </a></p>
+ 
+A tabela abaixo descreve o checklist do artefato Notificação de multas e prazos com desconto.
+ 
+Tabela 9: Checklist lexico  
+
+| ID | Critérios | Sim/Não/Incompleto | referencia |
+| :-: | --- | :---: | --- |
+|1|Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?|Sim|[Fonte](https://drive.google.com/file/d/1J0vvp0CbDt_mYlpSDyj6kwwo9UvDuH9z/view?usp=drive_link)|
+|2|Cada símbolo é descrito por ao menos uma noção e um impacto?|Sim|[Fonte](https://drive.google.com/file/d/1nFLcIB1mUJKh5VMb0S5M2lzWS_JCtsaA/view?usp=drive_link)|
+|3|Os símbolos descritos têm sinônimo(s)?|Sim|[Fonte](https://drive.google.com/file/d/1FMcWZvjTMrsUp8BpFPkqmRjpnOF_qUBj/view?usp=drive_link)|
+|4|São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?(Princípio do Vocabulário Mínimo)|Sim|[Fonte](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[Fonte](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[Fonte](https://drive.google.com/file/d/1ssaVVEpxzdFrR6V2w_b_9mDBII7XobNH/view?usp=drive_link)|
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
+
+##  Aviso automático em caso de roubo/recuperação do carro
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="" target="blanket">Vídeo da verificação </a></p>
+ 
+A tabela abaixo descreve o checklist do artefato Aviso automático em caso de roubo/recuperação do carro.
+ 
+Tabela 10: Checklist lexico  
+
+| ID | Critérios | Sim/Não/Incompleto | referencia |
+| :-: | --- | :---: | --- |
+|1|Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?|Sim|[Fonte](https://drive.google.com/file/d/1J0vvp0CbDt_mYlpSDyj6kwwo9UvDuH9z/view?usp=drive_link)|
+|2|Cada símbolo é descrito por ao menos uma noção e um impacto?|Sim|[Fonte](https://drive.google.com/file/d/1nFLcIB1mUJKh5VMb0S5M2lzWS_JCtsaA/view?usp=drive_link)|
+|3|Os símbolos descritos têm sinônimo(s)?|Sim|[Fonte](https://drive.google.com/file/d/1FMcWZvjTMrsUp8BpFPkqmRjpnOF_qUBj/view?usp=drive_link)|
+|4|São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?(Princípio do Vocabulário Mínimo)|Sim|[Fonte](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[Fonte](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[Fonte](https://drive.google.com/file/d/1ssaVVEpxzdFrR6V2w_b_9mDBII7XobNH/view?usp=drive_link)|
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
+
 
 
 ## Histórico de versão
@@ -239,5 +285,6 @@ Tabela 8: Checklist lexico
 |  1.3  | 17/05/2025 | inspeção histórico de pesquisas e serviços |  [Luiz Bessa](https://github.com/lfelipebessa)   |[João Lobo](https://github.com/joaolobo10) |
 |  1.4  | 17/05/2025 | inspeção notificação de vencimento da cnh |  [Luiz Bessa](https://github.com/lfelipebessa)   | [João Lobo](https://github.com/joaolobo10)|
 |  1.5  | 19/05/2025 | Inpeção de Chat com ia para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo|  [João Lobo](https://github.com/joaolobo10)   | [Pedro Camilo](https://github.com/PedrooCamilo) |
-|  1.6  | 19/05/2025 | Inspeção área educacional com explicações e vídeos e acesso rápido a explicações de siglas  |  [Pedro Camilo](https://github.com/PedrooCamilo)   | |
+|  1.6  | 19/05/2025 | Inspeção área educacional com explicações e vídeos e acesso rápido a explicações de siglas  |  [Pedro Camilo](https://github.com/PedrooCamilo)   | [Maria Eduarda](https://github.com/maaduh) |
+|  1.7  | 19/05/2025 | Inspeção notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro  |  [Maria Eduarda](https://github.com/maaduh)   | |
 

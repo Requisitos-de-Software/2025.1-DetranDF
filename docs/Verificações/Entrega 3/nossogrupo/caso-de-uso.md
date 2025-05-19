@@ -282,6 +282,6 @@ Tabela 10: Checklist casos de uso
 |  1.4  | 17/05/2025 | inspeção notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro |  [Maria Eduarda](https://github.com/maaduh)      | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.5  | 19/05/2025 | inspeção notificação de vencimento da cnh|  [Luiz Bessa](https://github.com/lfelipebessa)   | [João Lobo](https://github.com/joaolobo10)|
 |  1.6  | 19/05/2025 | inspeção histórico de pesquisas e servicos recentes|  [Luiz Bessa](https://github.com/lfelipebessa)   |[João Lobo](https://github.com/joaolobo10) |
-|  1.7  | 19/05/2025 | Inpeção de Chat com ia para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo|  [João Lobo](https://github.com/joaolobo10)   | |
+|  1.7  | 19/05/2025 | Inpeção de Chat com ia para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo|  [João Lobo](https://github.com/joaolobo10)   | [Pedro Camilo](https://github.com/PedrooCamilo) |
 |  1.8  | 19/05/2025 | Inspeção área educacional com explicações e vídeos e acesso rápido a explicações de siglas  |  [Pedro Camilo](https://github.com/PedrooCamilo)   | |
 

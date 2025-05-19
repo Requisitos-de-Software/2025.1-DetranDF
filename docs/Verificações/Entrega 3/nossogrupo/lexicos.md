@@ -238,6 +238,6 @@ Tabela 8: Checklist lexico
 |  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)      | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.3  | 17/05/2025 | inspeção histórico de pesquisas e serviços |  [Luiz Bessa](https://github.com/lfelipebessa)   |[João Lobo](https://github.com/joaolobo10) |
 |  1.4  | 17/05/2025 | inspeção notificação de vencimento da cnh |  [Luiz Bessa](https://github.com/lfelipebessa)   | [João Lobo](https://github.com/joaolobo10)|
-|  1.5  | 19/05/2025 | Inpeção de Chat com ia para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo|  [João Lobo](https://github.com/joaolobo10)   | |
+|  1.5  | 19/05/2025 | Inpeção de Chat com ia para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo|  [João Lobo](https://github.com/joaolobo10)   | [Pedro Camilo](https://github.com/PedrooCamilo) |
 |  1.6  | 19/05/2025 | Inspeção área educacional com explicações e vídeos e acesso rápido a explicações de siglas  |  [Pedro Camilo](https://github.com/PedrooCamilo)   | |
 

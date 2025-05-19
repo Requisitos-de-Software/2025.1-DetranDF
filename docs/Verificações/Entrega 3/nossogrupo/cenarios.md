@@ -46,6 +46,7 @@ Tabela 2 : Checklist Cenários
 | 7  | Os eventos que influenciam o cenário estão descritos (positivos ou negativos)? Deve-se considerar fatores que ajudam, atrapalham ou são neutros para o alcance do objetivo. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
 | 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
 
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
 ##  Sistema de pagamento de taxas e débitos 
 
@@ -69,6 +70,8 @@ Tabela 3: Checklist Cenários
 | 6  | As ações do ator são observáveis e plausíveis? O comportamento descrito deve ser concreto e realista, dentro do contexto apresentado. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
 | 7  | Os eventos que influenciam o cenário estão descritos (positivos ou negativos)? Deve-se considerar fatores que ajudam, atrapalham ou são neutros para o alcance do objetivo. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
 | 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
 ##  Integração com CNH digital e gov.br  
 

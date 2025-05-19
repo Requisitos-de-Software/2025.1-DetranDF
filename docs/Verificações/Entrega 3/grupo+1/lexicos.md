@@ -35,6 +35,8 @@ Tabela 2: Checklist lexico
 |5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
 |6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[print](https://drive.google.com/file/d/1ssaVVEpxzdFrR6V2w_b_9mDBII7XobNH/view?usp=drive_link)|
 
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
+
 ##   Acessar configurações para alterar o tema do Sistema 
 
 Video da verificação
@@ -54,6 +56,8 @@ Tabela 3: Checklist lexico
 |4|São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?(Princípio do Vocabulário Mínimo)|Sim|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
 |5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
 |6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[print](https://drive.google.com/file/d/1ssaVVEpxzdFrR6V2w_b_9mDBII7XobNH/view?usp=drive_link)|
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
 ## Léxico para UC06 – Upload de Documento
 

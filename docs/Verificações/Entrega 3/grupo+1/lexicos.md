@@ -204,7 +204,7 @@ Tabela 8: Checklist léxico UC08
 
 Video da verificação
  
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/qeXJYbnWomA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/qeXJYbnWomA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
  <p style="text-align: center"><a href="https://youtu.be/qeXJYbnWomA" target="blanket">Vídeo da verificação </a></p>
 
 Tabela 8: Checklist léxico UC13 
@@ -224,7 +224,7 @@ Tabela 8: Checklist léxico UC13
 
 Video da verificação
  
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/qeXJYbnWomA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/qeXJYbnWomA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
  <p style="text-align: center"><a href="https://youtu.be/qeXJYbnWomA" target="blanket">Vídeo da verificação </a></p>
 
 Tabela 8: Checklist léxico UC14 

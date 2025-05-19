@@ -146,6 +146,51 @@ Tabela 6: Checklist Casos de uso
 | 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
 | 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
 
+## Histórico de Pesquisas e Serviços Recentes
+
+Vídeo da verificação
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="linkadd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center"><a href="linkaddd" target="blanket">Vídeo da verificação</a></p>
+
+A tabela abaixo descreve o checklist do artefato
+
+Tabela 7: Checklist casos de uso
+
+| ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    | Sim  | [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
+
+## Notificação antecipada da data de vencimento da CNH
+
+Vídeo da verificação
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="linkadd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center"><a href="linkadd" target="blanket">Vídeo da verificação</a></p>
+
+A tabela abaixo descreve o checklist do artefato
+
+Tabela 8: Checklist casos de uso
+
+| ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    | Sim  | [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
+
+
 ## Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
@@ -153,5 +198,7 @@ Tabela 6: Checklist Casos de uso
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
 |  1.1  | 14/05/2025 | Introdução,objetivo, inspeção Sistema de pagamento de taxas e débitos e Realizar agendamentos presencias |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
 |  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)   | [Maria Eduarda](https://github.com/maaduh) |
-|  1.3  | 17/05/2025 | correção nos nomes das tabelas |  [Maria Eduarda](https://github.com/maaduh)   |  [Gabriel Mendes](https://github.com/gbevi) |
-|  1.4  | 17/05/2025 | inspeção notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro |  [Maria Eduarda](https://github.com/maaduh)   |  [Gabriel Mendes](https://github.com/gbevi) |
+|  1.3  | 17/05/2025 | correção nos nomes das tabelas |  [Maria Eduarda](https://github.com/maaduh)   | |
+|  1.4  | 17/05/2025 | inspeção notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro |  [Maria Eduarda](https://github.com/maaduh)      | [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.5  | 19/05/2025 | inspeção notificação de vencimento da cnh|  [Luiz Bessa](https://github.com/lfelipebessa)   | |
+|  1.6  | 19/05/2025 | inspeção histórico de pesquisas e servicos recentes|  [Luiz Bessa](https://github.com/lfelipebessa)   | |

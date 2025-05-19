@@ -104,10 +104,57 @@ Tabela 4: Checklist lexico
 |5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
 |6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[print](https://drive.google.com/file/d/1ssaVVEpxzdFrR6V2w_b_9mDBII7XobNH/view?usp=drive_link)|
 
+## Histórico de Pesquisas e Serviços Recentes
+
+Vídeo da verificação
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center"><a href="" target="blanket">Vídeo da verificação</a></p>
+
+A tabela abaixo descreve o checklist do artefato
+
+Tabela 5: Checklist léxico
+
+| ID | Critérios | Sim/Não/Incompleto | Referência |
+| :-: | --- | :---: | --- |
+|1|Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
+|2|Cada símbolo é descrito por ao menos uma noção e um impacto?|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
+|3|Os símbolos descritos têm sinônimo(s)?|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
+|4|São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?(Princípio do Vocabulário Mínimo)|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
+|5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
+|6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
+
+## Notificação antecipada da data de vencimento da CNH
+
+Vídeo da verificação
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center"><a href="" target="blanket">Vídeo da verificação</a></p>
+
+A tabela abaixo descreve o checklist do artefato
+
+Tabela 6: Checklist léxico
+
+| ID | Critérios | Sim/Não/Incompleto | Referência |
+| :-: | --- | :---: | --- |
+|1|Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
+|2|Cada símbolo é descrito por ao menos uma noção e um impacto?|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
+|3|Os símbolos descritos têm sinônimo(s)?|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
+|4|São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?(Princípio do Vocabulário Mínimo)|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
+|5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
+|6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
+
+
 ## Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi)|
 |  1.1  | 14/05/2025 | Introdução,objetivo, inspeção Sistema de pagamento de taxas e débitos e Realizar agendamentos presencias |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
-|  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)   | [Gabriel Mendes](https://github.com/gbevi)  |
+|  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)      | [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.3  | 17/05/2025 | inspeção histórico de pesquisas e serviços |  [Luiz Bessa](https://github.com/lfelipebessa)   | |
+|  1.4  | 17/05/2025 | inspeção notificação de vencimento da cnh |  [Luiz Bessa](https://github.com/lfelipebessa)   | |

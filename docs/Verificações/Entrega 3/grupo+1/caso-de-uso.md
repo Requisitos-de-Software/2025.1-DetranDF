@@ -7,6 +7,53 @@ Esse artefato tem como objetivo documentar a lista de verificação  do caso de 
 # Metodologia
 Criamos uma lista como descrita na tabela 1 
 
+<font size="3"><p style="text-align: center">**Tabela 1 -**Distribuição de funcionalidades entre os integrantes para elaboração dos cenários .</p></font>
+
+|                  Integrante                  |                          Cenário                          |
+| :------------------------------------------: | :-------------------------------------------------------: |
+| [Giovana Barbosa](https://github.com/gio221) |  Pesquisa utilizando integração por voz no DeepSeek  |
+| [Giovana Barbosa](https://github.com/gio221) |         Acessar configurações para alterar o tema do Sistema     |
+
+## Pesquisa utilizando integração por voz no DeepSeek 
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/vy2fgJm7Th4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/vy2fgJm7Th4" target="blanket">Vídeo da verificação </a></p>
+ 
+A tabela abaixo descreve o checklist do artefato 
+ 
+Tabela 1: Checklist lexico  
+
+| ID | Critérios | Sim/Não/Incompleto | referencia |
+| :-: | --- | :---: | --- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |Sim  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+
+##   Acessar configurações para alterar o tema do Sistema 
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/vy2fgJm7Th4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/vy2fgJm7Th4" target="blanket">Vídeo da verificação </a></p>
+ 
+A tabela abaixo descreve o checklist do artefato 
+ 
+Tabela 2: Checklist lexico  
+
+| ID | Critérios | Sim/Não/Incompleto | referencia |
+| :-: | --- | :---: | --- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |Sim  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+
 ## Exclusão automática de dados de upload
 
 Video da verificação

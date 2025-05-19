@@ -4,7 +4,14 @@ Esse artefato mostra como foi montado a lista de verificação do lexico
 # Objetivo
 Esse artefato tem como objetivo documentar a lista de verificação  do lexico
 
-## Realizar agendamentos presencias (vistoria, CNH, etc.)
+ <font size="3"><p style="text-align: center">**Tabela 1 -**Distribuição de funcionalidades entre os integrantes para elaboração dos cenários .</p></font>
+
+|                  Integrante                  |                          Cenário                          |
+| :------------------------------------------: | :-------------------------------------------------------: |
+| [Giovana Barbosa](https://github.com/gio221) |  Pesquisa utilizando integração por voz no DeepSeek  |
+| [Giovana Barbosa](https://github.com/gio221) |         Acessar configurações para alterar o tema do Sistema     |
+
+## Pesquisa utilizando integração por voz no DeepSeek 
 
 Video da verificação
  
@@ -24,7 +31,7 @@ Tabela 1: Checklist lexico
 |5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
 |6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[print](https://drive.google.com/file/d/1ssaVVEpxzdFrR6V2w_b_9mDBII7XobNH/view?usp=drive_link)|
 
-##  Sistema de pagamento de taxas e débitos 
+##   Acessar configurações para alterar o tema do Sistema 
 
 Video da verificação
  

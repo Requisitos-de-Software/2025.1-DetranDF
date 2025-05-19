@@ -13,6 +13,8 @@ Criamos uma lista como descrita na tabela 1
 | :------------------------------------------: | :-------------------------------------------------------: |
 | [Giovana Barbosa](https://github.com/gio221) |  Pesquisa utilizando integração por voz no DeepSeek  |
 | [Giovana Barbosa](https://github.com/gio221) |         Acessar configurações para alterar o tema do Sistema     |
+| [Eric Akio](https://github.com/eric-kingu) | Visualizar status do sistema |
+| [Eric Akio](https://github.com/eric-kingu) | Entendimento por meio de tutorial interativo |
 | [Maria Eduarda](https://github.com/maaduh) |  Limpeza do histórico de conversas  |
 | [Maria Eduarda](https://github.com/maaduh) |         Resumo de Vídeos do YouTube    |
 
@@ -65,7 +67,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 1: Checklist casos de uso
+Tabela 3: Checklist casos de uso
 
 | ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
@@ -85,7 +87,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 2: Checklist casos de uso
+Tabela 4: Checklist casos de uso
 
 | ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
@@ -107,7 +109,7 @@ Vídeo da verificação
 
 A tabela abaixo descreve o checklist do artefato
 
-Tabela 3: Checklist casos de uso
+Tabela 5: Checklist casos de uso
 
 | ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
@@ -129,7 +131,7 @@ Vídeo da verificação
 
 A tabela abaixo descreve o checklist do artefato
 
-Tabela 4: Checklist casos de uso
+Tabela 6: Checklist casos de uso
 
 | ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
@@ -144,7 +146,7 @@ Tabela 4: Checklist casos de uso
 
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 5: Checklist lexico  
+Tabela 7: Checklist lexico  
 
 | ID | Critérios | Sim/Não/Incompleto | referencia |
 | :-: | --- | :---: | --- |
@@ -161,7 +163,7 @@ Tabela 5: Checklist lexico
 
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 6: Checklist lexico  
+Tabela 8: Checklist lexico  
 
 | ID | Critérios | Sim/Não/Incompleto | referencia |
 | :-: | --- | :---: | --- |
@@ -173,6 +175,40 @@ Tabela 6: Checklist lexico
 | 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+## [UC11] - Permite que o usuário veja o status do servidor, indicando se ele está em manutenção ou disponível para uso do chat da IA
+
+A tabela 9 descreve o checklist do artefato 
+ 
+Tabela 9: Checklist caso de uso 
+
+| ID | Critérios | Sim/Não/Incompleto | referencia |
+| :-: | --- | :---: | --- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |Sim  | [Print](https://drive.google.com/file/d/19X7EDhVwd9VI5nV7omVleZNx6H7eAn4w/view?usp=sharing) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](https://drive.google.com/file/d/19X7EDhVwd9VI5nV7omVleZNx6H7eAn4w/view?usp=sharing) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](https://drive.google.com/file/d/19X7EDhVwd9VI5nV7omVleZNx6H7eAn4w/view?usp=sharing) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](https://drive.google.com/file/d/19X7EDhVwd9VI5nV7omVleZNx6H7eAn4w/view?usp=sharing) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](https://drive.google.com/file/d/1_TQMk59i6lU9fdiHnC8l5GgpmodgBFrs/view?usp=sharing) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](https://drive.google.com/file/d/1_TQMk59i6lU9fdiHnC8l5GgpmodgBFrs/view?usp=sharing) |
+
+<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
+
+## [UC12] - Permite que o usuário entenda o funcionamento da plataforma a partir de um tutorial interativo
+
+A tabela 10 descreve o checklist do artefato 
+ 
+Tabela 10: Checklist caso de uso 
+
+| ID | Critérios | Sim/Não/Incompleto | referencia |
+| :-: | --- | :---: | --- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |Sim  | [Print](https://drive.google.com/file/d/1qgTEdW0VJVOLlly9Hfp3-m_ZTmYGHsec/view?usp=sharing) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](https://drive.google.com/file/d/1qgTEdW0VJVOLlly9Hfp3-m_ZTmYGHsec/view?usp=sharing) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](https://drive.google.com/file/d/1qgTEdW0VJVOLlly9Hfp3-m_ZTmYGHsec/view?usp=sharing) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](https://drive.google.com/file/d/1qgTEdW0VJVOLlly9Hfp3-m_ZTmYGHsec/view?usp=sharing) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](https://drive.google.com/file/d/1kWmCoHR9d3axWejGib3N0NgWPOY3-LIa/view?usp=sharing) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](https://drive.google.com/file/d/1kWmCoHR9d3axWejGib3N0NgWPOY3-LIa/view?usp=sharing) |
+
+<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
 
 ## [UC07] - Permite buscar, em menos de 3 s, a versão mais recente do Node.js em 10/05/2025 e copiar o resultado.
 
@@ -262,6 +298,7 @@ Tabela 9: Checklist lexico UC14
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
 
+
 ## Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
@@ -273,3 +310,4 @@ Tabela 9: Checklist lexico UC14
 |  1.4  | 19/05/2025 | Inspeção do caso de uso Permite que o usuário resolva problemas difíceis, como os de matemática, oferecendo o fluxo de pensamento da IA além da resposta e Permite que o usuário cancele uma mensagem em andamento da IA no chat  |  [João Lobo](https://github.com/joaolobo10)   | [Pedro Camilo](https://github.com/PedrooCamilo) |
 |  1.5  | 19/05/2025 | Inspeção do caso de uso Permite buscar, em menos de 3 s, a versão mais recente do Node.js em 10/05/2025 e copiar o resultado. E Permite refinar uma resposta gerada usando Like/Dislike/Regenerate/Copy até atingir clareza e concisão.  |  [Pedro Camilo](https://github.com/PedrooCamilo)   | [Maria Eduarda](https://github.com/maaduh) |
 |  1.6  | 19/05/2025 | Inspeção do caso de uso Limpeza do histórico de conversas e Resumo de vídeos do YouTube  |  [Maria Eduarda](https://github.com/maaduh)   |  |
+| 1.5 | 19/05/2025 | Inspeção: Permite que o usuário veja o status do servidor, indicando se ele está em manutenção ou disponível para uso do chat da IA; e Permite que o usuário entenda o funcionamento da plataforma a partir de um tutorial interativo. | [Eric Akio](https://github.com/eric-kingu) |  |

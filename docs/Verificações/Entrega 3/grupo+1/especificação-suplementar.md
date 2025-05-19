@@ -6,10 +6,6 @@ Esse artefato mostra como foi montado a lista de verificação da especificaçã
 
 Esse artefato tem como objetivo documentar a lista de verificação da especificação suplementar
 
-## Metodologia
-
-Criamos uma lista como descrita na tabela 1.
-
 ## Lista de Verificação da técnica da especificação suplementar
 
 A **tabela 1** descreve o checklist da especificação suplementar
@@ -27,13 +23,9 @@ A **tabela 1** descreve o checklist da especificação suplementar
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes ](https://github.com/gbevi), 2025.</p></font>
 
-# Bibliografia
-
-> 1. BRASIL. Ministério da Ciência, Tecnologia, Inovações e Comunicações. Especificação suplementar: [Sigla do Projeto – Nome do Projeto], versão 1.0. Brasília: MCTIC, Diretoria de Tecnologia da Informação, Coordenação Geral de Sistemas, [s.d.]. 8 p.
-
 ## Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | |
-|  1.1   | 17/05/2025 | adição da lista de verificação |  [Gabriel Mendes](https://github.com/gbevi)   | |
+|  1.1   | 18/05/2025 | adição da lista de verificação |  [Gabriel Mendes](https://github.com/gbevi)   | |

@@ -4,10 +4,8 @@ Esse artefato mostra como foi montado a lista de verificação dos cenários
 # Objetivo
 Esse artefato tem como objetivo documentar a lista de verificação  dos cenários
  
-# Metodologia
-Criamos uma lista como descrita na tabela 1 
 
-<font size="3"><p style="text-align: center">**Tabela 2 -**Distribuição de funcionalidades entre os integrantes para elaboração dos cenários .</p></font>
+<font size="3"><p style="text-align: center">**Tabela 1 -**Distribuição de funcionalidades entre os integrantes para elaboração dos cenários .</p></font>
 
 |                  Integrante                  |                          Cenário                          |
 | :------------------------------------------: | :-------------------------------------------------------: |
@@ -35,7 +33,7 @@ Criamos uma lista como descrita na tabela 1
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 1: Checklist Cenários
+Tabela 2: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
 | :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
@@ -58,7 +56,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 2: Checklist Cenários
+Tabela 3: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
 | :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
@@ -81,7 +79,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 3: Checklist Cenários
+Tabela 4: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
 | :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
@@ -103,7 +101,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 4: Checklist Cenários
+Tabela 5: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
 | :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
@@ -125,7 +123,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 4: Checklist Cenários
+Tabela 6: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
 | :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
@@ -147,7 +145,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 4: Checklist Cenários
+Tabela 7: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
 | :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |

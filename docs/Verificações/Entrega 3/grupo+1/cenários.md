@@ -16,8 +16,11 @@ Esse artefato tem como objetivo documentar a lista de verificação  dos cenári
 | [Maria Eduarda](https://github.com/maaduh) |         Resumo de Vídeos do YouTube    |
 | [Gabriel Mendes](https://github.com/gbevi) | Confirmação de exclusão de todos os chats no DeepSeek |
 | [Gabriel Mendes](https://github.com/gbevi) |        Utilização do DeepSeek com plataformas externas integradas    |
+| [Luiz Bessa](https://github.com/lfelipebessa) | Upload de Documento |
+| [Luiz Bessa](https://github.com/lfelipebessa) | Personalização da experiência via seleção de modelos de IA |
 | [Pedro Camilo](https://github.com/PedrooCamilo) | Consulta Atualizada via Search na Web |
 | [Pedro Camilo](https://github.com/PedrooCamilo) |       Iteração de Resposta com Feedback    |
+
 
 ## Pesquisa utilizando integração por voz no DeepSeek 
 
@@ -120,9 +123,9 @@ Tabela 2: Checklist Cenários
 Vídeo da verificação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/zMH1WpmBQeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
-<p style="text-align: center"><a href="" target="blanket">Vídeo da verificação</a></p>
+<p style="text-align: center"><a href="https://youtu.be/zMH1WpmBQeM" target="blanket">Vídeo da verificação</a></p>
 
 A tabela abaixo descreve o checklist do artefato
 
@@ -139,14 +142,14 @@ Tabela 3: Checklist Cenários
 | 7  | Os eventos que influenciam o cenário estão descritos (positivos ou negativos)? Deve-se considerar fatores que ajudam, atrapalham ou são neutros para o alcance do objetivo. |[Print](https://drive.google.com/file/d/1QcGf4Y5vm1SZCXPUKVEukQxzCnk59vR8/view?usp=sharing)|Sim|
 | 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[Print](https://drive.google.com/file/d/1QcGf4Y5vm1SZCXPUKVEukQxzCnk59vR8/view?usp=sharing)|Sim|
 
-## Upload de Documento
+## Upload de Documentos
 
 Vídeo da verificação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/zMH1WpmBQeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
-<p style="text-align: center"><a href="" target="blanket">Vídeo da verificação</a></p>
+<p style="text-align: center"><a href="https://youtu.be/zMH1WpmBQeM" target="blanket">Vídeo da verificação</a></p>
 
 A tabela abaixo descreve o checklist do artefato
 

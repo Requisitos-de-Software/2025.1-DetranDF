@@ -10,7 +10,7 @@ Esse artefato tem como objetivo documentar a lista de verificação da especific
 
 Criamos uma lista como descrita na tabela 1.
 
-## Lista de Verificação da técnica dos cenários
+## Lista de Verificação da técnica da especificação suplementar
 
 A **tabela 1** descreve o checklist da especificação suplementar
 
@@ -35,5 +35,5 @@ A **tabela 1** descreve o checklist da especificação suplementar
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | |
-|  1.1   | 17/05/2025 | adição da lista de verificação |  [Gabriel Mendes](https://github.com/gbevi)   | |
+|  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi)  |
+|  1.1   | 17/05/2025 | adição da lista de verificação |  [Gabriel Mendes](https://github.com/gbevi)   | [Giovana Barbosa](https://github.com/gio221)|

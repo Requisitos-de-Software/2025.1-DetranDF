@@ -153,5 +153,5 @@ Tabela 6: Checklist Casos de uso
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
 |  1.1  | 14/05/2025 | Introdução,objetivo, inspeção Sistema de pagamento de taxas e débitos e Realizar agendamentos presencias |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
 |  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)   | [Maria Eduarda](https://github.com/maaduh) |
-|  1.3  | 17/05/2025 | correção nos nomes das tabelas |  [Maria Eduarda](https://github.com/maaduh)   | |
-|  1.4  | 17/05/2025 | inspeção notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro |  [Maria Eduarda](https://github.com/maaduh)   | |
+|  1.3  | 17/05/2025 | correção nos nomes das tabelas |  [Maria Eduarda](https://github.com/maaduh)   |  [Gabriel Mendes](https://github.com/gbevi) |
+|  1.4  | 17/05/2025 | inspeção notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro |  [Maria Eduarda](https://github.com/maaduh)   |  [Gabriel Mendes](https://github.com/gbevi) |

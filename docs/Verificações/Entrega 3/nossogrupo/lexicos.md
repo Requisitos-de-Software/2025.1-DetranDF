@@ -110,4 +110,4 @@ Tabela 4: Checklist lexico
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi)|
 |  1.1  | 14/05/2025 | Introdução,objetivo, inspeção Sistema de pagamento de taxas e débitos e Realizar agendamentos presencias |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
-|  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)   | |
+|  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)   | [Gabriel Mendes](https://github.com/gbevi)  |

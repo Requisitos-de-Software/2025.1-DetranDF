@@ -222,8 +222,8 @@ Tabela 8: Checklist lexico UC08
 
 Vídeo de verificação
 
-<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="" target="blanket">Veja no Youtube </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/qeXJYbnWomA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/qeXJYbnWomA" target="blanket">Veja no Youtube </a></p>
 
 A tabela abaixo descreve o checklist do artefato Permite que o usuário apague o histórico de conversas, a partir de uma confirmação
  
@@ -244,7 +244,7 @@ Tabela 9: Checklist lexico UC13
 
 Vídeo de verificação
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/qeXJYbnWomA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/qeXJYbnWomA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
  <p style="text-align: center"><a href="https://youtu.be/qeXJYbnWomA" target="blanket">Veja no Youtube </a></p>
 
 A tabela abaixo descreve o checklist do artefato Resumir vídeos do YouTube a partir de links inseridos no chat do DeepSeek.

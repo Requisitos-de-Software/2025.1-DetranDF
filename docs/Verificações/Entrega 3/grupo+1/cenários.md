@@ -14,6 +14,8 @@ Esse artefato tem como objetivo documentar a lista de verificação  dos cenári
 | [Eric Akio](https://github.com/eric-kingu) | Entendimento por meio de tutorial interativo |
 | [Maria Eduarda](https://github.com/maaduh) |  Limpeza do histórico de conversas  |
 | [Maria Eduarda](https://github.com/maaduh) |         Resumo de Vídeos do YouTube    |
+| [Gabriel Mendes](https://github.com/gbevi) | Confirmação de exclusão de todos os chats no DeepSeek |
+| [Gabriel Mendes](https://github.com/gbevi) |        Utilização do DeepSeek com plataformas externas integradas    |
 
 ## Pesquisa utilizando integração por voz no DeepSeek 
 
@@ -63,12 +65,12 @@ Tabela 1: Checklist Cenários
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
-## Confirmação de exclusão de todos os chats no DeepSeek
+## [UC01] - Confirmação de exclusão de todos os chats no DeepSeek
 
  Video da verificação
  
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/mDGhsYD6ZDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="https://youtu.be/mDGhsYD6ZDg" target="blanket">Vídeo da verificação </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/VQdq09HQzPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/VQdq09HQzPs" target="blanket">Vídeo da verificação </a></p>
  
 A tabela abaixo descreve o checklist do artefato 
  
@@ -85,13 +87,14 @@ Tabela 1: Checklist Cenários
 | 7  | Os eventos que influenciam o cenário estão descritos (positivos ou negativos)? Deve-se considerar fatores que ajudam, atrapalham ou são neutros para o alcance do objetivo. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
 | 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
 
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi), 2025.</p></font>
 
-## Utilização do DeepSeek com plataformas externas integradas 
+## [UC02] - Utilização do DeepSeek com plataformas externas integradas 
 
 Video da verificação
  
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/mDGhsYD6ZDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="https://youtu.be/mDGhsYD6ZDg" target="blanket">Vídeo da verificação </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/VQdq09HQzPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/VQdq09HQzPs" target="blanket">Vídeo da verificação </a></p>
  
 A tabela abaixo descreve o checklist do artefato 
  
@@ -107,6 +110,8 @@ Tabela 2: Checklist Cenários
 | 6  | As ações do ator são observáveis e plausíveis? O comportamento descrito deve ser concreto e realista, dentro do contexto apresentado. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
 | 7  | Os eventos que influenciam o cenário estão descritos (positivos ou negativos)? Deve-se considerar fatores que ajudam, atrapalham ou são neutros para o alcance do objetivo. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
 | 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[Print](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi), 2025.</p></font>
 
 ## Personalização da experiência via seleção de modelos de IA
 

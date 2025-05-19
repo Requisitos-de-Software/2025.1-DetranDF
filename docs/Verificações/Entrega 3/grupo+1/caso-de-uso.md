@@ -17,6 +17,8 @@ Criamos uma lista como descrita na tabela 1
 | [Eric Akio](https://github.com/eric-kingu) | Entendimento por meio de tutorial interativo |
 | [Maria Eduarda](https://github.com/maaduh) |  Limpeza do histórico de conversas  |
 | [Maria Eduarda](https://github.com/maaduh) |         Resumo de Vídeos do YouTube    |
+| [Gabriel Mendes](https://github.com/gbevi) | Exclusão automática de dados de upload |
+| [Gabriel Mendes](https://github.com/gbevi) |        Permite que o usuário use o DeepSeek e o integre com plataformas Externas    |
 
 ## Pesquisa utilizando integração por voz no DeepSeek 
 
@@ -62,12 +64,13 @@ Tabela 2: Checklist lexico
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
-## Exclusão automática de dados de upload
+## [UC01] - Exclusão automática de dados de upload
+
 
 Video da verificação
  
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/i5Nbujb-y_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="https://youtu.be/i5Nbujb-y_c" target="blanket">Vídeo da verificação </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/N1Up9B1y3do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/N1Up9B1y3do" target="blanket">Vídeo da verificação </a></p>
  
 A tabela abaixo descreve o checklist do artefato 
  
@@ -82,12 +85,14 @@ Tabela 3: Checklist casos de uso
 | 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
 | 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
 
-##  Permite que o usuário use o DeepSeek e o integre com plataformas Externas.
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi), 2025.</p></font>
+
+## [UC02] - Permite que o usuário use o DeepSeek e o integre com plataformas Externas.
 
 Video da verificação
  
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/i5Nbujb-y_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="https://youtu.be/i5Nbujb-y_c" target="blanket">Vídeo da verificação </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/N1Up9B1y3do" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/N1Up9B1y3do" target="blanket">Vídeo da verificação </a></p>
  
 A tabela abaixo descreve o checklist do artefato 
  
@@ -101,6 +106,8 @@ Tabela 4: Checklist casos de uso
 | 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
 | 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
 | 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi), 2025.</p></font>
 
 ## [UC04] - Permite que o usuário selecione diferentes versões/modelos de IA no DeepSeek
 

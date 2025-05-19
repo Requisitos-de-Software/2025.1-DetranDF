@@ -199,8 +199,8 @@ Tabela 8: Checklist casos de uso
 
 Vídeo da verificação
 
-<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="" target="blanket">Veja no Youtube </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=tWxLnZx4TpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://www.youtube.com/watch?v=tWxLnZx4TpU" target="blanket">Vídeo da verificação </a></p>
 
 A tabela abaixo descreve o checklist do artefato
 
@@ -221,8 +221,8 @@ Tabela 9: Checklist casos de uso Área educacional com explicações e vídeos
 
 Vídeo da verificação
 
-<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="" target="blanket">Veja no Youtube </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=tWxLnZx4TpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://www.youtube.com/watch?v=tWxLnZx4TpU" target="blanket">Vídeo da verificação </a></p>
 
 A tabela abaixo descreve o checklist do artefato
 

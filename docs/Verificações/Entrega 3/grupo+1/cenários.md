@@ -153,7 +153,7 @@ Tabela 4: Checklist Cenários
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi) |
+|  1.0   | 14/05/2025 | criação do documento e inspeção Pesquisa utilizando integração por voz no DeepSeek e Acessar configurações para alterar o tema do Sistema |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi) |
 |  1.1  | 18/05/2025 | inspeção Exclusão automática de dados de upload e Permite que o usuário use o DeepSeek e o integre com plataformas Externas.   |  [Gabriel Mendes](https://github.com/gbevi)   | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.2  | 19/05/2025 | inspeção Personalização da experiência via seleção de modelos de IA   |  [Luiz Bessa](https://github.com/lfelipebessa)   |  |
 |  1.3  | 19/05/2025 | inspeção Upload de Documento   |  [Luiz Bessa](https://github.com/lfelipebessa)   |  |

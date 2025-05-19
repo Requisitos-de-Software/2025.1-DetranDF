@@ -264,8 +264,8 @@ Tabela 9: Checklist Cenários Limpeza do histórico de conversas
 
 Video da verificação
  
-<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="" target="blanket">Veja no Youtube </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/qeXJYbnWomA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/qeXJYbnWomA" target="blanket">Veja no Youtube </a></p>
  
 A tabela abaixo descreve o checklist do artefato Resumo de Vídeos do YouTube
  

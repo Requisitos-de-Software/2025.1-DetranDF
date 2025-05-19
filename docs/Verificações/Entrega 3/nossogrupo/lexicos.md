@@ -233,8 +233,8 @@ Tabela 8: Checklist lexico
 
 Video da verificação
  
-<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="" target="blanket">Vídeo da verificação </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/-_J4djMJu0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/-_J4djMJu0A" target="blanket">Vídeo da verificação </a></p>
  
 A tabela abaixo descreve o checklist do artefato Notificação de multas e prazos com desconto.
  
@@ -255,8 +255,8 @@ Tabela 9: Checklist lexico
 
 Video da verificação
  
-<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
- <p style="text-align: center"><a href="" target="blanket">Vídeo da verificação </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/-_J4djMJu0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/-_J4djMJu0A" target="blanket">Vídeo da verificação </a></p>
  
 A tabela abaixo descreve o checklist do artefato Aviso automático em caso de roubo/recuperação do carro.
  

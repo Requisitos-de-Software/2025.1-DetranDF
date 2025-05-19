@@ -16,8 +16,11 @@ Esse artefato tem como objetivo documentar a lista de verificação  do lexico
 | [Maria Eduarda](https://github.com/maaduh) |         Resumo de Vídeos do YouTube    |
 | [Gabriel Mendes](https://github.com/gbevi) | Exclusão automática de dados de upload |
 | [Gabriel Mendes](https://github.com/gbevi) |        Integração com Plataformas Externas    |
+| [Luiz Bessa] (https://github.com/lfelipebessa) | Upload de Documento |
+| [Luiz Bessa] (https://github.com/lfelipebessa) | Seleção de modelos de IA no DeepSeek |
 
 ## Pesquisa utilizando integração por voz no DeepSeek 
+
 
 Video da verificação
  
@@ -66,9 +69,9 @@ Tabela 3: Checklist lexico
 Vídeo da verificação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="linkadd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/zMH1WpmBQeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
-<p style="text-align: center"><a href="linkadd" target="blanket">Vídeo da verificação</a></p>
+<p style="text-align: center"><a href="https://youtu.be/zMH1WpmBQeM" target="blanket">Vídeo da verificação</a></p>
 
 Tabela 4: Checklist léxico  
 
@@ -87,9 +90,9 @@ Tabela 4: Checklist léxico
 Vídeo da verificação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="linkadd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/zMH1WpmBQeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
-<p style="text-align: center"><a href="linkadd" target="blanket">Vídeo da verificação</a></p>
+<p style="text-align: center"><a href="https://youtu.be/zMH1WpmBQeM" target="blanket">Vídeo da verificação</a></p>
 
 Tabela 5: Checklist léxico  
 

@@ -19,6 +19,8 @@ Criamos uma lista como descrita na tabela 1
 | [Maria Eduarda](https://github.com/maaduh) |         Resumo de Vídeos do YouTube    |
 | [Gabriel Mendes](https://github.com/gbevi) | Exclusão automática de dados de upload |
 | [Gabriel Mendes](https://github.com/gbevi) |        Permite que o usuário use o DeepSeek e o integre com plataformas Externas    |
+| [Luiz Bessa] (https://github.com/lfelipebessa) | Permite que o usuário envie um PDF e receba o texto extraído e insights, preservando formatação e símbolos. |
+| [Luiz Bessa] (https://github.com/lfelipebessa) | Permite que o usuário selecione diferentes versões/modelos de IA no DeepSeek |
 
 ## Pesquisa utilizando integração por voz no DeepSeek 
 
@@ -114,9 +116,9 @@ Tabela 4: Checklist casos de uso
 Vídeo da verificação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="linkadd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/zMH1WpmBQeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
-<p style="text-align: center"><a href="linkadd" target="blanket">Vídeo da verificação</a></p>
+<p style="text-align: center"><a href="https://youtu.be/zMH1WpmBQeM" target="blanket">Vídeo da verificação</a></p>
 
 A tabela abaixo descreve o checklist do artefato
 
@@ -136,9 +138,9 @@ Tabela 5: Checklist casos de uso
 Vídeo da verificação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="linkadd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/zMH1WpmBQeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
-<p style="text-align: center"><a href="linkadd" target="blanket">Vídeo da verificação</a></p>
+<p style="text-align: center"><a href="https://youtu.be/zMH1WpmBQeM" target="blanket">Vídeo da verificação</a></p>
 
 A tabela abaixo descreve o checklist do artefato
 

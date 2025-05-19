@@ -190,6 +190,7 @@ Tabela 8: Checklist casos de uso
 | 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
 | 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](https://drive.google.com/file/d/1DRtLPgwLvi0g0WCeghli-GQqtaIr4CW9/view?usp=sharing) |
 
+
 ## Área educacional com explicações e vídeos
 
 Vídeo da verificação
@@ -234,6 +235,42 @@ Tabela 9: Checklist casos de uso Acesso rápido a explicações de siglas
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
+## Chat com IA para tirar dúvidas
+
+A tabela abaixo descreve o checklist do artefato.
+
+Tabela 9: Checklist casos de uso
+
+| ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   |  | [Print](/docs/assets/verificação/casodeuso.png) |
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+## Atendimento ao vivo com servidor do DETRAN via chat/vídeo
+
+A tabela abaixo descreve o checklist do artefato. 
+
+Tabela 10: Checklist casos de uso
+
+| ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            |  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   |  | [Print](/docs/assets/verificação/casodeuso.png) |
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+
+
 ## Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
@@ -243,6 +280,8 @@ Tabela 9: Checklist casos de uso Acesso rápido a explicações de siglas
 |  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)   | [Maria Eduarda](https://github.com/maaduh) |
 |  1.3  | 17/05/2025 | correção nos nomes das tabelas |  [Maria Eduarda](https://github.com/maaduh)   | |
 |  1.4  | 17/05/2025 | inspeção notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro |  [Maria Eduarda](https://github.com/maaduh)      | [Luiz Bessa](https://github.com/lfelipebessa) |
-|  1.5  | 19/05/2025 | inspeção notificação de vencimento da cnh|  [Luiz Bessa](https://github.com/lfelipebessa)   | |
-|  1.6  | 19/05/2025 | inspeção histórico de pesquisas e servicos recentes|  [Luiz Bessa](https://github.com/lfelipebessa)   | |
-|  1.7  | 19/05/2025 | inspeção área educacional com explicações e vídeos e acesso rápido a explicações de siglas  |  [Pedro Camilo](https://github.com/PedrooCamilo)   | |
+|  1.5  | 19/05/2025 | inspeção notificação de vencimento da cnh|  [Luiz Bessa](https://github.com/lfelipebessa)   | [João Lobo](https://github.com/joaolobo10)|
+|  1.6  | 19/05/2025 | inspeção histórico de pesquisas e servicos recentes|  [Luiz Bessa](https://github.com/lfelipebessa)   |[João Lobo](https://github.com/joaolobo10) |
+|  1.7  | 19/05/2025 | Inpeção de Chat com ia para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo|  [João Lobo](https://github.com/joaolobo10)   | |
+|  1.8  | 19/05/2025 | Inspeção área educacional com explicações e vídeos e acesso rápido a explicações de siglas  |  [Pedro Camilo](https://github.com/PedrooCamilo)   | |
+

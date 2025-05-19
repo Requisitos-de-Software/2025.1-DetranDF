@@ -18,12 +18,12 @@ A **tabela 1** descreve o checklist dos lexicos
 
 | ID  | Critérios                                                                                   |Referência                                                        |
 | :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-|1|Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?|[print](https://drive.google.com/file/d/1J0vvp0CbDt_mYlpSDyj6kwwo9UvDuH9z/view?usp=drive_link)|
-|2|Cada símbolo é descrito por ao menos uma noção e um impacto?|[print](https://drive.google.com/file/d/1nFLcIB1mUJKh5VMb0S5M2lzWS_JCtsaA/view?usp=drive_link)|
-|3|Os símbolos descritos têm sinônimo(s)?|[print](https://drive.google.com/file/d/1FMcWZvjTMrsUp8BpFPkqmRjpnOF_qUBj/view?usp=drive_link)|
-|4|São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?(Princípio do Vocabulário Mínimo)|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
-|5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
-|6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|[print](https://drive.google.com/file/d/1ssaVVEpxzdFrR6V2w_b_9mDBII7XobNH/view?usp=drive_link)|
+|1|Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?|[Fonte](https://drive.google.com/file/d/1J0vvp0CbDt_mYlpSDyj6kwwo9UvDuH9z/view?usp=drive_link)|
+|2|Cada símbolo é descrito por ao menos uma noção e um impacto?|[Fonte](https://drive.google.com/file/d/1nFLcIB1mUJKh5VMb0S5M2lzWS_JCtsaA/view?usp=drive_link)|
+|3|Os símbolos descritos têm sinônimo(s)?|[Fonte](https://drive.google.com/file/d/1FMcWZvjTMrsUp8BpFPkqmRjpnOF_qUBj/view?usp=drive_link)|
+|4|São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?(Princípio do Vocabulário Mínimo)|[Fonte](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|[Fonte](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|[Fonte](https://drive.google.com/file/d/1ssaVVEpxzdFrR6V2w_b_9mDBII7XobNH/view?usp=drive_link)|
 
 ## Histórico de versão
 

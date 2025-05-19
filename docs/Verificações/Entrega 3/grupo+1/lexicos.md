@@ -10,6 +10,8 @@ Esse artefato tem como objetivo documentar a lista de verificação  do lexico
 | :------------------------------------------: | :-------------------------------------------------------: |
 | [Giovana Barbosa](https://github.com/gio221) |  Pesquisa utilizando integração por voz no DeepSeek  |
 | [Giovana Barbosa](https://github.com/gio221) |         Acessar configurações para alterar o tema do Sistema     |
+| [Maria Eduarda](https://github.com/maaduh) |  Limpeza do histórico de conversas  |
+| [Maria Eduarda](https://github.com/maaduh) |         Resumo de Vídeos do YouTube    |
 
 ## Pesquisa utilizando integração por voz no DeepSeek 
 
@@ -161,6 +163,46 @@ Tabela 8: Checklist léxico UC08
 | 6 | Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos? | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
+
+## Léxico para UC13 (Exclusão do histórico de conversas)
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="" target="blanket">Vídeo da verificação </a></p>
+
+Tabela 8: Checklist léxico UC13 
+
+| ID | Critérios | Sim/Não/Incompleto | Referência |
+| :-: | --- | :---: | --- |
+| 1 | Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)? | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
+| 2 | Cada símbolo é descrito por ao menos uma noção e um impacto? | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
+| 3 | Os símbolos descritos têm sinônimo(s)? | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
+| 4 | São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural? (Princípio do Vocabulário Mínimo) | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
+| 5 | São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade) | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
+| 6 | Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos? | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
+
+## Léxico para UC14 (Resumo de Vídeos do YouTube)
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="" target="blanket">Vídeo da verificação </a></p>
+
+Tabela 8: Checklist léxico UC14 
+
+| ID | Critérios | Sim/Não/Incompleto | Referência |
+| :-: | --- | :---: | --- |
+| 1 | Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)? | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
+| 2 | Cada símbolo é descrito por ao menos uma noção e um impacto? | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
+| 3 | Os símbolos descritos têm sinônimo(s)? | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
+| 4 | São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural? (Princípio do Vocabulário Mínimo) | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
+| 5 | São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade) | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
+| 6 | Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos? | Sim | [Fonte](https://drive.google.com/file/d/10YMh3wtcDlY85gaDqDoAsGGiLQyYLVt8/view?usp=sharing) |
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
 
 ## Histórico de versão
 

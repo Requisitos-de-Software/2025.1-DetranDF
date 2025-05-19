@@ -13,6 +13,8 @@ Criamos uma lista como descrita na tabela 1
 | :------------------------------------------: | :-------------------------------------------------------: |
 | [Giovana Barbosa](https://github.com/gio221) |  Pesquisa utilizando integração por voz no DeepSeek  |
 | [Giovana Barbosa](https://github.com/gio221) |         Acessar configurações para alterar o tema do Sistema     |
+| [Maria Eduarda](https://github.com/maaduh) |  Limpeza do histórico de conversas  |
+| [Maria Eduarda](https://github.com/maaduh) |         Resumo de Vídeos do YouTube    |
 
 ## Pesquisa utilizando integração por voz no DeepSeek 
 
@@ -203,7 +205,7 @@ Vídeo de verificação
 
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 7: Checklist lexico UC08 
+Tabela 8: Checklist lexico UC08 
 
 | ID | Critérios | Sim/Não/Incompleto | referencia |
 | :-: | --- | :---: | --- |
@@ -216,6 +218,50 @@ Tabela 7: Checklist lexico UC08
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/Pedroo Camilo) , 2025.</p></font>
 
+## [UC13] - Permite que o usuário apague o histórico de conversas, a partir de uma confirmação
+
+Vídeo de verificação
+
+<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="" target="blanket">Veja no Youtube </a></p>
+
+A tabela abaixo descreve o checklist do artefato Permite que o usuário apague o histórico de conversas, a partir de uma confirmação
+ 
+Tabela 9: Checklist lexico UC13
+
+| ID | Critérios | Sim/Não/Incompleto | referencia |
+| :-: | --- | :---: | --- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |Sim  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
+
+## [UC14] - Resumir vídeos do YouTube a partir de links inseridos no chat do DeepSeek.
+
+Vídeo de verificação
+
+<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="" target="blanket">Veja no Youtube </a></p>
+
+A tabela abaixo descreve o checklist do artefato Resumir vídeos do YouTube a partir de links inseridos no chat do DeepSeek.
+ 
+Tabela 9: Checklist lexico UC14
+
+| ID | Critérios | Sim/Não/Incompleto | referencia |
+| :-: | --- | :---: | --- |
+| 1 | O caso de uso possui um **título claro** e um **identificador único**?                    |Sim  | [Print](/docs/assets/verificação/casodeuso.png) |
+| 2 | Todos os **atores** que interagem com o sistema estão listados corretamente?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 3 | As **pré-condições** e **pós-condições** estão completas?    |  Sim| [Print](/docs/assets/verificação/casodeuso.png) |
+| 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+| 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [Print](/docs/assets/verificação/casodeuso.png) |
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
+
 ## Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
@@ -225,4 +271,5 @@ Tabela 7: Checklist lexico UC08
 |  1.2  | 19/05/2025 | inspeção Permite que o usuário selecione diferentes versões/modelos de IA no DeepSeek   | [Luiz Bessa](https://github.com/lfelipebessa) |  |
 |  1.3  | 19/05/2025 | inspeção Permite que o usuário envie um PDF e receba o texto extraído e insights, preservando formatação e símbolos.   | [Luiz Bessa](https://github.com/lfelipebessa) |  |
 |  1.4  | 19/05/2025 | Inspeção do caso de uso Permite que o usuário resolva problemas difíceis, como os de matemática, oferecendo o fluxo de pensamento da IA além da resposta e Permite que o usuário cancele uma mensagem em andamento da IA no chat  |  [João Lobo](https://github.com/joaolobo10)   | [Pedro Camilo](https://github.com/PedrooCamilo) |
-|  1.5  | 19/05/2025 | Inspeção do caso de uso Permite buscar, em menos de 3 s, a versão mais recente do Node.js em 10/05/2025 e copiar o resultado. E Permite refinar uma resposta gerada usando Like/Dislike/Regenerate/Copy até atingir clareza e concisão.  |  [Pedro Camilo](https://github.com/PedrooCamilo)   |  |
+|  1.5  | 19/05/2025 | Inspeção do caso de uso Permite buscar, em menos de 3 s, a versão mais recente do Node.js em 10/05/2025 e copiar o resultado. E Permite refinar uma resposta gerada usando Like/Dislike/Regenerate/Copy até atingir clareza e concisão.  |  [Pedro Camilo](https://github.com/PedrooCamilo)   | [Maria Eduarda](https://github.com/maaduh) |
+|  1.6  | 19/05/2025 | Inspeção do caso de uso Limpeza do histórico de conversas e Resumo de vídeos do YouTube  |  [Maria Eduarda](https://github.com/maaduh)   |  |

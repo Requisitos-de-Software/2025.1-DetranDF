@@ -10,6 +10,8 @@ Esse artefato tem como objetivo documentar a lista de verificação  dos cenári
 | :------------------------------------------: | :-------------------------------------------------------: |
 | [Giovana Barbosa](https://github.com/gio221) |  Pesquisa utilizando integração por voz no DeepSeek  |
 | [Giovana Barbosa](https://github.com/gio221) |         Acessar configurações para alterar o tema do Sistema     |
+| [Maria Eduarda](https://github.com/maaduh) |  Limpeza do histórico de conversas  |
+| [Maria Eduarda](https://github.com/maaduh) |         Resumo de Vídeos do YouTube    |
 
 ## Pesquisa utilizando integração por voz no DeepSeek 
 
@@ -234,6 +236,53 @@ Tabela 8: Checklist Cenários Iteração de Resposta com Opções Disponíveis P
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
 
+## Limpeza do histórico de conversas
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="" target="blanket">Veja no Youtube </a></p>
+ 
+A tabela abaixo descreve o checklist do artefato Limpeza do histórico de conversas
+ 
+Tabela 9: Checklist Cenários Limpeza do histórico de conversas
+
+| ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
+| :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
+| 1  | O cenário apresenta um contexto claro e relevante? Verifique se há uma descrição detalhada do ambiente ou situação que motiva as ações dos atores. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 2  | Foram definidos os atores principais envolvidos no cenário? Os usuários devem estar descritos com características relevantes ao contexto de uso. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 3  | O objetivo principal do ator está explícito e bem definido? O cenário deve deixar claro o que o(a) usuário(a) deseja alcançar. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 4  | Há uma narrativa coerente com uma sequência de ações e eventos? O enredo deve incluir as etapas que o(a) ator(a) percorre, os eventos que ocorrem e como isso afeta a experiência. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 5  | O planejamento do ator está representado quando necessário? A atividade mental (como tomada de decisão ou avaliação de alternativas) deve aparecer quando for essencial ao cenário. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 6  | As ações do ator são observáveis e plausíveis? O comportamento descrito deve ser concreto e realista, dentro do contexto apresentado. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 7  | Os eventos que influenciam o cenário estão descritos (positivos ou negativos)? Deve-se considerar fatores que ajudam, atrapalham ou são neutros para o alcance do objetivo. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
+
+## Resumo de Vídeos do YouTube
+
+Video da verificação
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="" target="blanket">Veja no Youtube </a></p>
+ 
+A tabela abaixo descreve o checklist do artefato Resumo de Vídeos do YouTube
+ 
+Tabela 10: Checklist Cenários Resumo de Vídeos do YouTube
+
+| ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
+| :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
+| 1  | O cenário apresenta um contexto claro e relevante? Verifique se há uma descrição detalhada do ambiente ou situação que motiva as ações dos atores. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 2  | Foram definidos os atores principais envolvidos no cenário? Os usuários devem estar descritos com características relevantes ao contexto de uso. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 3  | O objetivo principal do ator está explícito e bem definido? O cenário deve deixar claro o que o(a) usuário(a) deseja alcançar. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 4  | Há uma narrativa coerente com uma sequência de ações e eventos? O enredo deve incluir as etapas que o(a) ator(a) percorre, os eventos que ocorrem e como isso afeta a experiência. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 5  | O planejamento do ator está representado quando necessário? A atividade mental (como tomada de decisão ou avaliação de alternativas) deve aparecer quando for essencial ao cenário. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 6  | As ações do ator são observáveis e plausíveis? O comportamento descrito deve ser concreto e realista, dentro do contexto apresentado. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 7  | Os eventos que influenciam o cenário estão descritos (positivos ou negativos)? Deve-se considerar fatores que ajudam, atrapalham ou são neutros para o alcance do objetivo. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+| 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[Fonte](https://drive.google.com/file/d/1bPtXhHVrhZfJG5mS4BzSTxJIEWsBcrpS/view?usp=sharing)|Sim|
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
 
 ## Histórico de versão
 
@@ -244,4 +293,5 @@ Tabela 8: Checklist Cenários Iteração de Resposta com Opções Disponíveis P
 |  1.2  | 19/05/2025 | inspeção Personalização da experiência via seleção de modelos de IA   |  [Luiz Bessa](https://github.com/lfelipebessa)   |  |
 |  1.3  | 19/05/2025 | inspeção Upload de Documento   |  [Luiz Bessa](https://github.com/lfelipebessa)   | [João Lobo](https://github.com/joaolobo10) |
 |  1.4  | 19/05/2025 | Inspeção do cenário Utilização da Ferramenta Pensamento Profundo para Resolver um Problema Difícil de Matemática e do cenário Opção de Interromper Resposta em Andamento  |  [João Lobo](https://github.com/joaolobo10)   | [Pedro Camilo](https://github.com/PedrooCamilo) |
-|  1.5  | 19/05/2025 | Inspeção do cenário Consulta Atualizada via Search na Web, Iteração de Resposta com Opções Disponíveis Para Resposta  |  [Pedro Camilo](https://github.com/PedrooCamilo)   |  |
+|  1.5  | 19/05/2025 | Inspeção do cenário Consulta Atualizada via Search na Web, Iteração de Resposta com Opções Disponíveis Para Resposta  |  [Pedro Camilo](https://github.com/PedrooCamilo)   | [Maria Eduarda](https://github.com/maaduh) |
+|  1.6  | 19/05/2025 | Inspeção do cenário Limpeza do histórico de conversas e Resumo de vídeos do YouTube  |  [Maria Eduarda](https://github.com/maaduh)  |  |

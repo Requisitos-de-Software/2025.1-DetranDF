@@ -148,6 +148,40 @@ Tabela 6: Checklist léxico
 |5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
 |6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[Print](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
 
+## Chat com IA para tirar dúvidas
+
+A tabela abaixo descreve o checklist do artefato 
+ 
+Tabela 7: Checklist lexico  
+
+| ID | Critérios | Sim/Não/Incompleto | referencia |
+| :-: | --- | :---: | --- |
+|1|Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?|Sim|[print](https://drive.google.com/file/d/1J0vvp0CbDt_mYlpSDyj6kwwo9UvDuH9z/view?usp=drive_link)|
+|2|Cada símbolo é descrito por ao menos uma noção e um impacto?|Sim|[print](https://drive.google.com/file/d/1nFLcIB1mUJKh5VMb0S5M2lzWS_JCtsaA/view?usp=drive_link)|
+|3|Os símbolos descritos têm sinônimo(s)?|Sim|[print](https://drive.google.com/file/d/1FMcWZvjTMrsUp8BpFPkqmRjpnOF_qUBj/view?usp=drive_link)|
+|4|São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?(Princípio do Vocabulário Mínimo)|Sim|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[print](https://drive.google.com/file/d/1ssaVVEpxzdFrR6V2w_b_9mDBII7XobNH/view?usp=drive_link)|
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+## Atendimento ao vivo com servidor do DETRAN via chat/vídeo
+
+A tabela abaixo descreve o checklist do artefato 
+ 
+Tabela 8: Checklist lexico  
+
+| ID | Critérios | Sim/Não/Incompleto | referencia |
+| :-: | --- | :---: | --- |
+|1|Cada entrada no léxico é classificada com um dos três tipos (verbo, objeto, estado)?|Sim|[print](https://drive.google.com/file/d/1J0vvp0CbDt_mYlpSDyj6kwwo9UvDuH9z/view?usp=drive_link)|
+|2|Cada símbolo é descrito por ao menos uma noção e um impacto?|Sim|[print](https://drive.google.com/file/d/1nFLcIB1mUJKh5VMb0S5M2lzWS_JCtsaA/view?usp=drive_link)|
+|3|Os símbolos descritos têm sinônimo(s)?|Sim|[print](https://drive.google.com/file/d/1FMcWZvjTMrsUp8BpFPkqmRjpnOF_qUBj/view?usp=drive_link)|
+|4|São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?(Princípio do Vocabulário Mínimo)|Sim|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[print](https://drive.google.com/file/d/1YWdAzXibwYSl8GeU7j_DVEV_hHlfRNHQ/view?usp=drive_link)|
+|6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[print](https://drive.google.com/file/d/1ssaVVEpxzdFrR6V2w_b_9mDBII7XobNH/view?usp=drive_link)|
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
 
 ## Histórico de versão
 
@@ -156,5 +190,6 @@ Tabela 6: Checklist léxico
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi)|
 |  1.1  | 14/05/2025 | Introdução,objetivo, inspeção Sistema de pagamento de taxas e débitos e Realizar agendamentos presencias |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
 |  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)      | [Luiz Bessa](https://github.com/lfelipebessa) |
-|  1.3  | 17/05/2025 | inspeção histórico de pesquisas e serviços |  [Luiz Bessa](https://github.com/lfelipebessa)   | |
-|  1.4  | 17/05/2025 | inspeção notificação de vencimento da cnh |  [Luiz Bessa](https://github.com/lfelipebessa)   | |
+|  1.3  | 17/05/2025 | inspeção histórico de pesquisas e serviços |  [Luiz Bessa](https://github.com/lfelipebessa)   |[João Lobo](https://github.com/joaolobo10) |
+|  1.4  | 17/05/2025 | inspeção notificação de vencimento da cnh |  [Luiz Bessa](https://github.com/lfelipebessa)   | [João Lobo](https://github.com/joaolobo10)|
+|  1.5  | 19/05/2025 | Inpeção de Chat com ia para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo|  [João Lobo](https://github.com/joaolobo10)   | |

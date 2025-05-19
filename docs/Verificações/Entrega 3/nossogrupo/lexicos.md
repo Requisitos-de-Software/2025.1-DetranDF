@@ -155,6 +155,6 @@ Tabela 6: Checklist léxico
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi)|
 |  1.1  | 14/05/2025 | Introdução,objetivo, inspeção Sistema de pagamento de taxas e débitos e Realizar agendamentos presencias |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
-|  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)   | [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.2  | 17/05/2025 | inspeção integração com gov.br e área da auto-escola |  [Gabriel Mendes](https://github.com/gbevi)      | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.3  | 17/05/2025 | inspeção histórico de pesquisas e serviços |  [Luiz Bessa](https://github.com/lfelipebessa)   | |
 |  1.4  | 17/05/2025 | inspeção notificação de vencimento da cnh |  [Luiz Bessa](https://github.com/lfelipebessa)   | |

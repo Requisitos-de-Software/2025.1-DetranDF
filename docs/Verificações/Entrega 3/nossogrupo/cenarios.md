@@ -33,7 +33,7 @@ Esse artefato tem como objetivo documentar a lista de verificação  dos cenári
  
 A tabela abaixo descreve o checklist do artefato 
  
-Tabela 2: Checklist Cenários
+Tabela 2 : Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
 | :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
@@ -56,6 +56,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
+Tabela 3: Checklist Cenários
 Tabela 3: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
@@ -80,6 +81,7 @@ Video da verificação
 A tabela abaixo descreve o checklist do artefato 
  
 Tabela 4: Checklist Cenários
+Tabela 4: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
 | :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
@@ -101,6 +103,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
+Tabela 5: Checklist Cenários
 Tabela 5: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
@@ -124,6 +127,7 @@ Video da verificação
 A tabela abaixo descreve o checklist do artefato 
  
 Tabela 6: Checklist Cenários
+Tabela 6: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
 | :-: | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |----------------------------------------------------------------- |
@@ -145,6 +149,7 @@ Video da verificação
  
 A tabela abaixo descreve o checklist do artefato 
  
+Tabela 7: Checklist Cenários
 Tabela 7: Checklist Cenários
 
 | ID  | Critérios                                                                                   |Referência                                                        |Sim/Não|
@@ -214,6 +219,4 @@ Tabela 9: Checklist Cenários
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi)|
 |  1.1  | 14/05/2025 | Introdução,objetivo, inspeção Sistema de pagamento de taxas e débitos e Realizar agendamentos presencias |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi)|
 |  1.2  | 17/05/2025 | Integração com gov.br e área para auto-escolas |  [Gabriel Mendes](https://github.com/gbevi)   | [Maria Eduarda](https://github.com/maaduh) |
-|  1.3  | 17/05/2025 | inspeção notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro |  [Maria Eduarda](https://github.com/maaduh) | [Luiz Bessa](https://github.com/lfelipebessa) |
-|  1.4  | 19/05/2025 | inspeção notificação de vencimento da cnh | [Luiz Bessa](https://github.com/lfelipebessa) | |
-|  1.5  | 19/05/2025 | inspeção histórico de serviços e pesquisas recentes | [Luiz Bessa](https://github.com/lfelipebessa) | |
+|  1.3  | 17/05/2025 | inspeção notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro |  [Maria Eduarda](https://github.com/maaduh)   | [Gabriel Mendes](https://github.com/gbevi)  |

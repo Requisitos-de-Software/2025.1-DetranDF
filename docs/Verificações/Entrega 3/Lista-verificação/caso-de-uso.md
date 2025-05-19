@@ -39,4 +39,4 @@ SANTOS, José Eduardo dos. Como fazer um diagrama de caso de uso UML. YouTube, 2
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
-|  1.1   | 17/05/2025 | adição da lista de verificação |  [Gabriel Mendes](https://github.com/gbevi)   | |
+|  1.1   | 17/05/2025 | adição da lista de verificação |  [Gabriel Mendes](https://github.com/gbevi)   |[Giovana Barbosa](https://github.com/gio221) |

@@ -166,7 +166,7 @@ A tabela abaixo descreve o checklist do artefato.
 Vídeo da verificação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://youtu.be/zMH1WpmBQeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/zMH1WpmBQeM?si=kRfvIEJZ_JB3Kk0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center"><a href="https://youtu.be/zMH1WpmBQeM" target="blanket">Vídeo da verificação</a></p>
 
@@ -185,12 +185,14 @@ A tabela abaixo descreve o checklist do artefato.
 | 7  | Os eventos que influenciam o cenário estão descritos (positivos ou negativos)? Deve-se considerar fatores que ajudam, atrapalham ou são neutros para o alcance do objetivo. |[1](#ref1) [Cenários - pág.172](https://drive.google.com/file/d/1DImJZTs7Dq-EBxmpzxAxSud-7MgXNQ6r/view?usp=sharing)|Sim|
 | 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[1](#ref1) [Cenários - pág.172](https://drive.google.com/file/d/1DImJZTs7Dq-EBxmpzxAxSud-7MgXNQ6r/view?usp=sharing)|Sim|
 
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
 ## Notificação antecipada da data de vencimento da CNH
 
 Vídeo da verificação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://youtu.be/zMH1WpmBQeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/zMH1WpmBQeM?si=kRfvIEJZ_JB3Kk0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center"><a href="https://youtu.be/zMH1WpmBQeM" target="blanket">Vídeo da verificação</a></p>
 
@@ -209,6 +211,7 @@ A tabela abaixo descreve o checklist do artefato.
 | 7  | Os eventos que influenciam o cenário estão descritos (positivos ou negativos)? Deve-se considerar fatores que ajudam, atrapalham ou são neutros para o alcance do objetivo. |[1](#ref1) [Cenários - pág.172](https://drive.google.com/file/d/1DImJZTs7Dq-EBxmpzxAxSud-7MgXNQ6r/view?usp=sharing)|Sim|
 | 8  | O cenário está conectado a outros possíveis caminhos alternativos? É importante indicar se há cenários relacionados que abordam o mesmo objetivo por diferentes meios. |[1](#ref1) [Cenários - pág.172](https://drive.google.com/file/d/1DImJZTs7Dq-EBxmpzxAxSud-7MgXNQ6r/view?usp=sharing)|Sim|
 
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
 ## Área educacional com explicações e vídeos
 

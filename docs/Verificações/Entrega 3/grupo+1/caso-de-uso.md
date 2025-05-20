@@ -121,7 +121,7 @@ A tabela abaixo descreve o checklist do artefato
 Vídeo da verificação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://youtu.be/zMH1WpmBQeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/zMH1WpmBQeM?si=kRfvIEJZ_JB3Kk0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center"><a href="https://youtu.be/zMH1WpmBQeM" target="blanket">Vídeo da verificação</a></p>
 
@@ -138,12 +138,14 @@ A tabela abaixo descreve o checklist do artefato
 | 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [1.](#ref1) [Fonte](../../../assets/verificação/casodeuso.png) |
 | 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [1.](#ref1) [Fonte](../../../assets/verificação/casodeuso.png) |
 
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
 ## [UC06] - Permite que o usuário envie um PDF e receba o texto extraído e insights, preservando formatação e símbolos.
 
 Vídeo da verificação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://youtu.be/zMH1WpmBQeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/zMH1WpmBQeM?si=kRfvIEJZ_JB3Kk0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center"><a href="https://youtu.be/zMH1WpmBQeM" target="blanket">Vídeo da verificação</a></p>
 
@@ -159,6 +161,8 @@ A tabela abaixo descreve o checklist do artefato
 | 4 | O **fluxo principal** está descrito em passos sequenciais claros, cobrindo do acesso ao encerramento?                             | Sim | [1.](#ref1) [Fonte](../../../assets/verificação/casodeuso.png) |
 | 5 | Existem **fluxos alternativo e de exceções** bem definidos?            | Sim | [1.](#ref1) [Fonte](../../../assets/verificação/casodeuso.png) |
 | 6 | A **fonte/versão** do caso de uso está registrada para rastreabilidade?                                   | Sim | [1.](#ref1) [Fonte](../../../assets/verificação/casodeuso.png) |
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
 ## [UC09] - Permite que o usuário resolva problemas difíceis, como os de matemática, oferecendo o fluxo de pensamento da IA além da resposta. Utiliza o modelo R1 do DeepSeek
 

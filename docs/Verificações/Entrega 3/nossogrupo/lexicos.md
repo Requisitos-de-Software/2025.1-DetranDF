@@ -114,10 +114,8 @@ A tabela abaixo descreve o checklist do artefato.
 
 Vídeo da verificação
 
-<p style="text-align: center">
-<iframe width="560" height="315" src="https://youtu.be/zMH1WpmBQeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-<p style="text-align: center"><a href="https://youtu.be/zMH1WpmBQeM" target="blanket">Vídeo da verificação</a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/zMH1WpmBQeM?si=kRfvIEJZ_JB3Kk0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/zMH1WpmBQeM?si=kRfvIEJZ_JB3Kk0b" target="blanket">Vídeo da verificação </a></p>
 
 A tabela abaixo descreve o checklist do artefato.
 
@@ -132,12 +130,14 @@ A tabela abaixo descreve o checklist do artefato.
 |5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[Fonte](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
 |6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[Fonte](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
 
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
 ## Notificação antecipada da data de vencimento da CNH
 
 Vídeo da verificação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://youtu.be/zMH1WpmBQeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/zMH1WpmBQeM?si=kRfvIEJZ_JB3Kk0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center"><a href="https://youtu.be/zMH1WpmBQeM" target="blanket">Vídeo da verificação</a></p>
 
@@ -153,6 +153,8 @@ A tabela abaixo descreve o checklist do artefato.
 |4|São utilizadas palavras frequentes, de significado claro e pertencentes a um vocabulário restrito da linguagem natural?(Princípio do Vocabulário Mínimo)|Sim|[Fonte](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
 |5|São empregados símbolos da própria linguagem na descrição de noções e impactos? (Princípio da Circularidade)|Sim|[Fonte](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
 |6|Nos símbolos do tipo verbo, suas noções indicam quem o realiza, quando acontece e quais os procedimentos envolvidos?|Sim|[Fonte](https://drive.google.com/file/d/11AVxfXnR8oERTX-ufXb3GZb8wC6amZLT/view?usp=sharing)|
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
 ## Chat com IA para tirar dúvidas
 

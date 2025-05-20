@@ -46,4 +46,4 @@ Tendo a finalidade de facilitar a organização e gerenciamento do planejamento 
 |Versão|Data|Descrição|Autor(es)|Revisor|
 |:----:|:--:|:-------:|:-------:|:-----:|
 |`1.0`|11/04/2025|Criação da página de ferramentas|[Eric Akio](https://github.com/eric-kingu)|  [Giovana Barbosa](https://github.com/gio221)  |
-|`1.1`|05/05/2025|Adicionando This Person Does Not Exist, Canva e Figma como ferramentas que podemos usar|[Eric Akio](https://github.com/eric-kingu)| |
+|`1.1`|05/05/2025|Adicionando This Person Does Not Exist, Canva e Figma como ferramentas que podemos usar|[Eric Akio](https://github.com/eric-kingu)| [Giovana Barbosa ](https://github.com/gio221)|

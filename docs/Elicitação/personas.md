@@ -75,6 +75,39 @@ A partir dos dados coletados por meio de um questionário de perfil de usuário,
     3. Consultar dúvidas sobre regras e procedimentos
 - **Breve descrição:** Marina valoriza o uso de tecnologia para resolver questões do dia a dia de forma mais prática. Para ela, o aplicativo do Detran-DF deve ser completo e funcional, permitindo acesso remoto a documentos, agendamentos e informações confiáveis sem que ela precise sair de casa.
 
+
+### **Persona 3 - primária**
+
+<font size="3"><p style="text-align: center"><b> Figura 2:</b> Persona primária </font>
+![personas](../assets/personas/persona.jpeg)
+ <font size="3"><p style="text-align: center"><b>Fonte:</b> This person doesnt exists, 2024</font>
+
+- **Status:** Persona primária
+
+- **Nome:** Gustavo Silva
+- **Idade:** 67
+- **Ocupação:** Aposentado
+- **Educação e habilidades:** Ensino médio completo, conhecimento básico em tecnologia, usa o celular para funções básicas como chamadas, mensagens e WhatsApp.
+- **Relacionamentos:** Viúvo, mora sozinho em Porto Alegre, mas tem contato frequente com filhos e netos, que o ajudam com tarefas digitais.
+
+- **Objetivos:**
+    1. Consultar multas, pontuação da CNH e informações sobre seu veículo sem depender de terceiros
+    2. Recorrer a multas diretamente pelo app, sem precisar ir ao Detran
+    3. Manter-se informado sobre prazos e vencimentos importantes
+- **Expectativas quanto ao app:**
+    1. Interface simples, com letras grandes e ícones bem visíveis
+    2. Instruções claras e linguagem acessível
+    3. Possibilidade de realizar tarefas básicas com autonomia, mesmo com pouca experiência digital
+- **Requisitos:**
+    1. O app deve oferecer modo de acessibilidade (ex: aumentar fonte, alto contraste)
+    2. Deve permitir consulta e recurso de infrações com orientações passo a passo
+    3. Deve possibilitar navegação simples com textos explicativos em cada tela
+- **Tarefas:**
+    1. Consultar infrações e visualizar imagens das multas
+    2. Solicitar recurso de infrações diretamente pelo app
+    3. Acompanhar o status de processos administrativos relacionados à CNH e ao veículo
+- **Breve descrição:** Olavo está disposto a usar tecnologia para manter sua independência, mas ainda encontra barreiras nos aplicativos complexos. Para ele, a clareza visual, a simplicidade da navegação e o suporte humano acessível são essenciais para que ele possa realizar as tarefas no app do Detran-DF sem depender sempre da ajuda dos filhos ou netos.
+
 ---
 
 ### **Persona 3 - secundária**

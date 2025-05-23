@@ -37,6 +37,8 @@ Para uma maior compreensão do aplicativo DETRAN-DF, foram elencados termos rela
 | **Transferência de veículo** | Procedimento de mudança de propriedade de um veículo junto ao DETRAN. |
 | **Penalidade**              | Sanção aplicada ao condutor infrator, como multa ou suspensão da CNH. |
 
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
 **Tabela 1: Glossário dos termos do app DETRAN-DF (Fonte: autor, 2025).**
 
 ## Requisitos Elicitados
@@ -51,6 +53,8 @@ Após o levantamento e definição dos termos do glossário, foi possível ident
 | **GLO04**         | O usuário deve poder gerar a segunda via da CNH e CRLV digitalmente.      | RF    |
 | **GLO05**         | O app deve apresentar explicações acessíveis sobre siglas como RENAVAM.   | RNF   |
 | **GLO06**         | O sistema deve garantir a segurança dos dados pessoais e veiculares.      | RNF   |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 **Tabela 2: Requisitos elicitados a partir do Glossário (Fonte: autor, 2025).**
 

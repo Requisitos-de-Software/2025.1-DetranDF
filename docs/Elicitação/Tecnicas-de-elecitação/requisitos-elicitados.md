@@ -34,10 +34,17 @@ Para alcançar os objetivos propostos, foram aplicadas as seguintes técnicas de
 | RF17   | Exibir status do licenciamento e do IPVA do veículo                                 | GLO03                       |
 | RF18   | Gerar segunda via da CNH e CRLV digitalmente                                         | GLO04                       |
 | RF19   | Deve ser possível consultar a pontuação da CNH diretamente no aplicativo.                                                 |GLO01                         |
-| RF20   | Deve ser possível consultar a pontuação da CNH diretamente no aplicativo.                                            | GLO02                        |
+| RF20   | O aplicativo deve permitir o agendamento de serviços presenciais.                                        | GLO02                        |
 | RF21   | Permitir acompanhamento de processos                                            | OBS004                        |
 | RF22   | Exibir notificações de prazos e documentos vencidos                                            | OBS005                        |
-
+| RF23   | Permitir consulta do status do licenciamento em tempo real                      | Storytelling - Lucas        |
+| RF24   | Permitir geração de boleto e pagamento integrado no app                         | Storytelling - Lucas        |
+| RF25   | Permitir consulta e detalhamento de infrações com imagens                       | Storytelling - Marina, Olavo|
+| RF26   | Iniciar e acompanhar recurso de multa pelo app                                  | Storytelling - Olavo        |
+| RF27   | Permitir agendamento de exame médico para CNH                                   | Storytelling - Diego        |
+| RF28   | Enviar notificações de vencimento da CNH, multas e licenciamento                | Storytelling - Diego        |
+| RF29   | Oferecer explicações simples sobre termos técnicos (ex: infração, RENACH)       | Storytelling - Marina       |
+| RF30   | Oferecer canal de atendimento humano (chat ou WhatsApp)                         | Storytelling - Marina, Olavo|
 
 # Requisitos Não funcionais 
 | Código | Requisito Não-Funcional                                                             | Fonte (ID Original)         |
@@ -54,7 +61,14 @@ Para alcançar os objetivos propostos, foram aplicadas as seguintes técnicas de
 | RNF10  | Carregamento rápido das páginas                                                      | IS08                        |
 | RNF11  | Acessibilidade para diferentes perfis de usuários                                    | IS09                        |
 | RNF12  | Explicações acessíveis sobre siglas (ex: RENAVAM)                                   | GLO05                       |
-
+| RNF13  | Texto com fontes ajustáveis e botões grandes                                   | Storytelling - Olavo        |
+| RNF14  | Interface adaptada para idosos e iniciantes                                    | Storytelling - Olavo, Marina|
+| RNF15  | Aplicativo leve e com baixo consumo de dados                                   | Storytelling - Diego        |
+| RNF16  | Tempo de resposta inferior a 2 segundos                                        | Storytelling - Lucas        |
+| RNF17  | Feedback visual e sonoro nas interações do usuário                             | Storytelling - Diego, Olavo |
+| RNF18  | Disponibilidade do sistema 24/7                                                 | Storytelling - Lucas        |
+| RNF19  | Confiabilidade: recuperação de falhas e continuidade da navegação              | Storytelling - Diego        |
+| RNF20  | Interface com poucos elementos por tela para facilitar leitura                 | Storytelling - Olavo        |
 
 ## Bibliografia
 

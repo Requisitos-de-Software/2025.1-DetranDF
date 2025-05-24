@@ -61,15 +61,16 @@ O backlog foi construído de forma iterativa, a partir dos requisitos levantados
 - **US22:** Eu, como usuário, desejo conversar com um atendente real por chat ou vídeo para resolver questões mais complexas. *(RF16)*
 - **US23:** Eu, como usuário, desejo receber explicações simples de termos técnicos para entender melhor os processos. *(RF29)*
 - **US24:** Eu, como usuário, desejo acessar um canal de atendimento humano para tirar dúvidas mais complexas. *(RF30)*
+- **US25:** Eu, como usuário, desejo acessar um FAQ com perguntas frequentes para resolver dúvidas simples sem precisar de atendimento *(RF29)*
 
 ## ÉPICO 1.7: Integração com Sistemas Oficiais
 
-**US25:** Eu, como usuário, desejo integrar minha conta com a CNH Digital e com o Gov.br para autenticação segura e acesso facilitado. *(RF15)*
+**US26:** Eu, como usuário, desejo integrar minha conta com a CNH Digital e com o Gov.br para autenticação segura e acesso facilitado. *(RF15)*
 
 ## ÉPICO 1.8: Recursos para Autoescolas
 
-- **US26:** Eu, como usuário, desejo acessar uma área de autoescolas com avaliações, comentários e localização para escolher a melhor opção. *(RF12)*  
-- **US27:** Eu, como usuário, desejo acessar um guia com os documentos necessários para cada tipo de serviço, a fim de me preparar corretamente. *(RF13)*
+- **US27:** Eu, como usuário, desejo acessar uma área de autoescolas com avaliações, comentários e localização para escolher a melhor opção. *(RF12)*  
+- **US28:** Eu, como usuário, desejo acessar um guia com os documentos necessários para cada tipo de serviço, a fim de me preparar corretamente. *(RF13)*
 
 ## Tabela com todos os épicos
 A tabela 1 organiza todos os épicos 
@@ -102,13 +103,34 @@ A tabela 1 organiza todos os épicos
 | T06 - Suporte ao Usuário     | Épico 1.6          | US22: Atendimento real via chat ou vídeo                         | Alta       | RF16                  |
 | T06 - Suporte ao Usuário     | Épico 1.6          | US23: Receber explicações de termos técnicos                     | Média      | RF29                  |
 | T06 - Suporte ao Usuário     | Épico 1.6        | US24: Acessar atendimento humano                                 | Alta       | RF30                  |
-| T07 - Integração de Sistemas | Épico 1.7          | US25: Integrar conta com CNH Digital e Gov.br                    | Alta       | RF15                  |
-| T08 - Recursos para Autoescolas | Épico 1.8       | US26: Acessar área de autoescolas com avaliações e localização   | Média      | RF12                  |
-| T08 - Recursos para Autoescolas | Épico 1.8       | US27: Acessar guia de documentos para cada tipo de serviço       | Alta       | RF13                  |
+| T06 - Suporte ao Usuário     | Épico 1.6        | US25: suporte autônomo                               | Alta       | RF29                 |
+| T07 - Integração de Sistemas | Épico 1.7          | US26: Integrar conta com CNH Digital e Gov.br                    | Alta       | RF15                  |
+| T08 - Recursos para Autoescolas | Épico 1.8       | US27: Acessar área de autoescolas com avaliações e localização   | Média      | RF12                  |
+| T08 - Recursos para Autoescolas | Épico 1.8       | US28: Acessar guia de documentos para cada tipo de serviço       | Alta       | RF13                  |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), [Gabriel Mendes](https://github.com/gbevi) e  [Luiz Bessa](https://github.com/lfelipebessa)  , 2025.</p></font>
 
-# Validação com o usuário
+# Validação com o usuário US01 a Us09
+
+O vídeo 1 contém a verificação das Histórias de Usuário do US01 a US09. Foi realizado pela [Giovana Barbosa](https://github.com/gio221) com a participação voluntária de Danilo atuando como usuário. Esta gravação foi realizada no dia 24/05/2025 às 20:30.
+
+<font size="3"><b>Vídeo 1: </b> Validação das Histórias de Usuário do US01 a US09.</font>
+
+<iframe width="824" height="464" src="https://www.youtube.com/embed/S2_bzUDOUhc" title="backlog - GRUPO 1 - CARLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
+# Validação com o usuário US010 a US18
+
+# Validação com o usuário US19 a US28
+
+O vídeo 3 contém a verificação das Histórias de Usuário do US19 a Us28. Foi realizado pelo [Gabriel Mendes](https://github.com/gbevi)  com a participação voluntária de Danilo atuando como usuário. Esta gravação foi realizada no dia 24/05/2025 às 20:30.
+
+<font size="3"><b>Vídeo 1: </b> Validação das Histórias de Usuário do US19 a US28.</font>
+
+<iframe width="824" height="464" src="https://www.youtube.com/embed/S2_bzUDOUhc" title="backlog - GRUPO 1 - CARLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
 
 ## Histórico de versão
 

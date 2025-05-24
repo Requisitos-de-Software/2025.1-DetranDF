@@ -46,6 +46,9 @@ Para alcançar os objetivos propostos, foram aplicadas as seguintes técnicas de
 | RF29   | Oferecer explicações simples sobre termos técnicos (ex: infração, RENACH)       | Storytelling - Marina       |
 | RF30   | Oferecer canal de atendimento humano (chat ou WhatsApp)                         | Storytelling - Marina, Olavo|
 
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
 # Requisitos Não funcionais 
 | Código | Requisito Não-Funcional                                                             | Fonte (ID Original)         |
 |--------|--------------------------------------------------------------------------------------|-----------------------------|
@@ -69,6 +72,9 @@ Para alcançar os objetivos propostos, foram aplicadas as seguintes técnicas de
 | RNF18  | Disponibilidade do sistema 24/7                                                 | Storytelling - Lucas        |
 | RNF19  | Confiabilidade: recuperação de falhas e continuidade da navegação              | Storytelling - Diego        |
 | RNF20  | Interface com poucos elementos por tela para facilitar leitura                 | Storytelling - Olavo        |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 ## Bibliografia
 

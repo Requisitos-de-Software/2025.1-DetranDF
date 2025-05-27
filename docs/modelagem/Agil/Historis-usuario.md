@@ -20,7 +20,7 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 
 | História de Usuario |              Desenvolvedor               | Usuário | 
 | :-----------------: | :--------------------------------------: | :-----: | 
-|US01 a US04| [Giovana Barbosa](https://github.com/gio221) |    |
+|US01 a US06| [Giovana Barbosa](https://github.com/gio221) |    |
 
 # Modelo de História de Usuário
 

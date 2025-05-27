@@ -45,6 +45,21 @@ Para alcançar os objetivos propostos, foram aplicadas as seguintes técnicas de
 | RF28   | Enviar notificações de vencimento da CNH, multas e licenciamento                | Storytelling - Diego        |
 | RF29   | Oferecer explicações simples sobre termos técnicos (ex: infração, RENACH)       | Storytelling - Marina       |
 | RF30   | Oferecer canal de atendimento humano (chat ou WhatsApp)                         | Storytelling - Marina, Olavo|
+|RF31|Reposição de placa Mercosul   |OBS006  |
+|RF32|Conversão de placa Mercosul   |OBS007  |
+|RF33|Histórico de infração do condutor|OBS008|
+|RF34|Histórico de infração do veículo|OBS009|
+|RF35|Converção de autuação em penalidade|OBS010|
+|RF36|Protocolo-e, nova solicitação|OBS011|
+|RF37|Protocolo-e, acompanhar solicitação|OBS012|
+|RF38|Credencial de estacionamento : Autorização de estacionamento de idoso|OBS013| 
+|RF39|Credencial de estacionamento: Transtorno espectro autista|OBS014|
+|RF40|Opção de pagamento para liberação do carro no patio|OBS015|
+|RF41|Simulado de prova teorica na parte das autos escolas|OBS016|
+|RF42|Ter uma parte sobre leilão|OBS017|
+|RF43|Verificar se o veiculo tem autorização para transporte escolar|OBS018|
+|RF44|O veiculo conseguir solicitar autorização para trnaspporte escolar|OBS019|
+
 
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>

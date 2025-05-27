@@ -23,6 +23,20 @@ São as funcionalidades que o sistema deve oferecer.
 | RF03   | Exibir informações da CNH e pontuação                           |       OBS003                        | Média                |          Melhorar desempenho e indicar carregamento em andamento             |
 | RF04   | Permitir acompanhamento de processos                            |       OBS004                        | Média                |          	Renomear menu com termos mais claros e autoexplicativos             |
 | RF05   | Exibir notificações de prazos e documentos vencidos            |       OBS005                       | Alta                 |       Corrigir sistema de push notifications                |
+| RF06  | Reposição de placa Mercosul          |       OBS006                       | Alta                 |    Torna opção mais visivel     |
+| RF07  | Conversão de placa Mercosul          |       OBS007                       | Alta                 |    Torna opção mais visivel     |
+|RF08|Histórico de infração do condutor|OBS008|média| Ser de fácil acesso|
+|RF09|Histórico de infração do veículo|OBS009|média|Ser de fácil acesso|
+|RF10|Converção de autuação em penalidade|OBS010|média| Ter menos passos|
+|RF11|Protocolo-e, nova solicitação|OBS011|média|Ter menos passos, ser mais acessivel|
+|RF12|Protocolo-e, acompanhar solicitação|OBS012|média| Ter menos passos, ser mais acessivel|
+|RF13|Credencial de estacionamento : Autorização de estacionamento de idoso|OBS013| baixa|Ser mais acessivel |
+|RF14|Credencial de estacionamento: Transtorno espectro autista|OBS014|baixa|Ser mais acessivel |
+|RF15|Opção de pagamento para liberação do carro no patio|OBS015|baixa| Funcionalidade nova|
+|RF16|Simulado de prova teorica na parte das autos escolas|OBS016|baixa|Funcionalidade nova|
+|RF17|Ter uma parte sobre leilão|OBS017| baixa| Funcionalidade nova|
+|RF18|Verificar se o veiculo tem autorização para transporte escolar|OBS018|media|Funcionalidade nova|
+|RF19|O veiculo conseguir solicitar autorização para trnaspporte escolar|OBS019|baixa|Funcionalidade nova|
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 

@@ -251,6 +251,121 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
+# [US19] - Solicitar troca de PPD para CNH definitiva
+
+<p align="center"><strong>Tabela 15 -</strong> Solicitar troca de PPD para CNH definitiva.</p>
+
+| Item                         | Descrição                                                                                                      |
+| :--------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| **US19**                     | US19                                                                                                          |
+| **Tema**                     | Solicitar troca de PPD para CNH definitiva                                                                    |
+| **Descrição**                 | Eu, como usuário, desejo solicitar a troca da minha PPD para a CNH definitiva diretamente no aplicativo para obter minha habilitação definitiva de forma prática. |
+| **Critérios de Aceitação**    | - Permitir envio de solicitação via app <br> - Validar se o usuário cumpre os requisitos (tempo, infrações, etc.) <br> - Gerar protocolo de solicitação <br> - Permitir acompanhar o andamento |
+| **Prioridade Usuário**        | Alta                                                                                                          |
+| **Status**                    | x                                                                                                             |
+| **Rastreabilidade**           | [RF07](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
+| **Validação**                 | x                                                                                                             |
+
+<p align="center">Fonte: <a href="https://github.com/joaolobo10">João Lobo</a>, 2025.</p>
+
+---
+
+# [US20] - Solicitar segunda via da CNH e CRLV
+
+<p align="center"><strong>Tabela 16 -</strong> Solicitar segunda via da CNH e CRLV.</p>
+
+| Item                         | Descrição                                                                                                      |
+| :--------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| **US20**                     | US20                                                                                                          |
+| **Tema**                     | Solicitar segunda via da CNH e CRLV                                                                           |
+| **Descrição**                 | Eu, como usuário, desejo solicitar a segunda via da CNH e do CRLV de forma digital para facilitar a reposição desses documentos. |
+| **Critérios de Aceitação**    | - Permitir solicitação da segunda via pelo app <br> - Gerar boleto ou guia de pagamento <br> - Disponibilizar versão digital dos documentos após compensação <br> - Emitir protocolo de solicitação |
+| **Prioridade Usuário**        | Alta                                                                                                          |
+| **Status**                    | x                                                                                                             |
+| **Rastreabilidade**           | [RF18](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
+| **Validação**                 | x                                                                                                             |
+
+<p align="center">Fonte: <a href="https://github.com/joaolobo10">João Lobo</a>, 2025.</p>
+
+---
+
+# [US21] - Acompanhar andamento dos processos
+
+<p align="center"><strong>Tabela 17 -</strong> Acompanhar andamento dos processos.</p>
+
+| Item                         | Descrição                                                                                                      |
+| :--------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| **US21**                     | US21                                                                                                          |
+| **Tema**                     | Acompanhar andamento dos processos                                                                            |
+| **Descrição**                 | Eu, como usuário, desejo acompanhar o andamento dos meus processos no DETRAN para saber o status de cada solicitação. |
+| **Critérios de Aceitação**    | - Exibir lista de processos ativos e finalizados <br> - Mostrar status atualizado <br> - Exibir prazos e pendências <br> - Notificar atualizações importantes |
+| **Prioridade Usuário**        | Alta                                                                                                          |
+| **Status**                    | x                                                                                                             |
+| **Rastreabilidade**           | [RF21](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
+| **Validação**                 | x                                                                                                             |
+
+<p align="center">Fonte: <a href="https://github.com/joaolobo10">João Lobo</a>, 2025.</p>
+
+---
+
+# [US22] - Solicitar reposição da placa Mercosul
+
+<p align="center"><strong>Tabela 18 -</strong> Solicitar reposição da placa Mercosul.</p>
+
+| Item                         | Descrição                                                                                                      |
+| :--------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| **US22**                     | US22                                                                                                          |
+| **Tema**                     | Solicitar reposição da placa Mercosul                                                                         |
+| **Descrição**                 | Eu, como usuário, desejo solicitar a reposição da placa Mercosul pelo aplicativo para regularizar meu veículo de forma prática. |
+| **Critérios de Aceitação**    | - Permitir envio de solicitação via app <br> - Permitir envio de documentos e fotos necessários <br> - Gerar guia de pagamento <br> - Emitir protocolo e informar prazo de entrega |
+| **Prioridade Usuário**        | Média                                                                                                         |
+| **Status**                    | x                                                                                                             |
+| **Rastreabilidade**           | [RF31](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
+| **Validação**                 | x                                                                                                             |
+
+<p align="center">Fonte: <a href="https://github.com/joaolobo10">João Lobo</a>, 2025.</p>
+
+---
+
+# [US23] - Solicitar conversão de placa para Mercosul
+
+<p align="center"><strong>Tabela 19 -</strong> Solicitar conversão de placa para Mercosul.</p>
+
+| Item                         | Descrição                                                                                                      |
+| :--------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| **US23**                     | US23                                                                                                          |
+| **Tema**                     | Solicitar conversão de placa para Mercosul                                                                    |
+| **Descrição**                 | Eu, como usuário, desejo solicitar a conversão da placa para o padrão Mercosul diretamente pelo app para facilitar o processo de adequação. |
+| **Critérios de Aceitação**    | - Permitir solicitação via app <br> - Verificar se o veículo atende aos critérios legais <br> - Gerar guia de pagamento <br> - Emitir protocolo e prazo para troca |
+| **Prioridade Usuário**        | Média                                                                                                         |
+| **Status**                    | x                                                                                                             |
+| **Rastreabilidade**           | [RF32](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
+| **Validação**                 | x                                                                                                             |
+
+<p align="center">Fonte: <a href="https://github.com/joaolobo10">João Lobo</a>, 2025.</p>
+
+---
+
+# [US24] - Converter autuação em penalidade
+
+<p align="center"><strong>Tabela 20 -</strong> Converter autuação em penalidade.</p>
+
+| Item                         | Descrição                                                                                                      |
+| :--------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+| **US24**                     | US24                                                                                                          |
+| **Tema**                     | Converter autuação em penalidade                                                                              |
+| **Descrição**                 | Eu, como usuário, desejo converter uma autuação em penalidade pelo aplicativo para agilizar a resolução das infrações. |
+| **Critérios de Aceitação**    | - Permitir solicitação de conversão via app <br> - Exibir detalhes da autuação <br> - Validar elegibilidade da autuação <br> - Gerar protocolo e guia de pagamento (se aplicável) |
+| **Prioridade Usuário**        | Alta                                                                                                          |
+| **Status**                    | x                                                                                                             |
+| **Rastreabilidade**           | [RF35](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
+| **Validação**                 | x                                                                                                             |
+
+<p align="center">Fonte: <a href="https://github.com/joaolobo10">João Lobo</a>, 2025.</p>
+
+---
+
+
 ## Histórico de versão
 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
@@ -258,3 +373,4 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 |  1.0   | 20/05/2025 |       Início da documentação        | [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Mendes ](https://github.com/gbevi) |
 |  1.1   | 20/05/2025 |      Introdução, objetivo, metodologia, e modelo     | [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Mendes ](https://github.com/gbevi) |
 |  1.2   | 29/05/2025 |      Histórias de usuário 7 a 12    | [Gabriel Mendes ](https://github.com/gbevi) |  |
+|  1.2   | 30/05/2025 |      Documentação das histórias de usuário 19 a 24, faltando apenas a validação com o usuário    | [João Lobo](https://github.com/joaolobo10) |  |

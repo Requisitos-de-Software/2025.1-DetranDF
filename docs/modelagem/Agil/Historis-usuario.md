@@ -366,11 +366,80 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 ---
 
 
+# [US39] - Integração com Sistemas Oficiais
+
+<font size="3"><b>Tabela 41:</b> História do usuário de Integração com Sistemas Oficiais</font>
+
+| Item | Descrição |
+|------|-----------|
+| US39 | US39 |
+| Tema | Integração com Sistemas Oficiais |
+| Descrição | Eu, como usuário, desejo integrar minha conta com a CNH Digital e com o Gov.br para autenticação segura e acesso facilitado. |
+| Critérios de Aceitação | - O usuário deve conseguir acessar o aplicativo pelo Gov.br.<br> - O sistema deve permitir a autenticação pelo Gov.br. |
+| Prioridade Usuário | Alta |
+| Status | X |
+| Rastreabilidade | RF15 |
+| Validação | X |
+
+<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
+# [US40] - Área de auto-escolas
+
+<font size="3"><b>Tabela 42:</b> História do usuário de Área de auto-escolas</font>
+
+| Item | Descrição |
+|------|-----------|
+| US40 | US40 |
+| Tema | Área de auto-escolas |
+| Descrição | Eu, como usuário, desejo acessar uma área de autoescolas com avaliações, comentários e localização para escolher a melhor opção. |
+| Critérios de Aceitação | - O usuário deve conseguir acessar uma sessão chamada "auto-escolas".<br> - O sistema deve exibir avaliações de auto-escolas.<br> - O sistema deve exibir comentários sobre as auto-escolas.<br> - O sistema deve exibir a localização das auto-escolas.<br> - O usuário deve conseguir avaliar e comentar sobre a auto-escola. |
+| Prioridade Usuário | Média |
+| Status | X |
+| Rastreabilidade | RF12 |
+| Validação | X |
+
+<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
+# [US41] - Guia com Documentos para Serviços
+
+<font size="3"><b>Tabela 43:</b> História do usuário de Guia com Documentos para Serviços</font>
+
+| Item | Descrição |
+|------|-----------|
+| US41 | US41 |
+| Tema | Guia de Documentos para Serviços |
+| Descrição | Eu, como usuário, desejo acessar um guia com os documentos necessários para cada tipo de serviço, a fim de me preparar corretamente. |
+| Critérios de Aceitação | - O usuário deve ter acesso a um guia de documentos para cada tipo de serviço.<br> - O sistema deve exibir os documentos necessários para cada tipo de serviço. |
+| Prioridade Usuário | Média |
+| Status | X |
+| Rastreabilidade | RF13 |
+| Validação | X |
+
+<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
+# [US42] - Simulados de Prova Teórica
+
+<font size="3"><b>Tabela 44:</b> História do usuário de Simulados de Prova Teórica</font>
+
+| Item | Descrição |
+|------|-----------|
+| US42 | US42 |
+| Tema | Simulados de Prova Teórica |
+| Descrição | Eu, como aluno de autoescola, desejo realizar simulados da prova teórica pelo app para me preparar melhor para o exame oficial. |
+| Critérios de Aceitação | - O usuário deve ter acesso a simulados da prova teórica.<br> - O sistema deve permitir que o usuário realize simulados da prova teórica. |
+| Prioridade Usuário | Média |
+| Status | X |
+| Rastreabilidade | RF41 |
+| Validação | X |
+
+<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
 ## Histórico de versão
 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
 |  1.0   | 20/05/2025 |       Início da documentação        | [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Mendes ](https://github.com/gbevi) |
 |  1.1   | 20/05/2025 |      Introdução, objetivo, metodologia, e modelo     | [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Mendes ](https://github.com/gbevi) |
-|  1.2   | 29/05/2025 |      Histórias de usuário 7 a 12    | [Gabriel Mendes ](https://github.com/gbevi) |  |
-|  1.2   | 30/05/2025 |      Documentação das histórias de usuário 19 a 24, faltando apenas a validação com o usuário    | [João Lobo](https://github.com/joaolobo10) |  |
+|  1.2   | 29/05/2025 |      Histórias de usuário 7 a 12    | [Gabriel Mendes ](https://github.com/gbevi) | [Eric Akio](https://github.com/eric-kingu) |
+|  1.3  | 30/05/2025 |      Documentação das histórias de usuário 19 a 24, faltando apenas a validação com o usuário    | [João Lobo](https://github.com/joaolobo10) | [Eric Akio](https://github.com/eric-kingu) |
+| 1.4 | 30/05/2025 | Documentação das histórias de usuário 39 a 42, faltando apenas a validação com o usuário | [Eric Akio](https://github.com/eric-kingu) |  |

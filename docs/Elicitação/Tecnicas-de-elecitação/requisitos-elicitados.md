@@ -12,6 +12,8 @@ Para alcançar os objetivos propostos, foram aplicadas as seguintes técnicas de
 - Introspecção
 - Observação
 
+<a id="tabela-requisitos"></a>
+
 # Requisitos Funcionais
 | Código | Requisito Funcional                                                                 | Fonte (ID Original)         |
 |--------|--------------------------------------------------------------------------------------|-----------------------------|

@@ -22,7 +22,6 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 | História de Usuario |              Desenvolvedor               | Usuário | 
 | :-----------------: | :--------------------------------------: | :-----: | 
 |US01 a US06| [Giovana Barbosa](https://github.com/gio221) |    |
-|US20 a US26| [João Lobo](https://github.com/joaolobo10) |    |
 
 <a id="tabela-us"></a>
 
@@ -46,103 +45,6 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 # Histórias de Usuário
 
 As tabelas abaixo apresentam as histórias de usuário organizadas de maneira ordenada, seguindo a [tabela modelo de história de usuários](./Historis-usuario.md#tabela-us). Todas as tabelas utilizam esse formato para garantir uniformidade e facilitar a rastreabilidade com os requisitos funcionais.
-
-<font size="3"><p style="text-align: center">**Tabela 3 -** US20</p></font>
-
-|            Item            |                                                                                       Descrição                                                                                       |
-| :------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          **US20**          |                                                                                          US20                                                                                         |
-|          **Tema**          |                                                                        Solicitação de segunda via de CNH e CRLV                                                                       |
-|        **Descrição**       |                                     Eu, como usuário, desejo solicitar a segunda via da CNH e do CRLV de forma digital para facilitar a reposição.                                    |
-| **Critérios de Aceitação** | - O usuário deve conseguir solicitar a segunda via da CNH.<br>- O usuário deve conseguir solicitar a segunda via do CRLV.<br>- O sistema deve confirmar o recebimento da solicitação. |
-|   **Prioridade Usuário**   |                                                                                          Alta                                                                                         |
-|         **Status**         |                                                                                           x                                                                                           |
-|     **Rastreabilidade**    |                                                                                          RF18                                                                                         |
-|        **Validação**       |                                                                                           x                                                                                           |
-
-
-<font size="3"><p style="text-align: center">**Tabela 4 -** US21</p></font>
-
-|            Item            |                                                                                             Descrição                                                                                            |
-| :------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          **US21**          |                                                                                               US21                                                                                               |
-|          **Tema**          |                                                                               Acompanhamento de processos no DETRAN                                                                              |
-|        **Descrição**       |                                       Eu, como usuário, desejo acompanhar o andamento dos meus processos no DETRAN para saber o status de cada solicitação.                                      |
-| **Critérios de Aceitação** | - O usuário deve visualizar todos os processos em andamento.<br>- O sistema deve exibir o status atualizado de cada processo.<br>- O usuário deve receber notificações sobre mudanças no status. |
-|   **Prioridade Usuário**   |                                                                                               Alta                                                                                               |
-|         **Status**         |                                                                                                 x                                                                                                |
-|     **Rastreabilidade**    |                                                                                               RF21                                                                                               |
-|        **Validação**       |                                                                                                 x                                                                                                |
-
-
-<font size="3"><p style="text-align: center">**Tabela 5 -** US22</p></font>
-
-|            Item            |                                                                                         Descrição                                                                                         |
-| :------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          **US22**          |                                                                                            US22                                                                                           |
-|          **Tema**          |                                                                         Solicitação de reposição da placa Mercosul                                                                        |
-|        **Descrição**       |                              Eu, como usuário, desejo solicitar a reposição da placa Mercosul pelo aplicativo para regularizar meu veículo de forma prática.                              |
-| **Critérios de Aceitação** | - O usuário deve preencher os dados do veículo para solicitar a reposição.<br>- O sistema deve confirmar a solicitação.<br>- O usuário deve receber orientações para retirada ou entrega. |
-|   **Prioridade Usuário**   |                                                                                           Média                                                                                           |
-|         **Status**         |                                                                                             x                                                                                             |
-|     **Rastreabilidade**    |                                                                                            RF31                                                                                           |
-|        **Validação**       |                                                                                             x                                                                                             |
-
-
-<font size="3"><p style="text-align: center">**Tabela 6 -** US23</p></font>
-
-|            Item            |                                                                              Descrição                                                                             |
-| :------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          **US23**          |                                                                                US23                                                                                |
-|          **Tema**          |                                                                    Conversão para placa Mercosul                                                                   |
-|        **Descrição**       |             Eu, como usuário, desejo solicitar a conversão da placa para o padrão Mercosul diretamente pelo app para facilitar o processo de adequação.            |
-| **Critérios de Aceitação** | - O usuário deve informar os dados do veículo.<br>- O sistema deve gerar a solicitação de conversão.<br>- O usuário deve receber informações sobre taxas e prazos. |
-|   **Prioridade Usuário**   |                                                                                Média                                                                               |
-|         **Status**         |                                                                                  x                                                                                 |
-|     **Rastreabilidade**    |                                                                                RF32                                                                                |
-|        **Validação**       |                                                                                  x                                                                                 |
-
-
-<font size="3"><p style="text-align: center">**Tabela 7 -** US24</p></font>
-
-|            Item            |                                                                         Descrição                                                                        |
-| :------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          **US24**          |                                                                           US24                                                                           |
-|          **Tema**          |                                                            Conversão de autuação em penalidade                                                           |
-|        **Descrição**       |                  Eu, como usuário, desejo converter uma autuação em penalidade pelo aplicativo para agilizar a resolução das infrações.                  |
-| **Critérios de Aceitação** | - O usuário deve consultar autuações pendentes.<br>- O usuário deve poder converter a autuação em penalidade.<br>- O sistema deve confirmar a conversão. |
-|   **Prioridade Usuário**   |                                                                           Média                                                                          |
-|         **Status**         |                                                                             x                                                                            |
-|     **Rastreabilidade**    |                                                                           RF35                                                                           |
-|        **Validação**       |                                                                             x                                                                            |
-
-
-<font size="3"><p style="text-align: center">**Tabela 8 -** US25</p></font>
-
-|            Item            |                                                                                          Descrição                                                                                          |
-| :------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          **US25**          |                                                                                             US25                                                                                            |
-|          **Tema**          |                                                                              Nova solicitação pelo Protocolo-e                                                                              |
-|        **Descrição**       |                                      Eu, como usuário, desejo iniciar uma nova solicitação pelo Protocolo-e para fazer requerimentos formais ao DETRAN.                                     |
-| **Critérios de Aceitação** | - O usuário deve acessar o Protocolo-e pelo aplicativo.<br>- O sistema deve permitir o preenchimento dos dados para nova solicitação.<br>- O sistema deve confirmar o envio da solicitação. |
-|   **Prioridade Usuário**   |                                                                                             Alta                                                                                            |
-|         **Status**         |                                                                                              x                                                                                              |
-|     **Rastreabilidade**    |                                                                                             RF36                                                                                            |
-|        **Validação**       |                                                                                              x                                                                                              |
-
-
-<font size="3"><p style="text-align: center">**Tabela 9 -** US26</p></font>
-
-|            Item            |                                                                                          Descrição                                                                                          |
-| :------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|          **US25**          |                                                                                             US25                                                                                            |
-|          **Tema**          |                                                                              Nova solicitação pelo Protocolo-e                                                                              |
-|        **Descrição**       |                                      Eu, como usuário, desejo iniciar uma nova solicitação pelo Protocolo-e para fazer requerimentos formais ao DETRAN.                                     |
-| **Critérios de Aceitação** | - O usuário deve acessar o Protocolo-e pelo aplicativo.<br>- O sistema deve permitir o preenchimento dos dados para nova solicitação.<br>- O sistema deve confirmar o envio da solicitação. |
-|   **Prioridade Usuário**   |                                                                                             Alta                                                                                            |
-|         **Status**         |                                                                                              x                                                                                              |
-|     **Rastreabilidade**    |                                                                                             RF36                                                                                            |
-|        **Validação**       |                                                                                              x                                                                                              |
 
 
 ## Histórico de versão

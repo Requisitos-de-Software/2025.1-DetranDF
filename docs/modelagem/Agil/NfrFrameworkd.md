@@ -64,11 +64,11 @@ Temos um modelo de cartões de especificação para ultilizarmos
 |               **Origem**                |                                                Origem do requisito (stakeholder, norma técnica, etc)                                                 |
 |        **Critério de Aceitação**        |                                         Métrica do requisito que possa ser testada e que deve ser satisfeita                                         |
 |            **Dependências**             |                                                            Requisitos relacionados a este                                                            |
-|             **Prioridade**              | Um número usado para decidiar a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10). A prioridade mínima é 1 e a máxima é 10 |
+|             **Prioridade**              | Um número usado para decidir a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10). A prioridade mínima é 1 e a máxima é 10 |
 |              **Conflitos**              |                                                           Requisitos conflitantes com este                                                           |
 |              **História**               |                                                          Data de criação e de modificações                                                           |
 
-<p align="center"><b>Fonte:</b> <a href="#cartao">[Giovana Barbosa ](https://github.com/gio221) </a></p> 
+<p align="center"><b>Fonte:</b> [Giovana Barbosa](https://github.com/gio221), 2025</p> 
 
 
 ## 1. Usabilidade

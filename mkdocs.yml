@@ -88,8 +88,8 @@ nav:
           - Casos de Uso: modelagem/caso-de-uso.md
           - Especificação Suplementar: modelagem/especificação-suplementar.md
           - Agil:
-            - Histórias de Usuário: modelagem/Agil/Historis-usuario.md
             - Backlog: modelagem/Agil/backlog.md
+            - Histórias de Usuário: modelagem/Agil/Historis-usuario.md
             - NFR Framework: modelagem/Agil/NfrFrameworkd.md
   - Verificações:
       - Entrega 1:

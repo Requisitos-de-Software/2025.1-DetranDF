@@ -21,6 +21,7 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 | História de Usuario |              Desenvolvedor               | Usuário | 
 | :-----------------: | :--------------------------------------: | :-----: | 
 |US01 a US06| [Giovana Barbosa](https://github.com/gio221) |    |
+|US07 a US12| [Gabriel Mendes](https://github.com/gbevi) |[Mayara Marques](https://github.com/maymarquee)    |
 
 # Modelo de História de Usuário
 
@@ -39,9 +40,112 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
+# [US07] - Recurso de multa
+
+<font size="3"><b>Tabela 3:</b>História do usuário de recurso de multa</font>
+
+|             Item             |                             Descrição                              |
+|:---------------------------:|:--------------------------------------------------------------------:|
+| US07                        | US07                                                                 |
+| Tema                        | Recurso de Multa                                                    |
+| Descrição                   | Eu, como usuário, desejo iniciar e acompanhar recursos de multa pelo app para facilitar a contestação. |
+| Critérios de Aceitação      | - Permitir envio de recurso com documentos anexos <br> - Permitir visualizar status do recurso em tempo real <br> - Notificar o usuário sobre mudanças no andamento do recurso |
+| Prioridade Usuário          | Alta                                                                 |
+| Status                      | Validada                                                         |
+| Rastreabilidade             | RF26                                                                 |
+| Validação                   | [vídeo de validação](https://youtu.be/B7w5KqO4HYU)                             |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
+
+# [US08] - Histórico de Infrações (Condutor)   
+
+<font size="3"><b>Tabela 4:</b>História do usuário de histórico de Infrações (Condutor)</font>
+
+|             Item             |                             Descrição                              |
+|:---------------------------:|:--------------------------------------------------------------------:|
+| US08                        | US08                                                                 |
+| Tema                        | Histórico de Infrações (Condutor)                                   |
+| Descrição                   | Eu, como usuário, desejo visualizar o histórico de infrações como condutor para acompanhar meu comportamento no trânsito. |
+| Critérios de Aceitação      | - Listar infrações por data e pontuação <br> - Exibir detalhes como local, data e tipo da infração <br> - Informar status de pagamento e recurso, se houver |
+| Prioridade Usuário          | Alta                                                                 |
+| Status                      | Validada                                                         |
+| Rastreabilidade             | RF33                                                                 |
+| Validação                   | [vídeo de validação](https://youtu.be/B7w5KqO4HYU)                              |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
+
+# [US09] - Histórico de Infrações (Veículo) 
+
+<font size="3"><b>Tabela 5:</b>História do usuário de histórico de Infrações (Veículo)</font>
+
+|             Item             |                             Descrição                              |
+|:---------------------------:|:--------------------------------------------------------------------:|
+| US09                        | US09                                                                 |
+| Tema                        | Histórico de Infrações (Veículo)                                    |
+| Descrição                   | Eu, como usuário, desejo consultar o histórico de infrações do meu veículo para saber o que já ocorreu com ele. |
+| Critérios de Aceitação      | - Listar infrações associadas ao veículo <br> - Exibir data, tipo e status de cada infração <br> - Possibilitar filtro por período ou status |
+| Prioridade Usuário          | Média                                                                |
+| Status                      | Validada                                                         |
+| Rastreabilidade             | RF34                                                                 |
+| Validação                   | [vídeo de validação](https://youtu.be/B7w5KqO4HYU)                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
+
+# [US10] - Leilão de Veículos   
+
+<font size="3"><b>Tabela 6:</b>História do usuário de leilão de Veículos </font>
+
+|             Item             |                             Descrição                              |
+|:---------------------------:|:--------------------------------------------------------------------:|
+| US10                        | US10                                                                 |
+| Tema                        | Leilão de Veículos                                                  |
+| Descrição                   | Eu, como cidadão, desejo acessar informações sobre leilões de veículos para participar ou acompanhar os processos. |
+| Critérios de Aceitação      | - Listar leilões com data, local e lote <br> - Permitir visualização dos veículos disponíveis <br> - Informar regras e etapas para participação |
+| Prioridade Usuário          | Média                                                                |
+| Status                      | Validada                                                         |
+| Rastreabilidade             | RF42                                                                 |
+| Validação                   | [vídeo de validação](https://youtu.be/B7w5KqO4HYU)                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
+
+# [US11] - Notificações de Prazos e Documentos   
+
+<font size="3"><b>Tabela 7:</b>História do usuário de notificações de Prazos e Documentos  </font>
+
+|             Item             |                             Descrição                              |
+|:---------------------------:|:--------------------------------------------------------------------:|
+| US11                        | US11                                                                 |
+| Tema                        | Notificações de Prazos e Documentos                                 |
+| Descrição                   | Eu, como usuário, desejo receber notificações de prazos e documentos vencidos para não perder prazos importantes. |
+| Critérios de Aceitação      | - Enviar notificações automáticas sobre vencimentos <br> - Permitir configuração da frequência e canal das notificações <br> - Mostrar painel com alertas pendentes |
+| Prioridade Usuário          | Alta                                                                 |
+| Status                      | Validada                                                         |
+| Rastreabilidade             | RF05, RF22                                                           |
+| Validação                   | [vídeo de validação](https://youtu.be/B7w5KqO4HYU)                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
+
+# [US12] - Alerta de Roubo/Recuperação
+
+<font size="3"><b>Tabela 8:</b>História do usuário de alerta de Roubo/Recuperação </font>
+
+|             Item             |                             Descrição                              |
+|:---------------------------:|:--------------------------------------------------------------------:|
+| US12                        | US12                                                                 |
+| Tema                        | Alerta de Roubo/Recuperação                                         |
+| Descrição                   | Eu, como usuário, desejo receber alertas automáticos em caso de roubo ou recuperação do meu veículo para agir rapidamente. |
+| Critérios de Aceitação      | - Enviar alerta em tempo real ao registrar roubo ou recuperação <br> - Exibir alerta com detalhes relevantes (local, data, status) <br> - Permitir ativar ou desativar notificações desse tipo |
+| Prioridade Usuário          | Alta                                                                 |
+| Status                      | Validada                                                         |
+| Rastreabilidade             | RF09                                                                 |
+| Validação                   | [vídeo de validação](https://youtu.be/B7w5KqO4HYU)                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
+
 ## Histórico de versão
 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
-|  1.0   | 20/05/2025 |       Início da documentação        | [Giovana Barbosa ](https://github.com/gio221) |  |
-|  1.1   | 20/05/2025 |      Introdução, objetivo, metodologia, e modelo     | [Giovana Barbosa ](https://github.com/gio221) |  |
+|  1.0   | 20/05/2025 |       Início da documentação        | [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Mendes ](https://github.com/gbevi) |
+|  1.1   | 20/05/2025 |      Introdução, objetivo, metodologia, e modelo     | [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Mendes ](https://github.com/gbevi) |
+|  1.2   | 29/05/2025 |      Histórias de usuário 7 a 12    | [Gabriel Mendes ](https://github.com/gbevi) |  |

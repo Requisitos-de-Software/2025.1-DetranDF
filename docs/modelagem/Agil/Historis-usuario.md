@@ -13,7 +13,8 @@ Rastreabilidade e Priorização – Os requisitos foram organizados e relacionad
 
 Criação das Histórias de Usuário – As histórias foram escritas em um formato padronizado (“como usuário, eu quero... para que...”), acompanhadas de critérios de aceitação. Elas passaram por validações com stakeholders para garantir aderência às expectativas.
 
-# Quem fez cada historia
+# Quem fez cada História de Usuário
+
 Cada história de usuário foi validada com o PO. Com o objetivo de organização, a tabela 1 mostra a história de usuário, o integrante responsável por tal e usuário participante. Todos os requisitos elicitados estão presentes no artefato [Requisitos Elicitados](http://127.0.0.1:8000/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/)
 
 <font size="3"><p style="text-align: center">**Tabela 1 -**Distribuição de requisitos entre os integrantes para elaboração das historias de usuário .</p></font>
@@ -23,22 +24,28 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 |US01 a US06| [Giovana Barbosa](https://github.com/gio221) |    |
 |US07 a US12| [Gabriel Mendes](https://github.com/gbevi) |[Mayara Marques](https://github.com/maymarquee)    |
 
+<a id="tabela-us"></a>
+
 # Modelo de História de Usuário
 
 <font size="3"><b>Tabela 2:</b>Modelo para História de Usuário</font>
 
 |             Item             |                             Descrição                              |
 | :--------------------------: | :----------------------------------------------------------------: |
-| USx(número de identificação) |                                USx                                 |
-|             Tema             |                               Título                               |
-|          Descrição           | Eu, como [tipo de usuário], desejo [ação desejada] para [objetivo] |
-|    Critérios de Aceitação    |            - [Critério 1] <br> - [Critério 2] <br> ...             |
-|      Prioridade Usuário      |                         Alta, Média, Baixa                         |
-|            Status            |           Se a história foi Validada ou não pelo usuário           |
-|       Rastreabilidade        |                        Código do requisito                         |
-|          Validação           |            link levando ao vídeo no minuto da validação            |
+| **USx(número de identificação)** |                                USx                                 |
+|             **Tema**             |                               Título                               |
+|          **Descrição**           | Eu, como [tipo de usuário], desejo [ação desejada] para [objetivo] |
+|    **Critérios de Aceitação**    |            - [Critério 1] <br> - [Critério 2] <br> ...             |
+|      **Prioridade Usuário**      |                         Alta, Média, Baixa                         |
+|            **Status**            |           Se a história foi Validada ou não pelo usuário           |
+|       **Rastreabilidade**        |                        Código do requisito                         |
+|          **Validação**           |            link levando ao vídeo no minuto da validação            |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
+# Histórias de Usuário
+
+As tabelas abaixo apresentam as histórias de usuário organizadas de maneira ordenada, seguindo a [tabela modelo de história de usuários](./Historis-usuario.md#tabela-us). Todas as tabelas utilizam esse formato para garantir uniformidade e facilitar a rastreabilidade com os requisitos funcionais.
 
 # [US01] - Consultar multas e débitos do veículo
 

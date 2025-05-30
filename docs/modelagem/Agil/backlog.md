@@ -167,7 +167,15 @@ O vídeo 1 contém a verificação das Histórias de Usuário do US01 a US09. Fo
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 # Validação com o usuário US010 a US18
-Erick
+
+O vídeo 2 contém a verificação das Histórias de Usuário do US10 a US18. Foi realizado pelo [Luiz Bessa](https://github.com/lfelipebessa) com a participação voluntária de André atuando como usuário. Esta gravação foi realizada no dia 29/05/2025 às 23:00.
+
+<font size="3"><b>Vídeo 2: </b> Validação das Histórias de Usuário do US010 a US18.</font>
+
+<iframe width="824" height="464" src="https://www.youtube.com/embed/OPNeqpJgCC8" title="backlog - GRUPO 1 - CARLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
 
 # Validação com o usuário US19 a US26
 

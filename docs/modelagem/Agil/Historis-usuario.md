@@ -478,6 +478,106 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 
 ---
 
+## US25 - Iniciar nova solicitação pelo Protocolo-e
+
+| Item                   | Descrição                                                                                                        |
+|------------------------|------------------------------------------------------------------------------------------------------------------|
+| **US25**               | US25                                                                                                             |
+| **Tema**               | Iniciar nova solicitação pelo Protocolo-e                                                                       |
+| **Descrição**          | Eu, como usuário, desejo iniciar uma nova solicitação pelo Protocolo-e para fazer requerimentos formais ao DETRAN. |
+| **Critérios de Aceitação** | - Permitir criação de nova solicitação via app  <br> - Exibir lista de tipos de requerimento disponíveis <br> - Gerar protocolo ao finalizar envio |
+| **Prioridade Usuário** | Alta                                                                                                             |
+| **Status**             | validada                                                                                                                 |
+| **Rastreabilidade**    |                       |
+| **Validação**          | x                                                                                                                |
+
+<p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
+---
+
+## US26 - Acompanhar solicitação feita pelo Protocolo-e
+
+| Item                   | Descrição                                                                                                        |
+|------------------------|------------------------------------------------------------------------------------------------------------------|
+| **US26**               | US26                                                                                                             |
+| **Tema**               | Acompanhar solicitação feita pelo Protocolo-e                                                                   |
+| **Descrição**          | Eu, como usuário, desejo acompanhar a solicitação feita pelo Protocolo-e para saber o andamento do meu pedido. |
+| **Critérios de Aceitação** | - Permitir consulta ao status da solicitação via app <br> - Mostrar histórico de movimentações <br> - Exibir prazos estimados de resposta |
+| **Prioridade Usuário** | Alta                                                                                                             |
+| **Status**             | validada                                                                                                                 |
+| **Rastreabilidade**    |                      |
+| **Validação**          | x                                                                                                                |
+
+<p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
+
+---
+
+## US27 - Solicitar credencial de estacionamento para idoso
+
+| Item                   | Descrição                                                                                                        |
+|------------------------|------------------------------------------------------------------------------------------------------------------|
+| **US27**               | US27                                                                                                             |
+| **Tema**               | Solicitar credencial de estacionamento para idoso                                                               |
+| **Descrição**          | Eu, como usuário, desejo solicitar a credencial de estacionamento para idoso para ter acesso aos benefícios legais de mobilidade. |
+| **Critérios de Aceitação** | - Permitir envio de solicitação via app <br> - Enviar documentos comprobatórios <br> - Gerar protocolo e prazo de entrega |
+| **Prioridade Usuário** | Alta                                                                                                             |
+| **Status**             | validada                                                                                                                 |
+| **Rastreabilidade**    |                       |
+| **Validação**          | x                                                                                                                |
+
+<p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
+
+---
+
+## US28 - Solicitar credencial para pessoas com TEA
+
+| Item                   | Descrição                                                                                                        |
+|------------------------|------------------------------------------------------------------------------------------------------------------|
+| **US28**               | US28                                                                                                             |
+| **Tema**               | Solicitar credencial de estacionamento para pessoas com Transtorno do Espectro Autista                          |
+| **Descrição**          | Eu, como usuário, desejo solicitar a credencial de estacionamento para pessoas com Transtorno do Espectro Autista para garantir o direito de vaga especial. |
+| **Critérios de Aceitação** | - Permitir solicitação via app <br> - Permitir envio de laudos médicos e documentos exigidos <br> - Gerar protocolo e informar prazos |
+| **Prioridade Usuário** | Alta                                                                                                             |
+| **Status**             | validada                                                                                                                 |
+| **Rastreabilidade**    |                      |
+| **Validação**          | x                                                                                                                |
+
+<p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
+
+---
+
+## US29 - Pagamento de débitos para liberação de veículo
+
+| Item                   | Descrição                                                                                                        |
+|------------------------|------------------------------------------------------------------------------------------------------------------|
+| **US29**               | US29                                                                                                             |
+| **Tema**               | Pagamento de débitos para liberação de veículo                                                                  |
+| **Descrição**          | Eu, como usuário, desejo realizar o pagamento de débitos diretamente pelo app para liberar meu veículo do pátio de forma rápida. |
+| **Critérios de Aceitação** | - Exibir lista de débitos vinculados ao veículo <br> - Permitir pagamento via app <br> - Atualizar status de liberação após pagamento |
+| **Prioridade Usuário** | Alta                                                                                                             |
+| **Status**             | validada                                                                                                                |
+| **Rastreabilidade**    |                    |
+| **Validação**          | x                                                                                                                |
+
+<p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
+
+---
+
+## US30 - Verificar autorização para transporte escolar
+
+| Item                   | Descrição                                                                                                        |
+|------------------------|------------------------------------------------------------------------------------------------------------------|
+| **US30**               | US30                                                                                                             |
+| **Tema**               | Verificar autorização para transporte escolar                                                                   |
+| **Descrição**          | Eu, como usuário, desejo verificar se um veículo possui autorização para transporte escolar para garantir a segurança dos estudantes. |
+| **Critérios de Aceitação** | - Permitir consulta de placa <br> - Exibir status de autorização para transporte escolar <br> - Mostrar validade e dados do condutor (se permitido legalmente) |
+| **Prioridade Usuário** | Média                                                                                                            |
+| **Status**             | validada                                                                                                             |
+| **Rastreabilidade**    |                       |
+| **Validação**          | x                                                                                                                |
+
+<p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
+
+---
 
 # [US39] - Integração com Sistemas Oficiais
 
@@ -557,4 +657,5 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 |  1.3  | 30/05/2025 |      Documentação das histórias de usuário 19 a 24, faltando apenas a validação com o usuário    | [João Lobo](https://github.com/joaolobo10) | [Eric Akio](https://github.com/eric-kingu) |
 | 1.4 | 30/05/2025 | Documentação das histórias de usuário 39 a 42, faltando apenas a validação com o usuário | [Eric Akio](https://github.com/eric-kingu) |  [Luiz Bessa](https://github.com/lfelipebessa)  |
 | 1.5 | 30/05/2025 | Documentação das histórias de usuário 13 a 18 | [Luiz Bessa](https://github.com/lfelipebessa) | [Eric Akio](https://github.com/eric-kingu) |
-| 1.6 | 30/05/2025 | Validação das histórias de usuário 39 a 42 | [Eric Akio](https://github.com/eric-kingu) |  |
+| 1.6 | 30/05/2025 | Validação das histórias de usuário 39 a 42 | [Eric Akio](https://github.com/eric-kingu) | [Maria Eduarda](https://github.com/maaduh)  |
+| 1.7 | 31/05/2025 | Documentação das histórias de usuário 25 a 30 | [Maria Eduarda](https://github.com/maaduh) |  |

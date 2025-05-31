@@ -181,7 +181,7 @@ O vídeo 2 contém a verificação das Histórias de Usuário do US10 a US18. Fo
 
 O vídeo 3 contém a verificação das Histórias de Usuário do US19 a Us26. Foi realizado pelo [Gabriel Mendes](https://github.com/gbevi)  com a participação voluntária de Danilo atuando como usuário. Esta gravação foi realizada no dia 24/05/2025 às 20:30.
 
-<font size="3"><b>Vídeo 1: </b> Validação das Histórias de Usuário do US19 a US26 .</font>
+<font size="3"><b>Vídeo 3: </b> Validação das Histórias de Usuário do US19 a US26 .</font>
 
 <iframe width="824" height="464" src="https://www.youtube.com/embed/S2_bzUDOUhc" title="backlog - GRUPO 1 - CARLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -195,12 +195,21 @@ O vídeo 3 contém a verificação das Histórias de Usuário do US19 a Us26. Fo
 
 # Validação com o usuário US039 a US42
 
+O vídeo 7 contém a verificação das Histórias de Usuário do US39 a US42. Foi realizado pelo [Eric Akio](https://github.com/eric-kingu) com a participação voluntária de Lukas atuando como usuário. Esta gravação foi realizada no dia 30/05/2025 às 21:49.
+
+<font size="3"><b>Vídeo 7: </b> Validação das Histórias de Usuário do US39 a US42.</font>
+
+<iframe width="824" height="464" src="https://youtu.be/2f08j4G1Reg" title="backlog - GRUPO 1 - Detran-df" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
+
 ## Histórico de versão
 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
 |  1.0   | 20/05/2025 |       Início da documentação        | [Giovana Barbosa ](https://github.com/gio221) |  |
-|  1.0   | 20/05/2025 |       Introdução, metodologia e objetivo       | [Giovana Barbosa ](https://github.com/gio221) |  |
-|  1.1   | 23/05/2025 |     Montagem dos temas     | [Giovana Barbosa ](https://github.com/gio221) |  |
-|  1.2   | 23/05/2025 |     Montagem dos epicos e US    | [Giovana Barbosa ](https://github.com/gio221),[Gabriel Mendes](https://github.com/gbevi) e  [Luiz Bessa](https://github.com/lfelipebessa)  |  |
-|  1.3   | 29/05/2025 | Adição de rastreabilidade nos requisitos na tabela backlog    | [João Lobo](https://github.com/joaolobo10)  |  |
+|  1.1  | 20/05/2025 |       Introdução, metodologia e objetivo       | [Giovana Barbosa ](https://github.com/gio221) |  |
+|  1.2   | 23/05/2025 |     Montagem dos temas     | [Giovana Barbosa ](https://github.com/gio221) |  |
+|  1.3   | 23/05/2025 |     Montagem dos epicos e US    | [Giovana Barbosa ](https://github.com/gio221),[Gabriel Mendes](https://github.com/gbevi) e  [Luiz Bessa](https://github.com/lfelipebessa)  |  |
+|  1.4   | 29/05/2025 | Adição de rastreabilidade nos requisitos na tabela backlog    | [João Lobo](https://github.com/joaolobo10)  | [Eric Akio](https://github.com/eric-kingu) |
+| 1.5 | 30/05/2025 | Adição do vídeo de validação com o usuário das histórias 39 a 42 | [Eric Akio](https://github.com/eric-kingu) |  |

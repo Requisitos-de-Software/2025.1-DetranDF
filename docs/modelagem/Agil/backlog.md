@@ -193,6 +193,13 @@ O vídeo 3 contém a verificação das Histórias de Usuário do US19 a Us26. Fo
 
 # Validação com o usuário US035 a US38
 
+O vídeo 6 contém a verificação das Histórias de Usuário do US35 a Us38. Foi realizado pela [Maria Eduarda](https://github.com/maaduh)  com a participação voluntária de Sarah atuando como usuário. Esta gravação foi realizada no dia 31/05/2025 às 18:00.
+<font size="3"><b>Vídeo 3: </b> Validação das Histórias de Usuário do US35 a US38 .</font>
+
+<iframe width="824" height="464" src="https://www.youtube.com/embed/7E9Zid15Jrk" title="backlog - GRUPO 1 - CARLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
+
 # Validação com o usuário US039 a US42
 
 O vídeo 7 contém a verificação das Histórias de Usuário do US39 a US42. Foi realizado pelo [Eric Akio](https://github.com/eric-kingu) com a participação voluntária de Lukas atuando como usuário. Esta gravação foi realizada no dia 30/05/2025 às 21:49.
@@ -212,4 +219,5 @@ O vídeo 7 contém a verificação das Histórias de Usuário do US39 a US42. Fo
 |  1.2   | 23/05/2025 |     Montagem dos temas     | [Giovana Barbosa ](https://github.com/gio221) |  |
 |  1.3   | 23/05/2025 |     Montagem dos epicos e US    | [Giovana Barbosa ](https://github.com/gio221),[Gabriel Mendes](https://github.com/gbevi) e  [Luiz Bessa](https://github.com/lfelipebessa)  |  |
 |  1.4   | 29/05/2025 | Adição de rastreabilidade nos requisitos na tabela backlog    | [João Lobo](https://github.com/joaolobo10)  | [Eric Akio](https://github.com/eric-kingu) |
-| 1.5 | 30/05/2025 | Adição do vídeo de validação com o usuário das histórias 39 a 42 | [Eric Akio](https://github.com/eric-kingu) |  |
+| 1.5 | 30/05/2025 | Adição do vídeo de validação com o usuário das histórias 39 a 42 | [Eric Akio](https://github.com/eric-kingu) |[Maria Eduarda](https://github.com/maaduh)  |
+| 1.6 | 31/05/2025 | Adição do vídeo de validação com o usuário das histórias 35 a 38 | [Maria Eduarda](https://github.com/maaduh) |  |

@@ -23,7 +23,7 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 | :-----------------: | :--------------------------------------: | :-----: | 
 |US01 a US06| [Giovana Barbosa](https://github.com/gio221) |    |
 |US07 a US12| [Gabriel Mendes](https://github.com/gbevi) |[Mayara Marques](https://github.com/maymarquee)    |
-|US013 a US18| [Gabriel Mendes](https://github.com/gbevi) |[André Meyer](https://github.com/andremeyerr)    |
+|US013 a US18| [Luiz Bessa](https://github.com/lfelipebessa) |[André Meyer](https://github.com/andremeyerr)    |
 
 <a id="tabela-us"></a>
 

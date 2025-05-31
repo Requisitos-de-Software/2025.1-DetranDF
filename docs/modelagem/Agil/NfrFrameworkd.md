@@ -20,12 +20,12 @@ Para lidar com essas dificuldades, foi proposto o **NFR Framework** (Chung et al
 O objetivo deste trabalho é construir um artefato baseado no NFR Framework que permita a identificação, representação e avaliação dos requisitos não-funcionais para o aplicativo Detran-DF
 
 # Metodologia  
-Para uma abordagem completa, dividimos a metodologia em algimas fases, sendo elas:
+Para uma abordagem completa, dividimos a metodologia em algumas fases, sendo elas:
 
 - **Fase 1: Elicitação de Requisitos Não-Funcionais**:  
 Primeiro fizemos a elicitação de requisitos na etapa anterior, que pode ser encontrada nesse link [Requisitos Elicitados](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md).
 
-- **Fase 3: Criação de Grafos de Decomposição de Softgoals e Criação de Cartões de Especificação**:
+- **Fase 2: Criação de Grafos de Decomposição de Softgoals e Criação de Cartões de Especificação**:
 
     Inspirando-se em técnicas de especificação (como as descritas no livro Requirements Engineering Fundamentals) faremos o cartão de especificação para cada decomposição:
 
@@ -39,13 +39,13 @@ Primeiro fizemos a elicitação de requisitos na etapa anterior, que pode ser en
 
     -	Os cartões ajudam a capturar os trade-offs entre alternativas e priorizações.
 
-- **Fase 4: SIG**:
+- **Fase 3: SIG**:
 
     Após a criação dos grafos de decomposição, o SIG é consolidado:
 
-    -	SIG: Integrar todos os softgoals, suas contribuições e refinamentos no grafo final, criando uma visão abrangente dos RNFs para o sistema Bluesky.
+    -	SIG: Integrar todos os softgoals, suas contribuições e refinamentos no grafo final, criando uma visão abrangente dos RNFs para o aplicativo Detran-DF.
 
-- **Fase 5: Avaliação e Validação**:
+- **Fase 4: Avaliação e Validação**:
 
     Por fim, validar o artefato construído, considerando os seguintes passos:
 
@@ -64,11 +64,11 @@ Temos um modelo de cartões de especificação para ultilizarmos
 |               **Origem**                |                                                Origem do requisito (stakeholder, norma técnica, etc)                                                 |
 |        **Critério de Aceitação**        |                                         Métrica do requisito que possa ser testada e que deve ser satisfeita                                         |
 |            **Dependências**             |                                                            Requisitos relacionados a este                                                            |
-|             **Prioridade**              | Um número usado para decidiar a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10). A prioridade mínima é 1 e a máxima é 10 |
+|             **Prioridade**              | Um número usado para decidir a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10). A prioridade mínima é 1 e a máxima é 10 |
 |              **Conflitos**              |                                                           Requisitos conflitantes com este                                                           |
 |              **História**               |                                                          Data de criação e de modificações                                                           |
 
-<p align="center"><b>Fonte:</b> <a href="#cartao">[Giovana Barbosa ](https://github.com/gio221) </a></p> 
+<p align="center"><b>Fonte:</b> [Giovana Barbosa](https://github.com/gio221), 2025</p> 
 
 
 ## 1. Usabilidade

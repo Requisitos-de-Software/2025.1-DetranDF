@@ -23,6 +23,7 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 | :-----------------: | :--------------------------------------: | :-----: | 
 |US01 a US06| [Giovana Barbosa](https://github.com/gio221) |    |
 |US07 a US12| [Gabriel Mendes](https://github.com/gbevi) |[Mayara Marques](https://github.com/maymarquee)    |
+|US013 a US18| [Gabriel Mendes](https://github.com/gbevi) |[André Meyer](https://github.com/andremeyerr)    |
 
 <a id="tabela-us"></a>
 
@@ -251,6 +252,118 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
+# [US13] – Alertas de Vencimento da CNH, Multas e Licenciamento  
+
+<font size="3"><b>Tabela 15: </b>História de Usuário – Alertas de Vencimento Gerais </font>
+
+| Item                        | Descrição                                                                                                                                     |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| USx (número de identificação) | US13                                                                                                                                          |
+| Tema                        | Alertas de Vencimento (CNH, Multas, Licenciamento)                                                                                             |
+| Descrição                   | Eu, como usuário, desejo receber alertas de vencimento da CNH, multas e licenciamento para não perder prazos e evitar penalidades.            |
+| Critérios de Aceitação      | - Enviar alertas automáticos antes do vencimento de CNH, multas e licenciamento.<br>- Permitir que o usuário escolha antecedência e canal dos alertas.<br>- Exibir painel com itens a vencer e respectivos prazos. |
+| Prioridade Usuário          | Alta                                                                                                                                           |
+| Status                      | Validada                                                                                                                                       |
+| Rastreabilidade             | RF28                                                                                                                                           |
+| Validação                   | [Link do vídeo](https://youtube.com/OPNeqpJgCC8)                                                                                                                                      |
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+---
+
+# [US14] – Agendar Serviços (Vistoria / Renovação da CNH)
+
+<font size="3"><b>Tabela 16: </b>História de Usuário – Agendar Serviços Diversos </font>
+
+| Item                        | Descrição                                                                                                                          |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| USx (número de identificação)| US14                                                                                                                               |
+| Tema                        | Agendamento de Serviços (Vistoria / Renovação)                                                                                     |
+| Descrição                   | Eu, como usuário, desejo agendar serviços como vistoria ou renovação da CNH para evitar filas e otimizar meu tempo.                |
+| Critérios de Aceitação      | - Permitir selecionar tipo de serviço, local e data disponível.<br>- Confirmar agendamento com protocolo digital.<br>- Enviar lembrete 24 h antes do horário marcado. |
+| Prioridade Usuário          | Alta                                                                                                                                |
+| Status                      | Validada                                                                                                                            |
+| Rastreabilidade             | RF02                                                                                                                                |
+| Validação                   | [Link do vídeo](https://youtube.com/OPNeqpJgCC8)                                                                                                                           |
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+---
+
+# [US15] – Agendar Provas Teóricas e Práticas
+
+<font size="3"><b>Tabela 17: </b>História de Usuário – Agendar Provas</font>
+
+| Item                        | Descrição                                                                                                                         |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| USx (número de identificação)| US15                                                                                                                              |
+| Tema                        | Agendamento de Provas (Teórica e Prática)                                                                                         |
+| Descrição                   | Eu, como usuário, desejo agendar online provas teóricas e práticas para obter ou renovar minha habilitação.                        |
+| Critérios de Aceitação      | - Listar datas próximas para provas teóricas e práticas.<br>- Gerar comprovante com código QR.<br>- Permitir reagendamento uma vez sem custo adicional. |
+| Prioridade Usuário          | Alta                                                                                                                               |
+| Status                      | Validada                                                                                                                           |
+| Rastreabilidade             | RF11                                                                                                                               |
+| Validação                   | [Link do vídeo](https://youtube.com/OPNeqpJgCC8)                                                                                                                          |
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+---
+
+# [US16] – Agendar Exames Médicos para CNH
+
+<font size="3"><b>Tabela 18: </b>História de Usuário – Agendar Exames Médicos</font>
+
+| Item                        | Descrição                                                                                                                         |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| USx (número de identificação)| US16                                                                                                                              |
+| Tema                        | Agendamento de Exames Médicos                                                                                                     |
+| Descrição                   | Eu, como usuário, desejo agendar exames médicos para CNH diretamente no app para otimizar meu tempo.                              |
+| Critérios de Aceitação      | - Exibir clínicas credenciadas com horários disponíveis.<br>- Permitir anexar documentos pré-consulta.<br>- Notificar resultado ou necessidade de retorno. |
+| Prioridade Usuário          | Média                                                                                                                               |
+| Status                      | Validada                                                                                                                           |
+| Rastreabilidade             | RF27                                                                                                                               |
+| Validação                   | [Link do vídeo](https://youtube.com/OPNeqpJgCC8)                                                                                                                          |
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+---
+
+# [US17] – Transferir Autuação de Infração para Outro Condutor
+
+<font size="3"><b>Tabela 19: </b>História de Usuário – Transferir Autuação</font>
+
+| Item                        | Descrição                                                                                                                         |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| USx (número de identificação)| US17                                                                                                                              |
+| Tema                        | Transferência de Autuação                                                                                                          |
+| Descrição                   | Eu, como usuário, desejo transferir a autuação de uma infração para outro condutor para corrigir a responsabilidade.               |
+| Critérios de Aceitação      | - Permitir indicar dados do real infrator e anexar CNH.<br>- Gerar protocolo e prazo de análise.<br>- Notificar ambas as partes sobre a conclusão do processo. |
+| Prioridade Usuário          | Média                                                                                                                               |
+| Status                      | Validada                                                                                                                           |
+| Rastreabilidade             | RF04                                                                                                                               |
+| Validação                   | [Link do vídeo](https://youtube.com/OPNeqpJgCC8)                                                                                                                          |
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+---
+
+# [US18] – Transferir Documentação do Veículo
+
+<font size="3"><b>Tabela 20: </b>História de Usuário – Transferir Documento do Veículo</font>
+
+| Item                        | Descrição                                                                                                                         |
+|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| USx (número de identificação)| US18                                                                                                                              |
+| Tema                        | Transferência de Documento do Veículo                                                                                             |
+| Descrição                   | Eu, como usuário, desejo transferir a documentação do veículo para um novo proprietário de forma prática e digital.               |
+| Critérios de Aceitação      | - Permitir preencher dados do comprador e do veículo.<br>- Gerar guia de pagamento e protocolo de transferência.<br>- Notificar quando o novo CRLV estiver disponível. |
+| Prioridade Usuário          | Alta                                                                                                                               |
+| Status                      | Validada                                                                                                                           |
+| Rastreabilidade             | RF06                                                                                                                               |
+| Validação                   | [Link do vídeo](https://youtube.com/OPNeqpJgCC8)                                                                                                                          |
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
 # [US19] - Solicitar troca de PPD para CNH definitiva
 
 <p align="center"><strong>Tabela 15 -</strong> Solicitar troca de PPD para CNH definitiva.</p>
@@ -442,4 +555,5 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 |  1.1   | 20/05/2025 |      Introdução, objetivo, metodologia, e modelo     | [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Mendes ](https://github.com/gbevi) |
 |  1.2   | 29/05/2025 |      Histórias de usuário 7 a 12    | [Gabriel Mendes ](https://github.com/gbevi) | [Eric Akio](https://github.com/eric-kingu) |
 |  1.3  | 30/05/2025 |      Documentação das histórias de usuário 19 a 24, faltando apenas a validação com o usuário    | [João Lobo](https://github.com/joaolobo10) | [Eric Akio](https://github.com/eric-kingu) |
-| 1.4 | 30/05/2025 | Documentação das histórias de usuário 39 a 42, faltando apenas a validação com o usuário | [Eric Akio](https://github.com/eric-kingu) |  |
+| 1.4 | 30/05/2025 | Documentação das histórias de usuário 39 a 42, faltando apenas a validação com o usuário | [Eric Akio](https://github.com/eric-kingu) |  [Luiz Bessa](https://github.com/lfelipebessa)  |
+| 1.5 | 30/05/2025 | Documentação das histórias de usuário 13 a 18 | [Luiz Bessa](https://github.com/lfelipebessa) |  |

@@ -207,6 +207,46 @@ Relacionados à avaliação do sistema e comunicação com o público.
 | RNF07 | Sistema de avaliação com base em uso real (ex-alunos) |
 | RNF08 | Propaganda efetiva para promover o app |
 
+---
+
+### Cartão 5 – RNF07  <a id="cartao-rnf07"></a>
+
+|            Item           | Descrição |
+|---------------------------|-----------|
+| **Nr Requisito**          | **RNF07** |
+| **Classificação**         | Requisito Não Funcional → Qualidade e Feedback → Avaliação do usuário |
+| **Descrição**             | O sistema deve disponibilizar mecanismo de avaliação *in-app* (1 a 5 estrelas) após a conclusão de serviços chave, permitindo comentários opcionais. |
+| **Justificativa**         | Capturar percepção real de qualidade, priorizar melhorias e aumentar a confiabilidade pública do app. |
+| **Origem**                | Stakeholders; boas práticas de UX; diretrizes Google Play / App Store. |
+| **Critério de Aceitação** | • Solicitação de rating exibida **no máximo 1 vez/mês** por usuário.<br>• Alcançar média ≥ 4,5 estrelas após 6 meses.<br>• Comentários sincronizados com a loja correspondente. |
+| **Dependências**          | RNF17 (Feedback visual/sonoro) – usado no prompt;<br>RNF10 (Carregamento rápido) para não atrasar a tela de rating. |
+| **Prioridade**            | 8 |
+| **Conflitos**             | Pode conflitar com Usabilidade se o prompt for intrusivo; mitigar exibindo só após tarefa concluída. |
+| **História**              | Criado: 31-05-2025   Última mod.: 31-05-2025 |
+
+<font size="3"><p align="center">Fonte: <a href="https://github.com/lfelipebessa">Luiz Bessa</a>, 2025.</p></font>
+
+---
+
+### Cartão 6 – RNF08  <a id="cartao-rnf08"></a>
+
+|            Item           | Descrição |
+|---------------------------|-----------|
+| **Nr Requisito**          | **RNF08** |
+| **Classificação**         | Requisito Não Funcional → Qualidade e Feedback → Promoção e Divulgação |
+| **Descrição**             | O sistema deve oferecer mecanismos de divulgação (banner interno, push direcionado, redes sociais) para aumentar adesão dos usuários e divulgar novos serviços. |
+| **Justificativa**         | Ampliar base de usuários e conscientizar sobre funcionalidades que reduzem filas presenciais. |
+| **Origem**                | Stakeholders (Marketing DETRAN-DF). |
+| **Critério de Aceitação** | • Push **não-promocional** limitado a 1 envio/semana.<br>• Taxa de *opt-out* ≤ 20 %.<br>• Campanhas internas carregam em < 300 ms. |
+| **Dependências**          | RNF01 (Interface intuitiva) – posicionamento dos banners;<br>RNF10 (Desempenho) – carregamento rápido das campanhas. |
+| **Prioridade**            | 6 |
+| **Conflitos**             | Pode impactar Usabilidade (clutter) e Desempenho; mitigado por regras de frequência e cache local. |
+| **História**              | Criado: 31-05-2025   Última mod.: 31-05-2025 |
+
+<font size="3"><p align="center">Fonte: <a href="https://github.com/lfelipebessa">Luiz Bessa</a>, 2025.</p></font>
+
+---
+
 
 ## Histórico de versão
 
@@ -214,4 +254,5 @@ Relacionados à avaliação do sistema e comunicação com o público.
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
 |  1.0   | 20/05/2025 |       Início da documentação        | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.1   | 20/05/2025 |       Iintrodução, objetivo, meotodologia, cartões de especificação        | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
-|  1.1   | 31/05/2025 |       Adição de cartões para RNF03, 18 e 19, criação de cartão para Disponbilidade e Confiabilidade        | [João Lobo](https://github.com/joaolobo10) |  |
+|  1.2   | 31/05/2025 |       Adição de cartões para RNF03, 18 e 19, criação de cartão para Disponbilidade e Confiabilidade        | [João Lobo](https://github.com/joaolobo10) | [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.3   | 31/05/2025 |       Adição de cartões para RNF07 e 08 criação de cartão para Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) | |

@@ -129,8 +129,62 @@ Continuidade do sistema e recuperação de falhas.
 
 | Código | Requisito |
 |--------|-----------|
-| RNF18 | Disponibilidade do sistema 24/7 |
-| RNF19 | Confiabilidade: recuperação de falhas e continuidade da navegação |
+| [RNF03](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) | Alta segurança no tratamento de dados pessoais e veiculares |
+| [RNF18](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) | Disponibilidade do sistema 24/7 |
+| [RNF19](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) | Confiabilidade: recuperação de falhas e continuidade da navegação |
+
+<font size="3"><p style="text-align: center">**Cartão 1 -** RNF03.</p></font>
+
+|            Item           |                                                                         Descrição                                                                        |
+| :-----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|      **Nr Requisito**     |                                                                           RNF03                                                                          |
+|     **Classificação**     |                                                   Requisito Não Funcional → Confiabilidade → Segurança                                                   |
+|       **Descrição**       |     O sistema deve garantir alta segurança no tratamento de dados pessoais e veiculares, assegurando confidencialidade, integridade e autenticidade.     |
+|     **Justificativa**     |     Proteger informações sensíveis contra acessos não autorizados, vazamentos e violações de privacidade, conforme LGPD e boas práticas de segurança.    |
+|         **Origem**        |                     Stakeholders (usuários e administradores do sistema); Normas técnicas como LGPD (Lei Geral de Proteção de Dados).                    |
+| **Critério de Aceitação** | Todos os dados devem ser criptografados em repouso e em trânsito; autenticação de dois fatores implementada; testes de segurança realizados e aprovados. |
+|      **Dependências**     |                       RNF18 (Disponibilidade) e RNF19 (Confiabilidade), pois segurança impacta continuidade e confiança do sistema.                      |
+|       **Prioridade**      |                                                                            10                                                                            |
+|       **Conflitos**       |                 Pode gerar conflito com requisitos de desempenho, já que mecanismos de segurança podem impactar a velocidade do sistema.                 |
+|        **História**       |                                                       Criado em: 31-05-2025; Última modificação: 31-05-2025                                                       |
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+<font size="3"><p style="text-align: center">**Cartão 2 -** RNF18.</p></font>
+
+|            Item           |                                                                    Descrição                                                                    |
+| :-----------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
+|      **Nr Requisito**     |                                                                      RNF18                                                                      |
+|     **Classificação**     |                                            Requisito Não Funcional → Confiabilidade → Disponibilidade                                           |
+|       **Descrição**       |        O sistema deve estar disponível para acesso e uso contínuo, 24 horas por dia, 7 dias por semana, sem interrupções significativas.        |
+|     **Justificativa**     | Garantir que os usuários possam acessar os serviços a qualquer momento, independentemente do horário, aumentando a confiabilidade e satisfação. |
+|         **Origem**        |                              Stakeholders; necessidade operacional do serviço e boas práticas de sistemas críticos.                             |
+| **Critério de Aceitação** |                     Tempo médio de disponibilidade ≥ 99,9% mensal; manutenção programada comunicada com 48h de antecedência.                    |
+|      **Dependências**     |                     RNF19 (Confiabilidade), já que falhas precisam ser rapidamente recuperadas para manter disponibilidade.                     |
+|       **Prioridade**      |                                                                        9                                                                        |
+|       **Conflitos**       |    Pode gerar conflito com requisitos de custo, pois alta disponibilidade pode exigir investimentos elevados em infraestrutura e redundância.   |
+|        **História**       |                                                   Criado em: 31-05-2025; Última modificação: 31-05-2025                                                  |
+
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+<font size="3"><p style="text-align: center">**Cartão 3 -** RNF19.</p></font>
+
+|            Item           |                                                                       Descrição                                                                      |
+| :-----------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+|      **Nr Requisito**     |                                                                         RNF19                                                                        |
+|     **Classificação**     |                                            Requisito Não Funcional → Confiabilidade → Tolerância a falhas                                            |
+|       **Descrição**       |      O sistema deve assegurar mecanismos de recuperação automática em caso de falhas e garantir a continuidade da navegação sem perda de dados.      |
+|     **Justificativa**     |                 Evitar que falhas do sistema comprometam a experiência do usuário e causem perda de dados ou interrupção no serviço.                 |
+|         **Origem**        |                           Stakeholders; boas práticas de engenharia de software; normas de qualidade de sistemas críticos.                           |
+| **Critério de Aceitação** | O sistema deve conseguir se recuperar automaticamente de falhas em até 5 segundos; logs de falhas devem ser registrados e analisados periodicamente. |
+|      **Dependências**     |                                   RNF18 (Disponibilidade), pois a recuperação rápida garante alta disponibilidade.                                   |
+|       **Prioridade**      |                                                                          10                                                                          |
+|       **Conflitos**       | Pode gerar conflito com requisitos de simplicidade e custo, já que mecanismos de redundância e recuperação podem aumentar a complexidade do sistema. |
+|        **História**       |                                                     Criado em: 31-05-2025; Última modificação: 31-05-2025                                                      |
+
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
 ---
 
@@ -158,5 +212,6 @@ Relacionados à avaliação do sistema e comunicação com o público.
 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
-|  1.0   | 20/05/2025 |       Início da documentação        | [Giovana Barbosa ](https://github.com/gio221) |  |
-|  1.1   | 20/05/2025 |       Iintrodução, objetivo, meotodologia, cartões de especificação        | [Giovana Barbosa ](https://github.com/gio221) |  |
+|  1.0   | 20/05/2025 |       Início da documentação        | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
+|  1.1   | 20/05/2025 |       Iintrodução, objetivo, meotodologia, cartões de especificação        | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
+|  1.1   | 31/05/2025 |       Adição de cartões para RNF03, 18 e 19, criação de cartão para Disponbilidade e Confiabilidade        | [João Lobo](https://github.com/joaolobo10) |  |

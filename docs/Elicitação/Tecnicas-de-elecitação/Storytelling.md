@@ -16,6 +16,8 @@ O storytelling é uma técnica que usa narrativas para facilitar a comunicação
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
+<a id="story-lucas"></a>
+
 ### Lucas Ferreira (Persona Primária)
 Lucas Ferreira, 28 anos, é engenheiro civil e mora em Brasília. Sempre conectado, Lucas resolve tudo pelo celular e odeia perder tempo com burocracias.
 
@@ -35,6 +37,8 @@ Ela tentou sozinha por alguns minutos, mas acabou fechando o app. No sábado de 
 
 Marina desabafou com a sobrinha:
 — “Se o app tivesse ícones maiores e uma linguagem mais simples, eu até usaria com mais frequência!”
+
+<a id="story-diego"></a>
 
 ### Diego Martins (Persona Secundária)
 Diego Martins, 20 anos, é motorista de aplicativo e depende do carro para o seu sustento. Ele vive em Taguatinga e sempre busca praticidade.

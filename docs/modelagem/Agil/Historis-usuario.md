@@ -501,7 +501,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Critérios de Aceitação** | - Permitir criação de nova solicitação via app  <br> - Exibir lista de tipos de requerimento disponíveis <br> - Gerar protocolo ao finalizar envio |
 | **Prioridade Usuário** | Alta                                                                                                             |
 | **Status**             | validada                                                                                                                 |
-| **Rastreabilidade**    |                       |
+| **Rastreabilidade**    |         [RF36](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)              |
 | **Validação**          | x                                                                                                                |
 
 <p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
@@ -517,7 +517,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Critérios de Aceitação** | - Permitir consulta ao status da solicitação via app <br> - Mostrar histórico de movimentações <br> - Exibir prazos estimados de resposta |
 | **Prioridade Usuário** | Alta                                                                                                             |
 | **Status**             | validada                                                                                                                 |
-| **Rastreabilidade**    |                      |
+| **Rastreabilidade**    |    [RF37](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
 | **Validação**          | x                                                                                                                |
 
 <p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
@@ -534,7 +534,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Critérios de Aceitação** | - Permitir envio de solicitação via app <br> - Enviar documentos comprobatórios <br> - Gerar protocolo e prazo de entrega |
 | **Prioridade Usuário** | Alta                                                                                                             |
 | **Status**             | validada                                                                                                                 |
-| **Rastreabilidade**    |                       |
+| **Rastreabilidade**    |        [RF38](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                |
 | **Validação**          | x                                                                                                                |
 
 <p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
@@ -551,7 +551,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Critérios de Aceitação** | - Permitir solicitação via app <br> - Permitir envio de laudos médicos e documentos exigidos <br> - Gerar protocolo e informar prazos |
 | **Prioridade Usuário** | Alta                                                                                                             |
 | **Status**             | validada                                                                                                                 |
-| **Rastreabilidade**    |                      |
+| **Rastreabilidade**    |         [RF39](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)              |
 | **Validação**          | x                                                                                                                |
 
 <p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
@@ -568,7 +568,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Critérios de Aceitação** | - Exibir lista de débitos vinculados ao veículo <br> - Permitir pagamento via app <br> - Atualizar status de liberação após pagamento |
 | **Prioridade Usuário** | Alta                                                                                                             |
 | **Status**             | validada                                                                                                                |
-| **Rastreabilidade**    |                    |
+| **Rastreabilidade**    |   [RF40](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
 | **Validação**          | x                                                                                                                |
 
 <p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>

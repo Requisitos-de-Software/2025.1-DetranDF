@@ -21,13 +21,15 @@ Criação das Histórias de Usuário – As histórias foram escritas em um form
 
 | História de Usuario |              Desenvolvedor               | Usuário | 
 | :-----------------: | :--------------------------------------: | :-----: | 
-|US01 a US06| [Giovana Barbosa](https://github.com/gio221) |    |
+|US01 a US06| [Giovana Barbosa](https://github.com/gio221) |   Débora |
 |US07 a US12| [Gabriel Mendes](https://github.com/gbevi) |[Mayara Marques](https://github.com/maymarquee)    |
 |US013 a US18| [Luiz Bessa](https://github.com/lfelipebessa) |[André Meyer](https://github.com/andremeyerr)    |
 |US019 a US24| [João Lobo](https://github.com/joaolobo10) | Nicole Neves    |
 |US025 a US030| [Maria Eduarda](https://github.com/maaduh) |
 |US031 a US036|
 |US037 a US042|[Eric Akio](https://github.com/eric-kingu) |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 <a id="tabela-us"></a>
 
@@ -65,7 +67,7 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | Prioridade Usuário          | Alta                                                                      |
 | Status                      | Validada                                                                  |
 | Rastreabilidade             | RF01                                                                      |
-| Validação                   |                                                              |
+| Validação                   |      [vídeo de validação](https://youtu.be/4wuewS286Ro)                                                          |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
@@ -82,7 +84,7 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | Prioridade Usuário          | Alta                                                                      |
 | Status                      | Validada                                                                  |
 | Rastreabilidade             | RF03, RF19, RF20                                                          |
-| Validação                   | a definir                                                                 |
+| Validação                   |  [vídeo de validação](https://youtu.be/4wuewS286Ro)                                                                 |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
@@ -99,7 +101,7 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | Prioridade Usuário          | Alta                                                                      |
 | Status                      | Validada                                                                  |
 | Rastreabilidade             | RF10                                                                      |
-| Validação                   | a definir                                                                 |
+| Validação                   | [vídeo de validação](https://youtu.be/4wuewS286Ro)                                                                    |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
@@ -116,7 +118,7 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | Prioridade Usuário          | Alta                                                                      |
 | Status                      | Validada                                                                  |
 | Rastreabilidade             | RF17                                                                      |
-| Validação                   | a definir                                                    |
+| Validação                   |  [vídeo de validação](https://youtu.be/4wuewS286Ro)                                                    |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
@@ -133,7 +135,7 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | Prioridade Usuário          | Alta                                                                      |
 | Status                      | Validada                                                                  |
 | Rastreabilidade             | RF23                                                                      |
-| Validação                   | a definir                                                                 |
+| Validação                   |  [vídeo de validação](https://youtu.be/4wuewS286Ro)                                           |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
@@ -150,7 +152,7 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | Prioridade Usuário          | Alta                                                                      |
 | Status                      | Validada                                                                  |
 | Rastreabilidade             | RF25                                                                      |
-| Validação                   | a definir                                                                 |
+| Validação                   |  [vídeo de validação](https://youtu.be/4wuewS286Ro)                                                                 |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 

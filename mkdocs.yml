@@ -177,4 +177,16 @@ nav:
              - Léxicos: Verificações/Entrega 3/nossogrupo/lexicos.md
              - Casos de Uso: Verificações/Entrega 3/nossogrupo/caso-de-uso.md
              - Especificação Suplementar: Verificações/Entrega 3/nossogrupo/especificação-suplementar.md
-              
+      - Entrega 4:
+          - Lista de Verificação:
+            - Backlog: Verificações/Entrega 4/lista_verificação/baclog.md
+            - Histórias de Usuário: Verificações/Entrega 4/lista_verificação/histor-usuario.md
+            - NFR Framework: Verificações/Entrega 4/lista_verificação/nfr-frameowrk.md
+          - Verificação Grupo +1:
+            - Backlog: Verificações/Entrega 4/grupo+1/baclog.md
+            - Histórias de Usuário: Verificações/Entrega 4/grupo+1/historia-usuario.md
+            - NFR Framework: Verificações/Entrega 4/grupo+1/nfr-framework.md
+          - Verificação Nosso Grupo: 
+            - Backlog: Verificações/Entrega 4/nosso-grupo/backlog.md
+            - Histórias de Usuário: Verificações/Entrega 4/nosso-grupo/historia-usuario.md
+            - NFR Framework: Verificações/Entrega 4/nosso-grupo/nfr-framework.md

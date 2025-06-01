@@ -240,6 +240,14 @@ Na tabela 8 temos a propagação de impactos da acessibilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
+#### Validação com o usuário
+
+No video abaixo é feito a validação da parte de acessibilidade pela integrante [Giovana Barbosa](https://github.com/gio221) com a usuária Débora
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/xKJIMlwFndg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/xKJIMlwFndg" target="blanket">Vídeo da= validação com o usuário</a></p>
+
+
 ##  3. Desempenho e Eficiência
 
 Tempo de resposta, leveza do app e uso eficiente de recursos.
@@ -395,4 +403,4 @@ Relacionados à avaliação do sistema e comunicação com o público.
 |  1.1   | 20/05/2025 |       Iintrodução, objetivo, meotodologia, cartões de especificação        | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.2   | 31/05/2025 |       Adição de cartões para RNF03, 18 e 19, criação de cartão para Disponbilidade e Confiabilidade        | [João Lobo](https://github.com/joaolobo10) | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.3   | 31/05/2025 |       Adição de cartões para RNF07 e 08 criação de cartão para Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) |[Giovana Barbosa ](https://github.com/gio221) |
-|  1.4  | 31/05/2025 |       Adição de cartões para acessibilidade | [Giovana Barbosa ](https://github.com/gio221) | |
+|  1.4  | 31/05/2025 |       Adição de cartões para acessibilidade, SIG e a Propragação de impactos: | [Giovana Barbosa ](https://github.com/gio221) | |

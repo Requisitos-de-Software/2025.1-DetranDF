@@ -24,6 +24,7 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 |US01 a US06| [Giovana Barbosa](https://github.com/gio221) |    |
 |US07 a US12| [Gabriel Mendes](https://github.com/gbevi) |[Mayara Marques](https://github.com/maymarquee)    |
 |US013 a US18| [Luiz Bessa](https://github.com/lfelipebessa) |[André Meyer](https://github.com/andremeyerr)    |
+|US019 a US24| [João Lobo](https://github.com/joaolobo10) | Nicole Neves    |
 
 <a id="tabela-us"></a>
 
@@ -375,9 +376,9 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | **Descrição**                 | Eu, como usuário, desejo solicitar a troca da minha PPD para a CNH definitiva diretamente no aplicativo para obter minha habilitação definitiva de forma prática. |
 | **Critérios de Aceitação**    | - Permitir envio de solicitação via app <br> - Validar se o usuário cumpre os requisitos (tempo, infrações, etc.) <br> - Gerar protocolo de solicitação <br> - Permitir acompanhar o andamento |
 | **Prioridade Usuário**        | Alta                                                                                                          |
-| **Status**                    | x                                                                                                             |
+| **Status**                    | Validada                                                                                                             |
 | **Rastreabilidade**           | [RF07](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
-| **Validação**                 | x                                                                                                             |
+| **Validação**                 | [Link do vídeo](https://youtu.be/O_bsmIPCW6U?si=Lnsu8rd3vR0l5mxu)                                                                                                             |
 
 <p align="center">Fonte: <a href="https://github.com/joaolobo10">João Lobo</a>, 2025.</p>
 
@@ -394,9 +395,9 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | **Descrição**                 | Eu, como usuário, desejo solicitar a segunda via da CNH e do CRLV de forma digital para facilitar a reposição desses documentos. |
 | **Critérios de Aceitação**    | - Permitir solicitação da segunda via pelo app <br> - Gerar boleto ou guia de pagamento <br> - Disponibilizar versão digital dos documentos após compensação <br> - Emitir protocolo de solicitação |
 | **Prioridade Usuário**        | Alta                                                                                                          |
-| **Status**                    | x                                                                                                             |
+| **Status**                    | Validada                                                                                                             |
 | **Rastreabilidade**           | [RF18](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
-| **Validação**                 | x                                                                                                             |
+| **Validação**                 | [Link do vídeo](https://youtu.be/O_bsmIPCW6U?si=Lnsu8rd3vR0l5mxu)                                                                                                             |
 
 <p align="center">Fonte: <a href="https://github.com/joaolobo10">João Lobo</a>, 2025.</p>
 
@@ -413,9 +414,9 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | **Descrição**                 | Eu, como usuário, desejo acompanhar o andamento dos meus processos no DETRAN para saber o status de cada solicitação. |
 | **Critérios de Aceitação**    | - Exibir lista de processos ativos e finalizados <br> - Mostrar status atualizado <br> - Exibir prazos e pendências <br> - Notificar atualizações importantes |
 | **Prioridade Usuário**        | Alta                                                                                                          |
-| **Status**                    | x                                                                                                             |
+| **Status**                    | Validada                                                                                                             |
 | **Rastreabilidade**           | [RF21](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
-| **Validação**                 | x                                                                                                             |
+| **Validação**                 | [Link do vídeo](https://youtu.be/O_bsmIPCW6U?si=Lnsu8rd3vR0l5mxu)                                                                                                             |
 
 <p align="center">Fonte: <a href="https://github.com/joaolobo10">João Lobo</a>, 2025.</p>
 
@@ -432,9 +433,9 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | **Descrição**                 | Eu, como usuário, desejo solicitar a reposição da placa Mercosul pelo aplicativo para regularizar meu veículo de forma prática. |
 | **Critérios de Aceitação**    | - Permitir envio de solicitação via app <br> - Permitir envio de documentos e fotos necessários <br> - Gerar guia de pagamento <br> - Emitir protocolo e informar prazo de entrega |
 | **Prioridade Usuário**        | Média                                                                                                         |
-| **Status**                    | x                                                                                                             |
+| **Status**                    | Validada                                                                                                             |
 | **Rastreabilidade**           | [RF31](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
-| **Validação**                 | x                                                                                                             |
+| **Validação**                 | [Link do vídeo](https://youtu.be/O_bsmIPCW6U?si=Lnsu8rd3vR0l5mxu)                                                                                                             |
 
 <p align="center">Fonte: <a href="https://github.com/joaolobo10">João Lobo</a>, 2025.</p>
 
@@ -451,9 +452,9 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | **Descrição**                 | Eu, como usuário, desejo solicitar a conversão da placa para o padrão Mercosul diretamente pelo app para facilitar o processo de adequação. |
 | **Critérios de Aceitação**    | - Permitir solicitação via app <br> - Verificar se o veículo atende aos critérios legais <br> - Gerar guia de pagamento <br> - Emitir protocolo e prazo para troca |
 | **Prioridade Usuário**        | Média                                                                                                         |
-| **Status**                    | x                                                                                                             |
+| **Status**                    | Validada                                                                                                             |
 | **Rastreabilidade**           | [RF32](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
-| **Validação**                 | x                                                                                                             |
+| **Validação**                 | [Link do vídeo](https://youtu.be/O_bsmIPCW6U?si=Lnsu8rd3vR0l5mxu)                                                                                                             |
 
 <p align="center">Fonte: <a href="https://github.com/joaolobo10">João Lobo</a>, 2025.</p>
 
@@ -470,9 +471,9 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | **Descrição**                 | Eu, como usuário, desejo converter uma autuação em penalidade pelo aplicativo para agilizar a resolução das infrações. |
 | **Critérios de Aceitação**    | - Permitir solicitação de conversão via app <br> - Exibir detalhes da autuação <br> - Validar elegibilidade da autuação <br> - Gerar protocolo e guia de pagamento (se aplicável) |
 | **Prioridade Usuário**        | Alta                                                                                                          |
-| **Status**                    | x                                                                                                             |
+| **Status**                    | Validada                                                                                                             |
 | **Rastreabilidade**           | [RF35](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
-| **Validação**                 | x                                                                                                             |
+| **Validação**                 | [Link do vídeo](https://youtu.be/O_bsmIPCW6U?si=Lnsu8rd3vR0l5mxu)                                                                                                             |
 
 <p align="center">Fonte: <a href="https://github.com/joaolobo10">João Lobo</a>, 2025.</p>
 
@@ -659,3 +660,4 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | 1.5 | 30/05/2025 | Documentação das histórias de usuário 13 a 18 | [Luiz Bessa](https://github.com/lfelipebessa) | [Eric Akio](https://github.com/eric-kingu) |
 | 1.6 | 30/05/2025 | Validação das histórias de usuário 39 a 42 | [Eric Akio](https://github.com/eric-kingu) | [Maria Eduarda](https://github.com/maaduh)  |
 | 1.7 | 31/05/2025 | Documentação das histórias de usuário 25 a 30 | [Maria Eduarda](https://github.com/maaduh) |  |
+| 1.8 | 31/05/2025 | Adição dos vídeos de validação das Histórias de usuário US19 até a US24 |  [João Lobo](https://github.com/joaolobo10) |  |

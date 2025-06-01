@@ -189,6 +189,14 @@ O vídeo 3 contém a verificação das Histórias de Usuário do US19 a Us26. Fo
 
 # Validação com o usuário US027 a US30
 
+O vídeo 4 contém a verificação das Histórias de Usuário do US27 a US30. Foi realizado pelo [João Lobo](https://github.com/joaolobo10) com a participação voluntária de Nicole Neves atuando como usuário. Esta gravação foi realizada no dia 31/05/2025 às 20:00.
+
+<font size="3"><b>Vídeo 4: </b> Validação das Histórias de Usuário do US27 a US30.</font>
+
+<iframe width="824" height="464" src="https://youtu.be/4md-lQ5Tg8g?si=ry6fbtRYlMyoEtkR" title="backlog - validação - US27 a US30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
 # Validação com o usuário US031 a US34
 
 # Validação com o usuário US035 a US38
@@ -221,3 +229,4 @@ O vídeo 7 contém a verificação das Histórias de Usuário do US39 a US42. Fo
 |  1.4   | 29/05/2025 | Adição de rastreabilidade nos requisitos na tabela backlog    | [João Lobo](https://github.com/joaolobo10)  | [Eric Akio](https://github.com/eric-kingu) |
 | 1.5 | 30/05/2025 | Adição do vídeo de validação com o usuário das histórias 39 a 42 | [Eric Akio](https://github.com/eric-kingu) |[Maria Eduarda](https://github.com/maaduh)  |
 | 1.6 | 31/05/2025 | Adição do vídeo de validação com o usuário das histórias 35 a 38 | [Maria Eduarda](https://github.com/maaduh) |  |
+| 1.7 | 31/05/2025 | Adição do vídeo de validação com o usuário das histórias US27 a US30 | [João Lobo](https://github.com/joaolobo10) |  |

@@ -780,3 +780,4 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | 1.6 | 30/05/2025 | Validação das histórias de usuário 39 a 42 | [Eric Akio](https://github.com/eric-kingu) | [Maria Eduarda](https://github.com/maaduh)  |
 | 1.7 | 31/05/2025 | Documentação das histórias de usuário 25 a 30 | [Maria Eduarda](https://github.com/maaduh) | [Giovana Barbosa ](https://github.com/gio221) |
 | 1.8 | 31/05/2025 | Adição dos vídeos de validação das Histórias de usuário US19 até a US24 |  [João Lobo](https://github.com/joaolobo10) | [Giovana Barbosa ](https://github.com/gio221) |
+| 1.9 | 31/05/2025 | Adição dos vídeos de validação das Histórias de usuário US31 até a US36 |  [Pedro Camilo](https://github.com/PedrooCamilo) |  |

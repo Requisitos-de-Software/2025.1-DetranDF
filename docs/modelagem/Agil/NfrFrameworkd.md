@@ -578,6 +578,12 @@ Proteção de dados pessoais e veiculares.
 |--------|-----------|
 | RNF03 | Alta segurança no tratamento de dados pessoais e veiculares |
 
+Na figura mostra o SIG de segurança
+
+<font size="3"><p style="text-align: center"><b> Figura x:</b> SIG-Segurança</font>
+![SIG-SEGURANÇA](../../assets/nfrseg.png)
+ <font size="3"><p style="text-align: center"><b>Fonte:[Maria Eduarda](https://github.com/maaduh) , 2025.</b> </font>
+
 ### Requisito RNF03
 
 **Tabela 10: Requisito não funcional 03**

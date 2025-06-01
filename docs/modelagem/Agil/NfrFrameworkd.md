@@ -402,34 +402,40 @@ Continuidade do sistema e recuperação de falhas.
 
 <font size="3"><p style="text-align: center">**Tabela x -** Requisito não funcional 18.</p></font>
 
-| NFR                           | Impacto | Avaliador                                  |
-| ----------------------------- | ------- | ------------------------------------------ |
-| RNF19 - Tolerância a falhas   | ✓       | [João Lobo](https://github.com/joaolobo10) |
-| Capacidade de Escalabilidade  | 𝒲+     | [João Lobo](https://github.com/joaolobo10) |
-| Monitoramento e Logs          | ✓       | [João Lobo](https://github.com/joaolobo10) |
-| Redundância de Infraestrutura | ✓       | [João Lobo](https://github.com/joaolobo10) |
-| Proteção contra erros         | 𝒲+     | [João Lobo](https://github.com/joaolobo10) |
-| O sistema deve ser simples e intuitivo em sua arquitetura e funcionamento, facilitando a manutenção e reduzindo a complexidade operacional.                  | 🗲      | [João Lobo](https://github.com/joaolobo10) |
-| Custo                         | X       | [João Lobo](https://github.com/joaolobo10) |
+| **NFR Relacionado**                                        | **Impacto sobre RNF18 – Disponibilidade** | **Avaliador**                                           |
+|------------------------------------------------------------|--------------------------------------------|---------------------------------------------------------|
+| **RNF19 – Tolerância a Falhas**                            | ✓                                          | [João Lobo](https://github.com/joaolobo10)             |
+| **Monitoramento e Logs**                                   | ✓                                          | [João Lobo](https://github.com/joaolobo10)             |
+| **Capacidade de Escalabilidade**                           | 𝒲+                                         | [João Lobo](https://github.com/joaolobo10)             |
+| **Redundância de Infraestrutura**                          | ✓                                          | [João Lobo](https://github.com/joaolobo10)             |
+| **Proteção contra erros**                                  | ✓                                          | [João Lobo](https://github.com/joaolobo10)             |
+| **Simplicidade** <br>*(O sistema deve ser simples e intuitivo em sua arquitetura e funcionamento)* | 🗲                                         | [João Lobo](https://github.com/joaolobo10)             |
+| **Custo**                                                  | X                                          | [João Lobo](https://github.com/joaolobo10)             |
+
 
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
 <font size="3"><p style="text-align: center">**Tabela x -** Requisito não funcional 19.</p></font>
 
-| NFR                           | Impacto | Avaliador                                  |
-| ----------------------------- | ------- | ------------------------------------------ |
-| RNF18 - Disponibilidade       | ✓       | [João Lobo](https://github.com/joaolobo10) |
-| Monitoramento e Logs          | ✓       | [João Lobo](https://github.com/joaolobo10) |
-| Capacidade de Escalabilidade  | 𝒲+     | [João Lobo](https://github.com/joaolobo10) |
-| Redundância de Infraestrutura | ✓       | [João Lobo](https://github.com/joaolobo10) |
-| Proteção contra erros         | ✓       | [João Lobo](https://github.com/joaolobo10) |
-| O sistema deve ser simples e intuitivo em sua arquitetura e funcionamento, facilitando a manutenção e reduzindo a complexidade operacional.                  | 🗲      | [João Lobo](https://github.com/joaolobo10) |
-| Custo                         | X       | [João Lobo](https://github.com/joaolobo10) |
-
-
+| **NFR Relacionado**                                        | **Impacto sobre RNF19 – Tolerância a Falhas** | **Avaliador**                                           |
+|------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------|
+| **RNF18 – Disponibilidade**                                | ✓                                              | [João Lobo](https://github.com/joaolobo10)             |
+| **Monitoramento e Logs**                                   | ✓                                              | [João Lobo](https://github.com/joaolobo10)             |
+| **Capacidade de Escalabilidade**                           | 𝒲+                                             | [João Lobo](https://github.com/joaolobo10)             |
+| **Redundância de Infraestrutura**                          | ✓                                              | [João Lobo](https://github.com/joaolobo10)             |
+| **Proteção contra erros**                                  | ✓                                              | [João Lobo](https://github.com/joaolobo10)             |
+| **Simplicidade** <br>*(O sistema deve ser simples e intuitivo em sua arquitetura e funcionamento)* | 🗲                                             | [João Lobo](https://github.com/joaolobo10)             |
+| **Custo**                                                  | X                                              | [João Lobo](https://github.com/joaolobo10)             |
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+#### Validação com o usuário
+
+No video abaixo é feito a validação da parte de acessibilidade pelo integrante [João Lobo](https://github.com/joaolobo10) com a usuária do aplicativo Detran-DF Nicole Neves.
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/i3OqAIuV-1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/i3OqAIuV-1Y" target="blanket">Link do vídeo</a></p>
 
 
 
@@ -604,7 +610,11 @@ Na figura monstra o SIG referente a Qualidade e Feedback do aplicativo Detran-DF
 |  1.3   | 31/05/2025 |       Adição de cartões para RNF07 e 08 criação de cartão para Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) |[Giovana Barbosa ](https://github.com/gio221) |
 |  1.4  | 31/05/2025 |       Adição de cartões para acessibilidade, SIG e a Propragação de impactos: | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10), [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.5  | 31/05/2025 |  Adição de seção SIG, Interdependências. decomposições, contribuições além das figuras juntamente as seções, além disso adicionei para as RNF18 e 19, as tabelas de propagação de impactos.      | [João Lobo](https://github.com/joaolobo10) | [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.6  | 01/06/2025 |       Adição SIG Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) | [João Lobo](https://github.com/joaolobo10) |
+|  1.7  | 01/06/2025 |       Adição Propagação de impactos RNF08 e 07 | [Luiz Bessa](https://github.com/lfelipebessa) | [João Lobo](https://github.com/joaolobo10)|
+|  1.8  | 01/06/2025 |       Adição SIG com propagação QF | [Luiz Bessa](https://github.com/lfelipebessa) | [João Lobo](https://github.com/joaolobo10)|
 |  1.6  | 01/06/2025 |       Adição SIG Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) | |
 |  1.7  | 01/06/2025 |       Adição Propagação de impactos RNF08 e 07 | [Luiz Bessa](https://github.com/lfelipebessa) | |
 |  1.8  | 01/06/2025 |       Adição SIG com propagação QF | [Luiz Bessa](https://github.com/lfelipebessa) | |
-|  1.9  | 01/06/2025 |       Adição de cartões para RNF02 e propagação de impacto, SIG de portabilidade/compatibilidade | [Gabriel Mendes](https://github.com/gbevi) | |
+|  1.9  | 01/06/2025 |       Adição de vídeo de validação com o usuário da RNF 18 e 19 | [João Lobo](https://github.com/joaolobo10) | |
+|  2.0  | 01/06/2025 |       Adição de cartões para RNF02 e propagação de impacto, SIG de portabilidade/compatibilidade | [Gabriel Mendes](https://github.com/gbevi) | |

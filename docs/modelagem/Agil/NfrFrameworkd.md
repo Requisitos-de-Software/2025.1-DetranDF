@@ -330,6 +330,11 @@ Com prapagação de impactos:
 ![Propagação de Impactos.](../../assets/nfrusabilidade_impactos.drawio.png)
  <font size="3"><p style="text-align: center"><b>Fonte:</b> [Pedro Camilo](https://github.com/PedrooCamilo)</font>
 
+ No video abaixo é feito a validação da parte de Usabilidade pelo integrante [Pedro Camilo](https://github.com/PedrooCamilo) com a usuária Júlia Ratti
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/WyTbCnYTZ4k/edit" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/WyTbCnYTZ4k/edit" target="blanket">Vídeo da= validação com o usuário</a></p>
+
 ## 2. Acessibilidade
 
 #### SIG de Acessibilidade

@@ -575,6 +575,41 @@ Proteção de dados pessoais e veiculares.
 |--------|-----------|
 | RNF03 | Alta segurança no tratamento de dados pessoais e veiculares |
 
+### Requisito RNF03
+
+**Tabela 10: Requisito não funcional 03**
+
+| Item                      | Descrição                                                                                                                                       |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nr Requisito RNF03**    | Classificação: Segurança de Dados                                                                                                               |
+| **Descrição**             | O sistema deve garantir alta segurança na coleta, armazenamento e transmissão de dados pessoais e veiculares.                                  |
+| **Justificativa**         | A manipulação de dados sensíveis exige proteção contra vazamentos, acessos não autorizados e fraudes.                                           |
+| **Origem**                | Storytelling - Marina                                                                                                                           |
+| **Critério de Aceitação** | Uso de criptografia AES-256 para dados em repouso e TLS 1.3 para dados em trânsito; autenticação multifator habilitada.                        |
+| **Dependências**          | RNF01 (Infraestrutura segura), RNF12 (Controle de acesso)                                                                                       |
+| **Prioridade**            | 10                                                                                                                                              |
+| **Conflitos**             | Pode impactar levemente o desempenho do sistema                                                                                                 |
+| **História**              | Criado em 01/06/2025                                                                                                                             |
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
+
+---
+
+## Propagação de Impactos
+
+A Tabela 11 apresenta a análise de impacto do requisito RNF03:
+
+**Tabela 11: Propagação de impactos do requisito RNF03**
+
+| NFR                                                        | Impacto | Avaliador         |
+|-------------------------------------------------------------|---------|-------------------|
+| Confidencialidade dos dados pessoais                        | 𝒲++     | [Maria Eduarda](https://github.com/maaduh)   |
+| Confidencialidade dos dados veiculares                      | 𝒲++     | [Maria Eduarda](https://github.com/maaduh)   |
+| Conformidade com a LGPD e normas de segurança da informação | 𝒲+      | [Maria Eduarda](https://github.com/maaduh)    |
+| Risco de vazamento de dados reduzido                        | 𝒲++     | [Maria Eduarda](https://github.com/maaduh)    |
+| Custo de infraestrutura e manutenção                        | X       | [Maria Eduarda](https://github.com/maaduh)    |
+| Facilidade de auditoria e rastreabilidade                   | 𝒲+      | [Maria Eduarda](https://github.com/maaduh)    |
+
 ---
 
 ##  5. Confiabilidade e Disponibilidade
@@ -855,5 +890,7 @@ No video abaixo é feito a validação da parte de acessibilidade pelo integrant
 |  1.9  | 01/06/2025 |       Adição de vídeo de validação com o usuário da RNF 18 e 19 | [João Lobo](https://github.com/joaolobo10) | |
 |  2.0  | 01/06/2025 |       Adição de cartões para RNF02 e propagação de impacto, SIG de portabilidade/compatibilidade | [Gabriel Mendes](https://github.com/gbevi) | |
 |  2.1  | 01/06/2025 |       Adição de cartões para usabilidade, SIG e a Propragação de impactos | [Pedro Camilo ](https://github.com/PedrooCamilo) | [Eric Akio](https://github.com/eric-kingu) |
-| 2.2 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Eric Akio](https://github.com/eric-kingu) |  |
+| 2.2 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Eric Akio](https://github.com/eric-kingu) | [Maria Eduarda](https://github.com/maaduh) |
+| 2.3 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Maria Eduarda](https://github.com/maaduh) |  |
+
 

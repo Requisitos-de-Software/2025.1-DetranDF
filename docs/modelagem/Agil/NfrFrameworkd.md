@@ -195,7 +195,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | ------------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                               |
 | **Classificação**         | Usabilidade > Interface                                             |
-| **Descrição**             | Interface intuitiva e fácil de navegar                              |
+| **Descrição**             | O sistema deve apresentar uma interface clara e organizada, facilitando a navegação e permitindo que o usuário encontre rapidamente as funcionalidades desejadas, mesmo sem conhecimento técnico prévio.                              |
 | **Justificativa**         | Facilitar o uso do sistema por qualquer perfil de usuário           |
 | **Origem**                | [BS13](../../Elicitação/Tecnicas-de-elecitação/brainstorming.md#tabela-requisitos), [IS07](../../Elicitação/Tecnicas-de-elecitação/Introspecção.md#tabela-requisitos)                                   |
 | **Critério de Aceitação** | Usuários realizam tarefas principais sem necessidade de treinamento |
@@ -214,7 +214,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | --------------------------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF04](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                             |
 | **Classificação**         | Usabilidade > Conteúdo                                                            |
-| **Descrição**             | Área educacional com explicações e vídeos                                         |
+| **Descrição**             | Deve existir uma seção com conteúdos didáticos, incluindo textos e vídeos, que ajudem o usuário a entender o funcionamento do sistema e conceitos importantes relacionados.                                            |
 | **Justificativa**         | Promover autonomia e aprendizado do usuário sobre o sistema e o domínio           |
 | **Origem**                | [BS16](../../Elicitação/Tecnicas-de-elecitação/brainstorming.md#tabela-requisitos)                                            |
 | **Critério de Aceitação** | Disponibilidade de área educacional com pelo menos 5 vídeos e textos explicativos |
@@ -233,7 +233,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | ---------------------------------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                                    |
 | **Classificação**         | Usabilidade > Layout                                                                     |
-| **Descrição**             | Layout com foco em simplicidade e legibilidade                                           |
+| **Descrição**             | O layout deve priorizar a apresentação limpa e objetiva das informações, com uso de elementos visuais simples e tipografia legível, facilitando a leitura e a compreensão.                                           |
 | **Justificativa**         | Reduzir sobrecarga cognitiva e melhorar experiência do usuário                           |
 | **Origem**                | [BS21](../../Elicitação/Tecnicas-de-elecitação/brainstorming.md#tabela-requisitos)                                                                  |
 | **Critério de Aceitação** | Contraste adequado, fontes legíveis e ausência de excesso de elementos em todas as telas |
@@ -252,7 +252,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | ----------------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF12](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                   |
 | **Classificação**         | Usabilidade > Conteúdo                                                  |
-| **Descrição**             | Explicações acessíveis sobre siglas (ex: RENAVAM)                       |
+| **Descrição**             | O sistema deve oferecer explicações claras e acessíveis sobre siglas ou termos técnicos, garantindo que todos os usuários compreendam seu significado sem necessidade de pesquisa externa.                       |
 | **Justificativa**         | Garantir compreensão total das informações apresentadas                 |
 | **Origem**                | [GLO05](../../Elicitação/Tecnicas-de-elecitação/glossario.md#tabela-requisitos)                                       |
 | **Critério de Aceitação** | Todas as siglas apresentadas com tooltip ou seção explicativa associada |
@@ -271,7 +271,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | --------------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF14](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                 |
 | **Classificação**         | Usabilidade > Acessibilidade                                          |
-| **Descrição**             | Interface adaptada para idosos e iniciantes                           |
+| **Descrição**             | A interface deve ser projetada considerando as necessidades de idosos e usuários iniciantes, com elementos visuais destacados, comandos simples e textos em tamanho adequado.                           |
 | **Justificativa**         | Incluir públicos com menor familiaridade tecnológica                  |
 | **Origem**                | [Storytelling - Olavo, Marina](../../Elicitação/Tecnicas-de-elecitação/Storytelling.md#tabela-requisitos)                                     |
 | **Critério de Aceitação** | Modo acessível com fontes maiores e navegação simplificada disponível |
@@ -290,7 +290,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | ---------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF17](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                           |
 | **Classificação**         | Usabilidade > Feedback                                           |
-| **Descrição**             | Feedback visual e sonoro nas interações do usuário               |
+| **Descrição**             | O sistema deve fornecer respostas visuais e/ou sonoras sempre que o usuário realizar uma ação, garantindo clareza sobre o resultado de cada interação.               |
 | **Justificativa**         | Aumentar percepção de controle e prevenir erros                  |
 | **Origem**                | [Storytelling - Diego, Olavo](../../Elicitação/Tecnicas-de-elecitação/Storytelling.md#tabela-requisitos)                                                   |
 | **Critério de Aceitação** | Todas as ações críticas com retorno visual ou sonoro perceptível |
@@ -309,7 +309,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | -------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF20](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                          |
 | **Classificação**         | Usabilidade > Layout                                           |
-| **Descrição**             | Interface com poucos elementos por tela para facilitar leitura |
+| **Descrição**             | Cada tela deve conter apenas os elementos essenciais, evitando sobrecarga de informações e facilitando a leitura e a navegação, especialmente para usuários menos experientes. |
 | **Justificativa**         | Reduzir carga cognitiva e facilitar compreensão rápida         |
 | **Origem**                | [Storytelling - Olavo](../../Elicitação/Tecnicas-de-elecitação/Storytelling.md#tabela-requisitos)                                             |
 | **Critério de Aceitação** | Deve haver possibilidade futura de incluir idiomas adicionais, como libras, para acessibilidade.                  |
@@ -338,7 +338,7 @@ Na figura monstra o SIG de Acessibilidade
 
 <font size="3"><p style="text-align: center"><b> Figura 1:</b> SIG-Acessibilidade</font>
 ![SIG-Acessibilidade](../../assets/Captura%20de%20tela%202025-06-01%20001723.png)
- <font size="3"><p style="text-align: center"><b>Fonte:</b> miro</font>
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 Na tabela 2 temos os requisitos não funcionais de acessibilidade 
 
@@ -483,6 +483,7 @@ Tempo de resposta, leveza do app e uso eficiente de recursos.
 | [RNF16](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#requisitos-não-funcionais) | Tempo de resposta inferior a 2 segundos |
 
 <font size="3"><p style="text-align: center">**Cartão 1 -** RNF10.</p></font>
+
 |                  Item                |                           Descrição          |
 | :-------------------------------------: | :--------------------------------------------: |
 | **Nr Requisito:** RNF10 |                     **Classificação**: Desempenho/Eficiência              |
@@ -496,6 +497,7 @@ Tempo de resposta, leveza do app e uso eficiente de recursos.
 |              **História**               |     Criado em: 01/06/2025.<br>Última modificação em: 01/06/2025         |
 
 <font size="3"><p style="text-align: center">**Cartão 2 -** RNF15.</p></font>
+
 |                  Item                |                           Descrição          |
 | :-------------------------------------: | :--------------------------------------------: |
 | **Nr Requisito:** RNF15 |                     **Classificação**: Desempenho/Eficiência              |
@@ -509,6 +511,7 @@ Tempo de resposta, leveza do app e uso eficiente de recursos.
 |              **História**               |     Criado em: 01/06/2025.<br>Última modificação em: 01/06/2025         |
 
 <font size="3"><p style="text-align: center">**Cartão 3 -** RNF16.</p></font>
+
 |                  Item                |                           Descrição          |
 | :-------------------------------------: | :--------------------------------------------: |
 | **Nr Requisito:** RNF16 |                     **Classificação**: Desempenho/Eficiência              |
@@ -574,6 +577,41 @@ Proteção de dados pessoais e veiculares.
 | Código | Requisito |
 |--------|-----------|
 | RNF03 | Alta segurança no tratamento de dados pessoais e veiculares |
+
+### Requisito RNF03
+
+**Tabela 10: Requisito não funcional 03**
+
+| Item                      | Descrição                                                                                                                                       |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nr Requisito RNF03**    | Classificação: Segurança de Dados                                                                                                               |
+| **Descrição**             | O sistema deve garantir alta segurança na coleta, armazenamento e transmissão de dados pessoais e veiculares.                                  |
+| **Justificativa**         | A manipulação de dados sensíveis exige proteção contra vazamentos, acessos não autorizados e fraudes.                                           |
+| **Origem**                | Storytelling - Marina                                                                                                                           |
+| **Critério de Aceitação** | Uso de criptografia AES-256 para dados em repouso e TLS 1.3 para dados em trânsito; autenticação multifator habilitada.                        |
+| **Dependências**          | RNF01 (Infraestrutura segura), RNF12 (Controle de acesso)                                                                                       |
+| **Prioridade**            | 10                                                                                                                                              |
+| **Conflitos**             | Pode impactar levemente o desempenho do sistema                                                                                                 |
+| **História**              | Criado em 01/06/2025                                                                                                                             |
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
+
+---
+
+## Propagação de Impactos
+
+A Tabela 11 apresenta a análise de impacto do requisito RNF03:
+
+**Tabela 11: Propagação de impactos do requisito RNF03**
+
+| NFR                                                        | Impacto | Avaliador         |
+|-------------------------------------------------------------|---------|-------------------|
+| Confidencialidade dos dados pessoais                        | 𝒲++     | [Maria Eduarda](https://github.com/maaduh)   |
+| Confidencialidade dos dados veiculares                      | 𝒲++     | [Maria Eduarda](https://github.com/maaduh)   |
+| Conformidade com a LGPD e normas de segurança da informação | 𝒲+      | [Maria Eduarda](https://github.com/maaduh)    |
+| Risco de vazamento de dados reduzido                        | 𝒲++     | [Maria Eduarda](https://github.com/maaduh)    |
+| Custo de infraestrutura e manutenção                        | X       | [Maria Eduarda](https://github.com/maaduh)    |
+| Facilidade de auditoria e rastreabilidade                   | 𝒲+      | [Maria Eduarda](https://github.com/maaduh)    |
 
 ---
 
@@ -860,6 +898,16 @@ Na figura monstra o SIG referente a Qualidade e Feedback do aplicativo Detran-DF
 <font size="3"><p align="center">Fonte: <a href="https://github.com/lfelipebessa">Luiz Bessa</a>, 2025.</p></font>
 
 ---
+
+#### Validação com o usuário
+
+No video abaixo é feito a validação da parte de acessibilidade pelo integrante [Luiz Bessa](https://github.com/lfelipebessa) com o usuário André
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OPNeqpJgCC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://www.youtu.be/OPNeqpJgCC8" target="blanket">Vídeo da validação com o usuário</a></p>
+
+---
+
 ## Histórico de versão
 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
@@ -880,4 +928,6 @@ Na figura monstra o SIG referente a Qualidade e Feedback do aplicativo Detran-DF
 |  2.0  | 01/06/2025 |       Adição de cartões para RNF02 e propagação de impacto, SIG de portabilidade/compatibilidade | [Gabriel Mendes](https://github.com/gbevi) | |
 |  2.1  | 01/06/2025 |       Adição de cartões para usabilidade, SIG e a Propragação de impactos | [Pedro Camilo ](https://github.com/PedrooCamilo) | [Eric Akio](https://github.com/eric-kingu) |
 | 2.2 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Eric Akio](https://github.com/eric-kingu) |  |
-| 2.3 | 01/06/2025 | Adição de imagens das Softgoals de com e sem propagação de impactos, das RNF Disponibilidade e Confiabilidade | [João Lobo](https://github.com/joaolobo10) |  |
+| 2.3 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Eric Akio](https://github.com/eric-kingu) | [Maria Eduarda](https://github.com/maaduh) |
+| 2.4 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Maria Eduarda](https://github.com/maaduh) |  
+| 2.5 | 01/06/2025 | Adição de imagens das Softgoals de com e sem propagação de impactos, das RNF Disponibilidade e Confiabilidade | [João Lobo](https://github.com/joaolobo10) |  |

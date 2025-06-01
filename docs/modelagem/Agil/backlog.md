@@ -223,10 +223,10 @@ O vídeo 7 contém a verificação das Histórias de Usuário do US39 a US42. Fo
 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
-|  1.0   | 20/05/2025 |       Início da documentação        | [Giovana Barbosa ](https://github.com/gio221) |  |
-|  1.1  | 20/05/2025 |       Introdução, metodologia e objetivo       | [Giovana Barbosa ](https://github.com/gio221) |  |
-|  1.2   | 23/05/2025 |     Montagem dos temas     | [Giovana Barbosa ](https://github.com/gio221) |  |
-|  1.3   | 23/05/2025 |     Montagem dos epicos e US    | [Giovana Barbosa ](https://github.com/gio221),[Gabriel Mendes](https://github.com/gbevi) e  [Luiz Bessa](https://github.com/lfelipebessa)  |  |
+|  1.0   | 20/05/2025 |       Início da documentação        | [Giovana Barbosa ](https://github.com/gio221) |  [Gabriel Mendes](https://github.com/gbevi) |
+|  1.1  | 20/05/2025 |       Introdução, metodologia e objetivo       | [Giovana Barbosa ](https://github.com/gio221) |  [Gabriel Mendes](https://github.com/gbevi) |
+|  1.2   | 23/05/2025 |     Montagem dos temas     | [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Mendes](https://github.com/gbevi)  |
+|  1.3   | 23/05/2025 |     Montagem dos epicos e US    | [Giovana Barbosa ](https://github.com/gio221),[Gabriel Mendes](https://github.com/gbevi) e  [Luiz Bessa](https://github.com/lfelipebessa)  |[Gabriel Mendes](https://github.com/gbevi)   |
 |  1.4   | 29/05/2025 | Adição de rastreabilidade nos requisitos na tabela backlog    | [João Lobo](https://github.com/joaolobo10)  | [Eric Akio](https://github.com/eric-kingu) |
 | 1.5 | 30/05/2025 | Adição do vídeo de validação com o usuário das histórias 39 a 42 | [Eric Akio](https://github.com/eric-kingu) |[Maria Eduarda](https://github.com/maaduh)  |
 | 1.6 | 31/05/2025 | Adição do vídeo de validação com o usuário das histórias 35 a 38 | [Maria Eduarda](https://github.com/maaduh) | [Giovana Barbosa ](https://github.com/gio221) |

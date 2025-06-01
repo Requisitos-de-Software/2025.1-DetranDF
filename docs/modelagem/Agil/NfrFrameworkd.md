@@ -458,6 +458,14 @@ Na figura monstra o SIG de Acessibilidade
 <font size="3"><p style="text-align: center"><b> Figura 10:</b> SIG-Qualidade e feedback</font>
 ![SIG-QualidadeEFeedback](../../assets/QualidadeeFeedback-2.pdf)
  <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Bessa](https://github.com/lfelipebessa), 2025</font>
+
+---
+Na figura monstra o SIG referente a Qualidade e Feedback do aplicativo Detran-DF, com a propagação.
+
+<font size="3"><p style="text-align: center"><b> Figura 11:</b> SIG-Qualidade e feedback</font>
+![SIG-QualidadeEFeedback](../../assets/QualidadeeFeedback-3.pdf)
+ <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Bessa](https://github.com/lfelipebessa), 2025</font>
+
 ---
 
 ### Cartão 5 – RNF07  <a id="cartao-rnf07"></a>

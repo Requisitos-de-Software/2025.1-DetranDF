@@ -26,7 +26,7 @@ Criação das Histórias de Usuário – As histórias foram escritas em um form
 |US013 a US18| [Luiz Bessa](https://github.com/lfelipebessa) |[André Meyer](https://github.com/andremeyerr)    |
 |US019 a US24| [João Lobo](https://github.com/joaolobo10) | Nicole Neves    |
 |US025 a US030| [Maria Eduarda](https://github.com/maaduh) |
-|US031 a US036|
+|US031 a US036| [Pedro Camilo](https://github.com/PedrooCamilo) | Júlia Ratti |
 |US037 a US042|[Eric Akio](https://github.com/eric-kingu) |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
@@ -585,6 +585,120 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 
 ---
 
+# [US31] - Solicitação de Autorização para Transporte Escolar
+
+<p align="center"><strong>Tabela 31 -</strong> Solicitação de Autorização para Transporte Escolar.</p>
+
+| Item                             | Descrição |
+|----------------------------------|-----------|
+| **Identificação da História (USx)**          | US31 |
+| **Tema**                         | Solicitação de Autorização para Transporte Escolar |
+| **Descrição**                    | Eu, como proprietário de veículo, desejo solicitar autorização para transporte escolar para atuar regularmente com esse serviço. |
+| **Critérios de Aceitação**       | - O usuário deve conseguir preencher e enviar o formulário digital. <br> - O sistema deve validar (diferente de aprovar) os documentos exigidos automaticamente. <br> - O status da solicitação deve ser visível no app. |
+| **Prioridade Usuário**           | Média |
+| **Status**                       | Validada |
+| **Rastreabilidade**              | [RF44](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
+| **Validação**                    | [Vídeo de validação](https://youtu.be/xxxxxxxx?t=135) |
+
+<p align="center">Fonte: <a href="https://github.com/PedroCamilo">Pedro Camilo</a>, 2025.</p>
+
+---
+
+# [US32] - Pagamentos de Taxas e Débitos
+
+<p align="center"><strong>Tabela 32 -</strong> Pagamentos de Taxas e Débitos.</p>
+
+| Item                             | Descrição |
+|----------------------------------|-----------|
+| **Identificação da História (USx)**          | US32 |
+| **Tema**                         | Pagamentos de Taxas e Débitos |
+| **Descrição**                    | 	Eu, como usuário, desejo realizar o pagamento de taxas e débitos diretamente no aplicativo para regularizar minha situação com o DETRAN. |
+| **Critérios de Aceitação**       | - Listagem de todos os débitos vinculados ao CPF/CNPJ do usuário. <br> - Integração com métodos de pagamento (PIX, cartão, boleto). <br> - Confirmação e histórico dos pagamentos realizados. |
+| **Prioridade Usuário**           | Média |
+| **Status**                       | Validada |
+| **Rastreabilidade**              | [RF08](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
+| **Validação**                    | [Vídeo de validação](https://youtu.be/xxxxxxxx?t=135) |
+
+<p align="center">Fonte: <a href="https://github.com/PedroCamilo">Pedro Camilo</a>, 2025.</p>
+
+---
+
+# [US33] - Geração de Boletos
+
+<p align="center"><strong>Tabela 33 -</strong> Geração de Boletos</p>
+
+| Item                             | Descrição |
+|----------------------------------|-----------|
+| **Identificação da História (USx)**          | US33 |
+| **Tema**                         | Geração de Boletos |
+| **Descrição**                    | 	Eu, como usuário, desejo gerar boletos e realizar pagamentos no app para simplificar a quitação de débitos. |
+| **Critérios de Aceitação**       | - Opção de geração de boletos com vencimento configurável. <br> - Integração com sistema bancário para validação do pagamento. <br> - Confirmação automática da quitação após pagamento. |
+| **Prioridade Usuário**           | Alta |
+| **Status**                       | Validada |
+| **Rastreabilidade**              | [RF24](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
+| **Validação**                    | [Vídeo de validação](https://youtu.be/xxxxxxxx?t=135) |
+
+<p align="center">Fonte: <a href="https://github.com/PedroCamilo">Pedro Camilo</a>, 2025.</p>
+
+---
+
+# [US34] - 	Atendimento com Inteligência Artificial
+
+<p align="center"><strong>Tabela 34 -</strong> Geração de Boletos</p>
+
+| Item                             | Descrição |
+|----------------------------------|-----------|
+| **Identificação da História (USx)**          | US34 |
+| **Tema**                         | 	Atendimento com Inteligência Artificial |
+| **Descrição**                    | 	Eu, como usuário, desejo utilizar um chat com inteligência artificial para tirar dúvidas sobre os serviços do DETRAN. |
+| **Critérios de Aceitação**       | - A IA deve entender perguntas frequentes e responder de forma clara. <br> - O chat deve funcionar 24h por dia. <br> - Sugestões de serviços baseados na dúvida do usuário. |
+| **Prioridade Usuário**           | Média |
+| **Status**                       | Validada |
+| **Rastreabilidade**              | [RF14](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
+| **Validação**                    | [Vídeo de validação](https://youtu.be/xxxxxxxx?t=135) |
+
+<p align="center">Fonte: <a href="https://github.com/PedroCamilo">Pedro Camilo</a>, 2025.</p>
+
+---
+
+# [US35] - Atendimento Humano
+
+<p align="center"><strong>Tabela 35 -</strong> 	Atendimento Humano</p>
+
+| Item                             | Descrição |
+|----------------------------------|-----------|
+| **Identificação da História (USx)**          | US35 |
+| **Tema**                         | 		Atendimento Humano |
+| **Descrição**                    | 	Eu, como usuário, desejo conversar com um atendente real por chat ou vídeo para resolver questões mais complexas. |
+| **Critérios de Aceitação**       | - Opção de agendamento ou atendimento em tempo real. <br> - Canal de vídeo e chat com suporte seguro. <br> - Histórico da conversa salvo para referência futura. |
+| **Prioridade Usuário**           | Alta    |
+| **Status**                       | Validada |
+| **Rastreabilidade**              | [RF16](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
+| **Validação**                    | [Vídeo de validação](https://youtu.be/xxxxxxxx?t=135) |
+
+<p align="center">Fonte: <a href="https://github.com/PedroCamilo">Pedro Camilo</a>, 2025.</p>
+
+---
+
+# [US36] - Apoio com Termos Técnicos
+
+<p align="center"><strong>Tabela 35 -</strong> 	Apoio com Termos Técnicos</p>
+
+| Item                             | Descrição |
+|----------------------------------|-----------|
+| **Identificação da História (USx)**          | US35 |
+| **Tema**                         | 		Atendimento Humano |
+| **Descrição**                    | 	Eu, como usuário, desejo receber explicações simples de termos técnicos para entender melhor os processos. |
+| **Critérios de Aceitação**       | - Glossário de termos integrado ao app. <br> - Explicações claras e acessíveis. <br> - Sugestões automáticas de definição quando termos técnicos forem exibidos. |
+| **Prioridade Usuário**           | Média    |
+| **Status**                       | Validada |
+| **Rastreabilidade**              | [RF29](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
+| **Validação**                    | [Vídeo de validação](https://youtu.be/xxxxxxxx?t=135) |
+
+<p align="center">Fonte: <a href="https://github.com/PedroCamilo">Pedro Camilo</a>, 2025.</p>
+
+---
+
 # [US39] - Integração com Sistemas Oficiais
 
 <font size="3"><b>Tabela 41:</b> História do usuário de Integração com Sistemas Oficiais</font>
@@ -666,3 +780,4 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | 1.6 | 30/05/2025 | Validação das histórias de usuário 39 a 42 | [Eric Akio](https://github.com/eric-kingu) | [Maria Eduarda](https://github.com/maaduh)  |
 | 1.7 | 31/05/2025 | Documentação das histórias de usuário 25 a 30 | [Maria Eduarda](https://github.com/maaduh) | [Giovana Barbosa ](https://github.com/gio221) |
 | 1.8 | 31/05/2025 | Adição dos vídeos de validação das Histórias de usuário US19 até a US24 |  [João Lobo](https://github.com/joaolobo10) | [Giovana Barbosa ](https://github.com/gio221) |
+| 1.9 | 31/05/2025 | Adição dos vídeos de validação das Histórias de usuário US31 até a US36 |  [Pedro Camilo](https://github.com/PedrooCamilo) |  |

@@ -25,7 +25,7 @@ Criação das Histórias de Usuário – As histórias foram escritas em um form
 |US07 a US12| [Gabriel Mendes](https://github.com/gbevi) |[Mayara Marques](https://github.com/maymarquee)    |
 |US013 a US18| [Luiz Bessa](https://github.com/lfelipebessa) |[André Meyer](https://github.com/andremeyerr)    |
 |US019 a US24| [João Lobo](https://github.com/joaolobo10) | Nicole Neves    |
-|US025 a US030| [Maria Eduarda](https://github.com/maaduh) |
+|US025 a US030| [Maria Eduarda](https://github.com/maaduh) | Sarah Cristina |
 |US031 a US036| [Pedro Camilo](https://github.com/PedrooCamilo) | Júlia Ratti |
 |US037 a US042|[Eric Akio](https://github.com/eric-kingu) |
 

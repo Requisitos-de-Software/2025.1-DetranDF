@@ -478,10 +478,93 @@ Tempo de resposta, leveza do app e uso eficiente de recursos.
 
 | Código | Requisito |
 |--------|-----------|
-| RNF10 | Carregamento rápido das páginas |
-| RNF15 | Aplicativo leve e com baixo consumo de dados |
-| RNF16 | Tempo de resposta inferior a 2 segundos |
+| [RNF10](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#requisitos-não-funcionais) | Carregamento rápido das páginas |
+| [RNF15](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#requisitos-não-funcionais) | Aplicativo leve e com baixo consumo de dados |
+| [RNF16](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#requisitos-não-funcionais) | Tempo de resposta inferior a 2 segundos |
 
+<font size="3"><p style="text-align: center">**Cartão 1 -** RNF10.</p></font>
+|                  Item                |                           Descrição          |
+| :-------------------------------------: | :--------------------------------------------: |
+| **Nr Requisito:** RNF10 |                     **Classificação**: Desempenho/Eficiência              |
+|              **Descrição**              | O sistema deve carregar as páginas rapidamente                 |
+|            **Justificativa**            |        Responsividade evita reclamações do usuário, garantindo que o aplicativo será usado mais vezes.               |
+|               **Origem**                |     Introspecção                                   |
+|        **Critério de Aceitação**        |    O sistema deve carregar a página em menos de 5 segundos        |
+|            **Dependências**             |    RNF16(Tempo de resposta inferior a 2 segundos)         |
+|             **Prioridade**              | 5 |
+|              **Conflitos**              | Pode gerar conflitos com requisitos de portabilidade, pois a velocidade de carregamento varia entre dispositivos                     |
+|              **História**               |     Criado em: 01/06/2025.<br>Última modificação em: 01/06/2025         |
+
+<font size="3"><p style="text-align: center">**Cartão 2 -** RNF15.</p></font>
+|                  Item                |                           Descrição          |
+| :-------------------------------------: | :--------------------------------------------: |
+| **Nr Requisito:** RNF15 |                     **Classificação**: Desempenho/Eficiência              |
+|              **Descrição**              | O sistema deve gerar um aplicativo leve e com baixo consumo de dados      |
+|            **Justificativa**            |    Um aplicativo leve permite que o usuário não se incomode em baixá-lo, assim como o baixo consumo de dados      |
+|               **Origem**                |     Storytelling - Diego              |
+|        **Critério de Aceitação**        |    O aplicativo deve ter menos de 70 MB de armazenamento e consumir menos de 50 MB de dados móveis ao mês       |
+|            **Dependências**             |    RNF16(Tempo de resposta inferior a 2 segundos) e RNF10(carregamento rápido de páginas)        |
+|             **Prioridade**              | 5 |
+|              **Conflitos**              | Pode gerar conflitos com requisitos de custo e qualidade, pois o armazenamento e o consumo de dados pode gerar um aplicativo mais investimento ou menor qualidade.                    |
+|              **História**               |     Criado em: 01/06/2025.<br>Última modificação em: 01/06/2025         |
+
+<font size="3"><p style="text-align: center">**Cartão 3 -** RNF16.</p></font>
+|                  Item                |                           Descrição          |
+| :-------------------------------------: | :--------------------------------------------: |
+| **Nr Requisito:** RNF16 |                     **Classificação**: Desempenho/Eficiência              |
+|              **Descrição**              | O sistema deve responder ao usuário em menos de 2 segundos.               |
+|            **Justificativa**            |        Responsividade evita reclamações do usuário, garantindo que o aplicativo será usado mais vezes.               |
+|               **Origem**                |     Storytelling - Lucas             |
+|        **Critério de Aceitação**        |    O sistema deve ter um tempo de resposta de menos de 2 segundos        |
+|            **Dependências**             |    RNF10(Carregamento rápido das páginas)         |
+|             **Prioridade**              | 5 |
+|              **Conflitos**              | Pode gerar conflitos com requisitos de portabilidade e custo, pois a velocidade de carregamento varia entre dispositivos e tende a precisar de maiores investimentos                    |
+|              **História**               |     Criado em: 01/06/2025.<br>Última modificação em: 01/06/2025         |
+
+### Propagação de Impactos
+
+<font size="3"><b>Tabela x:</b>Requisito não funcional 10 </font>
+
+| NFR                                                                 | Impacto | Avaliador         |
+|----------------------------------------------------------------------|---------|--------------------|
+| RNF10 Carregamento rápido das páginas      | 𝒲++     | [Eric Akio](https://github.com/eric-kingu)  |
+| O sistema deve carregar as páginas rapidamente | 𝒲+      | [Eric Akio](https://github.com/eric-kingu)  |
+| Responsividade | ✓ | [Eric Akio](https://github.com/eric-kingu) |
+| Portabilidade   | 🗲       | [Eric Akio](https://github.com/eric-kingu) |
+| Desempenho    | ✓       | [Eric Akio](https://github.com/eric-kingu) |
+| Proteção contra erros    | 𝒲++     | [Eric Akio](https://github.com/eric-kingu)  |
+| Infraestrutura | 🗲 | [Eric Akio](https://github.com/eric-kingu) |
+
+<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
+
+<font size="3"><b>Tabela x:</b>Requisito não funcional 15 </font>
+
+| NFR                                                                 | Impacto | Avaliador         |
+|----------------------------------------------------------------------|---------|--------------------|
+| RNF15 Aplicativo leve e com baixo consumo de dados      | 𝒲++     | [Eric Akio](https://github.com/eric-kingu)  |
+| O sistema gera um aplicativo leve e com baixo consumo de dados | 𝒲+      | [Eric Akio](https://github.com/eric-kingu)  |
+| Responsividade | ✓ | [Eric Akio](https://github.com/eric-kingu) |
+| Custo | 🗲 | [Eric Akio](https://github.com/eric-kingu) |
+| Portabilidade   | 🗲       | [Eric Akio](https://github.com/eric-kingu) |
+| Desempenho    | ✓       | [Eric Akio](https://github.com/eric-kingu) |
+| Proteção contra erros    | 𝒲++     | [Eric Akio](https://github.com/eric-kingu)  |
+| Infraestrutura | 🗲 | [Eric Akio](https://github.com/eric-kingu) |
+
+<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
+
+<font size="3"><b>Tabela 8:</b>Requisito não funcional 16 </font>
+
+| NFR                                                                 | Impacto | Avaliador         |
+|----------------------------------------------------------------------|---------|--------------------|
+| RNF16 Tempo de resposta inferior a 2 segundos     | 𝒲++     | [Eric Akio](https://github.com/eric-kingu)  |
+| O sistema deve responder ao usuário em menos de 2 segundos | 𝒲+      | [Eric Akio](https://github.com/eric-kingu)  |
+| Responsividade | ✓ | [Eric Akio](https://github.com/eric-kingu) |
+| Portabilidade   | 🗲       | [Eric Akio](https://github.com/eric-kingu) |
+| Desempenho    | ✓       | [Eric Akio](https://github.com/eric-kingu) |
+| Proteção contra erros    | 𝒲++     | [Eric Akio](https://github.com/eric-kingu)  |
+| Infraestrutura | 🗲 | [Eric Akio](https://github.com/eric-kingu) |
+
+<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
 ---
 
 ##  4. Segurança
@@ -638,7 +721,7 @@ Na tabela x temos o cartão de especificação do requisito RNF02.
 No video abaixo é feito a validação da parte de acessibilidade pelo integrante [Gabriel Mendes](https://github.com/gbevi) com a usuária Karinna.
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/xKJIMlwFndg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href=" https://youtu.be/xKJIMlwFndg" target="blanket">Vídeo da= validação com o usuário</a></p>
+<p style="text-align: center"><a href=" https://youtu.be/xKJIMlwFndg" target="blanket">Vídeo da validação com o usuário</a></p>
 
 ---
 
@@ -761,5 +844,6 @@ Na figura monstra o SIG referente a Qualidade e Feedback do aplicativo Detran-DF
 |  1.8  | 01/06/2025 |       Adição SIG com propagação QF | [Luiz Bessa](https://github.com/lfelipebessa) | [Pedro Camilo ](https://github.com/PedrooCamilo) |
 |  1.9  | 01/06/2025 |       Adição de vídeo de validação com o usuário da RNF 18 e 19 | [João Lobo](https://github.com/joaolobo10) | |
 |  2.0  | 01/06/2025 |       Adição de cartões para RNF02 e propagação de impacto, SIG de portabilidade/compatibilidade | [Gabriel Mendes](https://github.com/gbevi) | |
-|  2.1  | 01/06/2025 |       Adição de cartões para usabilidade, SIG e a Propragação de impactos | [Pedro Camilo ](https://github.com/PedrooCamilo) | |
+|  2.1  | 01/06/2025 |       Adição de cartões para usabilidade, SIG e a Propragação de impactos | [Pedro Camilo ](https://github.com/PedrooCamilo) | [Eric Akio](https://github.com/eric-kingu) |
+| 2.2 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Eric Akio](https://github.com/eric-kingu) |  |
 

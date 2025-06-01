@@ -1,9 +1,18 @@
 # Introdução
+
 Os **Requisitos Não-Funcionais (RNFs)** são essenciais para a qualidade de sistemas de software, influenciando usabilidade, desempenho e conformidade. No entanto, são frequentemente mal definidos, o que afeta negativamente a satisfação dos stakeholders e a qualidade do produto.
 
 Devido à sua **subjetividade e complexidade**, a documentação e análise dos RNFs são desafiadoras.
 
 Para lidar com essas dificuldades, foi proposto o **NFR Framework** (Chung et al., 2000), que modela RNFs como **softgoals** — objetivos sem critérios de satisfação claros — organizados em **Softgoal Interdependency Graphs (SIGs)**, que mostram as relações de apoio ou conflito entre os RNFs.
+
+# SIG - Softgoal Interdependency Graph
+
+<p align="justify">
+
+Gráfico de interdependências entre softgoals é um gráfico que registra as considerações do desenvolvedor sobre os softgoals, como também armazenam um registro completo das decisões de desenvolvimento e da lógica do projeto de forma gráfica e concisa. Esse registro inclui Requisitos Não-funcionais e suas alternativas, decisões e justificativas associadas às decisões
+
+</p>
 
 # Tipos de Softgoals
 
@@ -16,8 +25,114 @@ Para lidar com essas dificuldades, foi proposto o **NFR Framework** (Chung et al
 ![Tipos de Softgoals](../../assets/nfr.png)
  <font size="3"><p style="text-align: center"><b>Fonte:</b> (CHUNG et al., 2000)</font>
 
-# Objetivo 
-O objetivo deste trabalho é construir um artefato baseado no NFR Framework que permita a identificação, representação e avaliação dos requisitos não-funcionais para o aplicativo Detran-DF
+# Interdependências
+
+As interdependências definem as relações entre os softgoals. Os tipos de interdependências
+utilizadas pelo framework são os refinamentos e as contribuições(CHUNG et al., 2000).
+
+# Decomposições
+
+As decomposições têm o objetivo de refinar softgoals para obter softgoals mais especializados e estes possam auxiliar na construção do projeto. Os quatro tipos de decomposições
+utilizadas pelo NFR Framework são descritos abaixo: 
+
+- **Decomposição de Softgoal NFR:** refina ou subdivide um softgoal NFR em outros específicos. Isso pode ajudar a dividir grandes problemas em problemas menores e oferece um aspecto útil para lidar com ambiguidades e prioridades.
+
+- **Decomposição de Operacionalização:** subdivide um softgoal de operacionalização em outros softgoals de operacionalização mais específicos. Operacionalizações são úteis para definir uma solução geral e refiná-la em soluções mais específicas.
+
+- **Decomposição de Afirmação (Claims):** refina um softgoal de afirmação em outros softgoals de afirmação. Ela é importante para apoiar ou negar justificativas específicas de projeto.
+
+- **Priorização:** A priorização é um tipo especial de decomposição, onde ocorre o refinamento de um softgoal em outro softgoal com o mesmo tipo e tópicos, mas com uma prioridade associada.
+
+<font size="3"><p style="text-align: center">**Figura 2:** Tipos de Decomposições</p></font>
+
+
+![Tipo-decomposição](../../assets//nfr/tipos-decomposicao.png)
+
+
+<font size="3"><p style="text-align: center">**Fonte:** (CHUNG et al., 2000)
+, 2025.</p></font>
+
+# Contribuições
+
+No NFR Framework pode-se utilizar de vários tipos de contribuições que explicam de que maneira a satisfação ou não de um softgoal descendente auxilia a satisfação do softgoal ascendente. Abaixo estão os tipo de contribuições:
+
+- **AND:** Todos os softgoals descendentes precisam ser satisfeitos para satisfazer o ascendente.
+
+- **OR:** Basta que um descendente seja satisfeito para satisfazer o ascendente.
+
+- **MAKE (++):** Satisfação total do descendente garante satisfação total do ascendente.
+
+- **BREAK (--):** Satisfação total do descendente gera negação total do ascendente.
+
+- **HELP (+):** Satisfação parcial do descendente contribui positivamente para o ascendente.
+
+- **HURT (-):** Satisfação do descendente prejudica parcialmente o ascendente.
+
+- **UNKNOWN (?):** Contribuição incerta, pode ser positiva ou negativa.
+
+- **EQUALS:** O descendente acompanha exatamente o estado do ascendente (satisfeito ou negado).
+
+- **SOME (+/-):** Contribuição positiva ou negativa, mas sem certeza se é parcial ou total.
+
+Abaixo nas figuras 03 e 04 encontra-se respectivamente exemplos das contribuições " AND ", " OR " e " MAKE ", "BREAK", " HELP " e " HURT ".
+
+<font size="3"><p style="text-align: center">**Figura 3:** Tipos de Decomposições</p></font>
+
+
+![Tipo-decomposição](../../assets/nfr/and-or.png)
+
+
+<font size="2"><p style="text-align: center">**Fonte:** (SILVA, Reinaldo Antônio. NFR4ES)
+, 2025.</p></font>
+
+<font size="3"><p style="text-align: center">**Figura 4:** Tipos de Decomposições</p></font>
+
+
+![Tipo-decomposição](../../assets/nfr/make-break-help-hurt.png)
+
+
+<font size="2"><p style="text-align: center">**Fonte:** (SILVA, Reinaldo Antônio. NFR4ES)
+, 2025.</p></font>
+
+# Propagação de Impactos
+
+A propagação de impactos denota a relação entre os requisitos não-funcionais e como a mudança em um requisito pode provocar mudanças em requisitos relacionados. São utilizados para representar esses impactos os softgoals de impacto. Abaixo estão representados a notação com a qual eles são utilizados:
+
+- **✓** (satisfeito): indica que um requisito não funcional contribui de forma positiva para a satisfação de outro requisito.
+
+- **𝒲+** (fracamente satisfeito): representa uma relação positiva, porém menos intensa do que a notação ✓.
+
+- **X** (negado): indica que um requisito não funcional prejudica ou contradiz a realização de outro requisito.
+
+- **𝒲-** (fracamente negado): similar à notação X, porém com uma influência negativa menos forte.
+
+- **🗲** (conflitante): representa uma relação de conflito, em que os requisitos apresentam aspectos tanto positivos quanto negativos.
+
+- **u** (indeterminado): indica uma relação desconhecida ou indefinida entre os requisitos, quando não há informações suficientes para avaliar o impacto.
+
+# Cartões de Especificação
+
+A utilização de cartões de especificação proporciona uma abordagem estruturada e clara para documentar cada requisito não funcional. Esses cartões reúnem informações fundamentais, como a descrição, a justificativa, a origem, os critérios de aceitação, as dependências, a prioridade, possíveis conflitos e o histórico de alterações. A Tabela 1 apresenta uma visão detalhada e de fácil compreensão dos RNFs, destacando os principais elementos que devem compor cada cartão de especificação.
+
+<font size="3"><b>Tabela 1:</b>Modelo de Cartões de Especificação</font>
+
+|                  Item                   |                                                                      Descrição                                                                       |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Nr Requisito** (Um número sequencial) |                                       **Classificação**: Classificação do RNF conforme hierarquia do catálogo                                        |
+|              **Descrição**              |                                                     Declaração única do significado do requisito                                                     |
+|            **Justificativa**            |                                                      Justificativa sobre a criação do requisito                                                      |
+|               **Origem**                |                                                Origem do requisito (stakeholder, norma técnica, etc)                                                 |
+|        **Critério de Aceitação**        |                                         Métrica do requisito que possa ser testada e que deve ser satisfeita                                         |
+|            **Dependências**             |                                                            Requisitos relacionados a este                                                            |
+|             **Prioridade**              | Um número usado para decidir a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10). A prioridade mínima é 1 e a máxima é 10 |
+|              **Conflitos**              |                                                           Requisitos conflitantes com este                                                           |
+|              **História**               |                                                          Data de criação e de modificações                                                           |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
+# Objetivo
+
+O objetivo deste trabalho é desenvolver um artefato, fundamentado no **NFR Framework**, que possibilite a identificação, representação e análise dos requisitos não funcionais relacionados ao aplicativo do **Detran-DF.**
 
 # Metodologia  
 Para uma abordagem completa, dividimos a metodologia em algumas fases, sendo elas:
@@ -54,41 +169,7 @@ Primeiro fizemos a elicitação de requisitos na etapa anterior, que pode ser en
     -	Revisão com stakeholders: Submeter o SIG final para análise dos stakeholders e ajustar conforme o feedback recebido.
 
 - **Fase 5: Propragação de impactos**:
-   No NFR Framework, a propagação de impactos consiste em identificar as relações de dependência entre os requisitos não funcionais e analisar como alterações em um requisito podem influenciar outros requisitos relacionados.
-
-   A seguir, são apresentados os tipos de softgoals que representam os impactos e suas respectivas notações:
-
-- ✓ (satisfeito): indica que um requisito não funcional contribui de forma positiva para a satisfação de outro requisito.
-
-- 𝒲+ (fracamente satisfeito): representa uma relação positiva, porém menos intensa do que a notação ✓.
-
-- X (negado): indica que um requisito não funcional prejudica ou contradiz a realização de outro requisito.
-
-- 𝒲- (fracamente negado): similar à notação X, porém com uma influência negativa menos forte.
-
-- 🗲 (conflitante): representa uma relação de conflito, em que os requisitos apresentam aspectos tanto positivos quanto negativos.
-
-- u (indeterminado): indica uma relação desconhecida ou indefinida entre os requisitos, quando não há informações suficientes para avaliar o impacto.
-
-# Cartões de Especificação
-Temos um modelo de cartões de especificação para ultilizarmos, especificado na tabela 1
-
-<font size="3"><b>Tabela 1:</b>Modelo de Cartões de Especificação</font>
-
-|                  Item                   |                                                                      Descrição                                                                       |
-| :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Nr Requisito** (Um número sequencial) |                                       **Classificação**: Classificação do RNF conforme hierarquia do catálogo                                        |
-|              **Descrição**              |                                                     Declaração única do significado do requisito                                                     |
-|            **Justificativa**            |                                                      Justificativa sobre a criação do requisito                                                      |
-|               **Origem**                |                                                Origem do requisito (stakeholder, norma técnica, etc)                                                 |
-|        **Critério de Aceitação**        |                                         Métrica do requisito que possa ser testada e que deve ser satisfeita                                         |
-|            **Dependências**             |                                                            Requisitos relacionados a este                                                            |
-|             **Prioridade**              | Um número usado para decidir a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10). A prioridade mínima é 1 e a máxima é 10 |
-|              **Conflitos**              |                                                           Requisitos conflitantes com este                                                           |
-|              **História**               |                                                          Data de criação e de modificações                                                           |
-
-<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
-
+   No NFR Framework, a propagação de impactos consiste em identificar as relações de dependência entre os requisitos não funcionais e analisar como alterações em um requisito podem influenciar outros requisitos relacionados, utilizando, como mostrado anteriormente, as notações dos softgoals de impacto para representar graficamente essas relações.
 
 ## 1. Usabilidade
 
@@ -276,28 +357,10 @@ Continuidade do sistema e recuperação de falhas.
 
 | Código | Requisito |
 |--------|-----------|
-| [RNF03](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) | Alta segurança no tratamento de dados pessoais e veiculares |
 | [RNF18](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) | Disponibilidade do sistema 24/7 |
 | [RNF19](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) | Confiabilidade: recuperação de falhas e continuidade da navegação |
 
-<font size="3"><p style="text-align: center">**Cartão 1 -** RNF03.</p></font>
-
-|            Item           |                                                                         Descrição                                                                        |
-| :-----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|      **Nr Requisito**     |                                                                           RNF03                                                                          |
-|     **Classificação**     |                                                   Requisito Não Funcional → Confiabilidade → Segurança                                                   |
-|       **Descrição**       |     O sistema deve garantir alta segurança no tratamento de dados pessoais e veiculares, assegurando confidencialidade, integridade e autenticidade.     |
-|     **Justificativa**     |     Proteger informações sensíveis contra acessos não autorizados, vazamentos e violações de privacidade, conforme LGPD e boas práticas de segurança.    |
-|         **Origem**        |                     Stakeholders (usuários e administradores do sistema); Normas técnicas como LGPD (Lei Geral de Proteção de Dados).                    |
-| **Critério de Aceitação** | Todos os dados devem ser criptografados em repouso e em trânsito; autenticação de dois fatores implementada; testes de segurança realizados e aprovados. |
-|      **Dependências**     |                       RNF18 (Disponibilidade) e RNF19 (Confiabilidade), pois segurança impacta continuidade e confiança do sistema.                      |
-|       **Prioridade**      |                                                                            10                                                                            |
-|       **Conflitos**       |                 Pode gerar conflito com requisitos de desempenho, já que mecanismos de segurança podem impactar a velocidade do sistema.                 |
-|        **História**       |                                                       Criado em: 31-05-2025; Última modificação: 31-05-2025                                                       |
-
-<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
-
-<font size="3"><p style="text-align: center">**Cartão 2 -** RNF18.</p></font>
+<font size="3"><p style="text-align: center">**Cartão 1 -** RNF18.</p></font>
 
 |            Item           |                                                                    Descrição                                                                    |
 | :-----------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -305,9 +368,9 @@ Continuidade do sistema e recuperação de falhas.
 |     **Classificação**     |                                            Requisito Não Funcional → Confiabilidade → Disponibilidade                                           |
 |       **Descrição**       |        O sistema deve estar disponível para acesso e uso contínuo, 24 horas por dia, 7 dias por semana, sem interrupções significativas.        |
 |     **Justificativa**     | Garantir que os usuários possam acessar os serviços a qualquer momento, independentemente do horário, aumentando a confiabilidade e satisfação. |
-|         **Origem**        |                              Stakeholders; necessidade operacional do serviço e boas práticas de sistemas críticos.                             |
+|         **Origem**        |                              [Storytelling - Lucas](../../Elicitação/Tecnicas-de-elecitação/Storytelling.md#story-lucas)                             |
 | **Critério de Aceitação** |                     Tempo médio de disponibilidade ≥ 99,9% mensal; manutenção programada comunicada com 48h de antecedência.                    |
-|      **Dependências**     |                     RNF19 (Confiabilidade), já que falhas precisam ser rapidamente recuperadas para manter disponibilidade.                     |
+|      **Dependências**     |                     RNF19 (Confiabilidade)                     |
 |       **Prioridade**      |                                                                        9                                                                        |
 |       **Conflitos**       |    Pode gerar conflito com requisitos de custo, pois alta disponibilidade pode exigir investimentos elevados em infraestrutura e redundância.   |
 |        **História**       |                                                   Criado em: 31-05-2025; Última modificação: 31-05-2025                                                  |
@@ -315,7 +378,7 @@ Continuidade do sistema e recuperação de falhas.
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
-<font size="3"><p style="text-align: center">**Cartão 3 -** RNF19.</p></font>
+<font size="3"><p style="text-align: center">**Cartão 2 -** RNF19.</p></font>
 
 |            Item           |                                                                       Descrição                                                                      |
 | :-----------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -323,9 +386,9 @@ Continuidade do sistema e recuperação de falhas.
 |     **Classificação**     |                                            Requisito Não Funcional → Confiabilidade → Tolerância a falhas                                            |
 |       **Descrição**       |      O sistema deve assegurar mecanismos de recuperação automática em caso de falhas e garantir a continuidade da navegação sem perda de dados.      |
 |     **Justificativa**     |                 Evitar que falhas do sistema comprometam a experiência do usuário e causem perda de dados ou interrupção no serviço.                 |
-|         **Origem**        |                           Stakeholders; boas práticas de engenharia de software; normas de qualidade de sistemas críticos.                           |
+|         **Origem**        |                           [Storytelling - Diego](../../Elicitação/Tecnicas-de-elecitação/Storytelling.md#story-diego)                        |
 | **Critério de Aceitação** | O sistema deve conseguir se recuperar automaticamente de falhas em até 5 segundos; logs de falhas devem ser registrados e analisados periodicamente. |
-|      **Dependências**     |                                   RNF18 (Disponibilidade), pois a recuperação rápida garante alta disponibilidade.                                   |
+|      **Dependências**     |                                   RNF18 (Disponibilidade)                                   |
 |       **Prioridade**      |                                                                          10                                                                          |
 |       **Conflitos**       | Pode gerar conflito com requisitos de simplicidade e custo, já que mecanismos de redundância e recuperação podem aumentar a complexidade do sistema. |
 |        **História**       |                                                     Criado em: 31-05-2025; Última modificação: 31-05-2025                                                      |
@@ -334,6 +397,41 @@ Continuidade do sistema e recuperação de falhas.
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
 ---
+
+#### Propagação de Impactos
+
+<font size="3"><p style="text-align: center">**Tabela x -** Requisito não funcional 18.</p></font>
+
+| NFR                           | Impacto | Avaliador                                  |
+| ----------------------------- | ------- | ------------------------------------------ |
+| RNF19 - Tolerância a falhas   | ✓       | [João Lobo](https://github.com/joaolobo10) |
+| Capacidade de Escalabilidade  | 𝒲+     | [João Lobo](https://github.com/joaolobo10) |
+| Monitoramento e Logs          | ✓       | [João Lobo](https://github.com/joaolobo10) |
+| Redundância de Infraestrutura | ✓       | [João Lobo](https://github.com/joaolobo10) |
+| Proteção contra erros         | 𝒲+     | [João Lobo](https://github.com/joaolobo10) |
+| O sistema deve ser simples e intuitivo em sua arquitetura e funcionamento, facilitando a manutenção e reduzindo a complexidade operacional.                  | 🗲      | [João Lobo](https://github.com/joaolobo10) |
+| Custo                         | X       | [João Lobo](https://github.com/joaolobo10) |
+
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+<font size="3"><p style="text-align: center">**Tabela x -** Requisito não funcional 19.</p></font>
+
+| NFR                           | Impacto | Avaliador                                  |
+| ----------------------------- | ------- | ------------------------------------------ |
+| RNF18 - Disponibilidade       | ✓       | [João Lobo](https://github.com/joaolobo10) |
+| Monitoramento e Logs          | ✓       | [João Lobo](https://github.com/joaolobo10) |
+| Capacidade de Escalabilidade  | 𝒲+     | [João Lobo](https://github.com/joaolobo10) |
+| Redundância de Infraestrutura | ✓       | [João Lobo](https://github.com/joaolobo10) |
+| Proteção contra erros         | ✓       | [João Lobo](https://github.com/joaolobo10) |
+| O sistema deve ser simples e intuitivo em sua arquitetura e funcionamento, facilitando a manutenção e reduzindo a complexidade operacional.                  | 🗲      | [João Lobo](https://github.com/joaolobo10) |
+| Custo                         | X       | [João Lobo](https://github.com/joaolobo10) |
+
+
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+
 
 ##  6. Portabilidade / Compatibilidade
 
@@ -404,3 +502,4 @@ Relacionados à avaliação do sistema e comunicação com o público.
 |  1.2   | 31/05/2025 |       Adição de cartões para RNF03, 18 e 19, criação de cartão para Disponbilidade e Confiabilidade        | [João Lobo](https://github.com/joaolobo10) | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.3   | 31/05/2025 |       Adição de cartões para RNF07 e 08 criação de cartão para Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) |[Giovana Barbosa ](https://github.com/gio221) |
 |  1.4  | 31/05/2025 |       Adição de cartões para acessibilidade, SIG e a Propragação de impactos: | [Giovana Barbosa ](https://github.com/gio221) | |
+|  1.5  | 31/05/2025 |  Adição de seção SIG, Interdependências. decomposições, contribuições além das figuras juntamente as seções, além disso adicionei para as RNF18 e 19, as tabelas de propagação de impactos.      | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |

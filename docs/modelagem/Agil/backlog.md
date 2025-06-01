@@ -199,6 +199,13 @@ O vídeo 4 contém a verificação das Histórias de Usuário do US27 a US30. Fo
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 # Validação com o usuário US031 a US34
+O vídeo 5 contém a verificação das Histórias de Usuário do US31 a US34. Foi realizado pelo [Pedro Camilo](https://github.com/PedrooCamilo) com a participação voluntária de Júlia Ratti atuando como usuário. Esta gravação foi realizada no dia 1/06/2025 às 15:00.
+
+<font size="3"><b>Vídeo 5: </b> Validação das Histórias de Usuário do US31 a US34 .</font>
+
+<iframe width="824" height="464" src="https://youtu.be/TlVUZ1lcpCo" title="backlog - GRUPO 1 - CARLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
 
 # Validação com o usuário US035 a US38
 
@@ -231,3 +238,4 @@ O vídeo 7 contém a verificação das Histórias de Usuário do US39 a US42. Fo
 | 1.5 | 30/05/2025 | Adição do vídeo de validação com o usuário das histórias 39 a 42 | [Eric Akio](https://github.com/eric-kingu) |[Maria Eduarda](https://github.com/maaduh)  |
 | 1.6 | 31/05/2025 | Adição do vídeo de validação com o usuário das histórias 35 a 38 | [Maria Eduarda](https://github.com/maaduh) | [Giovana Barbosa ](https://github.com/gio221) |
 | 1.7 | 31/05/2025 | Adição do vídeo de validação com o usuário das histórias US27 a US30 | [João Lobo](https://github.com/joaolobo10) |  [Giovana Barbosa ](https://github.com/gio221)|
+| 1.8 | 31/05/2025 | Adição do vídeo de validação com o usuário das histórias US31 a US34 | [Pedro Camilo](https://github.com/PedrooCamilo) |  [Giovana Barbosa ](https://github.com/gio221)|

@@ -193,7 +193,8 @@ O vídeo 4 contém a verificação das Histórias de Usuário do US27 a US30. Fo
 
 <font size="3"><b>Vídeo 4: </b> Validação das Histórias de Usuário do US27 a US30.</font>
 
-<iframe width="824" height="464" src="https://youtu.be/4md-lQ5Tg8g?si=ry6fbtRYlMyoEtkR" title="backlog - validação - US27 a US30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="824" height="464" src="https://www.youtube.com/embed/4md-lQ5Tg8g"" title="backlog - GRUPO 1 - CARLA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
@@ -214,7 +215,7 @@ O vídeo 7 contém a verificação das Histórias de Usuário do US39 a US42. Fo
 
 <font size="3"><b>Vídeo 7: </b> Validação das Histórias de Usuário do US39 a US42.</font>
 
-<iframe width="824" height="464" src="https://youtu.be/2f08j4G1Reg" title="backlog - GRUPO 1 - Detran-df" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="824" height="464" src="https://youtube.com/embed/2f08j4G1Reg" title="backlog - GRUPO 1 - Detran-df" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
 
@@ -228,5 +229,5 @@ O vídeo 7 contém a verificação das Histórias de Usuário do US39 a US42. Fo
 |  1.3   | 23/05/2025 |     Montagem dos epicos e US    | [Giovana Barbosa ](https://github.com/gio221),[Gabriel Mendes](https://github.com/gbevi) e  [Luiz Bessa](https://github.com/lfelipebessa)  |  |
 |  1.4   | 29/05/2025 | Adição de rastreabilidade nos requisitos na tabela backlog    | [João Lobo](https://github.com/joaolobo10)  | [Eric Akio](https://github.com/eric-kingu) |
 | 1.5 | 30/05/2025 | Adição do vídeo de validação com o usuário das histórias 39 a 42 | [Eric Akio](https://github.com/eric-kingu) |[Maria Eduarda](https://github.com/maaduh)  |
-| 1.6 | 31/05/2025 | Adição do vídeo de validação com o usuário das histórias 35 a 38 | [Maria Eduarda](https://github.com/maaduh) |  |
-| 1.7 | 31/05/2025 | Adição do vídeo de validação com o usuário das histórias US27 a US30 | [João Lobo](https://github.com/joaolobo10) |  |
+| 1.6 | 31/05/2025 | Adição do vídeo de validação com o usuário das histórias 35 a 38 | [Maria Eduarda](https://github.com/maaduh) | [Giovana Barbosa ](https://github.com/gio221) |
+| 1.7 | 31/05/2025 | Adição do vídeo de validação com o usuário das histórias US27 a US30 | [João Lobo](https://github.com/joaolobo10) |  [Giovana Barbosa ](https://github.com/gio221)|

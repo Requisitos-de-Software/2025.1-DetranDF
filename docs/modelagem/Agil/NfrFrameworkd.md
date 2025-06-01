@@ -53,8 +53,27 @@ Primeiro fizemos a elicitação de requisitos na etapa anterior, que pode ser en
 
     -	Revisão com stakeholders: Submeter o SIG final para análise dos stakeholders e ajustar conforme o feedback recebido.
 
+- **Fase 5: Propragação de impactos**:
+   No NFR Framework, a propagação de impactos consiste em identificar as relações de dependência entre os requisitos não funcionais e analisar como alterações em um requisito podem influenciar outros requisitos relacionados.
+
+   A seguir, são apresentados os tipos de softgoals que representam os impactos e suas respectivas notações:
+
+- ✓ (satisfeito): indica que um requisito não funcional contribui de forma positiva para a satisfação de outro requisito.
+
+- 𝒲+ (fracamente satisfeito): representa uma relação positiva, porém menos intensa do que a notação ✓.
+
+- X (negado): indica que um requisito não funcional prejudica ou contradiz a realização de outro requisito.
+
+- 𝒲- (fracamente negado): similar à notação X, porém com uma influência negativa menos forte.
+
+- 🗲 (conflitante): representa uma relação de conflito, em que os requisitos apresentam aspectos tanto positivos quanto negativos.
+
+- u (indeterminado): indica uma relação desconhecida ou indefinida entre os requisitos, quando não há informações suficientes para avaliar o impacto.
+
 # Cartões de Especificação
-Temos um modelo de cartões de especificação para ultilizarmos
+Temos um modelo de cartões de especificação para ultilizarmos, especificado na tabela 1
+
+<font size="3"><b>Tabela 1:</b>Modelo de Cartões de Especificação</font>
 
 |                  Item                   |                                                                      Descrição                                                                       |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -68,7 +87,7 @@ Temos um modelo de cartões de especificação para ultilizarmos
 |              **Conflitos**              |                                                           Requisitos conflitantes com este                                                           |
 |              **História**               |                                                          Data de criação e de modificações                                                           |
 
-<p align="center"><b>Fonte:</b> [Giovana Barbosa](https://github.com/gio221), 2025</p> 
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 
 ## 1. Usabilidade
@@ -89,7 +108,17 @@ Foco na experiência e facilidade de uso pelo usuário.
 
 ## 2. Acessibilidade
 
-Adequação da interface e funcionalidade para diferentes públicos.
+#### SIG de Acessibilidade
+
+Na figura monstra o SIG de Acessibilidade 
+
+<font size="3"><p style="text-align: center"><b> Figura 1:</b> SIG-Acessibilidade</font>
+![SIG-Acessibilidade](../../assets/Captura%20de%20tela%202025-06-01%20001723.png)
+ <font size="3"><p style="text-align: center"><b>Fonte:</b> miro</font>
+
+Na tabela 2 temos os requisitos não funcionais de acessibilidade 
+
+<font size="3"><b>Tabela 2:</b>requisitos não funcionais de acessibilidade </font>
 
 | Código | Requisito |
 |--------|-----------|
@@ -99,7 +128,117 @@ Adequação da interface e funcionalidade para diferentes públicos.
 | RNF13 | Texto com fontes ajustáveis e botões grandes |
 | RNF14 | Interface adaptada para idosos e iniciantes *(também em Usabilidade)* |
 
----
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
+#### Cartões de Especificação:
+
+Na tabela 3 temos o requisito não funcional 05
+
+<font size="3"><b>Tabela 2:</b>requisito não funcional 05 </font>
+
+|                  Item                   |                                                                      Descrição                                                                       |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Nr Requisito** RNF05 |                                       **Classificação**: Acessibilidade Visualcatálogo                                        |
+|              **Descrição**              |                                                  O sistema deve permitir uso de fontes grandes, oferecer modo noturno e garantir contraste elevado.         |
+|            **Justificativa**            |                                                 Usuários com baixa visão ou sensibilidade à luz precisam de recursos que tornem a leitura confortável.             |
+|               **Origem**                |                                               BS17                   |
+|        **Critério de Aceitação**        |                                    Conformidade com WCAG 2.1 (nível AA); modo noturno ativável; ajuste de tamanho de fonte ≥ 3 níveis   |
+|            **Dependências**             |                                                           RNF13, RNF14              |
+|             **Prioridade**              |9|
+|              **Conflitos**              |                     Possível conflito com design minimalista padrão    |
+|              **História**               |                                                      Criado em 01/06/2025       |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
+Na tabela 4 temos o requisito não funcional 06
+
+<font size="3"><b>Tabela 2:</b>requisito não funcional 06 </font>
+
+|                  Item                   |                                                                      Descrição                                                                       |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Nr Requisito** RNF06 |                                       **Classificação**:  Acessibilidade Auditiva e Visual                                   |
+|              **Descrição**              |                 O sistema deve ser compatível com leitores de tela e possuir assistente por voz funcional.      |
+|            **Justificativa**            |               Essencial para usuários cegos ou com baixa visão total.          |
+|               **Origem**                |                                            BS18                  |
+|        **Critério de Aceitação**        |                                 Compatibilidade com NVDA e VoiceOver; feedback auditivo completo das ações  |
+|            **Dependências**             |                                                        RNF11            |
+|             **Prioridade**              | 10|
+|              **Conflitos**              |                   Nenhum identificado  |
+|              **História**               |                                                      Criado em 01/06/2025       |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
+Na tabela 5 temos o requisito não funcional 11
+
+<font size="3"><b>Tabela 2:</b>requisito não funcional 11 </font>
+
+|                  Item                   |                                                                      Descrição                                                                       |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Nr Requisito** RNF11|                                       **Classificação**:  Acessibilidade Geral   |
+|              **Descrição**              |           O sistema deve suportar múltiplos perfis de usuários com diferentes limitações cognitivas, motoras e visuais.      |
+|            **Justificativa**            |      Aumenta a inclusão digital e atende normas legais.           |
+|               **Origem**                |                                              IS09                  |
+|        **Critério de Aceitação**        |     Suporte a navegação por teclado, linguagem simplificada e suporte a múltiplos modos sensoriais (visual, sonoro)  |
+|            **Dependências**             |                                                         RNF06, RNF13             |
+|             **Prioridade**              |10|
+|              **Conflitos**              |                    Nenhum identificado    |
+|              **História**               |                                                      Criado em 01/06/2025       |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
+
+Na tabela 6 temos o requisito não funcional 13
+
+<font size="3"><b>Tabela 2:</b>requisito não funcional 13 </font>
+
+|                  Item                   |                                                                      Descrição                                                                       |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Nr Requisito** RNF13 |                                       **Classificação**: Acessibilidade Visual e Motora         |
+|              **Descrição**              |                                      O sistema deve permitir ajuste do tamanho das fontes e botões com área de toque ampliada.     |
+|            **Justificativa**            |                 Facilita o uso por idosos e pessoas com dificuldades motoras ou visuais.        |
+|               **Origem**                |                                Storytelling - Olavo                |
+|        **Critério de Aceitação**        |             Fontes ajustáveis em 3 níveis |
+|            **Dependências**             |                                                           RNF05, RNF14             |
+|             **Prioridade**              |8|
+|              **Conflitos**              |                     Pode afetar o layout responsivo em telas menores   |
+|              **História**               |                                                      Criado em 01/06/2025       |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
+Na tabela 7 temos o requisito não funcional 14
+
+<font size="3"><b>Tabela 7 :</b>requisito não funcional 14 </font>
+
+|                  Item                   |                                                                      Descrição                                                                       |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Nr Requisito** RNF14 |                                       **Classificação**: Acessibilidade Cognitiva / Usabilidade          |
+|              **Descrição**              |                                         A interface deve ser simplificada, clara e com instruções visuais para facilitar o uso por idosos e iniciantes.      |
+|            **Justificativa**            |                     Reduz barreiras de entrada para novos usuários ou com pouca familiaridade tecnológica.   |
+|               **Origem**                |                               Storytelling - Olavo, Marina                 |
+|        **Critério de Aceitação**        |                             Testes com idosos resultando em taxa de sucesso > 80% nas tarefas básicas  |
+|            **Dependências**             |                                                       RNF05, RNF13             |
+|             **Prioridade**              |9|
+|              **Conflitos**              |                     Pode conflitar com usuários avançados que desejam personalização ou funções avançadas   |
+|              **História**               |                                                      Criado em 01/06/2025       |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
+#### Propagação de Impactos
+Na tabela 8 temos a propagação de impactos da acessibilidade 
+
+<font size="3"><b>Tabela 8:</b>requisito não funcional 14 </font>
+
+| NFR                                                                 | Impacto | Avaliador         |
+|----------------------------------------------------------------------|---------|--------------------|
+| O sistema deve ser capaz de montar uma atividade de forma fácil      | 𝒲++     | [Giovana Barbosa](https://github.com/gio221)  |
+| O sistema deve ser claro de forma que o usuário possa entender e realizar uma tarefa sem dificuldades | 𝒲+      | [Giovana Barbosa](https://github.com/gio221)  |
+| Capacidade de Aprendizado                                            | 𝒲++     | [Giovana Barbosa](https://github.com/gio221) |
+| Adaptabilidade                                                       | 𝒲+      | [Giovana Barbosa](https://github.com/gio221)  |
+| Proteção contra os erros                                             | X       | [Giovana Barbosa](https://github.com/gio221) |
+| Intuitivo                                                            | X       | [Giovana Barbosa](https://github.com/gio221) |
+| Usabilidade                                                          | 𝒲++     | [Giovana Barbosa](https://github.com/gio221)  |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 ##  3. Desempenho e Eficiência
 
@@ -255,4 +394,5 @@ Relacionados à avaliação do sistema e comunicação com o público.
 |  1.0   | 20/05/2025 |       Início da documentação        | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.1   | 20/05/2025 |       Iintrodução, objetivo, meotodologia, cartões de especificação        | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.2   | 31/05/2025 |       Adição de cartões para RNF03, 18 e 19, criação de cartão para Disponbilidade e Confiabilidade        | [João Lobo](https://github.com/joaolobo10) | [Luiz Bessa](https://github.com/lfelipebessa) |
-|  1.3   | 31/05/2025 |       Adição de cartões para RNF07 e 08 criação de cartão para Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) | |
+|  1.3   | 31/05/2025 |       Adição de cartões para RNF07 e 08 criação de cartão para Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) |[Giovana Barbosa ](https://github.com/gio221) |
+|  1.4  | 31/05/2025 |       Adição de cartões para acessibilidade | [Giovana Barbosa ](https://github.com/gio221) | |

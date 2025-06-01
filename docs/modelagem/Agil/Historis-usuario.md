@@ -156,6 +156,13 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
+# Video da Validação da US01 a US06
+O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa](https://github.com/gio221) e pela usuária Débora
+
+<iframe width="824" height="464" src="https://youtube.com/embed/4wuewS286Ro" title="backlog - GRUPO 1 - Detran-df" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="3"><p style="text-align: center">Video de Validação , 2025.</p></font>
+
 # [US07] - Recurso de multa
 
 <font size="3"><b>Tabela 9:</b>História do usuário de recurso de multa</font>
@@ -780,4 +787,4 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | 1.6 | 30/05/2025 | Validação das histórias de usuário 39 a 42 | [Eric Akio](https://github.com/eric-kingu) | [Maria Eduarda](https://github.com/maaduh)  |
 | 1.7 | 31/05/2025 | Documentação das histórias de usuário 25 a 30 | [Maria Eduarda](https://github.com/maaduh) | [Giovana Barbosa ](https://github.com/gio221) |
 | 1.8 | 31/05/2025 | Adição dos vídeos de validação das Histórias de usuário US19 até a US24 |  [João Lobo](https://github.com/joaolobo10) | [Giovana Barbosa ](https://github.com/gio221) |
-| 1.9 | 31/05/2025 |  Documentação das histórias de usuário US31 até a US36 |  [Pedro Camilo](https://github.com/PedrooCamilo) |  |
+| 1.9 | 31/05/2025 |  Documentação das histórias de usuário US31 até a US36 |  [Pedro Camilo](https://github.com/PedrooCamilo) | [Giovana Barbosa ](https://github.com/gio221) |

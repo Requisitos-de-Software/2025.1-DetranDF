@@ -1,8 +1,8 @@
 # Introdução
-Esse artefato mostra como foi montado a lista de verificação do caso de uso
+Esse artefato mostra a verificação do caso de uso
  
 # Objetivo
-Esse artefato tem como objetivo documentar a lista de verificação  do caso de uso
+Esse artefato tem como objetivo documentar a a verificação  do caso de uso
  
 # Metodologia
 

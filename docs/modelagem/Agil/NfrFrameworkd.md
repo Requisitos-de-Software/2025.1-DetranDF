@@ -355,6 +355,12 @@ Relacionados à avaliação do sistema e comunicação com o público.
 | RNF08 | Propaganda efetiva para promover o app |
 
 ---
+Na figura monstra o SIG de Acessibilidade 
+
+<font size="3"><p style="text-align: center"><b> Figura 10:</b> SIG-Qualidade e feedback</font>
+![SIG-QualidadeEFeedback](../../assets/QualidadeeFeedback-2.pdf)
+ <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Bessa](https://github.com/lfelipebessa)</font>
+---
 
 ### Cartão 5 – RNF07  <a id="cartao-rnf07"></a>
 

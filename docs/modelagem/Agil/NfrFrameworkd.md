@@ -589,7 +589,7 @@ Proteção de dados pessoais e veiculares.
 | **Justificativa**         | A manipulação de dados sensíveis exige proteção contra vazamentos, acessos não autorizados e fraudes.                                           |
 | **Origem**                | Storytelling - Marina                                                                                                                           |
 | **Critério de Aceitação** | Uso de criptografia AES-256 para dados em repouso e TLS 1.3 para dados em trânsito; autenticação multifator habilitada.                        |
-| **Dependências**          | RNF01 (Infraestrutura segura), RNF12 (Controle de acesso)                                                                                       |
+| **Dependências**          | BS16                                                                                       |
 | **Prioridade**            | 10                                                                                                                                              |
 | **Conflitos**             | Pode impactar levemente o desempenho do sistema                                                                                                 |
 | **História**              | Criado em 01/06/2025                                                                                                                             |

@@ -453,7 +453,7 @@ Relacionados à avaliação do sistema e comunicação com o público.
 | RNF08 | Propaganda efetiva para promover o app |
 
 ---
-Na figura monstra o SIG de Acessibilidade 
+Na figura monstra o SIG de Qualidade e Feedback 
 
 <font size="3"><p style="text-align: center"><b> Figura 10:</b> SIG-Qualidade e feedback</font>
 ![SIG-QualidadeEFeedback](../../assets/QualidadeeFeedback-2.pdf)
@@ -556,3 +556,4 @@ Na figura monstra o SIG referente a Qualidade e Feedback do aplicativo Detran-DF
 |  1.5  | 31/05/2025 |  Adição de seção SIG, Interdependências. decomposições, contribuições além das figuras juntamente as seções, além disso adicionei para as RNF18 e 19, as tabelas de propagação de impactos.      | [João Lobo](https://github.com/joaolobo10) | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.6  | 01/06/2025 |       Adição SIG Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) | |
 |  1.7  | 01/06/2025 |       Adição Propagação de impactos RNF08 e 07 | [Luiz Bessa](https://github.com/lfelipebessa) | |
+|  1.8  | 01/06/2025 |       Adição SIG com propagação QF | [Luiz Bessa](https://github.com/lfelipebessa) | |

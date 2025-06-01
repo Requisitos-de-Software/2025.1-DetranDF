@@ -193,13 +193,13 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 
 | **Item**                  | **Descrição**                                                       |
 | ------------------------- | ------------------------------------------------------------------- |
-| **Nr Requisito**          | [RF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                               |
+| **Nr Requisito**          | [RNF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                               |
 | **Classificação**         | Usabilidade > Interface                                             |
 | **Descrição**             | Interface intuitiva e fácil de navegar                              |
 | **Justificativa**         | Facilitar o uso do sistema por qualquer perfil de usuário           |
-| **Origem**                | Stakeholders, boas práticas de UX                                   |
+| **Origem**                | [BS13](../../Elicitação/Tecnicas-de-elecitação/brainstorming.md#tabela-requisitos), [IS07](../../Elicitação/Tecnicas-de-elecitação/Introspecção.md#tabela-requisitos)                                   |
 | **Critério de Aceitação** | Usuários realizam tarefas principais sem necessidade de treinamento |
-| **Dependências**          | [RF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos), [RF20](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                        |
+| **Dependências**          | [RNF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos), [RF20](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                        |
 | **Prioridade**            | 10                                                                  |
 | **Conflitos**             | Nenhum                                                              |
 | **História**              | 01/06/2025 – Criação                                                |
@@ -212,13 +212,13 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 
 | **Item**                  | **Descrição**                                                                     |
 | ------------------------- | --------------------------------------------------------------------------------- |
-| **Nr Requisito**          | [RF04](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                             |
+| **Nr Requisito**          | [RNF04](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                             |
 | **Classificação**         | Usabilidade > Conteúdo                                                            |
 | **Descrição**             | Área educacional com explicações e vídeos                                         |
 | **Justificativa**         | Promover autonomia e aprendizado do usuário sobre o sistema e o domínio           |
-| **Origem**                | Stakeholders, normas de acessibilidade                                            |
+| **Origem**                | [BS16](../../Elicitação/Tecnicas-de-elecitação/brainstorming.md#tabela-requisitos)                                            |
 | **Critério de Aceitação** | Disponibilidade de área educacional com pelo menos 5 vídeos e textos explicativos |
-| **Dependências**          | [RF12](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                             |
+| **Dependências**          | [RNF12](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                             |
 | **Prioridade**            | 7                                                                                 |
 | **Conflitos**             | Nenhum                                                                            |
 | **História**              | 01/06/2025 – Criação                                                              |
@@ -231,13 +231,13 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 
 | **Item**                  | **Descrição**                                                                            |
 | ------------------------- | ---------------------------------------------------------------------------------------- |
-| **Nr Requisito**          | [RF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                                    |
+| **Nr Requisito**          | [RNF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                                    |
 | **Classificação**         | Usabilidade > Layout                                                                     |
 | **Descrição**             | Layout com foco em simplicidade e legibilidade                                           |
 | **Justificativa**         | Reduzir sobrecarga cognitiva e melhorar experiência do usuário                           |
-| **Origem**                | Boas práticas de design                                                                  |
+| **Origem**                | [BS21](../../Elicitação/Tecnicas-de-elecitação/brainstorming.md#tabela-requisitos)                                                                  |
 | **Critério de Aceitação** | Contraste adequado, fontes legíveis e ausência de excesso de elementos em todas as telas |
-| **Dependências**          | [RF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos), [RF20](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                            |
+| **Dependências**          | [RNF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos), [RF20](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                            |
 | **Prioridade**            | 9                                                                                        |
 | **Conflitos**             | Nenhum                                                                                   |
 | **História**              | 01/06/2025 – Criação                                                                     |
@@ -250,13 +250,13 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 
 | **Item**                  | **Descrição**                                                           |
 | ------------------------- | ----------------------------------------------------------------------- |
-| **Nr Requisito**          | [RF12](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                   |
+| **Nr Requisito**          | [RNF12](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                   |
 | **Classificação**         | Usabilidade > Conteúdo                                                  |
 | **Descrição**             | Explicações acessíveis sobre siglas (ex: RENAVAM)                       |
 | **Justificativa**         | Garantir compreensão total das informações apresentadas                 |
-| **Origem**                | Stakeholders, boas práticas de UX                                       |
+| **Origem**                | [GLO05](../../Elicitação/Tecnicas-de-elecitação/glossario.md#tabela-requisitos)                                       |
 | **Critério de Aceitação** | Todas as siglas apresentadas com tooltip ou seção explicativa associada |
-| **Dependências**          | [RF04](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                  |
+| **Dependências**          | [RNF04](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                  |
 | **Prioridade**            | 6                                                                       |
 | **Conflitos**             | Nenhum                                                                  |
 | **História**              | 01/06/2025 – Criação                                                    |
@@ -269,13 +269,13 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 
 | **Item**                  | **Descrição**                                                         |
 | ------------------------- | --------------------------------------------------------------------- |
-| **Nr Requisito**          | [RF14](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                 |
+| **Nr Requisito**          | [RNF14](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                 |
 | **Classificação**         | Usabilidade > Acessibilidade                                          |
 | **Descrição**             | Interface adaptada para idosos e iniciantes                           |
 | **Justificativa**         | Incluir públicos com menor familiaridade tecnológica                  |
-| **Origem**                | Stakeholders, norma ABNT NBR 17060                                    |
+| **Origem**                | [Storytelling - Olavo, Marina](../../Elicitação/Tecnicas-de-elecitação/Storytelling.md#tabela-requisitos)                                     |
 | **Critério de Aceitação** | Modo acessível com fontes maiores e navegação simplificada disponível |
-| **Dependências**          | [RF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos), [RF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                          |
+| **Dependências**          | [RNF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos), [RF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                          |
 | **Prioridade**            | 8                                                                     |
 | **Conflitos**             | Nenhum                                                                |
 | **História**              | 01/06/2025 – Criação                                                  |
@@ -288,13 +288,13 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 
 | **Item**                  | **Descrição**                                                    |
 | ------------------------- | ---------------------------------------------------------------- |
-| **Nr Requisito**          | [RF17](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                           |
+| **Nr Requisito**          | [RNF17](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                           |
 | **Classificação**         | Usabilidade > Feedback                                           |
 | **Descrição**             | Feedback visual e sonoro nas interações do usuário               |
 | **Justificativa**         | Aumentar percepção de controle e prevenir erros                  |
-| **Origem**                | Boas práticas de UX                                              |
+| **Origem**                | [Storytelling - Diego, Olavo](../../Elicitação/Tecnicas-de-elecitação/Storytelling.md#tabela-requisitos)                                                   |
 | **Critério de Aceitação** | Todas as ações críticas com retorno visual ou sonoro perceptível |
-| **Dependências**          | [RF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                            |
+| **Dependências**          | [RNF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                            |
 | **Prioridade**            | 8                                                                |
 | **Conflitos**             | Pode conflitar com requisitos de silêncio/ambiente discreto      |
 | **História**              | 01/06/2025 – Criação                                             |
@@ -307,13 +307,13 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 
 | **Item**                  | **Descrição**                                                  |
 | ------------------------- | -------------------------------------------------------------- |
-| **Nr Requisito**          | [RF20](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                          |
+| **Nr Requisito**          | [RNF20](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                          |
 | **Classificação**         | Usabilidade > Layout                                           |
 | **Descrição**             | Interface com poucos elementos por tela para facilitar leitura |
 | **Justificativa**         | Reduzir carga cognitiva e facilitar compreensão rápida         |
-| **Origem**                | Boas práticas de design                                        |
-| **Critério de Aceitação** | Nenhuma tela com mais de 7 elementos principais                |
-| **Dependências**          | [RF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos), [RF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                   |
+| **Origem**                | [Storytelling - Olavo](../../Elicitação/Tecnicas-de-elecitação/Storytelling.md#tabela-requisitos)                                             |
+| **Critério de Aceitação** | Deve haver possibilidade futura de incluir idiomas adicionais, como libras, para acessibilidade.                  |
+| **Dependências**          | [RNF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos), [RF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                   |
 | **Prioridade**            | 9                                                              |
 | **Conflitos**             | Nenhum                                                         |
 | **História**              | 01/06/2025 – Criação                                           |

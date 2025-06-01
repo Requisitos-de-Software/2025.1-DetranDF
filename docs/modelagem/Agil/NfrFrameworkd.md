@@ -826,6 +826,16 @@ Na figura monstra o SIG referente a Qualidade e Feedback do aplicativo Detran-DF
 <font size="3"><p align="center">Fonte: <a href="https://github.com/lfelipebessa">Luiz Bessa</a>, 2025.</p></font>
 
 ---
+
+#### Validação com o usuário
+
+No video abaixo é feito a validação da parte de acessibilidade pelo integrante [Luiz Bessa](https://github.com/lfelipebessa) com o usuário André
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OPNeqpJgCC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://www.youtu.be/OPNeqpJgCC8" target="blanket">Vídeo da validação com o usuário</a></p>
+
+---
+
 ## Histórico de versão
 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |

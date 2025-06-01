@@ -732,10 +732,9 @@ Continuidade do sistema e recuperação de falhas.
 
 No video abaixo é feito a validação da parte de acessibilidade pelo integrante [João Lobo](https://github.com/joaolobo10) com a usuária do aplicativo Detran-DF Nicole Neves.
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/i3OqAIuV-1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/i3OqAIuV-1Y" target="blanket">Link do vídeo</a></p>
 
-
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/i3OqAIuV-1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/i3OqAIuV-1Y" target="blanket">Link do vídeo</a></p>
 
 ##  6. Portabilidade / Compatibilidade
 
@@ -810,14 +809,14 @@ Relacionados à avaliação do sistema e comunicação com o público.
 Na figura monstra o SIG de Qualidade e Feedback 
 
 <font size="3"><p style="text-align: center"><b> Figura 10:</b> SIG-Qualidade e feedback</font>
-![SIG-QualidadeEFeedback](../../assets/QualidadeeFeedback-2.pdf)
+![SIG-QualidadeEFeedback](../../assets/qualidade1.png)
  <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Bessa](https://github.com/lfelipebessa), 2025</font>
 
 ---
 Na figura monstra o SIG referente a Qualidade e Feedback do aplicativo Detran-DF, com a propagação.
 
 <font size="3"><p style="text-align: center"><b> Figura 11:</b> SIG-Qualidade e feedback</font>
-![SIG-QualidadeEFeedback](../../assets/QualidadeeFeedback-3.pdf)
+![SIG-QualidadeEFeedback](../../assets/qualidade2.png)
  <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Bessa](https://github.com/lfelipebessa), 2025</font>
 
 ---
@@ -924,10 +923,10 @@ No video abaixo é feito a validação da parte de acessibilidade pelo integrant
 |  1.6  | 01/06/2025 |       Adição SIG Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) | [Pedro Camilo ](https://github.com/PedrooCamilo) |
 |  1.7  | 01/06/2025 |       Adição Propagação de impactos RNF08 e 07 | [Luiz Bessa](https://github.com/lfelipebessa) |[Pedro Camilo ](https://github.com/PedrooCamilo) |
 |  1.8  | 01/06/2025 |       Adição SIG com propagação QF | [Luiz Bessa](https://github.com/lfelipebessa) | [Pedro Camilo ](https://github.com/PedrooCamilo) |
-|  1.9  | 01/06/2025 |       Adição de vídeo de validação com o usuário da RNF 18 e 19 | [João Lobo](https://github.com/joaolobo10) | |
-|  2.0  | 01/06/2025 |       Adição de cartões para RNF02 e propagação de impacto, SIG de portabilidade/compatibilidade | [Gabriel Mendes](https://github.com/gbevi) | |
+|  1.9  | 01/06/2025 |       Adição de vídeo de validação com o usuário da RNF 18 e 19 | [João Lobo](https://github.com/joaolobo10) | [Giovana Barbosa ](https://github.com/gio221)|
+|  2.0  | 01/06/2025 |       Adição de cartões para RNF02 e propagação de impacto, SIG de portabilidade/compatibilidade | [Gabriel Mendes](https://github.com/gbevi) |[Giovana Barbosa ](https://github.com/gio221) |
 |  2.1  | 01/06/2025 |       Adição de cartões para usabilidade, SIG e a Propragação de impactos | [Pedro Camilo ](https://github.com/PedrooCamilo) | [Eric Akio](https://github.com/eric-kingu) |
-| 2.2 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Eric Akio](https://github.com/eric-kingu) |  |
+| 2.2 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Eric Akio](https://github.com/eric-kingu) |[Giovana Barbosa ](https://github.com/gio221)  |
 | 2.3 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Eric Akio](https://github.com/eric-kingu) | [Maria Eduarda](https://github.com/maaduh) |
-| 2.4 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Maria Eduarda](https://github.com/maaduh) |  
-| 2.5 | 01/06/2025 | Adição de imagens das Softgoals de com e sem propagação de impactos, das RNF Disponibilidade e Confiabilidade | [João Lobo](https://github.com/joaolobo10) |  |
+| 2.4 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Maria Eduarda](https://github.com/maaduh) |  [Giovana Barbosa ](https://github.com/gio221)|
+| 2.5 | 01/06/2025 | Adição de imagens das Softgoals de com e sem propagação de impactos, das RNF Disponibilidade e Confiabilidade | [João Lobo](https://github.com/joaolobo10) | [Giovana Barbosa ](https://github.com/gio221) |

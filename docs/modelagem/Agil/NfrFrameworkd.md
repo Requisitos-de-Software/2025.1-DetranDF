@@ -619,6 +619,14 @@ A Tabela 11 apresenta a análise de impacto do requisito RNF03:
 | Custo de infraestrutura e manutenção                        | X       | [Maria Eduarda](https://github.com/maaduh)    |
 | Facilidade de auditoria e rastreabilidade                   | 𝒲+      | [Maria Eduarda](https://github.com/maaduh)    |
 
+
+#### Validação com o usuário
+
+No video abaixo é feito a validação da parte de Segurança pela integrante [Maria Eduarda](https://github.com/maaduh) com o usuário João Francisco
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/iJy65SwYfvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/iJy65SwYfvk" target="blanket">Vídeo da= validação com o usuário</a></p>
+
 ---
 
 ##  5. Confiabilidade e Disponibilidade

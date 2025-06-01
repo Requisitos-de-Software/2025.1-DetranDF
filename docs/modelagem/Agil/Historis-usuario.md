@@ -502,7 +502,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Prioridade Usuário** | Alta                                                                                                             |
 | **Status**             | validada                                                                                                                 |
 | **Rastreabilidade**    |         [RF36](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)              |
-| **Validação**          | x                                                                                                                |
+| **Validação**          | [vídeo de validação](https://youtu.be/tO_wsiFvJ3w)                                                                                                                |
 
 <p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
 ---
@@ -518,7 +518,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Prioridade Usuário** | Alta                                                                                                             |
 | **Status**             | validada                                                                                                                 |
 | **Rastreabilidade**    |    [RF37](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                   |
-| **Validação**          | x                                                                                                                |
+| **Validação**          | [vídeo de validação](https://youtu.be/tO_wsiFvJ3w)                                                                                                                |
 
 <p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
 
@@ -535,7 +535,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Prioridade Usuário** | Alta                                                                                                             |
 | **Status**             | validada                                                                                                                 |
 | **Rastreabilidade**    |        [RF38](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                |
-| **Validação**          | x                                                                                                                |
+| **Validação**          | [vídeo de validação](https://youtu.be/tO_wsiFvJ3w)                                                                                                                |
 
 <p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
 
@@ -552,7 +552,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Prioridade Usuário** | Alta                                                                                                             |
 | **Status**             | validada                                                                                                                 |
 | **Rastreabilidade**    |         [RF39](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)              |
-| **Validação**          | x                                                                                                                |
+| **Validação**          | [vídeo de validação](https://youtu.be/tO_wsiFvJ3w)                                                                                                                |
 
 <p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
 
@@ -569,7 +569,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Prioridade Usuário** | Alta                                                                                                             |
 | **Status**             | validada                                                                                                                |
 | **Rastreabilidade**    |   [RF40](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
-| **Validação**          | x                                                                                                                |
+| **Validação**          | [vídeo de validação](https://youtu.be/tO_wsiFvJ3w)                                                                                                                |
 
 <p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
 
@@ -586,7 +586,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Prioridade Usuário** | Média                                                                                                            |
 | **Status**             | validada                                                                                                             |
 | **Rastreabilidade**    |                       |
-| **Validação**          | x                                                                                                                |
+| **Validação**          | [vídeo de validação](https://youtu.be/tO_wsiFvJ3w)                                                                                                                |
 
 <p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
 

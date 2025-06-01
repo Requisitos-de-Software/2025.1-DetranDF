@@ -90,9 +90,9 @@ Temos um modelo de cartões de especificação para ultilizarmos, especificado n
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 
-## 1. Usabilidade
+## 1. NFR Usabilidade
 
-Foco na experiência e facilidade de uso pelo usuário.
+<font size="3"><b>Tabela 1:</b>Requisitos não funcionais de usabilidade </font>
 
 | Código | Requisito |
 |--------|-----------|
@@ -104,7 +104,150 @@ Foco na experiência e facilidade de uso pelo usuário.
 | RNF17 | Feedback visual e sonoro nas interações do usuário |
 | RNF20 | Interface com poucos elementos por tela para facilitar leitura |
 
+#### Cartões de Especificação:
+Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos não funcionais utilizados para a criação do NFR.
+
+<font size="3"><b>Tabela 2:</b> Interface intuitiva e fácil de navegar </font>
+
+
+| **Item**                  | **Descrição**                                                       |
+| ------------------------- | ------------------------------------------------------------------- |
+| **Nr Requisito**          | [RF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                               |
+| **Classificação**         | Usabilidade > Interface                                             |
+| **Descrição**             | Interface intuitiva e fácil de navegar                              |
+| **Justificativa**         | Facilitar o uso do sistema por qualquer perfil de usuário           |
+| **Origem**                | Stakeholders, boas práticas de UX                                   |
+| **Critério de Aceitação** | Usuários realizam tarefas principais sem necessidade de treinamento |
+| **Dependências**          | [RF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos), [RF20](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                        |
+| **Prioridade**            | 10                                                                  |
+| **Conflitos**             | Nenhum                                                              |
+| **História**              | 01/06/2025 – Criação                                                |
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
+
 ---
+
+<font size="3"><b>Tabela 3:</b> Área educacional com explicações e vídeos </font>
+
+| **Item**                  | **Descrição**                                                                     |
+| ------------------------- | --------------------------------------------------------------------------------- |
+| **Nr Requisito**          | [RF04](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                             |
+| **Classificação**         | Usabilidade > Conteúdo                                                            |
+| **Descrição**             | Área educacional com explicações e vídeos                                         |
+| **Justificativa**         | Promover autonomia e aprendizado do usuário sobre o sistema e o domínio           |
+| **Origem**                | Stakeholders, normas de acessibilidade                                            |
+| **Critério de Aceitação** | Disponibilidade de área educacional com pelo menos 5 vídeos e textos explicativos |
+| **Dependências**          | [RF12](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                             |
+| **Prioridade**            | 7                                                                                 |
+| **Conflitos**             | Nenhum                                                                            |
+| **História**              | 01/06/2025 – Criação                                                              |
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
+
+---
+
+<font size="3"><b>Tabela 4:</b> Layout com foco em simplicidade e legibilidade </font>
+
+| **Item**                  | **Descrição**                                                                            |
+| ------------------------- | ---------------------------------------------------------------------------------------- |
+| **Nr Requisito**          | [RF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                                    |
+| **Classificação**         | Usabilidade > Layout                                                                     |
+| **Descrição**             | Layout com foco em simplicidade e legibilidade                                           |
+| **Justificativa**         | Reduzir sobrecarga cognitiva e melhorar experiência do usuário                           |
+| **Origem**                | Boas práticas de design                                                                  |
+| **Critério de Aceitação** | Contraste adequado, fontes legíveis e ausência de excesso de elementos em todas as telas |
+| **Dependências**          | [RF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos), [RF20](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                            |
+| **Prioridade**            | 9                                                                                        |
+| **Conflitos**             | Nenhum                                                                                   |
+| **História**              | 01/06/2025 – Criação                                                                     |
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
+
+---
+
+<font size="3"><b>Tabela 5:</b> Explicações acessíveis sobre siglas (ex: RENAVAM) </font>
+
+| **Item**                  | **Descrição**                                                           |
+| ------------------------- | ----------------------------------------------------------------------- |
+| **Nr Requisito**          | [RF12](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                   |
+| **Classificação**         | Usabilidade > Conteúdo                                                  |
+| **Descrição**             | Explicações acessíveis sobre siglas (ex: RENAVAM)                       |
+| **Justificativa**         | Garantir compreensão total das informações apresentadas                 |
+| **Origem**                | Stakeholders, boas práticas de UX                                       |
+| **Critério de Aceitação** | Todas as siglas apresentadas com tooltip ou seção explicativa associada |
+| **Dependências**          | [RF04](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                  |
+| **Prioridade**            | 6                                                                       |
+| **Conflitos**             | Nenhum                                                                  |
+| **História**              | 01/06/2025 – Criação                                                    |
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
+
+---
+
+<font size="3"><b>Tabela 6:</b> Interface adaptada para idosos e iniciantes  </font>
+
+| **Item**                  | **Descrição**                                                         |
+| ------------------------- | --------------------------------------------------------------------- |
+| **Nr Requisito**          | [RF14](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                 |
+| **Classificação**         | Usabilidade > Acessibilidade                                          |
+| **Descrição**             | Interface adaptada para idosos e iniciantes                           |
+| **Justificativa**         | Incluir públicos com menor familiaridade tecnológica                  |
+| **Origem**                | Stakeholders, norma ABNT NBR 17060                                    |
+| **Critério de Aceitação** | Modo acessível com fontes maiores e navegação simplificada disponível |
+| **Dependências**          | [RF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos), [RF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                          |
+| **Prioridade**            | 8                                                                     |
+| **Conflitos**             | Nenhum                                                                |
+| **História**              | 01/06/2025 – Criação                                                  |
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
+
+---
+
+<font size="3"><b>Tabela 7:</b> Feedback visual e sonoro nas interações do usuário   </font>
+
+| **Item**                  | **Descrição**                                                    |
+| ------------------------- | ---------------------------------------------------------------- |
+| **Nr Requisito**          | [RF17](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                           |
+| **Classificação**         | Usabilidade > Feedback                                           |
+| **Descrição**             | Feedback visual e sonoro nas interações do usuário               |
+| **Justificativa**         | Aumentar percepção de controle e prevenir erros                  |
+| **Origem**                | Boas práticas de UX                                              |
+| **Critério de Aceitação** | Todas as ações críticas com retorno visual ou sonoro perceptível |
+| **Dependências**          | [RF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                            |
+| **Prioridade**            | 8                                                                |
+| **Conflitos**             | Pode conflitar com requisitos de silêncio/ambiente discreto      |
+| **História**              | 01/06/2025 – Criação                                             |
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
+
+---
+
+<font size="3"><b>Tabela 8:</b> Interface com poucos elementos por tela para facilitar leitura</font>
+
+| **Item**                  | **Descrição**                                                  |
+| ------------------------- | -------------------------------------------------------------- |
+| **Nr Requisito**          | [RF20](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                          |
+| **Classificação**         | Usabilidade > Layout                                           |
+| **Descrição**             | Interface com poucos elementos por tela para facilitar leitura |
+| **Justificativa**         | Reduzir carga cognitiva e facilitar compreensão rápida         |
+| **Origem**                | Boas práticas de design                                        |
+| **Critério de Aceitação** | Nenhuma tela com mais de 7 elementos principais                |
+| **Dependências**          | [RF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos), [RF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                   |
+| **Prioridade**            | 9                                                              |
+| **Conflitos**             | Nenhum                                                         |
+| **História**              | 01/06/2025 – Criação                                           |
+
+<font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
+
+Sem propagação de impactos:
+<font size="3"><p style="text-align: center"><b> Figura 1:</b> SIG Usabilidade Sem propagação de Impactos.</font>
+![SIG Usabilidade Sem propagação de Impactos.](../../assets/NFRusabilidade.drawio.png)
+ <font size="3"><p style="text-align: center"><b>Fonte:</b> [Pedro Camilo](https://github.com/PedrooCamilo)</font>
+
+Com prapagação de impactos:
+<font size="3"><p style="text-align: center"><b> Figura 1:</b> Propagação de Impactos.</font>
+![Propagação de Impactos.](../../assets/nfrusabilidade_impactos.drawio.png)
+ <font size="3"><p style="text-align: center"><b>Fonte:</b> [Pedro Camilo](https://github.com/PedrooCamilo)</font>
 
 ## 2. Acessibilidade
 
@@ -403,4 +546,5 @@ Relacionados à avaliação do sistema e comunicação com o público.
 |  1.1   | 20/05/2025 |       Iintrodução, objetivo, meotodologia, cartões de especificação        | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.2   | 31/05/2025 |       Adição de cartões para RNF03, 18 e 19, criação de cartão para Disponbilidade e Confiabilidade        | [João Lobo](https://github.com/joaolobo10) | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.3   | 31/05/2025 |       Adição de cartões para RNF07 e 08 criação de cartão para Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) |[Giovana Barbosa ](https://github.com/gio221) |
-|  1.4  | 31/05/2025 |       Adição de cartões para acessibilidade, SIG e a Propragação de impactos: | [Giovana Barbosa ](https://github.com/gio221) | |
+|  1.4  | 31/05/2025 |       Adição de cartões para acessibilidade, SIG e a Propragação de impactos: | [Giovana Barbosa ](https://github.com/gio221) | [Pedro Camilo ](https://github.com/PedrooCamilo) |
+|  1.4  | 31/05/2025 |       Adição de cartões para usabilidade, SIG e a Propragação de impactos: | [Pedro Camilo ](https://github.com/PedrooCamilo) | |

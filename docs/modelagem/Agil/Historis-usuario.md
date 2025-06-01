@@ -15,7 +15,7 @@ Criação das Histórias de Usuário – As histórias foram escritas em um form
 
 # Quem fez cada História de Usuário
 
-Cada história de usuário foi validada com o PO. Com o objetivo de organização, a tabela 1 mostra a história de usuário, o integrante responsável por tal e usuário participante. Todos os requisitos elicitados estão presentes no artefato [Requisitos Elicitados](http://127.0.0.1:8000/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/)
+ Com o objetivo de organização, a tabela 1 mostra a história de usuário, o integrante responsável por tal e usuário participante. Todos os requisitos elicitados estão presentes no artefato [Requisitos Elicitados](http://127.0.0.1:8000/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/)
 
 <font size="3"><p style="text-align: center">**Tabela 1 -**Distribuição de requisitos entre os integrantes para elaboração das historias de usuário .</p></font>
 
@@ -25,6 +25,9 @@ Cada história de usuário foi validada com o PO. Com o objetivo de organizaçã
 |US07 a US12| [Gabriel Mendes](https://github.com/gbevi) |[Mayara Marques](https://github.com/maymarquee)    |
 |US013 a US18| [Luiz Bessa](https://github.com/lfelipebessa) |[André Meyer](https://github.com/andremeyerr)    |
 |US019 a US24| [João Lobo](https://github.com/joaolobo10) | Nicole Neves    |
+|US025 a US030| [Maria Eduarda](https://github.com/maaduh) |
+|US031 a US036|
+|US037 a US042|[Eric Akio](https://github.com/eric-kingu) |
 
 <a id="tabela-us"></a>
 
@@ -659,5 +662,5 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 | 1.4 | 30/05/2025 | Documentação das histórias de usuário 39 a 42, faltando apenas a validação com o usuário | [Eric Akio](https://github.com/eric-kingu) |  [Luiz Bessa](https://github.com/lfelipebessa)  |
 | 1.5 | 30/05/2025 | Documentação das histórias de usuário 13 a 18 | [Luiz Bessa](https://github.com/lfelipebessa) | [Eric Akio](https://github.com/eric-kingu) |
 | 1.6 | 30/05/2025 | Validação das histórias de usuário 39 a 42 | [Eric Akio](https://github.com/eric-kingu) | [Maria Eduarda](https://github.com/maaduh)  |
-| 1.7 | 31/05/2025 | Documentação das histórias de usuário 25 a 30 | [Maria Eduarda](https://github.com/maaduh) |  |
-| 1.8 | 31/05/2025 | Adição dos vídeos de validação das Histórias de usuário US19 até a US24 |  [João Lobo](https://github.com/joaolobo10) |  |
+| 1.7 | 31/05/2025 | Documentação das histórias de usuário 25 a 30 | [Maria Eduarda](https://github.com/maaduh) | [Giovana Barbosa ](https://github.com/gio221) |
+| 1.8 | 31/05/2025 | Adição dos vídeos de validação das Histórias de usuário US19 até a US24 |  [João Lobo](https://github.com/joaolobo10) | [Giovana Barbosa ](https://github.com/gio221) |

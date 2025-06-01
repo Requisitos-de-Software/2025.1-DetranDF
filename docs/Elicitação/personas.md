@@ -2,7 +2,7 @@
 Durante o processo de elicitação de requisitos, utilizamos personas — representações fictícias baseadas em dados reais dos usuários. Essas personas ajudam a concentrar a análise nos comportamentos, formas de pensar, metas e motivações dos usuários do sistema.
 
 # Objetivo
-O principal objetivo da criação de personas é transformar perfis típicos de usuários em representações concretas, mesmo que fictícias, para facilitar a identificação e priorização de requisitos.
+O principal objetivo da criação de personas é transformar perfis típicos de usuários em representações concretas, mesmo que fictícias, para facilitar a identificação e priorização de requisitos. As personas foram criadas no projeto para que possamos ultilizar elas nas elicitações de requisitos
 
 # Metodologia
 A partir dos dados coletados por meio de um questionário de perfil de usuário, traçamos o perfil do público-alvo e criamos quatro personas: duas primárias, uma secundária e uma antipersona. Seguindo os elementos sugeridos por Courage e Baxter (2005 apud BARBOSA et al., 2021)², cada persona foi construída com nome, idade, sobrenome e imagem fictícia, além de informações sobre ocupação, nível educacional, habilidades, relacionamentos, objetivos, expectativas em relação ao app, requisitos, tarefas comuns e uma breve descrição.

@@ -435,11 +435,61 @@ Continuidade do sistema e recuperação de falhas.
 
 ##  6. Portabilidade / Compatibilidade
 
-Funcionamento do sistema em diferentes plataformas.
+#### SIG de compatibilidade
+
+Na figura mostra o SIG de compatibilidade
+
+<font size="3"><p style="text-align: center"><b> Figura x:</b> SIG-compatibilidade</font>
+![SIG-Acessibilidade](../../assets/nfr/compatibilidade.jpg)
+ <font size="3"><p style="text-align: center"><b>Fonte:[Gabriel Mendes](https://github.com/gbevi) , 2025.</b> </font>
+
+Na tabela x temos os requisitos não funcionais de portabilidade/compatibilidade
+
+<font size="3"><b>Tabela x:</b>requisitos não funcionais de portabilidade/compatibilidade </font>
 
 | Código | Requisito |
 |--------|-----------|
 | RNF02 | Compatibilidade com diferentes dispositivos e sistemas |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
+
+Na tabela x temos o cartão de especificação do requisito RNF02.
+
+<font size="3"><b>Tabela X:</b> Cartão de Especificação do Requisito RNF02</font>
+
+|                  Item                   |                                                                                     Descrição                                                                                     |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Nr Requisito**                       | RNF02                                                                                                                                                                              |
+| **Classificação**                      | Portabilidade / Compatibilidade                                                                                                                                                   |
+| **Descrição**                          | Compatibilidade com diferentes dispositivos e sistemas.                                                                                                                           |
+| **Justificativa**                      | A diversidade de plataformas e dispositivos utilizados por usuárixs exige que o sistema funcione corretamente em todos os contextos de uso.                                       |
+| **Origem**                             | BS14 e IS10                                                                                                                                                                        |
+| **Critério de Aceitação**             | O sistema deve ser executável sem falhas nos sistemas operacionais IOS e Android.                        |
+| **Dependências**                       | Uso de tecnologias responsivas e frameworks multiplataforma.                                                                                                                      |
+| **Prioridade**                         | 9                                                                                                                                                                                  |
+| **Conflitos**                          | Pode haver conflito com requisitos de desempenho em dispositivos com hardware limitado.                                                                                           |
+| **História**                           | Criado em 01/06/2025                                                                                                                                            |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
+
+# Propagação de Impactos
+
+| Softgoal Fonte         | Softgoal Alvo              | Tipo de Impacto |
+|------------------------|----------------------------|------------------|
+| Multiplataforma        | Portabilidade              | ✓                |
+| Responsividade         | Compatibilidade            | 𝒲+               |
+| Suporte a navegadores  | Compatibilidade            | ✓                |
+| Modularidade do sistema| Portabilidade              | 𝒲+               |
+| Frameworks modernos    | Compatibilidade            | ✓                |
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
+
+#### Validação com o usuário
+
+No video abaixo é feito a validação da parte de acessibilidade pelo integrante [Gabriel Mendes](https://github.com/gbevi) com a usuária Karinna.
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/xKJIMlwFndg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/xKJIMlwFndg" target="blanket">Vídeo da= validação com o usuário</a></p>
 
 ---
 
@@ -557,3 +607,4 @@ Na figura monstra o SIG referente a Qualidade e Feedback do aplicativo Detran-DF
 |  1.6  | 01/06/2025 |       Adição SIG Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) | |
 |  1.7  | 01/06/2025 |       Adição Propagação de impactos RNF08 e 07 | [Luiz Bessa](https://github.com/lfelipebessa) | |
 |  1.8  | 01/06/2025 |       Adição SIG com propagação QF | [Luiz Bessa](https://github.com/lfelipebessa) | |
+|  1.9  | 01/06/2025 |       Adição de cartões para RNF02 e propagação de impacto, SIG de portabilidade/compatibilidade | [Gabriel Mendes](https://github.com/gbevi) | |

@@ -195,7 +195,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | ------------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF01](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                               |
 | **Classificação**         | Usabilidade > Interface                                             |
-| **Descrição**             | Interface intuitiva e fácil de navegar                              |
+| **Descrição**             | O sistema deve apresentar uma interface clara e organizada, facilitando a navegação e permitindo que o usuário encontre rapidamente as funcionalidades desejadas, mesmo sem conhecimento técnico prévio.                              |
 | **Justificativa**         | Facilitar o uso do sistema por qualquer perfil de usuário           |
 | **Origem**                | [BS13](../../Elicitação/Tecnicas-de-elecitação/brainstorming.md#tabela-requisitos), [IS07](../../Elicitação/Tecnicas-de-elecitação/Introspecção.md#tabela-requisitos)                                   |
 | **Critério de Aceitação** | Usuários realizam tarefas principais sem necessidade de treinamento |
@@ -214,7 +214,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | --------------------------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF04](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                             |
 | **Classificação**         | Usabilidade > Conteúdo                                                            |
-| **Descrição**             | Área educacional com explicações e vídeos                                         |
+| **Descrição**             | Deve existir uma seção com conteúdos didáticos, incluindo textos e vídeos, que ajudem o usuário a entender o funcionamento do sistema e conceitos importantes relacionados.                                            |
 | **Justificativa**         | Promover autonomia e aprendizado do usuário sobre o sistema e o domínio           |
 | **Origem**                | [BS16](../../Elicitação/Tecnicas-de-elecitação/brainstorming.md#tabela-requisitos)                                            |
 | **Critério de Aceitação** | Disponibilidade de área educacional com pelo menos 5 vídeos e textos explicativos |
@@ -233,7 +233,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | ---------------------------------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF09](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                                    |
 | **Classificação**         | Usabilidade > Layout                                                                     |
-| **Descrição**             | Layout com foco em simplicidade e legibilidade                                           |
+| **Descrição**             | O layout deve priorizar a apresentação limpa e objetiva das informações, com uso de elementos visuais simples e tipografia legível, facilitando a leitura e a compreensão.                                           |
 | **Justificativa**         | Reduzir sobrecarga cognitiva e melhorar experiência do usuário                           |
 | **Origem**                | [BS21](../../Elicitação/Tecnicas-de-elecitação/brainstorming.md#tabela-requisitos)                                                                  |
 | **Critério de Aceitação** | Contraste adequado, fontes legíveis e ausência de excesso de elementos em todas as telas |
@@ -252,7 +252,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | ----------------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF12](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                   |
 | **Classificação**         | Usabilidade > Conteúdo                                                  |
-| **Descrição**             | Explicações acessíveis sobre siglas (ex: RENAVAM)                       |
+| **Descrição**             | O sistema deve oferecer explicações claras e acessíveis sobre siglas ou termos técnicos, garantindo que todos os usuários compreendam seu significado sem necessidade de pesquisa externa.                       |
 | **Justificativa**         | Garantir compreensão total das informações apresentadas                 |
 | **Origem**                | [GLO05](../../Elicitação/Tecnicas-de-elecitação/glossario.md#tabela-requisitos)                                       |
 | **Critério de Aceitação** | Todas as siglas apresentadas com tooltip ou seção explicativa associada |
@@ -271,7 +271,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | --------------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF14](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                                 |
 | **Classificação**         | Usabilidade > Acessibilidade                                          |
-| **Descrição**             | Interface adaptada para idosos e iniciantes                           |
+| **Descrição**             | A interface deve ser projetada considerando as necessidades de idosos e usuários iniciantes, com elementos visuais destacados, comandos simples e textos em tamanho adequado.                           |
 | **Justificativa**         | Incluir públicos com menor familiaridade tecnológica                  |
 | **Origem**                | [Storytelling - Olavo, Marina](../../Elicitação/Tecnicas-de-elecitação/Storytelling.md#tabela-requisitos)                                     |
 | **Critério de Aceitação** | Modo acessível com fontes maiores e navegação simplificada disponível |
@@ -290,7 +290,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | ---------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF17](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                           |
 | **Classificação**         | Usabilidade > Feedback                                           |
-| **Descrição**             | Feedback visual e sonoro nas interações do usuário               |
+| **Descrição**             | O sistema deve fornecer respostas visuais e/ou sonoras sempre que o usuário realizar uma ação, garantindo clareza sobre o resultado de cada interação.               |
 | **Justificativa**         | Aumentar percepção de controle e prevenir erros                  |
 | **Origem**                | [Storytelling - Diego, Olavo](../../Elicitação/Tecnicas-de-elecitação/Storytelling.md#tabela-requisitos)                                                   |
 | **Critério de Aceitação** | Todas as ações críticas com retorno visual ou sonoro perceptível |
@@ -309,7 +309,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 | ------------------------- | -------------------------------------------------------------- |
 | **Nr Requisito**          | [RNF20](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                                                          |
 | **Classificação**         | Usabilidade > Layout                                           |
-| **Descrição**             | Interface com poucos elementos por tela para facilitar leitura |
+| **Descrição**             | Cada tela deve conter apenas os elementos essenciais, evitando sobrecarga de informações e facilitando a leitura e a navegação, especialmente para usuários menos experientes. |
 | **Justificativa**         | Reduzir carga cognitiva e facilitar compreensão rápida         |
 | **Origem**                | [Storytelling - Olavo](../../Elicitação/Tecnicas-de-elecitação/Storytelling.md#tabela-requisitos)                                             |
 | **Critério de Aceitação** | Deve haver possibilidade futura de incluir idiomas adicionais, como libras, para acessibilidade.                  |

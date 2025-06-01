@@ -173,7 +173,7 @@ Primeiro fizemos a elicitação de requisitos na etapa anterior, que pode ser en
 
 ## 1. NFR Usabilidade
 
-<font size="3"><b>Tabela 1:</b>Requisitos não funcionais de usabilidade </font>
+<font size="3"><b>Tabela 2:</b>Requisitos não funcionais de usabilidade </font>
 
 | Código | Requisito |
 |--------|-----------|
@@ -188,7 +188,7 @@ Primeiro fizemos a elicitação de requisitos na etapa anterior, que pode ser en
 #### Cartões de Especificação:
 Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos não funcionais utilizados para a criação do NFR.
 
-<font size="3"><b>Tabela 2:</b> Interface intuitiva e fácil de navegar </font>
+<font size="3"><b>Tabela 3:</b> Interface intuitiva e fácil de navegar </font>
 
 
 | **Item**                  | **Descrição**                                                       |
@@ -208,7 +208,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 
 ---
 
-<font size="3"><b>Tabela 3:</b> Área educacional com explicações e vídeos </font>
+<font size="3"><b>Tabela 4:</b> Área educacional com explicações e vídeos </font>
 
 | **Item**                  | **Descrição**                                                                     |
 | ------------------------- | --------------------------------------------------------------------------------- |
@@ -227,7 +227,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 
 ---
 
-<font size="3"><b>Tabela 4:</b> Layout com foco em simplicidade e legibilidade </font>
+<font size="3"><b>Tabela 5:</b> Layout com foco em simplicidade e legibilidade </font>
 
 | **Item**                  | **Descrição**                                                                            |
 | ------------------------- | ---------------------------------------------------------------------------------------- |
@@ -246,7 +246,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 
 ---
 
-<font size="3"><b>Tabela 5:</b> Explicações acessíveis sobre siglas (ex: RENAVAM) </font>
+<font size="3"><b>Tabela 6:</b> Explicações acessíveis sobre siglas (ex: RENAVAM) </font>
 
 | **Item**                  | **Descrição**                                                           |
 | ------------------------- | ----------------------------------------------------------------------- |
@@ -265,7 +265,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 
 ---
 
-<font size="3"><b>Tabela 6:</b> Interface adaptada para idosos e iniciantes  </font>
+<font size="3"><b>Tabela 7:</b> Interface adaptada para idosos e iniciantes  </font>
 
 | **Item**                  | **Descrição**                                                         |
 | ------------------------- | --------------------------------------------------------------------- |
@@ -284,7 +284,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 
 ---
 
-<font size="3"><b>Tabela 7:</b> Feedback visual e sonoro nas interações do usuário   </font>
+<font size="3"><b>Tabela 8:</b> Feedback visual e sonoro nas interações do usuário   </font>
 
 | **Item**                  | **Descrição**                                                    |
 | ------------------------- | ---------------------------------------------------------------- |
@@ -303,7 +303,7 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 
 ---
 
-<font size="3"><b>Tabela 8:</b> Interface com poucos elementos por tela para facilitar leitura</font>
+<font size="3"><b>Tabela 9:</b> Interface com poucos elementos por tela para facilitar leitura</font>
 
 | **Item**                  | **Descrição**                                                  |
 | ------------------------- | -------------------------------------------------------------- |
@@ -321,12 +321,12 @@ Abaixo seguem as tabelas contendo os cartões de especificação dos requisitos 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
 
 Sem propagação de impactos:
-<font size="3"><p style="text-align: center"><b> Figura 1:</b> SIG Usabilidade Sem propagação de Impactos.</font>
+<font size="3"><p style="text-align: center"><b> Figura 4:</b> SIG Usabilidade Sem propagação de Impactos.</font>
 ![SIG Usabilidade Sem propagação de Impactos.](../../assets/NFRusabilidade.drawio.png)
  <font size="3"><p style="text-align: center"><b>Fonte:</b> [Pedro Camilo](https://github.com/PedrooCamilo)</font>
 
 Com prapagação de impactos:
-<font size="3"><p style="text-align: center"><b> Figura 1:</b> Propagação de Impactos.</font>
+<font size="3"><p style="text-align: center"><b> Figura 5:</b> Propagação de Impactos.</font>
 ![Propagação de Impactos.](../../assets/nfrusabilidade_impactos.drawio.png)
  <font size="3"><p style="text-align: center"><b>Fonte:</b> [Pedro Camilo](https://github.com/PedrooCamilo)</font>
 
@@ -336,13 +336,13 @@ Com prapagação de impactos:
 
 Na figura monstra o SIG de Acessibilidade 
 
-<font size="3"><p style="text-align: center"><b> Figura 1:</b> SIG-Acessibilidade</font>
+<font size="3"><p style="text-align: center"><b> Figura 6:</b> SIG-Acessibilidade</font>
 ![SIG-Acessibilidade](../../assets/Captura%20de%20tela%202025-06-01%20001723.png)
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 Na tabela 2 temos os requisitos não funcionais de acessibilidade 
 
-<font size="3"><b>Tabela 2:</b>requisitos não funcionais de acessibilidade </font>
+<font size="3"><b>Tabela 10:</b>requisitos não funcionais de acessibilidade </font>
 
 | Código | Requisito |
 |--------|-----------|
@@ -358,7 +358,7 @@ Na tabela 2 temos os requisitos não funcionais de acessibilidade
 
 Na tabela 3 temos o requisito não funcional 05
 
-<font size="3"><b>Tabela 2:</b>requisito não funcional 05 </font>
+<font size="3"><b>Tabela 11:</b>requisito não funcional 05 </font>
 
 |                  Item                   |                                                                      Descrição                                                                       |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -376,7 +376,7 @@ Na tabela 3 temos o requisito não funcional 05
 
 Na tabela 4 temos o requisito não funcional 06
 
-<font size="3"><b>Tabela 2:</b>requisito não funcional 06 </font>
+<font size="3"><b>Tabela 12:</b>requisito não funcional 06 </font>
 
 |                  Item                   |                                                                      Descrição                                                                       |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -394,7 +394,7 @@ Na tabela 4 temos o requisito não funcional 06
 
 Na tabela 5 temos o requisito não funcional 11
 
-<font size="3"><b>Tabela 2:</b>requisito não funcional 11 </font>
+<font size="3"><b>Tabela 13:</b>requisito não funcional 11 </font>
 
 |                  Item                   |                                                                      Descrição                                                                       |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -413,7 +413,7 @@ Na tabela 5 temos o requisito não funcional 11
 
 Na tabela 6 temos o requisito não funcional 13
 
-<font size="3"><b>Tabela 2:</b>requisito não funcional 13 </font>
+<font size="3"><b>Tabela 14:</b>requisito não funcional 13 </font>
 
 |                  Item                   |                                                                      Descrição                                                                       |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -431,7 +431,7 @@ Na tabela 6 temos o requisito não funcional 13
 
 Na tabela 7 temos o requisito não funcional 14
 
-<font size="3"><b>Tabela 7 :</b>requisito não funcional 14 </font>
+<font size="3"><b>Tabela 15:</b>requisito não funcional 14 </font>
 
 |                  Item                   |                                                                      Descrição                                                                       |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -450,7 +450,7 @@ Na tabela 7 temos o requisito não funcional 14
 #### Propagação de Impactos
 Na tabela 8 temos a propagação de impactos da acessibilidade 
 
-<font size="3"><b>Tabela 8:</b>requisito não funcional 14 </font>
+<font size="3"><b>Tabela 16:</b>requisito não funcional 14 </font>
 
 | NFR                                                                 | Impacto | Avaliador         |
 |----------------------------------------------------------------------|---------|--------------------|
@@ -526,7 +526,7 @@ Tempo de resposta, leveza do app e uso eficiente de recursos.
 
 ### Propagação de Impactos
 
-<font size="3"><b>Tabela x:</b>Requisito não funcional 10 </font>
+<font size="3"><b>Tabela 17:</b>Requisito não funcional 10 </font>
 
 | NFR                                                                 | Impacto | Avaliador         |
 |----------------------------------------------------------------------|---------|--------------------|
@@ -540,7 +540,7 @@ Tempo de resposta, leveza do app e uso eficiente de recursos.
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
 
-<font size="3"><b>Tabela x:</b>Requisito não funcional 15 </font>
+<font size="3"><b>Tabela 18:</b>Requisito não funcional 15 </font>
 
 | NFR                                                                 | Impacto | Avaliador         |
 |----------------------------------------------------------------------|---------|--------------------|
@@ -555,7 +555,7 @@ Tempo de resposta, leveza do app e uso eficiente de recursos.
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
 
-<font size="3"><b>Tabela 8:</b>Requisito não funcional 16 </font>
+<font size="3"><b>Tabela 19:</b>Requisito não funcional 16 </font>
 
 | NFR                                                                 | Impacto | Avaliador         |
 |----------------------------------------------------------------------|---------|--------------------|
@@ -580,7 +580,7 @@ Proteção de dados pessoais e veiculares.
 
 Na figura mostra o SIG de segurança
 
-<font size="3"><p style="text-align: center"><b> Figura x:</b> SIG-Segurança</font>
+<font size="3"><p style="text-align: center"><b> Figura 6:</b> SIG-Segurança</font>
 ![SIG-SEGURANÇA](../../assets/nfrseg.png)
  <font size="3"><p style="text-align: center"><b>Fonte:[Maria Eduarda](https://github.com/maaduh) , 2025.</b> </font>
 
@@ -606,9 +606,9 @@ Na figura mostra o SIG de segurança
 
 ## Propagação de Impactos
 
-A Tabela 11 apresenta a análise de impacto do requisito RNF03:
+A Tabela 20 apresenta a análise de impacto do requisito RNF03:
 
-**Tabela 11: Propagação de impactos do requisito RNF03**
+**Tabela 20: Propagação de impactos do requisito RNF03**
 
 | NFR                                                        | Impacto | Avaliador         |
 |-------------------------------------------------------------|---------|-------------------|
@@ -677,7 +677,7 @@ Continuidade do sistema e recuperação de falhas.
 
 #### Propagação de Impactos
 
-<font size="3"><p style="text-align: center">**Tabela 9 -** Requisito não funcional 18.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 21 -** Requisito não funcional 18.</p></font>
 
 | **NFR Relacionado**                                        | **Impacto sobre RNF18 – Disponibilidade** | **Avaliador**                                           |
 |------------------------------------------------------------|--------------------------------------------|---------------------------------------------------------|
@@ -692,7 +692,7 @@ Continuidade do sistema e recuperação de falhas.
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
-<font size="3"><p style="text-align: center">**Tabela 10 -** Requisito não funcional 19.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 22 -** Requisito não funcional 19.</p></font>
 
 | **NFR Relacionado**                                        | **Impacto sobre RNF19 – Confiabilidade** | **Avaliador**                                           |
 |------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------|
@@ -708,7 +708,7 @@ Continuidade do sistema e recuperação de falhas.
 
 #### Sem Propagação de Impactos
 
-<font size="3"><p style="text-align: center">**Figura 04:** NFR Disponibilidade Sem propagação de Impactos.</p></font>
+<font size="3"><p style="text-align: center">**Figura 07:** NFR Disponibilidade Sem propagação de Impactos.</p></font>
 
 
 ![Tipo-decomposição](../../assets/nfr/sigs/SIG-de-disponibilidade.jpg)
@@ -756,13 +756,13 @@ No video abaixo é feito a validação da parte de acessibilidade pelo integrant
 
 Na figura mostra o SIG de compatibilidade
 
-<font size="3"><p style="text-align: center"><b> Figura x:</b> SIG-compatibilidade</font>
+<font size="3"><p style="text-align: center"><b> Figura 08:</b> SIG-compatibilidade</font>
 ![SIG-Acessibilidade](../../assets/nfr/compatibilidade.jpg)
  <font size="3"><p style="text-align: center"><b>Fonte:[Gabriel Mendes](https://github.com/gbevi) , 2025.</b> </font>
 
 Na tabela x temos os requisitos não funcionais de portabilidade/compatibilidade
 
-<font size="3"><b>Tabela x:</b>requisitos não funcionais de portabilidade/compatibilidade </font>
+<font size="3"><b>Tabela 23:</b>requisitos não funcionais de portabilidade/compatibilidade </font>
 
 | Código | Requisito |
 |--------|-----------|
@@ -772,14 +772,14 @@ Na tabela x temos os requisitos não funcionais de portabilidade/compatibilidade
 
 Na tabela x temos o cartão de especificação do requisito RNF02.
 
-<font size="3"><b>Tabela X:</b> Cartão de Especificação do Requisito RNF02</font>
+<font size="3"><b>Tabela 24:</b> Cartão de Especificação do Requisito RNF02</font>
 
 |                  Item                   |                                                                                     Descrição                                                                                     |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Nr Requisito**                       | RNF02                                                                                                                                                                              |
 | **Classificação**                      | Portabilidade / Compatibilidade                                                                                                                                                   |
 | **Descrição**                          | Compatibilidade com diferentes dispositivos e sistemas.                                                                                                                           |
-| **Justificativa**                      | A diversidade de plataformas e dispositivos utilizados por usuárixs exige que o sistema funcione corretamente em todos os contextos de uso.                                       |
+| **Justificativa**                      | A diversidade de plataformas e dispositivos utilizados por usuários exige que o sistema funcione corretamente em todos os contextos de uso.                                       |
 | **Origem**                             | BS14 e IS10                                                                                                                                                                        |
 | **Critério de Aceitação**             | O sistema deve ser executável sem falhas nos sistemas operacionais IOS e Android.                        |
 | **Dependências**                       | Uso de tecnologias responsivas e frameworks multiplataforma.                                                                                                                      |
@@ -805,8 +805,8 @@ Na tabela x temos o cartão de especificação do requisito RNF02.
 
 No video abaixo é feito a validação da parte de acessibilidade pelo integrante [Gabriel Mendes](https://github.com/gbevi) com a usuária Karinna.
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/xKJIMlwFndg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href=" https://youtu.be/xKJIMlwFndg" target="blanket">Vídeo da validação com o usuário</a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/vkY-koOOFhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/vkY-koOOFhs" target="blanket">Vídeo da validação com o usuário</a></p>
 
 ---
 

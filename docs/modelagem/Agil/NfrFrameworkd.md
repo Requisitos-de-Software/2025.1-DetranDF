@@ -457,7 +457,7 @@ Na figura monstra o SIG de Acessibilidade
 
 <font size="3"><p style="text-align: center"><b> Figura 10:</b> SIG-Qualidade e feedback</font>
 ![SIG-QualidadeEFeedback](../../assets/QualidadeeFeedback-2.pdf)
- <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Bessa](https://github.com/lfelipebessa)</font>
+ <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Bessa](https://github.com/lfelipebessa), 2025</font>
 ---
 
 ### Cartão 5 – RNF07  <a id="cartao-rnf07"></a>
@@ -497,8 +497,45 @@ Na figura monstra o SIG de Acessibilidade
 <font size="3"><p align="center">Fonte: <a href="https://github.com/lfelipebessa">Luiz Bessa</a>, 2025.</p></font>
 
 ---
+### Propagação de Impactos
+### Tabela QF-01 – Propagação de Impactos do **RNF07**  
+*Sistema de avaliação in-app baseado no uso real*
 
+| Soft-goal / Elemento do SIG (Qualidade & Feedback) | Impacto | Avaliador |
+|----------------------------------------------------|:-------:|-----------|
+| Área de avaliação **autoescolas**                  | ✓       | Luiz Bessa |
+| Formulário para avaliar **autoescolas**            | 𝒲+      | Luiz Bessa |
+| Formulário para avaliar **instrutores**            | 𝒲+      | Luiz Bessa |
+| Área de avaliação **aplicativo (Play / App Store)**| ✓       | Luiz Bessa |
+| Formulário para avaliar **o aplicativo**           | 𝒲++     | Luiz Bessa |
+| Usuário deve se sentir **seguro ao avaliar**       | ✓       | Luiz Bessa |
+| **Opção de avaliação anônima**                     | 𝒲+      | Luiz Bessa |
+| **Evitar manipulação** das avaliações              | 𝒲++     | Luiz Bessa |
+| Validação interna                                  | 𝒲+      | Luiz Bessa |
+| Usuário só pode **avaliar 1 vez**                  | ✓       | Luiz Bessa |
 
+<font size="3"><p align="center">Fonte: <a href="https://github.com/lfelipebessa">Luiz Bessa</a>, 2025.</p></font>
+---
+
+### Tabela QF-02 – Propagação de Impactos do **RNF08**  
+*Propaganda e divulgação eficazes dentro do aplicativo*
+
+| Soft-goal / Elemento do SIG (Qualidade & Feedback)  | Impacto | Avaliador |
+|-----------------------------------------------------|:-------:|-----------|
+| **Banner** interno de divulgação                    | 𝒲++     | Luiz Bessa |
+| **Push** direcionado (informativo, não intrusivo)   | 𝒲+      | Luiz Bessa |
+| Compartilhar em **redes sociais**                   | 𝒲+      | Luiz Bessa |
+| Métrica de **adesão / instalação**                  | ✓       | Luiz Bessa |
+| Respeitar limite de **frequência** (1 vez/semana)   | ✓       | Luiz Bessa |
+| Conteúdo **acessível** (texto alternativo, contraste)| 𝒲+     | Luiz Bessa |
+| Evitar **clutter** (sobrecarregar a UI)             | 𝒲-      | Luiz Bessa |
+| Tempo de **carregamento** de campanhas              | 𝒲-      | Luiz Bessa |
+| **Opt-out** fácil e visível                         | ✓       | Luiz Bessa |
+| Monitorar **taxa de rejeição** da campanha          | 𝒲+      | Luiz Bessa |
+
+<font size="3"><p align="center">Fonte: <a href="https://github.com/lfelipebessa">Luiz Bessa</a>, 2025.</p></font>
+
+---
 ## Histórico de versão
 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
@@ -507,7 +544,7 @@ Na figura monstra o SIG de Acessibilidade
 |  1.1   | 20/05/2025 |       Iintrodução, objetivo, meotodologia, cartões de especificação        | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
 |  1.2   | 31/05/2025 |       Adição de cartões para RNF03, 18 e 19, criação de cartão para Disponbilidade e Confiabilidade        | [João Lobo](https://github.com/joaolobo10) | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.3   | 31/05/2025 |       Adição de cartões para RNF07 e 08 criação de cartão para Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) |[Giovana Barbosa ](https://github.com/gio221) |
-|  1.4  | 31/05/2025 |       Adição de cartões para acessibilidade, SIG e a Propragação de impactos: | [Giovana Barbosa ](https://github.com/gio221) | |
-|  1.5  | 31/05/2025 |  Adição de seção SIG, Interdependências. decomposições, contribuições além das figuras juntamente as seções, além disso adicionei para as RNF18 e 19, as tabelas de propagação de impactos.      | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
+|  1.4  | 31/05/2025 |       Adição de cartões para acessibilidade, SIG e a Propragação de impactos: | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10), [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.5  | 31/05/2025 |  Adição de seção SIG, Interdependências. decomposições, contribuições além das figuras juntamente as seções, além disso adicionei para as RNF18 e 19, as tabelas de propagação de impactos.      | [João Lobo](https://github.com/joaolobo10) | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.6  | 01/06/2025 |       Adição SIG Qualidade e Feedback | [Luiz Bessa](https://github.com/lfelipebessa) | |
-
+|  1.7  | 01/06/2025 |       Adição Propagação de impactos RNF08 e 07 | [Luiz Bessa](https://github.com/lfelipebessa) | |

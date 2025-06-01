@@ -379,7 +379,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 # [US19] - Solicitar troca de PPD para CNH definitiva
 
-<p align="center"><strong>Tabela 15 -</strong> Solicitar troca de PPD para CNH definitiva.</p>
+<p align="center"><strong>Tabela 21 -</strong> Solicitar troca de PPD para CNH definitiva.</p>
 
 | Item                         | Descrição                                                                                                      |
 | :--------------------------: | :-----------------------------------------------------------------------------------------------------------: |
@@ -398,7 +398,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 # [US20] - Solicitar segunda via da CNH e CRLV
 
-<p align="center"><strong>Tabela 16 -</strong> Solicitar segunda via da CNH e CRLV.</p>
+<p align="center"><strong>Tabela 22 -</strong> Solicitar segunda via da CNH e CRLV.</p>
 
 | Item                         | Descrição                                                                                                      |
 | :--------------------------: | :-----------------------------------------------------------------------------------------------------------: |
@@ -417,7 +417,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 # [US21] - Acompanhar andamento dos processos
 
-<p align="center"><strong>Tabela 17 -</strong> Acompanhar andamento dos processos.</p>
+<p align="center"><strong>Tabela 23 -</strong> Acompanhar andamento dos processos.</p>
 
 | Item                         | Descrição                                                                                                      |
 | :--------------------------: | :-----------------------------------------------------------------------------------------------------------: |
@@ -436,7 +436,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 # [US22] - Solicitar reposição da placa Mercosul
 
-<p align="center"><strong>Tabela 18 -</strong> Solicitar reposição da placa Mercosul.</p>
+<p align="center"><strong>Tabela 24 -</strong> Solicitar reposição da placa Mercosul.</p>
 
 | Item                         | Descrição                                                                                                      |
 | :--------------------------: | :-----------------------------------------------------------------------------------------------------------: |
@@ -455,7 +455,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 # [US23] - Solicitar conversão de placa para Mercosul
 
-<p align="center"><strong>Tabela 19 -</strong> Solicitar conversão de placa para Mercosul.</p>
+<p align="center"><strong>Tabela 25 -</strong> Solicitar conversão de placa para Mercosul.</p>
 
 | Item                         | Descrição                                                                                                      |
 | :--------------------------: | :-----------------------------------------------------------------------------------------------------------: |
@@ -474,7 +474,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 # [US24] - Converter autuação em penalidade
 
-<p align="center"><strong>Tabela 20 -</strong> Converter autuação em penalidade.</p>
+<p align="center"><strong>Tabela 26 -</strong> Converter autuação em penalidade.</p>
 
 | Item                         | Descrição                                                                                                      |
 | :--------------------------: | :-----------------------------------------------------------------------------------------------------------: |
@@ -489,9 +489,11 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 <p align="center">Fonte: <a href="https://github.com/joaolobo10">João Lobo</a>, 2025.</p>
 
----
+
 
 ## US25 - Iniciar nova solicitação pelo Protocolo-e
+
+<p align="center"><strong>Tabela 27 -</strong> Iniciar nova solicitação pelo Protocolo-e</p>
 
 | Item                   | Descrição                                                                                                        |
 |------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -508,6 +510,8 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 ---
 
 ## US26 - Acompanhar solicitação feita pelo Protocolo-e
+
+<p align="center"><strong>Tabela 28 -</strong> Acompanhar solicitação feita pelo Protocolo-e</p>
 
 | Item                   | Descrição                                                                                                        |
 |------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -526,6 +530,8 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ## US27 - Solicitar credencial de estacionamento para idoso
 
+<p align="center"><strong>Tabela 29 -</strong> Solicitar credencial de estacionamento para idoso</p>
+
 | Item                   | Descrição                                                                                                        |
 |------------------------|------------------------------------------------------------------------------------------------------------------|
 | **US27**               | US27                                                                                                             |
@@ -542,6 +548,8 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 ---
 
 ## US28 - Solicitar credencial para pessoas com TEA
+
+<p align="center"><strong>Tabela 30 -</strong> Solicitar credencial para pessoas com TEA</p>
 
 | Item                   | Descrição                                                                                                        |
 |------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -560,6 +568,8 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ## US29 - Pagamento de débitos para liberação de veículo
 
+<p align="center"><strong>Tabela 31 -</strong>Pagamento de débitos para liberação de veículo</p>
+
 | Item                   | Descrição                                                                                                        |
 |------------------------|------------------------------------------------------------------------------------------------------------------|
 | **US29**               | US29                                                                                                             |
@@ -576,6 +586,8 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 ---
 
 ## US30 - Verificar autorização para transporte escolar
+
+<p align="center"><strong>Tabela 32 -</strong>Verificar autorização para transporte escolar</p>
 
 | Item                   | Descrição                                                                                                        |
 |------------------------|------------------------------------------------------------------------------------------------------------------|
@@ -594,7 +606,8 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 # [US31] - Solicitação de Autorização para Transporte Escolar
 
-<p align="center"><strong>Tabela 31 -</strong> Solicitação de Autorização para Transporte Escolar.</p>
+
+<p align="center"><strong>Tabela 33 -</strong> Solicitação de Autorização para Transporte Escolar.</p>
 
 | Item                             | Descrição |
 |----------------------------------|-----------|
@@ -613,7 +626,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 # [US32] - Pagamentos de Taxas e Débitos
 
-<p align="center"><strong>Tabela 32 -</strong> Pagamentos de Taxas e Débitos.</p>
+<p align="center"><strong>Tabela 34 -</strong> Pagamentos de Taxas e Débitos.</p>
 
 | Item                             | Descrição |
 |----------------------------------|-----------|
@@ -632,7 +645,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 # [US33] - Geração de Boletos
 
-<p align="center"><strong>Tabela 33 -</strong> Geração de Boletos</p>
+<p align="center"><strong>Tabela 35 -</strong> Geração de Boletos</p>
 
 | Item                             | Descrição |
 |----------------------------------|-----------|
@@ -651,7 +664,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 # [US34] - 	Atendimento com Inteligência Artificial
 
-<p align="center"><strong>Tabela 34 -</strong> Geração de Boletos</p>
+<p align="center"><strong>Tabela 36 -</strong> Geração de Boletos</p>
 
 | Item                             | Descrição |
 |----------------------------------|-----------|
@@ -670,7 +683,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 # [US35] - Atendimento Humano
 
-<p align="center"><strong>Tabela 35 -</strong> 	Atendimento Humano</p>
+<p align="center"><strong>Tabela 37 -</strong> 	Atendimento Humano</p>
 
 | Item                             | Descrição |
 |----------------------------------|-----------|
@@ -689,7 +702,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 # [US36] - Apoio com Termos Técnicos
 
-<p align="center"><strong>Tabela 35 -</strong> 	Apoio com Termos Técnicos</p>
+<p align="center"><strong>Tabela 38 -</strong> 	Apoio com Termos Técnicos</p>
 
 | Item                             | Descrição |
 |----------------------------------|-----------|
@@ -818,4 +831,5 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | 1.8 | 31/05/2025 | Adição dos vídeos de validação das Histórias de usuário US19 até a US24 |  [João Lobo](https://github.com/joaolobo10) | [Giovana Barbosa ](https://github.com/gio221) |
 | 1.9 | 31/05/2025 |  Documentação das histórias de usuário US31 até a US36 |  [Pedro Camilo](https://github.com/PedrooCamilo) | [Giovana Barbosa ](https://github.com/gio221) |
 | 2.0 | 31/05/2025 |  Documentação das histórias de usuário US37 a 38 |  [Eric Akio](https://github.com/eric-kingu) | [Pedro Camilo](https://github.com/PedrooCamilo)  |
-| 2.1 | 31/05/2025 |  Vídeo de validação das histórias de usuário US31 até a US36 |  [Pedro Camilo](https://github.com/PedrooCamilo) |  |
+| 2.1 | 31/05/2025 |  Vídeo de validação das histórias de usuário US31 até a US36 |  [Pedro Camilo](https://github.com/PedrooCamilo) |  [Giovana Barbosa ](https://github.com/gio221) |
+| 2.2 | 31/05/2025 | numeração das tabelas |   [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Mendes ](https://github.com/gbevi) | 

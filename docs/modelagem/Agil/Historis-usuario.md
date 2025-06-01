@@ -705,6 +705,35 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 <p align="center">Fonte: <a href="https://github.com/PedroCamilo">Pedro Camilo</a>, 2025.</p>
 
 ---
+# [US37] - Acessar Atendimento Humano
+
+<font size="3"><b>Tabela 39:</b> História do usuário de Acessar Atendimento Humano</font>
+
+| Item | Descrição |
+|------|-----------|
+| **US37** | US37 |
+| **Tema** | Acessar Atendimento Humano |
+| **Descrição** | Eu, como usuário, desejo acessar um canal de atendimento humano para tirar dúvidas mais complexas.  |
+| **Critérios de Aceitação** | - O usuário deve conseguir acessar um canal de atendimento.<br> - O sistema deve permitir a conexão com um atendente. |
+| **Prioridade Usuário** | Alta |
+| **Status** | Validada |
+| **Rastreabilidade** | [RF30](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
+| **Validação** | [Link do vídeo](https://youtu.be/2gKGRSStj7s) |
+
+# [US38] -  Suporte Autônomo
+
+<font size="3"><b>Tabela 40:</b> História do usuário de Suporte Autônomo</font>
+
+| Item | Descrição |
+|------|-----------|
+| **US38** | US38 |
+| **Tema** | Suporte Autônomo |
+| **Descrição** |  Eu, como usuário, desejo acessar um FAQ com perguntas frequentes para resolver dúvidas simples sem precisar de atendimento |
+| **Critérios de Aceitação** | - O usuário deve conseguir acessar a seção "FAQ".<br> - O sistema deve permitir o registro de perguntas e respostas.<br> - O sistema deve mostrar as perguntas frequentes e suas respostas. |
+| **Prioridade Usuário** | Alta |
+| **Status** | Validada |
+| **Rastreabilidade** | [RF29](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
+| **Validação** | [Link do vídeo](https://youtu.be/2gKGRSStj7s) |
 
 # [US39] - Integração com Sistemas Oficiais
 

@@ -626,6 +626,23 @@ Continuidade do sistema e recuperação de falhas.
 
 <font size="3"><p style="text-align: center">**Cartão 1 -** RNF18.</p></font>
 
+|            Item           |                                                                       Descrição                                                                      |
+| :-----------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
+|      **Nr Requisito**     |                                                                         RNF19                                                                        |
+|     **Classificação**     |                                            Requisito Não Funcional → Confiabilidade → Disponibilidade                                            |
+|       **Descrição**       |      O sistema deve assegurar mecanismos de recuperação automática em caso de falhas e garantir a continuidade da navegação sem perda de dados.      |
+|     **Justificativa**     |                 Evitar que falhas do sistema comprometam a experiência do usuário e causem perda de dados ou interrupção no serviço.                 |
+|         **Origem**        |                           [Storytelling - Diego](../../Elicitação/Tecnicas-de-elecitação/Storytelling.md#story-diego)                        |
+| **Critério de Aceitação** | O sistema deve conseguir se recuperar automaticamente de falhas em até 30 segundos; logs de falhas devem ser registrados e analisados periodicamente. |
+|      **Dependências**     |                                   RNF18 (Disponibilidade)                                   |
+|       **Prioridade**      |                                                                          10                                                                          |
+|       **Conflitos**       | Pode gerar conflito com requisitos de simplicidade e custo, já que mecanismos de redundância e recuperação podem aumentar a complexidade do sistema. |
+|        **História**       |                                                     Criado em: 31-05-2025; Última modificação: 31-05-2025                                                      |
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+<font size="3"><p style="text-align: center">**Cartão 2 -** RNF19.</p></font>
+
 |            Item           |                                                                    Descrição                                                                    |
 | :-----------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
 |      **Nr Requisito**     |                                                                      RNF18                                                                      |
@@ -642,29 +659,11 @@ Continuidade do sistema e recuperação de falhas.
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
-<font size="3"><p style="text-align: center">**Cartão 2 -** RNF19.</p></font>
-
-|            Item           |                                                                       Descrição                                                                      |
-| :-----------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
-|      **Nr Requisito**     |                                                                         RNF19                                                                        |
-|     **Classificação**     |                                            Requisito Não Funcional → Confiabilidade → Tolerância a falhas                                            |
-|       **Descrição**       |      O sistema deve assegurar mecanismos de recuperação automática em caso de falhas e garantir a continuidade da navegação sem perda de dados.      |
-|     **Justificativa**     |                 Evitar que falhas do sistema comprometam a experiência do usuário e causem perda de dados ou interrupção no serviço.                 |
-|         **Origem**        |                           [Storytelling - Diego](../../Elicitação/Tecnicas-de-elecitação/Storytelling.md#story-diego)                        |
-| **Critério de Aceitação** | O sistema deve conseguir se recuperar automaticamente de falhas em até 5 segundos; logs de falhas devem ser registrados e analisados periodicamente. |
-|      **Dependências**     |                                   RNF18 (Disponibilidade)                                   |
-|       **Prioridade**      |                                                                          10                                                                          |
-|       **Conflitos**       | Pode gerar conflito com requisitos de simplicidade e custo, já que mecanismos de redundância e recuperação podem aumentar a complexidade do sistema. |
-|        **História**       |                                                     Criado em: 31-05-2025; Última modificação: 31-05-2025                                                      |
-
-
-<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
-
 ---
 
 #### Propagação de Impactos
 
-<font size="3"><p style="text-align: center">**Tabela x -** Requisito não funcional 18.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 9 -** Requisito não funcional 18.</p></font>
 
 | **NFR Relacionado**                                        | **Impacto sobre RNF18 – Disponibilidade** | **Avaliador**                                           |
 |------------------------------------------------------------|--------------------------------------------|---------------------------------------------------------|
@@ -672,17 +671,16 @@ Continuidade do sistema e recuperação de falhas.
 | **Monitoramento e Logs**                                   | ✓                                          | [João Lobo](https://github.com/joaolobo10)             |
 | **Capacidade de Escalabilidade**                           | 𝒲+                                         | [João Lobo](https://github.com/joaolobo10)             |
 | **Redundância de Infraestrutura**                          | ✓                                          | [João Lobo](https://github.com/joaolobo10)             |
-| **Proteção contra erros**                                  | ✓                                          | [João Lobo](https://github.com/joaolobo10)             |
+| **Balanceamento de Carga**                                  | ✓                                          | [João Lobo](https://github.com/joaolobo10)             |
 | **Simplicidade** <br>*(O sistema deve ser simples e intuitivo em sua arquitetura e funcionamento)* | 🗲                                         | [João Lobo](https://github.com/joaolobo10)             |
+| **Backup Contínuo**                                                  | 𝒲+                                           | [João Lobo](https://github.com/joaolobo10)             |
 | **Custo**                                                  | X                                          | [João Lobo](https://github.com/joaolobo10)             |
-
-
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
-<font size="3"><p style="text-align: center">**Tabela x -** Requisito não funcional 19.</p></font>
+<font size="3"><p style="text-align: center">**Tabela 10 -** Requisito não funcional 19.</p></font>
 
-| **NFR Relacionado**                                        | **Impacto sobre RNF19 – Tolerância a Falhas** | **Avaliador**                                           |
+| **NFR Relacionado**                                        | **Impacto sobre RNF19 – Confiabilidade** | **Avaliador**                                           |
 |------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------|
 | **RNF18 – Disponibilidade**                                | ✓                                              | [João Lobo](https://github.com/joaolobo10)             |
 | **Monitoramento e Logs**                                   | ✓                                              | [João Lobo](https://github.com/joaolobo10)             |
@@ -693,6 +691,42 @@ Continuidade do sistema e recuperação de falhas.
 | **Custo**                                                  | X                                              | [João Lobo](https://github.com/joaolobo10)             |
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+#### Sem Propagação de Impactos
+
+<font size="3"><p style="text-align: center">**Figura 04:** NFR Disponibilidade Sem propagação de Impactos.</p></font>
+
+
+![Tipo-decomposição](../../assets/nfr/sigs/SIG-de-disponibilidade.jpg)
+
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+<font size="3"><p style="text-align: center">**Figura 05:** NFR Confiabilidade Sem propagação de Impactos.</p></font>
+
+
+![Tipo-decomposição](../../assets/nfr/sigs/SIG-de-confiabilidade.jpg)
+
+
+<font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+#### Com Propagação de Impactos
+
+<font size="2"><p style="text-align: center">**Figura 06:** NFR Disponibilidade Com propagação de Impactos.</p></font>
+
+
+![Tipo-decomposição](../../assets/nfr/sigs/SIG-de-disponibilidade-comprop.jpg)
+
+
+<font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+<font size="2"><p style="text-align: center">**Figura 07:** NFR Confiabilidade Com propagação de Impactos.</p></font>
+
+
+![Tipo-decomposição](../../assets/nfr/sigs/SIG-de-confiabilidade-comprop.jpg)
+
+
+<font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
 #### Validação com o usuário
 
@@ -893,7 +927,7 @@ No video abaixo é feito a validação da parte de acessibilidade pelo integrant
 |  1.9  | 01/06/2025 |       Adição de vídeo de validação com o usuário da RNF 18 e 19 | [João Lobo](https://github.com/joaolobo10) | |
 |  2.0  | 01/06/2025 |       Adição de cartões para RNF02 e propagação de impacto, SIG de portabilidade/compatibilidade | [Gabriel Mendes](https://github.com/gbevi) | |
 |  2.1  | 01/06/2025 |       Adição de cartões para usabilidade, SIG e a Propragação de impactos | [Pedro Camilo ](https://github.com/PedrooCamilo) | [Eric Akio](https://github.com/eric-kingu) |
-| 2.2 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Eric Akio](https://github.com/eric-kingu) | [Maria Eduarda](https://github.com/maaduh) |
-| 2.3 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Maria Eduarda](https://github.com/maaduh) |  |
-
-
+| 2.2 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Eric Akio](https://github.com/eric-kingu) |  |
+| 2.3 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Eric Akio](https://github.com/eric-kingu) | [Maria Eduarda](https://github.com/maaduh) |
+| 2.4 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Maria Eduarda](https://github.com/maaduh) |  
+| 2.5 | 01/06/2025 | Adição de imagens das Softgoals de com e sem propagação de impactos, das RNF Disponibilidade e Confiabilidade | [João Lobo](https://github.com/joaolobo10) |  |

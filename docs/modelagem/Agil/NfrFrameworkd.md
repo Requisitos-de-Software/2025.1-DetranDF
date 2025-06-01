@@ -338,7 +338,7 @@ Na figura monstra o SIG de Acessibilidade
 
 <font size="3"><p style="text-align: center"><b> Figura 1:</b> SIG-Acessibilidade</font>
 ![SIG-Acessibilidade](../../assets/Captura%20de%20tela%202025-06-01%20001723.png)
- <font size="3"><p style="text-align: center"><b>Fonte:</b> miro</font>
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 Na tabela 2 temos os requisitos não funcionais de acessibilidade 
 
@@ -483,6 +483,7 @@ Tempo de resposta, leveza do app e uso eficiente de recursos.
 | [RNF16](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#requisitos-não-funcionais) | Tempo de resposta inferior a 2 segundos |
 
 <font size="3"><p style="text-align: center">**Cartão 1 -** RNF10.</p></font>
+
 |                  Item                |                           Descrição          |
 | :-------------------------------------: | :--------------------------------------------: |
 | **Nr Requisito:** RNF10 |                     **Classificação**: Desempenho/Eficiência              |
@@ -496,6 +497,7 @@ Tempo de resposta, leveza do app e uso eficiente de recursos.
 |              **História**               |     Criado em: 01/06/2025.<br>Última modificação em: 01/06/2025         |
 
 <font size="3"><p style="text-align: center">**Cartão 2 -** RNF15.</p></font>
+
 |                  Item                |                           Descrição          |
 | :-------------------------------------: | :--------------------------------------------: |
 | **Nr Requisito:** RNF15 |                     **Classificação**: Desempenho/Eficiência              |
@@ -509,6 +511,7 @@ Tempo de resposta, leveza do app e uso eficiente de recursos.
 |              **História**               |     Criado em: 01/06/2025.<br>Última modificação em: 01/06/2025         |
 
 <font size="3"><p style="text-align: center">**Cartão 3 -** RNF16.</p></font>
+
 |                  Item                |                           Descrição          |
 | :-------------------------------------: | :--------------------------------------------: |
 | **Nr Requisito:** RNF16 |                     **Classificação**: Desempenho/Eficiência              |

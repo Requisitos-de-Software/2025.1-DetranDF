@@ -96,11 +96,37 @@ Abaixo tem o checklist ultilizado na verificação feita pela integrante Giovana
 
 <a name="ref1"></a>
 
-
 Video da verificação que foi gravada no dia 01/06/2025 ás 18:00
  
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/6fNJFqXk_eo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
  <p style="text-align: center"><a href="https://youtu.be/6fNJFqXk_eo" target="blanket">Vídeo da verificação </a></p>
+
+## Verificação da US19 a US24
+
+Abaixo tem o checklist ultilizado na verificação feita pelo integrante [João Lobo](https://github.com/joaolobo10) nas história de usuário de 19 a 24.
+
+<font size="3"><p style="text-align: center">**Tabela 3 **- Checklist das histórias de usuário 19 a 24 </p></font>
+
+| ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
+| :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
+| 1      | As Histórias de Usuário estão bem definidas?                                                | sim |[Plano de ensino](http://127.0.0.1:8000/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresenta%C3%A7%C3%A3o4/#criterios-para-entrega)                                         | 
+| 2      | Os títulos das histórias de usuário são auto-explicativos?                                  | sim  |[Plano de ensino](http://127.0.0.1:8000/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresenta%C3%A7%C3%A3o4/#criterios-para-entrega)                                         | 
+| 3      | O “quem”, “o que” e o “por que” estão definidos na história de usuário?                     | sim  |[Plano de ensino](http://127.0.0.1:8000/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresenta%C3%A7%C3%A3o4/#criterios-para-entrega)                                         | 
+| 4      | Há participação do cliente e/ou persona na validação das histórias de usuário?              | sim |[Plano de ensino](http://127.0.0.1:8000/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresenta%C3%A7%C3%A3o4/#criterios-para-entrega)                                         | 
+| 5      | A história possui critérios de aceitação?                                                   | sim |[Plano de ensino](http://127.0.0.1:8000/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresenta%C3%A7%C3%A3o4/#criterios-para-entrega)                                         | 
+| 6      | Há participação do cliente e/ou persona na elicitação de requisitos?                        | sim  |[Plano de ensino](http://127.0.0.1:8000/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresenta%C3%A7%C3%A3o4/#criterios-para-entrega)                                         | 
+| 7      | Todas as histórias de usuários podem ser testadas?                                          | sim  |[Plano de ensino](http://127.0.0.1:8000/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresenta%C3%A7%C3%A3o4/#criterios-para-entrega)                                         | 
+| 8      | As histórias de usuário são adequadas para representar a experiência do usuário no detran df |  sim |[Plano de ensino](http://127.0.0.1:8000/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresenta%C3%A7%C3%A3o4/#criterios-para-entrega)                                         | 
+
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
+<a name="ref1"></a>
+
+Video da verificação que foi gravada no dia 02/06/2025 ás 13:30
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/qk9jAzjBfxs" title="Vídeo verificação US19 a US24 - nosso grupo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/qk9jAzjBfxs" target="blanket">Vídeo da verificação </a></p>
 
 ## Histórico de versão
 
@@ -109,3 +135,4 @@ Video da verificação que foi gravada no dia 01/06/2025 ás 18:00
 |  1.0   | 31/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
 |1.1|31/05/2025 | verificação|  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi)  |
 |1.2|01/06/2025 | verificação us07 a us12|  [Gabriel Mendes](https://github.com/gbevi)   | |
+|1.3 | 02/06/2025 | Verificação das US19 a US24 do nosso grupo |  [João Lobo](https://github.com/joaolobo10)   | |

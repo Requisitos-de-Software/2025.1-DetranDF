@@ -37,5 +37,5 @@ A **tabela 1** descreve o checklist do backog
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 31/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | |
-|1.1|31/05/2025 | criação da lista de verificação|  [Giovana Barbosa](https://github.com/gio221)   | |
+|  1.0   | 31/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [João Lobo](https://github.com/joaolobo10)  |
+|1.1|31/05/2025 | criação da lista de verificação|  [Giovana Barbosa](https://github.com/gio221)   |  [João Lobo](https://github.com/joaolobo10) |

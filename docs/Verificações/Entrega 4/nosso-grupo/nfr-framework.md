@@ -46,13 +46,9 @@ Este artefato foi produzido e verificado por [João Lobo](https://github.com/joa
 
 ### Gravação da verificação
 
-<div style="text-align: center;">
-    <iframe width="560" height="315" src="https://youtu.be/FVv18eSYGNY" title="Vídeo verificação NFR framework - nosso grupo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+ <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/FVv18eSYGNY" title="Vídeo verificação US19 a US24 - grupo+1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+  <p style="text-align: center"><a href="https://youtu.be/FVv18eSYGNY" target="blanket">Vídeo da verificação </a></p>
 
-<p style="text-align: center">
-    <a href="https://youtu.be/FVv18eSYGNY"> Link para o vídeo </a>
-</p>
 
 ## Bibliografia
 
@@ -63,4 +59,4 @@ Este artefato foi produzido e verificado por [João Lobo](https://github.com/joa
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 02/06/2025 | Criação de tabela modelo de verificação para verificação e adição de todos conteúdos presente na página, desde textos tabelas e títulos.  |  [João Lobo](https://github.com/joaolobo10)   | |
+|  1.0   | 02/06/2025 | Criação de tabela modelo de verificação para verificação e adição de todos conteúdos presente na página, desde textos tabelas e títulos.  |  [João Lobo](https://github.com/joaolobo10)   | [Giovana Barbosa](https://github.com/gio221)  |

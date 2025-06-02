@@ -71,4 +71,4 @@ Este artefato foi produzido por [João Lobo](https://github.com/joaolobo10) e ve
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 02/06/2025 | Criação de tabela modelo de verificação para verificação adição de metodologia,  |  [João Lobo](https://github.com/joaolobo10)   | |
+|  1.0   | 02/06/2025 | Criação de tabela modelo de verificação para verificação e adição de todos conteúdos presente na página, desde textos tabelas e títulos.  |  [João Lobo](https://github.com/joaolobo10)   | |

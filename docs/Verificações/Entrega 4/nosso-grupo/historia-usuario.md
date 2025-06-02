@@ -182,8 +182,9 @@ Video da verificação que foi gravada no dia 02/06/2025 ás 13:30
  
  Video da verificação que foi gravada no dia 02/06/2025 ás 16:30
   
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/sVFPMX1yf58" title="Vídeo verificação US25 a US30 - grupo+1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-  <p style="text-align: center"><a href="https://youtu.be/sVFPMX1yf58" target="blanket">Vídeo da verificação </a></p>
+ 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/akGFa6dNT3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+ <p style="text-align: center"><a href="https://youtu.be/akGFa6dNT3A" target="blanket">Vídeo da verificação </a></p>
 
 
 

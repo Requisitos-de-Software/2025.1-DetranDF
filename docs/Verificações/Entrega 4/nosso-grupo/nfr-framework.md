@@ -10,8 +10,6 @@ Este artefato foi produzido e verificado por [João Lobo](https://github.com/joa
 
 <font size="2"><p style="text-align: center">**Tabela 1 -**Modelo da Verificação do NFR.</p></font>
 
-<center>
-
 | ID  | Descrição                                                                                                               | Avaliação | Referência          | Fonte |
 |:--:|-------------------------------------------------------------------------------------------------------------------------|:---------:|:-------------------:|:-----:|
 | **1** | O artefato possui uma visão geral clara do NFR Framework?                                                              |           | [1.](#ref1)         | [página 30](../../../assets/nfr-verificacao/pag30.png) |
@@ -25,15 +23,11 @@ Este artefato foi produzido e verificado por [João Lobo](https://github.com/joa
 | **9** | O artefato menciona a utilização de catálogos de requisitos descritos na notação adotada pelo NFR Framework?           |           | [1.](#ref1)         | [página 30](../../../assets/nfr-verificacao/pag30.png) |
 | **10** | O artefato apresenta o conceito de refinamentos de Softgoals e suas contribuições para o desenvolvimento do projeto?  |           | [1.](#ref1)       | [página 31](../../../assets/nfr-verificacao/pag31.png) |
 
-</center>
-
 <font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 ### Checklist de verificação
 
 <font size="2"><p style="text-align: center">**Tabela 2 -**Verificação.</p></font>
-
-<center>
 
 | ID  | Descrição                                                                                                               | Avaliação | Referência          | Fonte |
 |:--:|-------------------------------------------------------------------------------------------------------------------------|:---------:|:-------------------:|:-----:|
@@ -47,8 +41,6 @@ Este artefato foi produzido e verificado por [João Lobo](https://github.com/joa
 | **8** | O artefato descreve os elementos que compõem o grafo SIG, como softgoals e interdependências?                          |       Sim     | [1.](#ref1)         | [página 30](../../../assets/nfr-verificacao/pag30.png) |
 | **9** | O artefato menciona a utilização de catálogos de requisitos descritos na notação adotada pelo NFR Framework?           |     Sim      | [1.](#ref1)         | [página 30](../../../assets/nfr-verificacao/pag30.png) |
 | **10** | O artefato apresenta o conceito de refinamentos de Softgoals e suas contribuições para o desenvolvimento do projeto?  |      Sim      | [1.](#ref1)       | [página 31](../../../assets/nfr-verificacao/pag31.png) |
-
-</center>
 
 <font size="2"><p style="text-align: center">[João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 

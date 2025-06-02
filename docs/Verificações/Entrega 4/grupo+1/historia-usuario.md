@@ -182,8 +182,8 @@ Video da verificação que foi gravada no dia 01/06/2025 ás 18:00
  
  Video da verificação que foi gravada no dia 02/06/2025 ás 16:30
   
- <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/p6Un-Shxfm0" title="Vídeo verificação US19 a US24 - grupo+1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-  <p style="text-align: center"><a href="https://youtu.be/p6Un-Shxfm0" target="blanket">Vídeo da verificação </a></p>
+ <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/Shxfm0" title="Vídeo verificação US25 a US30 - grupo+1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+  <p style="text-align: center"><a href="https://youtu.be/Shxfm0" target="blanket">Vídeo da verificação </a></p>
 
 
 
@@ -217,4 +217,5 @@ Video da verificação que foi gravada no dia 02/06/2025 ás xx:xx
 |1.2|01/06/2025 | verificação us07 a us12|  [Gabriel Mendes](https://github.com/gbevi)   | [João Lobo](https://github.com/joaolobo10), [Luiz Bessa](https://github.com/lfelipebessa) |
 |1.3 | 02/06/2025 | Verificação das US19 a US24 do grupo + 1 |  [João Lobo](https://github.com/joaolobo10)   | [Luiz Bessa](https://github.com/lfelipebessa) |
 |1.4 | 02/06/2025 | Verificação das US13 a US18 do grupo +1 |  [Luiz Bessa](https://github.com/lfelipebessa)   | [Eric Akio](https://github.com/eric-kingu) |
-| 1.5 | 02/06/2025 | Verificação das US37 a 42 do grupo +1 | [Eric Akio](https://github.com/eric-kingu) |  |
+| 1.5 | 02/06/2025 | Verificação das US37 a 42 do grupo +1 | [Eric Akio](https://github.com/eric-kingu) | [Maria Eduarda](https://github.com/maaduh) |
+| 1.6 | 02/06/2025 | Verificação das US25 a 30 do grupo +1 | [Maria Eduarda](https://github.com/maaduh) |  |

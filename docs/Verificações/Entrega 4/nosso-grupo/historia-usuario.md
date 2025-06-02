@@ -182,7 +182,7 @@ Video da verificação que foi gravada no dia 02/06/2025 ás 13:30
  
  Video da verificação que foi gravada no dia 02/06/2025 ás 16:30
   
- <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/sVFPMX1yf58" title="Vídeo verificação US19 a US24 - grupo+1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/sVFPMX1yf58" title="Vídeo verificação US25 a US30 - grupo+1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
   <p style="text-align: center"><a href="https://youtu.be/sVFPMX1yf58" target="blanket">Vídeo da verificação </a></p>
 
 
@@ -216,4 +216,5 @@ Video da verificação que foi gravada no dia 02/06/2025 ás xx:xx
 |1.1|31/05/2025 | verificação|  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi)  |
 |1.2|01/06/2025 | verificação us07 a us12|  [Gabriel Mendes](https://github.com/gbevi)   |   [João Lobo](https://github.com/joaolobo10), [Luiz Bessa](https://github.com/lfelipebessa)   |
 |1.3 | 02/06/2025 | Verificação das US19 a US24 do nosso grupo |  [João Lobo](https://github.com/joaolobo10)   | [Luiz Bessa](https://github.com/lfelipebessa)    |
-|1.4 | 02/06/2025 | Verificação das US13 a US18 do nosso grupo |  [Luiz Bessa](https://github.com/lfelipebessa)   | |
+|1.4 | 02/06/2025 | Verificação das US13 a US18 do nosso grupo |  [Luiz Bessa](https://github.com/lfelipebessa)   | [Maria Eduarda](https://github.com/maaduh) |
+| 1.5 | 02/06/2025 | Verificação das US25 a 30 do nosso grupo | [Maria Eduarda](https://github.com/maaduh) |  |

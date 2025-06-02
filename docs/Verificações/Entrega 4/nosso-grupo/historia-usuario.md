@@ -186,11 +186,13 @@ Video da verificação que foi gravada no dia 02/06/2025 ás 13:30
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/4-JJRc6NMbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
  <p style="text-align: center"><a href="https://youtu.be/4-JJRc6NMbM" target="blanket">Vídeo da verificação </a></p>
 
- ## Verificação da US31 a US36
+ ---
+
+## Verificação da US31 a US36
  
  Abaixo tem o checklist ultilizado na verificação feita pela integrante [Pedro Camilo](https://github.com/PedrooCamilo) nas histórias de usuário de 31 a 36.
  
- <font size="3"><p style="text-align: center">**Tabela 7 **- Checklist das histórias de usuário 30 a 36 </p></font>
+ <font size="3"><p style="text-align: center">**Tabela 7 **- Checklist das histórias de usuário 31 a 36 </p></font>
  
  | ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
  | :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
@@ -214,6 +216,8 @@ Video da verificação que foi gravada no dia 02/06/2025 ás 13:30
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/bu_oQr6dRjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
  <p style="text-align: center"><a href="https://youtu.be/bu_oQr6dRjU" target="blanket">Vídeo da verificação </a></p>
 
+
+---
 
 ## Verificação da US37 a US42
 

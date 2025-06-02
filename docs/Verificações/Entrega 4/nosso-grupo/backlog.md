@@ -43,5 +43,5 @@ Video da verificação  que foi gravada no dia 01/06/2025 ás 18:00
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 31/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | |
+|  1.0   | 31/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [Eric Akio](https://github.com/eric-kingu) |
 |1.1|31/05/2025 | verificação|  [Giovana Barbosa](https://github.com/gio221)   | [Eric Akio](https://github.com/eric-kingu) |

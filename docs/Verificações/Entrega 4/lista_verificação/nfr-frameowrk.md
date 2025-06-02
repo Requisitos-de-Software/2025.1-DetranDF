@@ -34,4 +34,4 @@ Criamos uma tabela como descrita na tabela 1, para que através dela, fosse poss
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 02/06/2025 | Criação de tabela modelo de verificação do NFR framework, além da adição  de introdução metodologia e Referencia da página.  |  [João Lobo](https://github.com/joaolobo10)   | |
+|  1.0   | 02/06/2025 | Criação de tabela modelo de verificação do NFR framework, além da adição  de introdução metodologia e Referencia da página.  |  [João Lobo](https://github.com/joaolobo10)   |  [Giovana Barbosa](https://github.com/gio221)|

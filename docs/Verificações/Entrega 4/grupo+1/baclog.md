@@ -4,7 +4,7 @@ Esse artefato mostra a verificação do backlog
 
 ## Objetivo
 
-Esse artefato tem como objetivo documentar a verificação do backog
+Esse artefato tem como objetivo documentar a verificação do backlog
 
 ## Metodologia
 
@@ -12,9 +12,9 @@ Criamos uma lista como descrita na tabela 1.
 
 ## Lista de Verificação
 
-A **tabela 1** descreve o checklist do backog
+A **tabela 1** descreve o checklist do backlog
 
-<font size="3"><p style="text-align: center">**Tabela 1 **- Checklist técnica do backog </p></font>
+<font size="3"><p style="text-align: center">**Tabela 1 **- Checklist técnica do backlog </p></font>
 
 | ID | Critérios (perguntas)                                                                                                                   | Sim/Não/Incompleto | Referência |
 | :-: | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | ---------- |
@@ -44,4 +44,4 @@ Video da verificação  que foi gravada no dia 01/06/2025 ás 18:00
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 31/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi)  |
-|1.1|01/06/2025 | verificação backlog, introdução, objetivo e etc.|  [Gabriel Mendes](https://github.com/gbevi)   | |
+|1.1|01/06/2025 | verificação backlog, introdução, objetivo e etc.|  [Gabriel Mendes](https://github.com/gbevi)   | [Eric Akio](https://github.com/eric-kingu) |

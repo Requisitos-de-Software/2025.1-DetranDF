@@ -58,16 +58,262 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 # Rastreabilidade
 
-### RF05
-
+## RF05 E05
 <details>
+  <summary>RF05 - Exibir notificações de prazos e documentos vencidos</summary>
 
-<summary> Exibir notificações de prazos e documentos vencidos </summary>
-
-| **Item** | **Descrição** |
-|:-----:|:--------:|
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Exibir notificações de prazos e documentos vencidos</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/">RF05</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/">IS05</a>,<a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">BS06</a>,<a href="http://127.0.0.1:8000/2025.1-DetranDF/modelagem/Agil/Historis-usuario/">US011</a></td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – IS05, BS06. O requisito originou-se da Introspecção funcional e da técnica de Brainstorm</td>
+    </tr>
+   <tr>
+  <td><strong>Elos Forward-from</strong></td>
+  <td>
+    Satisfação – O requisito será utilizado para alertar o usuário sobre pendências documentais<br>
+    Agregação – O requisito será alocado no Módulo de Notificações
+  </td>
+</tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
 
 </details>
+
+## RF06 E06
+<details>
+  <summary>RF06 - Realizar transferência de documento do veículo</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Realizar transferência de documento do veículo</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/">RF06</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/">IS06</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/">US018</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – IS06. O requisito originou-se da técnica de Introspecção funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito atende à necessidade de serviços veiculares digitais<br>
+        Agregação – O requisito será classificado no Módulo de Serviços do Veículo
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+## RF07 E07
+<details>
+  <summary>RF07 - Trocar a PPD para CNH definitiva pelo app</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Trocar a PPD para CNH definitiva pelo app</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/">RF07</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">BS02</a>
+         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/">US19</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS02. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito satisfaz a jornada de renovação de CNH dentro do app<br>
+        Agregação – O requisito será alocado no Módulo de CNH
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+## RF08 E08
+<details>
+  <summary>RF08 - Sistema de pagamento de taxas e débitos</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Sistema de pagamento de taxas e débitos</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/">RF08</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">BS03</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/">UC02</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/">US32</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS03. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito atende à necessidade de quitação de pendências pelo app<br>
+        Agregação – O requisito será classificado no Módulo Financeiro
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+## RF09 E09
+<details>
+  <summary>RF09 - Aviso automático em caso de roubo/recuperação do carro</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Aviso automático em caso de roubo/recuperação do carro</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/">RF09</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">BS04</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/">UC12</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">US12</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS04. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito prevê segurança e alerta em caso de incidentes com o veículo<br>
+        Agregação – O requisito será incluído no Módulo de Segurança e Alertas
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+## RF10 E010
+<details>
+  <summary>RF10 - Consulta de CNH, documentos e multas</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Consulta de CNH, documentos e multas</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/">RF10</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">BS05</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/">US03</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS05. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito facilita o acesso do usuário à sua situação veicular<br>
+        Agregação – O requisito será classificado no Módulo de Consultas
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
 
 ## Histórico de versão
 

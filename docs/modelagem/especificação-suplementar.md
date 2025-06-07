@@ -57,6 +57,8 @@ Confiabilidade diz respeito à operação correta e estável do sistema ao longo
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
+<a id="desempenho"></a>
+
 #### Desempenho
 
 Desempenho refere-se à capacidade do sistema de responder de forma rápida e eficiente às solicitações dos usuários. Engloba tempo de resposta, uso de recursos, escalabilidade e suporte a múltiplos acessos simultâneos. Um bom desempenho assegura uma experiência ágil mesmo em situações de alta demanda. A Tabela 3 mostra os requisitos não funcionais que se encaixam em desempenho.
@@ -70,6 +72,8 @@ Desempenho refere-se à capacidade do sistema de responder de forma rápida e ef
 | US03 |                                 Está diretamente ligado ao desempenho, pois exige respostas rápidas do sistema para garantir fluidez na navegação.                                 |      RNF10      |
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+<a id="suportabilidade"></a>
 
 #### Suportabilidade
  

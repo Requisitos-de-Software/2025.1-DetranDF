@@ -882,8 +882,8 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
       <td><strong>Elementos</strong></td>
       <td>
       <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF10</a>,
-      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/especifica%C3%A7%C3%A3o-suplementar/#Desempenho">US03 - Desempenho</a>,
-      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/especifica%C3%A7%C3%A3o-suplementar/#Suportabilidade">RNF10 - Suportabilidade</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/especifica%C3%A7%C3%A3o-suplementar/#desempenho">US03 - Desempenho</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/especifica%C3%A7%C3%A3o-suplementar/#suportabilidade">RNF10 - Suportabilidade</a>,
       <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/especifica%C3%A7%C3%A3o-suplementar/#requi">RF03 E RF04 - Requisitos físicos</a>,
       <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/#desempenho">RNFR10 - Desempenho e eficiência</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Introspecção/#req-nao-funcionais">IS08</a>

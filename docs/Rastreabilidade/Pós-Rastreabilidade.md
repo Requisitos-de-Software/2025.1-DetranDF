@@ -419,7 +419,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
       <td><br> 
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">BS16</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/">IS11</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas-de-elecita%C3%A7%C3%A3o/Gloss%C3%A1rio/">GLO06</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/glossario/">GLO06</a>,
          <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/especifica%C3%A7%C3%A3o-suplementar/#funcionalidades">US03 - Confiabilidade</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/">RNFR03 - Confiabilidade</a>
       </td>

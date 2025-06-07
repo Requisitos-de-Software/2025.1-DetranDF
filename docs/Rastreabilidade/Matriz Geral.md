@@ -46,6 +46,19 @@ A matriz é apresentada com 7 colunas sendo elas:
 
 ## Matriz de Rastreabilidade
 
+| Requisito  | Descrição | Implementado | Versão |     Elicitação      |       Modelagem        | Elos | Autor |
+| :--------: | :-------: | :----------: | :----: | :-----: |:-----------------: | :--------------------: | :--: |
+| RF05|   Exibir notificações de prazos e documentos vencidos    |   SIM    |  1.1   | [IS05](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/) [BS06](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/) | [US011](http://127.0.0.1:8000/2025.1-DetranDF/modelagem/Agil/Historis-usuario/)| [E05](https://requisitos-de-software.github.io/2025.1-DetranDF/Rastreabilidade/Matriz%20Geral/)  |  [Giovana Barbosa](https://github.com/gio221)  |
+|RF06| Realizar transferência de documento do veículo|SIM    |  1.1   |[IS06](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/)|[US018](http://127.0.0.1:8000/2025.1-DetranDF/modelagem/Agil/Historis-usuario/)| [E06](https://requisitos-de-software.github.io/2025.1-DetranDF/Rastreabilidade/Matriz%20Geral/)  |  [Giovana Barbosa](https://github.com/gio221)  |
+|RF07|Trocar a PPD para CNH definitiva pelo app|SIM    |  1.1   |[BS02](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/)|[US019](http://127.0.0.1:8000/2025.1-DetranDF/modelagem/Agil/Historis-usuario/)| [E07](https://requisitos-de-software.github.io/2025.1-DetranDF/Rastreabilidade/Matriz%20Geral/)  |  [Giovana Barbosa](https://github.com/gio221)  |
+|RF08|Sistema de pagamento de taxas e débitos|SIM    |  1.1   |[BS03](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/)|[US032](http://127.0.0.1:8000/2025.1-DetranDF/modelagem/Agil/Historis-usuario/)| [E08](https://requisitos-de-software.github.io/2025.1-DetranDF/Rastreabilidade/Matriz%20Geral/)  |  [Giovana Barbosa](https://github.com/gio221)  |
+|RF09|Aviso automático em caso de roubo/recuperação do carro| Não|1.1   |[BS04](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/)|[US012](http://127.0.0.1:8000/2025.1-DetranDF/modelagem/Agil/Historis-usuario/)| [E09](https://requisitos-de-software.github.io/2025.1-DetranDF/Rastreabilidade/Matriz%20Geral/)  |  [Giovana Barbosa](https://github.com/gio221)  |
+|RF10| Consulta de CNH, documentos e multas|SIM    |  1.1   |[BS05](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/)|[US03](http://127.0.0.1:8000/2025.1-DetranDF/modelagem/Agil/Historis-usuario/)| [E10](https://requisitos-de-software.github.io/2025.1-DetranDF/Rastreabilidade/Matriz%20Geral/)  |  [Giovana Barbosa](https://github.com/gio221)  |
+|RNF01| Interface intuitiva e fácil de navegar|SIM    |  1.1   |
+|RNF02|Compatibilidade com diferentes dispositivos e sistemas|SIM    |  1.1   |
+|RNF03| Alta segurança no tratamento de dados pessoais e veiculares|SIM    |  1.1   |
+|RNF04| Área educacional com explicações e vídeos|Não  |  1.1   |
+
 ## Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |

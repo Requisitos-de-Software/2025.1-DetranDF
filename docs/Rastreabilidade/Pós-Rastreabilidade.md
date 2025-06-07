@@ -266,7 +266,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>Imagem- nao implementado</td>
     </tr>
   </table>
 </details>
@@ -310,6 +310,171 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     <tr>
       <td><strong>Print</strong></td>
       <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+## RNF01 E045
+
+<details>
+  <summary>RNF01 - Interface intuitiva e fácil de navegar</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Interface intuitiva e fácil de navegar</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Requisito Não Funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">BS14</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/">IS07</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/especifica%C3%A7%C3%A3o-suplementar/#funcionalidades">US01 - Usabilidade</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/">RNFR01 - Usabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS13, IS07. O requisito originou-se das técnicas de Brainstorm e Introspecção funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>Satisfação – O requisito contribui para a usabilidade da interface</td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+## RNF02 E046
+<details>
+  <summary>RNF02 - Compatibilidade com diferentes dispositivos e sistemas</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Compatibilidade com diferentes dispositivos e sistemas</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Requisito Não Funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">BS15</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/">IS10</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/especifica%C3%A7%C3%A3o-suplementar/#funcionalidades">US02 - Desempenho</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/">RNFR02 - Desempenho</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS14, IS10. O requisito originou-se das técnicas de Brainstorm e Introspecção funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>Satisfação – O requisito garante acessibilidade em múltiplos dispositivos e plataformas</td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+## RNF03 E047
+<details>
+  <summary>RNF03 - Alta segurança no tratamento de dados pessoais e veiculares</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Alta segurança no tratamento de dados pessoais e veiculares</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Requisito Não Funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">BS16</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/">IS11</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/T%C3%A9cnicas-de-elecita%C3%A7%C3%A3o/Gloss%C3%A1rio/">GLO06</a>,
+         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/especifica%C3%A7%C3%A3o-suplementar/#funcionalidades">US03 - Confiabilidade</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/">RNFR03 - Confiabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS15, IS11, GLO06. O requisito originou-se das técnicas de Brainstorm, Introspecção funcional e Glossário</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>Satisfação – O requisito assegura a proteção e integridade dos dados do usuário</td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+## RNF04 E048
+<details>
+  <summary>RNF04 - Área educacional com explicações e vídeos</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Área educacional com explicações e vídeos</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Requisito Não Funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">BS1</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/especifica%C3%A7%C3%A3o-suplementar/#funcionalidades">US04 - Usabilidade</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/">RNFR04 - Usabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS16. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>Satisfação – O requisito auxilia na educação e orientação dos usuários</td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem- nao implementado</td>
     </tr>
   </table>
 </details>

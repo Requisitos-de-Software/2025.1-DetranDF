@@ -96,6 +96,7 @@ A seção de Ajuda e Documentação de um aplicativo é composta por uma série 
 | US04 | Acessibilidade para diferentes perfis de usuários      | **RNF11**      |
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
+<a id="restri"></a>
 
 #### Restrições de Design
 
@@ -130,6 +131,7 @@ Os requisitos de implementação definem aspectos técnicos e operacionais neces
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
+<a id="requi"></a>
 
 #### Requisitos Físicos
 

@@ -171,6 +171,8 @@ Primeiro fizemos a elicitação de requisitos na etapa anterior, que pode ser en
 - **Fase 5: Propragação de impactos**:
    No NFR Framework, a propagação de impactos consiste em identificar as relações de dependência entre os requisitos não funcionais e analisar como alterações em um requisito podem influenciar outros requisitos relacionados, utilizando, como mostrado anteriormente, as notações dos softgoals de impacto para representar graficamente essas relações.
 
+<a id="usa"></a>
+
 ## 1. NFR Usabilidade
 
 <font size="3"><b>Tabela 2:</b>Requisitos não funcionais de usabilidade </font>
@@ -476,6 +478,7 @@ No video abaixo é feito a validação da parte de acessibilidade pela integrant
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/xKJIMlwFndg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href=" https://youtu.be/xKJIMlwFndg" target="blanket">Vídeo da= validação com o usuário</a></p>
 
+<a id="desempenho"></a>
 
 ##  3. Desempenho e Eficiência
 
@@ -814,8 +817,9 @@ No video abaixo é feito a validação da parte de acessibilidade pelo integrant
 <p style="text-align: center"><a href="https://youtu.be/vkY-koOOFhs" target="blanket">Vídeo da validação com o usuário</a></p>
 
 ---
+<a id="quali"></a>
 
-##  7. Qualidade e Feedback
+## 7. Qualidade e Feedback
 
 Relacionados à avaliação do sistema e comunicação com o público.
 

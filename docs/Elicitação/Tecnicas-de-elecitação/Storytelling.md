@@ -61,6 +61,7 @@ Comentou satisfeito:
 — “É bom não precisar ir ao Detran. Só precisava mesmo de letras maiores e um botão escrito ‘Recorrer’, aí até eu usava sem ajuda.”
 
 <a id="req-funcionais"></a>
+
 ## Requisitos Funcionais
 
 | Identificador | Requisito                                                                 | 
@@ -80,6 +81,7 @@ Comentou satisfeito:
 
 ## Requisitos Não funcionais
 <a id="req-nao-funcionais"></a>
+
 | Identificador | Requisito                                                                                   |
 |---------------|---------------------------------------------------------------------------------------------|
 | RNF01-Usabilidade e acessibilidade         | O app deve ter fontes ajustáveis, ícones intuitivos e uma interface adaptada a usuários com pouca experiência digital (ex: Olavo e Marina). |

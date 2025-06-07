@@ -12,7 +12,7 @@ Para alcançar os objetivos propostos, foram aplicadas as seguintes técnicas de
 - Introspecção
 - Observação
 
-<a id="tabela-requisitos"></a>
+<a id="req-funcionais"></a>
 
 # Requisitos Funcionais
 | Código | Requisito Funcional                                                                 | Fonte (ID Original)         |
@@ -66,6 +66,7 @@ Para alcançar os objetivos propostos, foram aplicadas as seguintes técnicas de
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 <a id="req-nao-funcionais"></a>
+
 # Requisitos Não funcionais 
 | Código | Requisito Não-Funcional                                                             | Fonte (ID Original)         |
 |--------|--------------------------------------------------------------------------------------|-----------------------------|

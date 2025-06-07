@@ -45,6 +45,7 @@ Para uma maior compreensão do aplicativo DETRAN-DF, foram elencados termos rela
 
 Após o levantamento e definição dos termos do glossário, foi possível identificar requisitos funcionais e não funcionais associados à compreensão e utilização dos serviços digitais oferecidos pelo aplicativo DETRAN-DF. Esses requisitos estão listados na Tabela 2.
 
+<a id="req"></a>
 | Identificador | Requisito                                                                 | Tipo  |
 |---------------|---------------------------------------------------------------------------|-------|
 | **GLO01**         | Deve ser possível consultar a pontuação da CNH diretamente no aplicativo. | RF    |
@@ -66,3 +67,4 @@ Após o levantamento e definição dos termos do glossário, foi possível ident
 | Versão |    Data    |                           Descrição                            |                    Autor                     |                   Revisor                    |
 | :----: | :--------: | :------------------------------------------------------------: | :--------: | :--------: | 
 |  1.0   | 01/05/2025 | Início da documentação, glossario | [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Dantas](https://github.com/gbevi)|
+|  1.2  | 07/06/2025 | adição de anchors nas tabelas | [Gabriel Mendes](https://github.com/gbevi)       |                                           | 

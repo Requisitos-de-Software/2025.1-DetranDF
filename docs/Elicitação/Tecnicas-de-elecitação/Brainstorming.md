@@ -104,6 +104,7 @@ A sessão de Brainstorming resultou na identificação de diversos requisitos fu
 Após as duas reuniões percebe-se que a qualidade das ideias e a diversidade de sugestões superaram as expectativas, proporcionando uma base rica para a definição dos requisitos do projeto.
 </p>
 
+<a id="req-funcionais"></a>
 ## Requisitos Funcionais
 <font size="3"><p style="text-align: center">**Tabela 3:** Requisitos funcionais elicitados através do Brainstorm.</p></font>
 
@@ -123,6 +124,7 @@ Após as duas reuniões percebe-se que a qualidade das ideias e a diversidade de
 | BS12 (RF12)| Atendimento ao vivo com servidor do DETRAN via chat/vídeo                          |
 | BS13 (RF13)| Histórico de Pesquisas e Serviços Recentes                         |
 
+<a id="req-nao-funcionais"></a>
 ## Requisitos Não Funcionais
 <font size="3"><p style="text-align: center">**Tabela 4:** Requisitos não-funcionais elicitados através do Brainstorm.</p></font>
 
@@ -150,5 +152,7 @@ Após as duas reuniões percebe-se que a qualidade das ideias e a diversidade de
 |  1.0   | 23/04/2025 | Criação da estrutura da página de Brainstorming | [Luiz Bessa](https://github.com/)       |     [Giovana Barbosa ](https://github.com/gio221)                                       |
 |  1.1   | 25/04/2025 | Preenchimento do dados após a Reunião | [Luiz Bessa](https://github.com/)       |         [Giovana Barbosa ](https://github.com/gio221)                                   | 
 |  1.2   | 03/05/2025 | Adicionando dados e fazendo alterações após a segunda reunião de Brainstorming | [Luiz Bessa](https://github.com/)       |          [Pedro Camilo](https://github.com/PedrooCamilo)                                  |
-|  1.2   | 04/05/2025 | Ajustando o resumo das 2 sessões | [Luiz Bessa](https://github.com/)       |                                  [Giovana Barbosa ](https://github.com/gio221)                                   | 
+|  1.3  | 04/05/2025 | Ajustando o resumo das 2 sessões | [Luiz Bessa](https://github.com/)       |                                  [Giovana Barbosa ](https://github.com/gio221)                                   | 
+|  1.4  | 07/06/2025 | adição de anchors nas tabelas | [Gabriel Mendes](https://github.com/gbevi)       |                                           | 
+
 

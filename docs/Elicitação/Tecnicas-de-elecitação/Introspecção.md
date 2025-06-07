@@ -16,8 +16,8 @@ Para realizar a técnica de introspecção, as funcionalidades do aplicativo for
 ## Requisitos funcionais
 
 São as funcionalidades que o sistema deve oferecer.
+<a id="req-funcionais"></a>
 **A tabela 1** descreve as funcionalidades
-
 <font size="3"><p style="text-align: center">**Tabela 1:** Requisitos Funcionais.</p></font>
 
 | Código | Requisito Funcional                                              | ID | implementado |
@@ -32,10 +32,10 @@ São as funcionalidades que o sistema deve oferecer.
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 
-
 ## Requisitos Não-Funcionais
 
 São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, etc.).
+<a id="req-nao-funcionais"></a>
 **A tabela 2** descreve as qualidades
 
 <font size="3"><p style="text-align: center">**Tabela 2:** Requisitos Não-Funcionais.</p></font>
@@ -61,3 +61,4 @@ São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 21/04/2025 | Início da documentação | [Eric Akio](https://github.com/eric-kingu)  |  [Giovana Barbosa ](https://github.com/gio221) |
+|  1.1  | 07/06/2025 | adição de anchors nas tabelas | [Gabriel Mendes](https://github.com/gbevi)       |                                           | 

@@ -60,6 +60,7 @@ Com ajuda, ele acessou a infração, viu a imagem do flagrante e leu as orienta�
 Comentou satisfeito:
 — “É bom não precisar ir ao Detran. Só precisava mesmo de letras maiores e um botão escrito ‘Recorrer’, aí até eu usava sem ajuda.”
 
+<a id="req-funcionais"></a>
 ## Requisitos Funcionais
 
 | Identificador | Requisito                                                                 | 
@@ -78,7 +79,7 @@ Comentou satisfeito:
 |RF12 – Suporte para atendimento humano (chat ou integração com WhatsApp)|O app deve oferecer canal direto de ajuda com atendente, caso o usuário não consiga resolver uma demanda.|
 
 ## Requisitos Não funcionais
-
+<a id="req-nao-funcionais"></a>
 | Identificador | Requisito                                                                                   |
 |---------------|---------------------------------------------------------------------------------------------|
 | RNF01-Usabilidade e acessibilidade         | O app deve ter fontes ajustáveis, ícones intuitivos e uma interface adaptada a usuários com pouca experiência digital (ex: Olavo e Marina). |
@@ -100,3 +101,4 @@ Comentou satisfeito:
 | Versão |    Data    |                           Descrição                            |                    Autor                     |                   Revisor                    |
 | :----: | :--------: | :------------------------------------------------------------: | :--------: | :--------: | 
 |  1.0   | 01/05/2025 | Início da documentação, criação dos storytelling e elicitação dos requisitos| [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Dantas](https://github.com/gbevi)|
+|  1.1  | 07/06/2025 | adição de anchors nas tabelas | [Gabriel Mendes](https://github.com/gbevi)       |                                           | 

@@ -54,6 +54,7 @@ Criação das Histórias de Usuário – As histórias foram escritas em um form
 
 As tabelas abaixo apresentam as histórias de usuário organizadas de maneira ordenada, seguindo a [tabela modelo de história de usuários](./Historis-usuario.md#tabela-us). Todas as tabelas utilizam esse formato para garantir uniformidade e facilitar a rastreabilidade com os requisitos funcionais.
 
+<a id="us01"></a>
 # [US01] - Consultar multas e débitos do veículo
 
 ### Tabela 3: História de Usuário – Consultar multas e débitos
@@ -71,6 +72,7 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
+<a id="us02"></a>
 # [US02] - Visualizar CNH e pontuação
 
 ### Tabela 4: História de Usuário – Visualizar informações da CNH
@@ -88,6 +90,7 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
+<a id="us03"></a>
 # [US03] -  Consultar CNH, documentos e multas em um só lugar
 
 ### Tabela 5: História de Usuário – Consultar CNH, documentos e multas
@@ -105,6 +108,7 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
+<a id="us04"></a>
 # [US04] - Visualizar status do licenciamento e do IPVA
 
 ### Tabela 6: História de Usuário – Visualizar status do licenciamento e IPVA
@@ -122,6 +126,7 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
+<a id="us05"></a>
 # [US05] -  Consultar status do licenciamento em tempo real
 
 ### Tabela 7: História de Usuário – Consultar licenciamento em tempo real
@@ -139,6 +144,7 @@ As tabelas abaixo apresentam as histórias de usuário organizadas de maneira or
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
+<a id="us06"></a>
 # [US06] - Ver detalhes das infrações com imagens
 
 ### Tabela 8: História de Usuário – Ver detalhes de infrações com imagens
@@ -163,6 +169,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 <font size="3"><p style="text-align: center">Video de Validação , 2025.</p></font>
 
+<a id="us07"></a>
 # [US07] - Recurso de multa
 
 <font size="3"><b>Tabela 9:</b>História do usuário de recurso de multa</font>
@@ -180,6 +187,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
 
+<a id="us08"></a>
 # [US08] - Histórico de Infrações (Condutor)   
 
 <font size="3"><b>Tabela 10:</b>História do usuário de histórico de Infrações (Condutor)</font>
@@ -197,6 +205,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
 
+<a id="us09"></a>
 # [US09] - Histórico de Infrações (Veículo) 
 
 <font size="3"><b>Tabela 11:</b>História do usuário de histórico de Infrações (Veículo)</font>
@@ -214,6 +223,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
 
+<a id="us10"></a>
 # [US10] - Leilão de Veículos   
 
 <font size="3"><b>Tabela 12:</b>História do usuário de leilão de Veículos </font>
@@ -231,6 +241,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
 
+<a id="us11"></a>
 # [US11] - Notificações de Prazos e Documentos   
 
 <font size="3"><b>Tabela 13:</b>História do usuário de notificações de Prazos e Documentos  </font>
@@ -248,6 +259,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
 
+<a id="us12"></a>
 # [US12] - Alerta de Roubo/Recuperação
 
 <font size="3"><b>Tabela 14:</b>História do usuário de alerta de Roubo/Recuperação </font>
@@ -265,6 +277,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
+<a id="us13"></a>
 # [US13] – Alertas de Vencimento da CNH, Multas e Licenciamento  
 
 <font size="3"><b>Tabela 15: </b>História de Usuário – Alertas de Vencimento Gerais </font>
@@ -284,6 +297,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us14"></a>
 # [US14] – Agendar Serviços (Vistoria / Renovação da CNH)
 
 <font size="3"><b>Tabela 16: </b>História de Usuário – Agendar Serviços Diversos </font>
@@ -303,6 +317,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us15"></a>
 # [US15] – Agendar Provas Teóricas e Práticas
 
 <font size="3"><b>Tabela 17: </b>História de Usuário – Agendar Provas</font>
@@ -322,6 +337,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us16"></a>
 # [US16] – Agendar Exames Médicos para CNH
 
 <font size="3"><b>Tabela 18: </b>História de Usuário – Agendar Exames Médicos</font>
@@ -341,6 +357,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us17"></a>
 # [US17] – Transferir Autuação de Infração para Outro Condutor
 
 <font size="3"><b>Tabela 19: </b>História de Usuário – Transferir Autuação</font>
@@ -360,6 +377,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us18"></a>
 # [US18] – Transferir Documentação do Veículo
 
 <font size="3"><b>Tabela 20: </b>História de Usuário – Transferir Documento do Veículo</font>
@@ -377,6 +395,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
+<a id="us19"></a>
 # [US19] - Solicitar troca de PPD para CNH definitiva
 
 <p align="center"><strong>Tabela 21 -</strong> Solicitar troca de PPD para CNH definitiva.</p>
@@ -396,6 +415,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us20"></a>
 # [US20] - Solicitar segunda via da CNH e CRLV
 
 <p align="center"><strong>Tabela 22 -</strong> Solicitar segunda via da CNH e CRLV.</p>
@@ -415,6 +435,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us21"></a>
 # [US21] - Acompanhar andamento dos processos
 
 <p align="center"><strong>Tabela 23 -</strong> Acompanhar andamento dos processos.</p>
@@ -434,6 +455,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us22"></a>
 # [US22] - Solicitar reposição da placa Mercosul
 
 <p align="center"><strong>Tabela 24 -</strong> Solicitar reposição da placa Mercosul.</p>
@@ -453,6 +475,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us23"></a>
 # [US23] - Solicitar conversão de placa para Mercosul
 
 <p align="center"><strong>Tabela 25 -</strong> Solicitar conversão de placa para Mercosul.</p>
@@ -472,6 +495,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us24"></a>
 # [US24] - Converter autuação em penalidade
 
 <p align="center"><strong>Tabela 26 -</strong> Converter autuação em penalidade.</p>
@@ -491,7 +515,8 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 
 
-## US25 - Iniciar nova solicitação pelo Protocolo-e
+<a id="us25"></a>
+# [US25] - Iniciar nova solicitação pelo Protocolo-e
 
 <p align="center"><strong>Tabela 27 -</strong> Iniciar nova solicitação pelo Protocolo-e</p>
 
@@ -509,7 +534,8 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 <p align="center">Fonte: <a href="https://github.com/maaduh">Maria Eduarda</a>, 2025.</p>
 ---
 
-## US26 - Acompanhar solicitação feita pelo Protocolo-e
+<a id="us26"></a>
+# [US26] - Acompanhar solicitação feita pelo Protocolo-e
 
 <p align="center"><strong>Tabela 28 -</strong> Acompanhar solicitação feita pelo Protocolo-e</p>
 
@@ -528,7 +554,8 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
-## US27 - Solicitar credencial de estacionamento para idoso
+<a id="us27"></a>
+# [US27] - Solicitar credencial de estacionamento para idoso
 
 <p align="center"><strong>Tabela 29 -</strong> Solicitar credencial de estacionamento para idoso</p>
 
@@ -547,7 +574,8 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
-## US28 - Solicitar credencial para pessoas com TEA
+<a id="us28"></a>
+# [US28] - Solicitar credencial para pessoas com TEA
 
 <p align="center"><strong>Tabela 30 -</strong> Solicitar credencial para pessoas com TEA</p>
 
@@ -566,7 +594,8 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
-## US29 - Pagamento de débitos para liberação de veículo
+<a id="us29"></a>
+# [US29] - Pagamento de débitos para liberação de veículo
 
 <p align="center"><strong>Tabela 31 -</strong>Pagamento de débitos para liberação de veículo</p>
 
@@ -585,7 +614,8 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
-## US30 - Verificar autorização para transporte escolar
+<a id="us30"></a>
+# [US30] - Verificar autorização para transporte escolar
 
 <p align="center"><strong>Tabela 32 -</strong>Verificar autorização para transporte escolar</p>
 
@@ -604,6 +634,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us31"></a>
 # [US31] - Solicitação de Autorização para Transporte Escolar
 
 
@@ -624,6 +655,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us32"></a>
 # [US32] - Pagamentos de Taxas e Débitos
 
 <p align="center"><strong>Tabela 34 -</strong> Pagamentos de Taxas e Débitos.</p>
@@ -643,6 +675,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us33"></a>
 # [US33] - Geração de Boletos
 
 <p align="center"><strong>Tabela 35 -</strong> Geração de Boletos</p>
@@ -662,6 +695,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us34"></a>
 # [US34] - 	Atendimento com Inteligência Artificial
 
 <p align="center"><strong>Tabela 36 -</strong> Geração de Boletos</p>
@@ -681,6 +715,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us35"></a>
 # [US35] - Atendimento Humano
 
 <p align="center"><strong>Tabela 37 -</strong> 	Atendimento Humano</p>
@@ -700,6 +735,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+<a id="us36"></a>
 # [US36] - Apoio com Termos Técnicos
 
 <p align="center"><strong>Tabela 38 -</strong> 	Apoio com Termos Técnicos</p>
@@ -718,6 +754,8 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 <p align="center">Fonte: <a href="https://github.com/PedroCamilo">Pedro Camilo</a>, 2025.</p>
 
 ---
+
+<a id="us37"></a>
 # [US37] - Acessar Atendimento Humano
 
 <font size="3"><b>Tabela 39:</b> História do usuário de Acessar Atendimento Humano</font>
@@ -733,6 +771,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Rastreabilidade** | [RF30](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
 | **Validação** | [Link do vídeo](https://youtu.be/2gKGRSStj7s) |
 
+<a id="us38"></a>
 # [US38] -  Suporte Autônomo
 
 <font size="3"><b>Tabela 40:</b> História do usuário de Suporte Autônomo</font>
@@ -748,6 +787,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Rastreabilidade** | [RF29](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
 | **Validação** | [Link do vídeo](https://youtu.be/2gKGRSStj7s) |
 
+<a id="us39"></a>
 # [US39] - Integração com Sistemas Oficiais
 
 <font size="3"><b>Tabela 41:</b> História do usuário de Integração com Sistemas Oficiais</font>
@@ -765,6 +805,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
+<a id="us40"></a>
 # [US40] - Área de auto-escolas
 
 <font size="3"><b>Tabela 42:</b> História do usuário de Área de auto-escolas</font>
@@ -782,6 +823,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
+<a id="us41"></a>
 # [US41] - Guia com Documentos para Serviços
 
 <font size="3"><b>Tabela 43:</b> História do usuário de Guia com Documentos para Serviços</font>
@@ -799,6 +841,7 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
+<a id="us42"></a>
 # [US42] - Simulados de Prova Teórica
 
 <font size="3"><b>Tabela 44:</b> História do usuário de Simulados de Prova Teórica</font>
@@ -833,3 +876,4 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | 2.0 | 31/05/2025 |  Documentação das histórias de usuário US37 a 38 |  [Eric Akio](https://github.com/eric-kingu) | [Pedro Camilo](https://github.com/PedrooCamilo)  |
 | 2.1 | 31/05/2025 |  Vídeo de validação das histórias de usuário US31 até a US36 |  [Pedro Camilo](https://github.com/PedrooCamilo) |  [Giovana Barbosa ](https://github.com/gio221) |
 | 2.2 | 31/05/2025 | numeração das tabelas |   [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Mendes ](https://github.com/gbevi) | 
+| 2.3 | 07/06/2025 | adição de anchors em cada US |   [Gabriel Mendes ](https://github.com/gbevi) |  | 

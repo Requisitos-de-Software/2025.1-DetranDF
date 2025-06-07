@@ -12,6 +12,7 @@ Identificar aspectos relacionados à usabilidade, navegação e desempenho do ap
 ## Requisitos funcionais
 
 São as funcionalidades que o sistema deve oferecer.
+<a id="req-funcionais"></a>
 **A tabela 1** descreve as funcionalidades
 
 <font size="3"><p style="text-align: center">**Tabela 1:** Requisitos Funcionais.</p></font>
@@ -45,6 +46,7 @@ São as funcionalidades que o sistema deve oferecer.
 ## Requisitos Não-Funcionais
 
 São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, etc.).
+<a id="req-nao-funcionais"></a>
 **A tabela 2** descreve as qualidades
 
 <font size="3"><p style="text-align: center">**Tabela 2:** Requisitos Não-Funcionais.</p></font>
@@ -72,4 +74,5 @@ São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, 
 |  1.0   | 21/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     |[Luiz Bessa](https://github.com/lfelipebessa), [Giovana Barbosa](https://github.com/gio221) |
 |  1.1   | 01/05/2025 | adicionando nomeclatura | [Giovana Barbosa](https://github.com/gio221) | [Maria Eduarda](https://github.com/maaduh)  |
 |  1.2   | 03/05/2025 | adicionando sugestão de melhoria | [Maria Eduarda](https://github.com/maaduh)     | [Giovana Barbosa ](https://github.com/gio221) |
+|  1.3  | 07/06/2025 | adição de anchors nas tabelas | [Gabriel Mendes](https://github.com/gbevi)       |                                           | 
 

@@ -23,36 +23,56 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 | **Elos Forward-from** | Tipo de elo - Relação | 
 | **Print** | Imagem |
 
-<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 ## Legenda
 
-- Categoria: Classificadas em quatro níveis. 
-    - Ambiental: Refere-se ao contexto externo no qual o sistema será inserido. Considera todos os fatores e restrições externas que podem influenciar o sistema, como fatores legais; cultura e sociedade; tecnologia disponível. 
-    - Organizacional: Foca na organização que está desenvolvento. Analisa elementos internos, como objetivos; estratégias.
-    - Gerencial: Refere-se a informações que auxiliam a gerência do projeto, como planejamento; comunicação.
-    - Desenvolvimento: Abrange os aspectos técnicos diretamente relacionados à construção e implementação do sistema, como artefatos de requisitos; códigos.
+<font size="3"><p style="text-align: center">**Tabela 2:** Níveis de informação.</p></font>
 
-- Elementos: Identificadores para:
-    - requisito (RFx - para requisitos funcionais e RNFx - para requisitos não funcionais)
-    -  Caso de uso(UCx)
-    -  Cenário(CENx)
-    -  História de usuário (USx)
-    -  Técnica de elicitação(OBx - Observação, ISx - Introspecção funcional, NIS - Introspecção para os não funcionais, BTx - Brainstorm, QTx - Questionário)
-    - NFR Framework (NFRx)
-    - Especificação suplementar (RUx, RCx, RDx, RSx, RDEx, RINx, RFIx)
+| **Nível de Informação**       | **Descrição**                                                                                                                                                                                                     |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ambiental**       | Refere-se ao contexto externo no qual o sistema será inserido. Considera todos os fatores e restrições externas que podem influenciar o sistema, como fatores legais; cultura e sociedade; tecnologia disponível. |
+| **Organizacional**  | Foca na organização que está desenvolvendo. Analisa elementos internos, como objetivos; estratégias.                                                                                                              |
+| **Gerencial**       | Refere-se a informações que auxiliam a gerência do projeto, como planejamento; comunicação.                                                                                                                       |
+| **Desenvolvimento** | Abrange os aspectos técnicos diretamente relacionados à construção e implementação do sistema, como artefatos de requisitos; códigos. |
 
-- Elos Backward-from: Mostra-se o tipo de elo e a origem do requisito.
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
-- Elos Forward-from: Mostra-se o tipo de elo e como o requisito é satisfeito ou relacionado a outros elementos.
+<font size="3"><p>**Tabela 3:** Elementos identificadores.</p></font>
 
-- Tipos de Elos: 
-    - Satisfação: Relacionado ao cumprimento de expectativas ou demandas.
-    - Recurso: Conecta elementos que fornecem ou utilizam recursos necessários, podendo ser uma pessoa, equipe, tempo, orçamento, etc.
-    - Responsabilidade: Relaciona quem ou o que é responsável por determinados elementos ou atividades. 
-    - Representação: Conecta elementos de representação ou abstração de algo. 
-    - Alocado: Representa a alocação de recursos, funcionalidades ou responsabilidades.
-    - Agregação: Indica a composição de elementos para formar um todo.
+| **Elemento**                  | **Identificador / Descrição**                                                                                                           |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| **Requisito**                 | RFx - para requisitos funcionais<br>RNFx - para requisitos não funcionais                                                               |
+| **Caso de uso**               | UCx                                                                                                                                     |
+| **Cenário**                   | CENx                                                                                                                                    |
+| **História de usuário**       | USx                                                                                                                                     |
+| **Técnica de elicitação**     | OBx - Observação<br>ISx - Introspecção funcional<br>NIS - Introspecção para os não funcionais<br>BTx - Brainstorm<br>QTx - Questionário |
+| **NFR Framework**             | NFRx                                                                                                                                    |
+| **Especificação suplementar** | Rux, RCx, RDx, RSx, RDEx, RINx, RFIx     
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), [João Lobo](https://github.com/joaolobo10), 2025.</p></font>                                                                                               
+
+<font size="3" style="text-align: center"><p>**Tabela 4:** Tipos de Elo.</p></font>
+
+| **Tipo de Elo**        | **Descrição**                                                                              |
+| ---------------------- | ------------------------------------------------------------------------------------------ |
+| **Elos Backward-from** | Mostra-se o tipo de elo e a origem do requisito.                                           |
+| **Elos Forward-from**  | Mostra-se o tipo de elo e como o requisito é satisfeito ou relacionado a outros elementos. |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), [João Lobo](https://github.com/joaolobo10), 2025.</p></font> 
+
+<font size="3" style="text-align: center"><p>**Tabela 5:** Relacionamento entre informações.</p></font>
+
+| **Relacionamento**      | **Descrição**                                                                                                           |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Satisfação**       | Relacionado ao cumprimento de expectativas ou demandas.                                                                 |
+| **Recurso**          | Conecta elementos que fornecem ou utilizam recursos necessários, podendo ser uma pessoa, equipe, tempo, orçamento, etc. |
+| **Responsabilidade** | Relaciona quem ou o que é responsável por determinados elementos ou atividades.                                         |
+| **Representação**    | Conecta elementos de representação ou abstração de algo.                                                                |
+| **Alocado**          | Representa a alocação de recursos, funcionalidades ou responsabilidades.                                                |
+| **Agregação**        | Indica a composição de elementos para formar um todo.                                                                   |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 - Print: Imagem/protótipo da implementação
 
@@ -325,6 +345,281 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 
 <font size="3"><p style="text-align: center">Autor: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
+
+## RF11 E011
+<details>
+  <summary>RF11 - Agendamento online para provas teóricas e práticas</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Seção dentro do aplicativo, onde um usuário que está no processo de obter a sua CNH, consegue agendar a prova teórica e prática de forma online.</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Ambiental</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF11</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/#req-funcionais">BS07</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us15">UC15</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS07. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito facilita o acesso do usuário ao agendamento de provas, eliminando a necessidade de deslocamento até a autoescola.<br>
+        Agregação – O requisito será classificado no Módulo de Consultas.<br>
+        Recurso - API do Detran, banco de dados, equipe de desenvolvimento.<br>
+        Responsabilidade - Time de backend responsável pela implementação.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem - Não implementado</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
+## RF12 E012
+<details>
+  <summary>RF12 - Área para autoescolas com avaliações, comentários e localização</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Uma Área dentro do aplicativo para autoescolas que contém,avaliações, comentários e localização.</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Ambiental</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF12</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/#req-funcionais">BS08</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us40">US40</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS08. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito atende à necessidade do usuário ao oferecer uma área no aplicativo dedicada às autoescolas, com avaliações, comentários e localização, facilitando a escolha da instituição.<br>
+        Agregação – O requisito será classificado no Módulo de Consultas.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem - Não implementado</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
+## RF13 E013
+<details>
+  <summary>RF13 - Guia de documentos necessários para cada tipo de serviço</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Um guia de documentos necessários para cada tipo de serviço, para facilitar o conhecimento do usuário sobre cada documento.</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Ambiental</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF13</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/#req-funcionais">BS09</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us41">US41</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS09. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito atende à expectativa do usuário ao fornecer um guia claro sobre os documentos exigidos para cada tipo de serviço, facilitando o entendimento e evitando deslocamentos desnecessários por falta de informação.<br>
+        Agregação – O requisito será classificado no Módulo de Consultas.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem - Não Implementado</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
+## RF14 E014
+<details>
+  <summary>RF14 - Chat com IA para tirar dúvidas</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Um chat com uma inteligência artificial para tirar dúvidas, sobre qualquer tema que se relacione ao Detran e ao aplicativo, mas tendo suas limitações.</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF14</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/#req-funcionais">BS10</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us34">US34</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS010. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito atende à necessidade do usuário ao oferecer um chat com inteligência artificial para tirar dúvidas relacionadas ao Detran e ao aplicativo, proporcionando suporte imediato e acessível, mesmo com suas limitações.<br>
+        Agregação – O requisito será classificado no Módulo de Consultas.<br>
+        Recurso	- Serviço de IA e infraestrutura para chat.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem - Não Implementado</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
+## RF15 E015
+<details>
+  <summary>RF15 - Integração com CNH Digital e Gov.br</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Ter a possibilidade de entrar no aplicativo, utilizando o Gov.br, onde utiliza as mesmas credenciais e facilita a autenticação.</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF15</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/#req-funcionais">BS11</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us39">US39</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS11. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito atende à expectativa do usuário ao permitir o acesso ao aplicativo utilizando as credenciais do Gov.br, facilitando a autenticação por meio de um login unificado e já conhecido.<br>
+        Agregação – O requisito será classificado no Módulo de Consultas<br>
+        Recurso	- Integração com sistema Gov.br para autenticação.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td><img src="../assets/print-intgov.png" alt="print-integração-govbr" width="200"></td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
+## RF16 E016
+<details>
+  <summary>RF16 - Atendimento ao vivo com servidor do DETRAN via chat/vídeo</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Ter um atendimento via chat/vídeo com um servidor do Detran-DF.</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Ambiental</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF16</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/#req-funcionais">BS12</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us35">US35</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS05. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito atende à necessidade do usuário ao oferecer atendimento via chat ou vídeo com um servidor do Detran-DF, proporcionando suporte direto e personalizado para esclarecer dúvidas e resolver questões.<br>
+        Agregação – O requisito será classificado no Módulo de Consultas <br>
+        Recurso - Plataforma de chat/vídeo e equipe de atendimento do Detran.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem - Não Implementado</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 ## RF17 E17
 <details>

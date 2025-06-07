@@ -144,6 +144,8 @@ Abaixo, na tabela 6, está especificado o caso de uso para a funcionalidade de "
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
+<a id="uc04"></a>
+
 ### Atendimento ao vivo com servidor do DETRAN via chat/vídeo
 
 Abaixo, na tabela 7, está especificado o caso de uso para a funcionalidade de "Atendimento ao vivo com servidor do DETRAN via chat/vídeo".

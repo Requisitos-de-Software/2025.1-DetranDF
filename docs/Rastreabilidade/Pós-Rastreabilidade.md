@@ -78,6 +78,8 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 # Rastreabilidade
 
+## Requisitos Funcionais
+
 ## RF05 E05
 <details>
   <summary>RF05 - Exibir notificações de prazos e documentos vencidos</summary>
@@ -891,6 +893,8 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 <font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
+## Requisitos Não Funcionais
+
 ## RNF01 E045
 
 <details>
@@ -1064,6 +1068,137 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 <font size="3"><p style="text-align: center">Autor: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
+## RNF05 E049
+<details>
+  <summary>RNF05 - Acessibilidade (fonte grande, contraste, modo noturno)</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Acessibilidade (fonte grande, contraste, modo noturno)</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Requisito Não Funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">BS17</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/especifica%C3%A7%C3%A3o-suplementar/#funcionalidades">US04 - Usabilidade</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/">RNFR04 - Usabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS17. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>Satisfação- Atende usuários com baixa visão ou sensibilidade visual, oferecendo conforto e inclusão na interface.<br>
+      Recurso - Biblioteca de design responsivo e componentes de acessibilidade.<br>
+      Responsabilidade - Equipe de design e frontend responsável por implementar os estilos e modos acessíveis.</td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
+## RNF06 E050
+<details>
+  <summary>RNF06 - Leitor de tela e assistente por voz para pessoas cegas</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Leitor de tela e assistente por voz para pessoas cegas.</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Requisito Não Funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">BS18</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/especifica%C3%A7%C3%A3o-suplementar/#funcionalidades">US04 - Usabilidade</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/">RNFR04 - Usabilidade</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS18. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>Satisfação - Garante que usuários cegos ou com deficiência visual possam utilizar o app com autonomia.<br>
+      Recurso - APIs de acessibilidade do sistema operacional<br>
+      Responsabilidade - Desenvolvedores mobile responsáveis por adaptar os elementos da interface para leitura por assistentes de voz.</td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem - nao implementado</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
+## RNF07 E051
+<details>
+  <summary>RNF07 - Sistema de avaliação com base em uso real (ex-alunos)</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Sistema de avaliação com base em uso real (ex-alunos)</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Requisito Não Funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br> 
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/">BS19</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/#quali">Qualidade e Feedback</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – BS19. O requisito originou-se da técnica de Brainstorm</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>Satisfação -	Ajuda novos usuários a escolherem autoescolas com base em experiências reais, promovendo confiança e transparência.<br>
+        Recurso -	Banco de dados com registros de ex-alunos, formulário de avaliação, sistema de autenticação para validação dos dados.<br>
+        Responsabilidade -	Time de backend responsável por armazenar e validar as avaliações; time de UX por garantir usabilidade da ferramenta.</td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td> Imagem - Não implementado</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
 ## RNF08 E052
 <details>
   <summary>RNF08 - Propaganda efetiva para promover o app</summary>
@@ -1213,3 +1348,5 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 |  1.1   | 05/06/2025| introdução, objetiva. metodologia, e template da rastreabilidade |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi)  |
 |  1.2   | 05/06/2025| E05 a 10, E045 e E048|  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Mendes](https://github.com/gbevi)  |
 |  1.3   | 07/06/2025 | E17 a 22, E052 e E054 |  [Gabriel Mendes](https://github.com/gbevi)   |   |
+|  1.4   | 07/06/2025 | adicionei RF11 a RF16  |  [João Lobo](https://github.com/joaolobo10)   |   |
+|  1.5   | 07/06/2025 | adicionei RNF05 a RNF7  |  [João Lobo](https://github.com/joaolobo10)   |   |

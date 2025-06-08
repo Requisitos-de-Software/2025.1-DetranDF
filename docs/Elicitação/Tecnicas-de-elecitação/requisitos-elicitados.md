@@ -45,8 +45,8 @@ Para alcançar os objetivos propostos, foram aplicadas as seguintes técnicas de
 | RF26   | Iniciar e acompanhar recurso de multa pelo app                                  | Storytelling - Olavo        |
 | RF27   | Permitir agendamento de exame médico para CNH                                   | Storytelling - Diego        |
 | RF28   | Enviar notificações de vencimento da CNH, multas e licenciamento                | Storytelling - Diego        |
-| RF29   | Oferecer explicações simples sobre termos técnicos (ex: infração, RENACH)       | Storytelling - Marina       |
-| RF30   | Oferecer canal de atendimento humano (chat ou WhatsApp)                         | Storytelling - Marina, Olavo|
+| RF29   | Oferecer explicações simples sobre termos técnicos (ex: infração, RENACH)       | STO07       |
+| RF30   | Oferecer canal de atendimento humano (chat ou WhatsApp)                         | STO08|
 |RF31|Reposição de placa Mercosul   |OBS006  |
 |RF32|Conversão de placa Mercosul   |OBS007  |
 |RF33|Histórico de infração do condutor|OBS008|

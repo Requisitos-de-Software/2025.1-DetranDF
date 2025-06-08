@@ -1165,6 +1165,279 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 <font size="3"><p style="text-align: center">Autor: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
+## RF29 E29
+<details>
+  <summary>RF29 - Explicações simples sobre termos técnicos</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Explicações simples de termos técnicos para entender melhor os processos.</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF29</a>,
+
+                <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling">STO07</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us36">US36</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – Storytelling. O requisito originou-se da técnica de Storytelling.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Representação - Ajuda o usuário a compreender termos técnicos
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+<font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+## RF30 E30
+<details>
+  <summary>RF30 - Canal de atendimento humano</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Oferecer canal de atendimento humano (chat ou WhatsApp) para sanar dúvidas ou resolver questões pendentes.</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF30</a>,
+
+                <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling">STO08</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us35">US35</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Recurso – Storytelling. O requisito originou-se da técnica de Storytelling.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito atende à necessidade do usuário ao oferecer atendimento via chat ou WhatsApp com um servidor do Detran-DF, proporcionando suporte direto e personalizado para esclarecer dúvidas.<br>
+        Recurso – Requer a integração com uma plataforma de mensagens e a alocação de equipe para o atendimento.<br>
+        Agregação – O requisito será incluído no Módulo de Suporte ao Cidadão.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+<font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+
+## RF31 E31
+<details>
+  <summary>RF31 - Reposição de placa Mercosul</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Desejo solicitar uma nova placa Mercosul</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF31</a>,
+
+                <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS006</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us22">US22</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Responsabilidade – O requisito originou-se da técnica de Observação.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Responsabilidade – O requisito delega ao sistema a função de intermediar o processo de reposição da placa, incluindo instruções, documentos necessários e encaminhamento para o órgão competente.<br>
+        Agregação – Será incorporado ao Módulo de Veículos, dentro da seção de serviços.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+<font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+## RF32 E32
+<details>
+  <summary>RF32 - Conversão de placa Mercosul</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Desejo solicitar a troca da placa antiga para uma placa Mercosul</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF31</a>,
+
+                <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS007</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us23">US23</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Responsabilidade – O requisito originou-se da técnica de Observação.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        	Responsabilidade – O requisito define a responsabilidade do sistema em guiar o usuário no processo de conversão, informando etapas, prazos e vínculos com normativas vigentes.<br>
+          Agregação – Este serviço será parte do Módulo de Veículos, agrupado com outros serviços de placa.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+<font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+
+## RF33 E33
+<details>
+  <summary>RF33 - Histórico de infração do condutor</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Ver o histórico de infração do condutor</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF33</a>,
+
+                <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS008</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us08">US08</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – O requisito originou-se da técnica de Observação.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        		Representação – O requisito será refletido na interface como uma lista de infrações organizadas cronologicamente, com detalhes sobre data, local e pontuação.<br>
+            Agregação – Será integrado ao Módulo de Condutor, servindo de base para outras funcionalidades como recurso de multa e consulta de pontos.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+<font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+## RF34 E34
+<details>
+  <summary>RF34 - Histórico de infração do veículo	</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Ver o histórico de infração do veículo</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF34</a>,
+
+                <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS009</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us09">US08</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – O requisito originou-se da técnica de Observação.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        			Representação – O requisito é representado por uma interface clara que exibe todas as infrações vinculadas ao veículo, incluindo status de pagamento e penalidades.<br>
+              Agregação – Será parte do Módulo de Veículos, com integração ao banco de dados de autuações.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+<font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+
 ## RF35 E35
 <details>
   <summary>RF35 - Conversão de autuação em penalidade</summary>
@@ -2057,6 +2330,141 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 <font size="3"><p style="text-align: center">Autor: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
+## RNF14 E58
+<details>
+  <summary>RNF14 - Interface adaptada para idosos e iniciantes</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Texto com fontes ajustáveis e botões grandes</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Requisito Não Funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF14</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling">STO-RNF05	</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/#usa">NFR-Usabilidade	</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Satisfação - Originado da técnica de Storytelling de Olavo e Marina.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito busca atender às expectativas dos usuários com pouca familiaridade digital, oferecendo uma interface intuitiva, com ícones maiores, linguagem simplificada e menos passos por tarefa.<br>
+        Agregação – O requisito será refletido em todos os módulos principais, como Consultas e Serviços, influenciando diretamente o design geral do aplicativo.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+<font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+
+## RNF15 E59
+<details>
+  <summary>RNF15 - Aplicativo leve e com baixo consumo de dados</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Aplicativo leve que não consuma muita memória do dispositivo do usuário</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Requisito Não Funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF15</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling">STO-RNF06	</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/#desempenho">NFR-Desempenho	</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Recurso - Originado da técnica de Storytelling de Diego.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Recurso – O requisito orienta a equipe a otimizar os recursos do aplicativo, reduzindo tamanho dos pacotes, compressão de imagens e evitando requisições desnecessárias.<br>
+        Responsabilidade – Define a responsabilidade da equipe de desenvolvimento em aplicar práticas de performance e eficiência energética. <br>
+        Agregação – Será observado de forma transversal em todos os módulos, especialmente em serviços que consomem imagens e dados.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+<font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+## RNF16 E60
+<details>
+  <summary>RNF16 - Tempo de resposta rápido</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Aplicativo rápido com tempo de respota inferior a 2 segundos para às atividades</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Requisito Não Funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF16</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling">STO-RNF02	</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/#desempenho">NFR-Desempenho	</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Recurso - Originado da técnica de Storytelling de Diego.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Recurso – O requisito orienta a equipe a otimizar os recursos do aplicativo, reduzindo tamanho dos pacotes, compressão de imagens e evitando requisições desnecessárias.<br>
+        Responsabilidade – Define a responsabilidade da equipe de desenvolvimento em aplicar práticas de performance e eficiência energética.<br>
+        Agregação – Será observado de forma transversal em todos os módulos, especialmente em serviços que consomem imagens e dados.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+<font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
 ## RNF17 E61
 <details>
   <summary>RNF17 - Feedback visual e sonoro</summary>
@@ -2194,4 +2602,5 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 |  1.4   | 07/06/2025 | adicionei RF11 a RF16  |  [João Lobo](https://github.com/joaolobo10)   | [Maria Eduarda](https://github.com/maaduh)  |
 |  1.5   | 07/06/2025 | adicionei RNF05 a RNF7  |  [João Lobo](https://github.com/joaolobo10)   |  [Maria Eduarda](https://github.com/maaduh) |
 |  1.6   | 07/06/2025 | adicionei RNF11 a RNF13 e RF 23 a RF 28  |  [Maria Eduarda](https://github.com/maaduh)  | [Eric Akio](https://github.com/eric-kingu) |
-|  1.6   | 07/06/2025 | adicionei RNF17 a RNF19 e RF 35 a RF 41  | [Eric Akio](https://github.com/eric-kingu) |  |
+|  1.7   | 07/06/2025 | adicionei RNF17 a RNF19 e RF 35 a RF 41  | [Eric Akio](https://github.com/eric-kingu) |[Pedro Camilo](https://github.com/PedrooCamilo)  |
+|  1.8   | 08/06/2025 | adicionei RNF14 a RNF16 e RF 29 a RF 34  | [Pedro Camilo](https://github.com/PedrooCamilo) |  |

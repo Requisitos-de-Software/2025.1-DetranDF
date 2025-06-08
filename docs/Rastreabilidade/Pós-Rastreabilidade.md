@@ -668,7 +668,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td><img src="../assets/print-intgov.png" alt="print-integração-govbr" width="200"></td>
+      <td><img src="/2025.1-DetranDF/assets/print-intgov.png" alt="print-integração-govbr" width="500" height="500"></td>
     </tr>
   </table>
 </details>
@@ -2781,4 +2781,5 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 |  1.6   | 07/06/2025 | adicionei RNF11 a RNF13 e RF 23 a RF 28  |  [Maria Eduarda](https://github.com/maaduh)  | [Eric Akio](https://github.com/eric-kingu) |
 |  1.7   | 07/06/2025 | adicionei RNF17 a RNF19 e RF 35 a RF 41  | [Eric Akio](https://github.com/eric-kingu) |[Pedro Camilo](https://github.com/PedrooCamilo)  |
 |  1.8   | 08/06/2025 | adicionei RNF14 a RNF16 e RF 29 a RF 34  | [Pedro Camilo](https://github.com/PedrooCamilo) | [Luiz Bessa](https://github.com/lfelipebessa) |
-|  1.9   | 08/06/2025 | adicionei RNF20 e RF 01 a RF 04 e 42 a 44  | [Luiz Bessa](https://github.com/lfelipebessa) |  [Usabilidade](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/#usa)  |
+|  1.9   | 08/06/2025 | adicionei RNF20 e RF 01 a RF 04 e 42 a 44  | [Luiz Bessa](https://github.com/lfelipebessa) |    |
+|  2.0   | 08/06/2025 | Consertei print da funcionalidade RF15  | [João Lobo](https://github.com/joaolobo10) |    |

@@ -82,4 +82,4 @@ Verificação foi realizada pela integrante [Giovana Barbosa](https://github.com
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 05/06/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |  |
-|  1.0   | 05/06/2025 | verificação RF 01 a 10 e RNF 01 a 04 |  [Giovana Barbosa](https://github.com/gio221)   |  |
+|  1.0   | 05/06/2025 | verificação RF 05 a 10 e RNF 01 a 04 |  [Giovana Barbosa](https://github.com/gio221)   |  |

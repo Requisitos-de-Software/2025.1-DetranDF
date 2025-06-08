@@ -78,6 +78,21 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 # Rastreabilidade
 
+### Quem fez cada requisito
+
+|Nome de quem verificou| quais requisitos verificados|
+| :----: | --------- |
+| [Luiz Bessa](https://github.com/lfelipebessa)|RF 01 a 04, 32 a 44, e RNF 20|
+| [Giovana Barbosa](https://github.com/gio221) |RF 05 a 10 e RNF 01 a 04|
+| [João Lobo](https://github.com/joaolobo10)   | RF 11 a 16 e RNF 05 a 07|
+|[Gabriel Mendes](https://github.com/gbevi)|RF 17 a 22 e RNF 8 a 10|
+| [Maria Eduarda](https://github.com/maaduh) | RF 23 a 28 e RNF 11 a 13|
+| [Pedro Camilo](https://github.com/PedrooCamilo)  |RF 29 a 34 e RNF 14 a 16|
+| [Eric Akio](https://github.com/eric-kingu)|RF 35 a 41 e RNF 17 a 19|
+
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
+
 ## Requisitos Funcionais
 
 ## RF01 E01
@@ -2781,5 +2796,5 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 |  1.6   | 07/06/2025 | adicionei RNF11 a RNF13 e RF 23 a RF 28  |  [Maria Eduarda](https://github.com/maaduh)  | [Eric Akio](https://github.com/eric-kingu) |
 |  1.7   | 07/06/2025 | adicionei RNF17 a RNF19 e RF 35 a RF 41  | [Eric Akio](https://github.com/eric-kingu) |[Pedro Camilo](https://github.com/PedrooCamilo)  |
 |  1.8   | 08/06/2025 | adicionei RNF14 a RNF16 e RF 29 a RF 34  | [Pedro Camilo](https://github.com/PedrooCamilo) | [Luiz Bessa](https://github.com/lfelipebessa) |
-|  1.9   | 08/06/2025 | adicionei RNF20 e RF 01 a RF 04 e 42 a 44  | [Luiz Bessa](https://github.com/lfelipebessa) |    |
-|  2.0   | 08/06/2025 | Consertei print da funcionalidade RF15  | [João Lobo](https://github.com/joaolobo10) |    |
+|  1.9   | 08/06/2025 | adicionei RNF20 e RF 01 a RF 04 e 42 a 44  | [Luiz Bessa](https://github.com/lfelipebessa) | [Giovana Barbosa](https://github.com/gio221)   |
+|  2.0   | 08/06/2025 | Consertei print da funcionalidade RF15  | [João Lobo](https://github.com/joaolobo10) |   [Giovana Barbosa](https://github.com/gio221)  |

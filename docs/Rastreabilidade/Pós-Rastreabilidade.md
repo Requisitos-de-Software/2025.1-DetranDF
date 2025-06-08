@@ -1722,9 +1722,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
       <td><strong>Elementos</strong></td>
       <td><br>
               <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF13</a>,
-
-        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling>STO07</a>
-
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling">STO07</a>
       </td>
     </tr>
     <tr>
@@ -1744,8 +1742,6 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
   </table>
 </details>
 <font size="3"><p style="text-align: center">Autor: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
-
-
 
 ## Histórico de versão
 

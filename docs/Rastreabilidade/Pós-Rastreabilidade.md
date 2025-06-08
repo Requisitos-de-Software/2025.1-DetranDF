@@ -668,7 +668,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td><img src="../assets/print-intgov.png" alt="print-integração-govbr" width="200"></td>
+      <td><img src="/2025.1-DetranDF/assets/print-intgov.png" alt="print-integração-govbr" width="500" height="500"></td>
     </tr>
   </table>
 </details>

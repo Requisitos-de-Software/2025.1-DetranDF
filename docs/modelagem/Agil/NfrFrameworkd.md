@@ -636,7 +636,7 @@ No video abaixo é feito a validação da parte de Segurança pela integrante [M
 <p style="text-align: center"><a href=" https://youtu.be/iJy65SwYfvk" target="blanket">Vídeo da= validação com o usuário</a></p>
 
 ---
-
+<a id='confia'></a>
 ##  5. Confiabilidade e Disponibilidade
 
 Continuidade do sistema e recuperação de falhas.

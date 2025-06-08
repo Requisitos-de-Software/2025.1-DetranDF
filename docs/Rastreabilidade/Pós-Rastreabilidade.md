@@ -1165,6 +1165,320 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 <font size="3"><p style="text-align: center">Autor: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
+## RF35 E35
+<details>
+  <summary>RF35 - Conversão de autuação em penalidade</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Conversão de autuação em penalidade</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF35</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS010</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us24">US24</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – OBS010. O requisito originou-se da Observação.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito permite o usuário converter autuação em penalidades.<br>
+        Agregação – O requisito será alocado no Módulo de Infrações.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
+## RF36 E36
+<details>
+  <summary>RF36 - Nova solicitação de Protocolo-e</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Nova solicitação de protocolo-e</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF36</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS011</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us25">US25</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – OBS011. O requisito originou-se da Observação.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito permite o usuário fazer uma nova solicitação de Protocolo-e.<br>
+        Agregação – O requisito será alocado no Módulo de Protocolo-e.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
+## RF37 E37
+<details>
+  <summary>RF37 - Acompanhar solicitação de protocolo-e</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Acompanhar solicitação de protocolo-e</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF37</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS012</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us26">US26</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – OBS012. O requisito originou-se da Observação.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito permite o usuário acomapanhar solicitação de protocolo-e.<br>
+        Agregação – O requisito será alocado no Módulo de Protocolo-e.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
+## RF38 E38
+<details>
+  <summary>RF38 - Solicitar credencial de estacionamento para idoso</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Solicitar credencial de estacionamento para idoso</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF38</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS013</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us27">US27</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – OBS013. O requisito originou-se da Observação.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito permite o usuário solicitar credencial de idoso.<br>
+        Agregação – O requisito será alocado no Módulo de credenciais.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
+## RF39 E39
+<details>
+  <summary>RF38 - Solicitar credencial de estacionamento para TEA</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Solicitar credencial de estacionamento para TEA</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF39</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS014</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us28">US28</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – OBS014. O requisito originou-se da Observação.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito permite o usuário solicitar credencial para pessoas com TEA.<br>
+        Agregação – O requisito será alocado no Módulo de Credenciais.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
+## RF40 E40
+<details>
+  <summary>RF40 - Pagamento de débitos para liberação de veículo</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Pagamento de débitos para liberação de veículo</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF40</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS015</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us29">US29</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – OBS015. O requisito originou-se da Observação.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito permite o usuário pagar débitos para liberar veículo do pátio.<br>
+        Agregação – O requisito será alocado no Módulo de Infrações.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
+## RF41 E41
+<details>
+  <summary>RF41 - Simulado de prova teórica</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Simulado de prova teórica</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF41</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS016</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us42">US42</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – OBS016. O requisito originou-se da Observação.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – O requisito permite o usuário fazer simulados de prova teórica.<br>
+        Alocado – O requisito será alocado no Módulo de Simulados.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## Requisitos Não Funcionais
 
@@ -1743,6 +2057,132 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 <font size="3"><p style="text-align: center">Autor: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
+## RNF17 E61
+<details>
+  <summary>RNF17 - Feedback visual e sonoro</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Feedback visual e sonoro nas interações do usuário</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Requisito Não Funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF17</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling">STO2.09</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – Storytelling. Originado da técnica de Storytelling.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – Reforça a acessibilidade para idosos e pessoas com baixa visão
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+<font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
+## RNF18 E62
+<details>
+  <summary>RNF18 - Disponibilidade do sistema 24/7</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Disponibilidade do sistea24/7</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Requisito Não Funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF18</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling">STO2.010</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – Storytelling. Originado da técnica de Storytelling.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – Reforça a Disponibilidade do sistema
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+<font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
+## RNF19 E63
+<details>
+  <summary>RNF19 - Recuperação de falhas e continuidade da navegação</summary>
+
+  <table>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Confiabilidade: recuperação de falhas e continuidade da navegação</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Requisito Não Funcional</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td><br>
+              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF19</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling">STO2.08</a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – Storytelling. Originado da técnica de Storytelling.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>
+        Satisfação – Reforça a confiabilidade do sistema
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+<font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
 ## Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
@@ -1753,4 +2193,5 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 |  1.3   | 07/06/2025 | E17 a 22, E052 e E054 |  [Gabriel Mendes](https://github.com/gbevi)   | [Maria Eduarda](https://github.com/maaduh)  |
 |  1.4   | 07/06/2025 | adicionei RF11 a RF16  |  [João Lobo](https://github.com/joaolobo10)   | [Maria Eduarda](https://github.com/maaduh)  |
 |  1.5   | 07/06/2025 | adicionei RNF05 a RNF7  |  [João Lobo](https://github.com/joaolobo10)   |  [Maria Eduarda](https://github.com/maaduh) |
-|  1.6   | 07/06/2025 | adicionei RNF11 a RNF13 e RF 23 a RF 28  |  [Maria Eduarda](https://github.com/maaduh)  |   |
+|  1.6   | 07/06/2025 | adicionei RNF11 a RNF13 e RF 23 a RF 28  |  [Maria Eduarda](https://github.com/maaduh)  | [Eric Akio](https://github.com/eric-kingu) |
+|  1.6   | 07/06/2025 | adicionei RNF17 a RNF19 e RF 35 a RF 41  | [Eric Akio](https://github.com/eric-kingu) |  |

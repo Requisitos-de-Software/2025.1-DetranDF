@@ -80,6 +80,104 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 ## Requisitos Funcionais
 
+## RF01 E01
+<details>
+  <summary>RF01 - Permitir consulta de multas e débitos do veículo</summary>
+
+  <table>
+    <tr>
+      <th>Item</th><th>Descrição</th>
+    </tr>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Permitir consulta de multas e débitos do veículo</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td>
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF01</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/#req-funcionais">IS01</a>,<a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/#req-funcionais">BS01</a></a></td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Agregação – IS01, OBS001. O requisito originou-se da Introspecção funcional e de Observações de usuários.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>Satisfação – viabiliza transparência sobre débitos do veículo.<br>Agregação – alocado no Módulo de Consultas.</td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Imagem</td>
+    </tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+---
+
+## RF02 E02
+<details>
+  <summary>RF02 - Realizar agendamento de serviços</summary>
+
+  <table>
+    <tr><th>Item</th><th>Descrição</th></tr>
+    <tr><td><strong>Descrição do requisito</strong></td><td>Realizar agendamento de serviços (vistoria, CNH, etc.)</td></tr>
+    <tr><td><strong>Categoria</strong></td><td>Desenvolvimento</td></tr>
+    <tr><td><strong>Elementos</strong></td><td>
+    <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF02</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/#req-funcionais">IS02</a>,<a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/#req-funcionais">BS02</a>,</a></td></tr>
+    <tr><td><strong>Elos Backward-from</strong></td><td>Agregação – IS02, OBS002. Originado por Introspecção funcional e Observações.</td></tr>
+    <tr><td><strong>Elos Forward-from</strong></td><td>Satisfação – permite ao usuário reservar horários sem filas.<br>Agregação – alocado no Módulo de Agendamento.</td></tr>
+    <tr><td><strong>Print</strong></td><td>Imagem</td></tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+---
+
+## RF03 E03
+<details>
+  <summary>RF03 - Exibir informações da CNH e pontuação</summary>
+
+  <table>
+    <tr><th>Item</th><th>Descrição</th></tr>
+    <tr><td><strong>Descrição do requisito</strong></td><td>Exibir informações da CNH e pontuação</td></tr>
+    <tr><td><strong>Categoria</strong></td><td>Desenvolvimento</td></tr>
+    <tr><td><strong>Elementos</strong></td><td>
+    <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF03</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/#req-funcionais">IS03</a>,<a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming/#req-funcionais">BS01</a>,<a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us11">OBS003</a></td></tr>
+    <tr><td><strong>Elos Backward-from</strong></td><td>Agregação – IS03, BS01, OBS003. Derivado de Introspecção, Brainstorm e Observações.</td></tr>
+    <tr><td><strong>Elos Forward-from</strong></td><td>Satisfação – fornece monitoramento da situação da carteira.<br>Agregação – alocado no Módulo Carteira Digital.</td></tr>
+    <tr><td><strong>Print</strong></td><td>Imagem</td></tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+---
+
+## RF04 E04
+<details>
+  <summary>RF04 - Realizar a transferência da autuação de infração</summary>
+
+  <table>
+    <tr><th>Item</th><th>Descrição</th></tr>
+    <tr><td><strong>Descrição do requisito</strong></td><td>Realizar a transferência da autuação de infração</td></tr>
+    <tr><td><strong>Categoria</strong></td><td>Desenvolvimento</td></tr>
+    <tr><td><strong>Elementos</strong></td><td>
+    <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF04</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/#req-funcionais">IS04</a></td></tr>
+    <tr><td><strong>Elos Backward-from</strong></td><td>Agregação – IS04. Originado da Introspecção funcional.</td></tr>
+    <tr><td><strong>Elos Forward-from</strong></td><td>Satisfação – facilita transferência de responsabilidade pela infração.<br>Agregação – alocado no Módulo de Infrações.</td></tr>
+    <tr><td><strong>Print</strong></td><td>Imagem</td></tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
 ## RF05 E05
 <details>
   <summary>RF05 - Exibir notificações de prazos e documentos vencidos</summary>
@@ -1753,6 +1851,66 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 <font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
+## RF42 E42
+<details>
+  <summary>RF42 - Informações sobre leilão</summary>
+
+  <table>
+    <tr><th>Item</th><th>Descrição</th></tr>
+    <tr><td><strong>Descrição do requisito</strong></td><td>Ter uma parte sobre leilão</td></tr>
+    <tr><td><strong>Categoria</strong></td><td>Desenvolvimento</td></tr>
+    <tr><td><strong>Elementos</strong></td><td>
+    <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF42</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/#req-funcionais">OBS017</a></td></tr>
+    <tr><td><strong>Elos Backward-from</strong></td><td>Agregação – OBS017. Identificado por Observação de usuários.</td></tr>
+    <tr><td><strong>Elos Forward-from</strong></td><td>Satisfação – oferece acesso a editais e lances de leilões.<br>Agregação – alocado no Módulo de Leilões.</td></tr>
+    <tr><td><strong>Print</strong></td><td>Imagem</td></tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+---
+
+## RF43 E43
+<details>
+  <summary>RF43 - Verificar autorização para transporte escolar</summary>
+
+  <table>
+    <tr><th>Item</th><th>Descrição</th></tr>
+    <tr><td><strong>Descrição do requisito</strong></td><td>Verificar se o veículo tem autorização para transporte escolar</td></tr>
+    <tr><td><strong>Categoria</strong></td><td>Desenvolvimento</td></tr>
+    <tr><td><strong>Elementos</strong></td><td>
+    <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF43</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/#req-funcionais">OBS018</a></td></tr>
+    <tr><td><strong>Elos Backward-from</strong></td><td>Agregação – OBS018. Identificado por Observação de usuários.</td></tr>
+    <tr><td><strong>Elos Forward-from</strong></td><td>Satisfação – permite consulta rápida da regularidade do serviço.<br>Agregação – alocado no Módulo Transporte Escolar.</td></tr>
+    <tr><td><strong>Print</strong></td><td>Imagem</td></tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+---
+
+## RF44 E44
+<details>
+  <summary>RF44 - Solicitar autorização para transporte escolar</summary>
+
+  <table>
+    <tr><th>Item</th><th>Descrição</th></tr>
+    <tr><td><strong>Descrição do requisito</strong></td><td>O veículo conseguir solicitar autorização para transporte escolar</td></tr>
+    <tr><td><strong>Categoria</strong></td><td>Desenvolvimento</td></tr>
+    <tr><td><strong>Elementos</strong></td><td>
+    <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF44</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspec%C3%A7%C3%A3o/#req-funcionais">OBS019</a></td></tr>
+    <tr><td><strong>Elos Backward-from</strong></td><td>Agregação – OBS019. Identificado por Observação de usuários.</td></tr>
+    <tr><td><strong>Elos Forward-from</strong></td><td>Satisfação – simplifica o processo de autorização junto ao DETRAN.<br>Agregação – alocado no Módulo Transporte Escolar.</td></tr>
+    <tr><td><strong>Print</strong></td><td>Imagem</td></tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
+---
+
 ## Requisitos Não Funcionais
 
 ## RNF01 E045
@@ -2591,6 +2749,25 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 <font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
+## RNF20 E64
+<details>
+  <summary>RNF20 - Interface com poucos elementos por tela</summary>
+
+  <table>
+    <tr><th>Item</th><th>Descrição</th></tr>
+    <tr><td><strong>Descrição do requisito</strong></td><td>Interface com poucos elementos por tela para facilitar leitura</td></tr>
+    <tr><td><strong>Categoria</strong></td><td>Usabilidade</td></tr>
+    <tr><td><strong>Elementos</strong></td><td>
+    <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF20</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling">STO2.08</a></td></tr>
+    <tr><td><strong>Elos Backward-from</strong></td><td>Agregação – Storytelling de usuários (Olavo). Surgiu de relatos de dificuldade de leitura em telas sobrecarregadas.</td></tr>
+    <tr><td><strong>Elos Forward-from</strong></td><td>Satisfação – aumenta a legibilidade e reduz a carga cognitiva.<br>Agregação – aplicado em todas as telas, regido pelo Guia de UI/UX.</td></tr>
+    <tr><td><strong>Print</strong></td><td>Imagem</td></tr>
+  </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
+
 ## Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
@@ -2603,4 +2780,5 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 |  1.5   | 07/06/2025 | adicionei RNF05 a RNF7  |  [João Lobo](https://github.com/joaolobo10)   |  [Maria Eduarda](https://github.com/maaduh) |
 |  1.6   | 07/06/2025 | adicionei RNF11 a RNF13 e RF 23 a RF 28  |  [Maria Eduarda](https://github.com/maaduh)  | [Eric Akio](https://github.com/eric-kingu) |
 |  1.7   | 07/06/2025 | adicionei RNF17 a RNF19 e RF 35 a RF 41  | [Eric Akio](https://github.com/eric-kingu) |[Pedro Camilo](https://github.com/PedrooCamilo)  |
-|  1.8   | 08/06/2025 | adicionei RNF14 a RNF16 e RF 29 a RF 34  | [Pedro Camilo](https://github.com/PedrooCamilo) |  |
+|  1.8   | 08/06/2025 | adicionei RNF14 a RNF16 e RF 29 a RF 34  | [Pedro Camilo](https://github.com/PedrooCamilo) | [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.9   | 08/06/2025 | adicionei RNF20 e RF 01 a RF 04 e 42 a 44  | [Luiz Bessa](https://github.com/lfelipebessa) |  |

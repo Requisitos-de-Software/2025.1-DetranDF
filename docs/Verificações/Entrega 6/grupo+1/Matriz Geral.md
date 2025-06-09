@@ -49,10 +49,29 @@ Verificação foi realizada pela integrante [Giovana Barbosa](https://github.com
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/qDJ8NV8rBoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href=" https://youtu.be/qDJ8NV8rBoc" target="blanket">Vídeo da verficiação</a></p>
 
+## Verificação dos RF 10 a 18
+
+Verificação foi realizada pela integrante [Maria Eduarda](https://github.com/maaduh) 
+
+<font size="3"><p style="text-align: center">**Tabela 3 **- Inspeção técnica da matriz geral </p></font>
+
+|ID| Critérios                             | Sim/Não/Incompleto        | Print
+| :----: | --------- | ---------- | ---------- | 
+| 1 | A matriz registra os requisitos expressos em linguagem natural e numerados sequencialmente?	| Sim| [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../../assets/matriz/1.png) |
+| 2 |	A matriz inclui artefatos gerados durante o processo de desenvolvimento (como documentos, arquitetura, componentes e casos de teste)?|  Sim| [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../../assets/matriz/2.png) |
+| 3 | Os registros de rastreabilidade foram realizados manualmente?| Sim| [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../../assets/matriz/3.png) |
+| 4 | Há hiperlinks ou conexões entre os diferentes artefatos na matriz (como léxico e cenários)?	| Sim| [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../../assets/matriz/4.png) |
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/" target="blanket">Vídeo da verficiação</a></p>
+
 
 ## Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 05/06/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |  |
-|  1.0   | 05/06/2025 | verificação RF 01 a 09|  [Giovana Barbosa](https://github.com/gio221)   |  |
+|  1.0   | 05/06/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |[Maria Eduarda](https://github.com/maaduh)  |
+|  1.1   | 05/06/2025 | verificação RF 01 a 09|  [Giovana Barbosa](https://github.com/gio221)   |[Maria Eduarda](https://github.com/maaduh)  |
+|  1.2   | 09/06/2025 | verificação RF 10 a 18|  [Maria Eduarda](https://github.com/maaduh)   |  |

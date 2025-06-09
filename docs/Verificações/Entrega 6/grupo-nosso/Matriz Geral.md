@@ -64,6 +64,22 @@ Verificação foi realizada pela integrante [Giovana Barbosa](https://github.com
 ## Verificação dos RF 17 a 22 e RNF 8 a 10
 
 ## Verificação dos RF 23 a 28 e RNF 11 a 13
+Verificação foi realizada pela integrante [Maria Eduarda](https://github.com/maaduh) 
+
+<font size="3"><p style="text-align: center">**Tabela 5 **- Inspeção técnica da matriz geral </p></font>
+
+|ID| Critérios                             | Sim/Não/Incompleto        | Print
+| :----: | --------- | ---------- | ---------- | 
+| 1 | A matriz registra os requisitos expressos em linguagem natural e numerados sequencialmente?	| Sim| [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../../assets/matriz/1.png) |
+| 2 |	A matriz inclui artefatos gerados durante o processo de desenvolvimento (como documentos, arquitetura, componentes e casos de teste)?|  Sim| [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../../assets/matriz/2.png) |
+| 3 | Os registros de rastreabilidade foram realizados manualmente?| Sim| [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../../assets/matriz/3.png) |
+| 4 | Há hiperlinks ou conexões entre os diferentes artefatos na matriz (como léxico e cenários)?	| Sim| [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../../assets/matriz/4.png) |
+
+<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/" target="blanket">Vídeo da verficiação</a></p>
+
 
 ## Verificação dos RF 29 a 34 e RNF 14 a 16
 
@@ -77,5 +93,6 @@ Verificação foi realizada pela integrante [Giovana Barbosa](https://github.com
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 05/06/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |  |
-|  1.0   | 05/06/2025 | verificação RF 05 a 10 e RNF 01 a 04 |  [Giovana Barbosa](https://github.com/gio221)   |  |
+|  1.0   | 05/06/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [Maria Eduarda](https://github.com/maaduh) |
+|  1.1   | 05/06/2025 | verificação RF 05 a 10 e RNF 01 a 04 |  [Giovana Barbosa](https://github.com/gio221)   | [Maria Eduarda](https://github.com/maaduh) |
+|  1.2   | 05/06/2025 | verificação RF 23 a 28 e RNF 11 a 13 |  [Maria Eduarda](https://github.com/maaduh)   |  |

@@ -118,4 +118,5 @@ Verificação foi realizada pela integrante [Pedro Camilo](https://github.com/Pe
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 05/06/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [Maria Eduarda](https://github.com/maaduh) |
 |  1.1   | 05/06/2025 | verificação RF 05 a 10 e RNF 01 a 04 |  [Giovana Barbosa](https://github.com/gio221)   | [Maria Eduarda](https://github.com/maaduh) |
-|  1.2   | 09/06/2025 | verificação RF 23 a 28 e RNF 10 a 13 |  [Maria Eduarda](https://github.com/maaduh)  |  |
+|  1.2   | 09/06/2025 | verificação RF 23 a 28 e RNF 10 a 13 |  [Maria Eduarda](https://github.com/maaduh)  | [Pedro Camilo](https://github.com/PedrooCamilo) |
+|  1.3   | 09/06/2025 | verificação RF 29 a 34 e RNF 14 a 16 |  [Pedro Camilo](https://github.com/PedrooCamilo)   |  |

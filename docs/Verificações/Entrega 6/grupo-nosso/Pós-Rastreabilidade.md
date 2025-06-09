@@ -195,4 +195,4 @@ Verificação foi realizada pela integrante [Eric Akio](https://github.com/eric-
 |  1.4   | 09/06/2025 | verificação RF 17 a 22 e RNF 08 a 10 |  [Gabriel Mendes](https://github.com/gbevi)   | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.5   | 09/06/2025 | verificação RF 01 a 04, 32 a 44, e RNF 20 |  [Luiz Bessa](https://github.com/lfelipebessa)   | [Eric Akio](https://github.com/eric-kingu) |
 |  1.6   | 09/06/2025 | verificação RF 11 a 16 e RNF 05 a 07 |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
-|  1.6   | 09/06/2025 | verificação RF 35 a 41 e RNF 17 a 19 | [Eric Akio](https://github.com/eric-kingu) | [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.7   | 09/06/2025 | verificação RF 35 a 41 e RNF 17 a 19 | [Eric Akio](https://github.com/eric-kingu) | [Luiz Bessa](https://github.com/lfelipebessa) |

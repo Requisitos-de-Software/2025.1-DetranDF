@@ -29,7 +29,7 @@ A **tabela 1** descreve o checklist da matriz geral
 
 |Nome de quem verificou| quais requisitos verificados|
 | :----: | --------- |
-| [Luiz Bessa](https://github.com/lfelipebessa)|RF 01 a 04, 32 a 44, e RNF 20|
+| [Luiz Bessa](https://github.com/lfelipebessa)|RF 01 a 04, 42 a 44, e RNF 20|
 | [Giovana Barbosa](https://github.com/gio221) |RF 05 a 10 e RNF 01 a 04|
 | [João Lobo](https://github.com/joaolobo10)   | RF 11 a 16 e RNF 05 a 07|
 |[Gabriel Mendes](https://github.com/gbevi)|RF 17 a 22 e RNF 8 a 10|

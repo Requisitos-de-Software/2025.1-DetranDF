@@ -170,6 +170,9 @@ Verificação foi realizada pela integrante [Luiz Bessa](https://github.com/lfel
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/9Vx_ekfjqaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/9Vx_ekfjqaE" target="blanket">Vídeo da verficação</a></p>
+
 ## Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
@@ -181,4 +184,4 @@ Verificação foi realizada pela integrante [Luiz Bessa](https://github.com/lfel
 |  1.4   | 09/06/2025 | verificação RF 26 a 32 |  [Gabriel Mendes](https://github.com/gbevi)   | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.5   | 09/06/2025 | verificação RNF 09 a 15 |  [Luiz Bessa](https://github.com/lfelipebessa)   | [Eric Akio](https://github.com/eric-kingu) |
 |  1.6   | 09/06/2025 | verificação RF 19 a 25 |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
-|  1.7   | 09/06/2025 | verificação RnF 02 a 08 |  [Eric Akio](https://github.com/eric-kingu)   | |
+|  1.7   | 09/06/2025 | verificação RnF 02 a 08 |  [Eric Akio](https://github.com/eric-kingu)   | [Luiz Bessa](https://github.com/lfelipebessa) |

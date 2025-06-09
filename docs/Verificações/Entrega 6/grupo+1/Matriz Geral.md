@@ -31,6 +31,7 @@ A **tabela 1** descreve o checklist da matriz geral
 | :----: | --------- |
 | [Giovana Barbosa](https://github.com/gio221) |RF 01 a 09|
 | [Maria Eduarda](https://github.com/maaduh) |RF 10 a 18|
+| [João Lobo](https://github.com/joaolobo10) |RF 19 a 25|
 | [Gabriel Mendes](https://github.com/gbevi) |RF 26 a 32|
 | [Pedro Camilo](https://github.com/PedrooCamilo) |RF 33 a 38 e RNF1|
 | [Luiz Bessa](https://github.com/lfelipebessa) |RNF 09 a 15|
@@ -72,11 +73,29 @@ Verificação foi realizada pela integrante [Maria Eduarda](https://github.com/m
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href=" https://youtu.be/" target="blanket">Vídeo da verficiação</a></p>
 
+## Verificação dos RF 19 a 25
+
+Verificação foi realizada pela integrante [João Lobo](https://github.com/joaolobo10).
+
+<font size="3"><p style="text-align: center">**Tabela 4 **- Inspeção técnica da matriz geral </p></font>
+
+|ID| Critérios                             | Sim/Não/Incompleto        | Print
+| :----: | --------- | ---------- | ---------- | 
+| 1 | A matriz registra os requisitos expressos em linguagem natural e numerados sequencialmente?	| Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../../assets/matriz/1.png) |
+| 2 |	A matriz inclui artefatos gerados durante o processo de desenvolvimento (como documentos, arquitetura, componentes e casos de teste)?| Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../../assets/matriz/2.png) |
+| 3 | Os registros de rastreabilidade foram realizados manualmente?| Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../../assets/matriz/3.png) |
+| 4 | Há hiperlinks ou conexões entre os diferentes artefatos na matriz (como léxico e cenários)?	| Sim | [SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos.](../../../assets/matriz/4.png) |
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/3584HK7z3cc"YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/3584HK7z3cc" target="blanket">Vídeo da verficiação</a></p>
+
 ## Verificação dos RF 26 a 32
 
 Verificação foi realizada pelo integrante [Gabriel Mendes](https://github.com/gbevi) 
 
-<font size="3"><p style="text-align: center">**Tabela X **- Inspeção técnica da matriz geral </p></font>
+<font size="3"><p style="text-align: center">**Tabela 5 **- Inspeção técnica da matriz geral </p></font>
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
@@ -139,3 +158,4 @@ Verificação foi realizada pelo integrante [Luiz Bessa](https://github.com/lfel
 |  1.3   | 09/06/2025 | verificação RF 33 a 38 e RNF1|  [Pedro Camilo](https://github.com/PedrooCamilo)   | [Gabriel Mendes](https://github.com/gbevi) |
 |  1.4   | 09/06/2025 | verificação RF 26 a 32 |  [Gabriel Mendes](https://github.com/gbevi)   | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.5   | 09/06/2025 | verificação RNF 09 a 15 |  [Luiz Bessa](https://github.com/lfelipebessa)   | |
+|  1.6   | 09/06/2025 | verificação RF 19 a 25 |  [João Lobo](https://github.com/joaolobo10)   | |

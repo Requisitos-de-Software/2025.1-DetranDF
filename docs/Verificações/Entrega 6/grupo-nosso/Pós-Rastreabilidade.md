@@ -82,7 +82,24 @@ Verificação foi realizada pela integrante [Giovana Barbosa](https://github.com
 <p style="text-align: center"><a href=" https://youtu.be/P5GUJ8yYRWI" target="blanket">Vídeo da verficiação</a></p>
 
 ## Verificação dos RF 11 a 16 e RNF 05 a 07
-tabela 5
+
+Verificação foi realizada pela integrante [João Lobo](https://github.com/joaolobo10).
+
+<font size="3"><p style="text-align: center">**Tabela 5 **- Inspeção do artefato Pós-rastreabilidade </p></font>
+
+|ID| Critérios                             | Sim/Não/Incompleto        | Print
+| :----: | --------- | ---------- | ---------- | 
+| 1 | Há mecanism os para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		|  Sim | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
+| 2 |	As informações a serem rastreadas foram classificadas em ambiental, organizacional, gerencial, desenvolvimento?	| Sim | [Sayão e Leite (2005)1](../../../assets/matriz/2.png) |
+| 3 | As informações classificadas como organizacional são relacionadas à organização, como missões, metas, objetivos e padrões, e podem impactar os requisitos do sistema?| Não | [Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+| 4 | As informações a serem rastreadas foram classificadas como gerencial são aquelas que podem auxiliar na gerência do projeto ao associar tarefas a requisitos?| Sim |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+|5|As informações a serem rastreadas foram classificadas como desenvolvimento são aquelas ligadas a artefatos gerados durante o processo de desenvolvimento, como documentos de requisitos, diagramas, programas, casos de teste, etc.?| Sim |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+|6|Os elos de recurso indicam dependência de um recurso entre classe de origem e de destino?| Não |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/IQAIejl73OQ"YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/IQAIejl73OQ" target="blanket">Vídeo da verficiação</a></p>
 
 ## Verificação dos RF 17 a 22 e RNF 8 a 10
 
@@ -160,3 +177,4 @@ tabela 9
 |  1.3   | 09/06/2025 | verificação RF 29 a 34 e RNF 14 a 16 |  [Pedro Camilo](https://github.com/PedrooCamilo)   | [Gabriel Mendes](https://github.com/gbevi) |
 |  1.4   | 09/06/2025 | verificação RF 17 a 22 e RNF 08 a 10 |  [Gabriel Mendes](https://github.com/gbevi)   | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.5   | 09/06/2025 | verificação RF 01 a 04, 32 a 44, e RNF 20 |  [Luiz Bessa](https://github.com/lfelipebessa)   | |
+|  1.6   | 09/06/2025 | verificação RF 11 a 16 e RNF 05 a 07 |  [João Lobo](https://github.com/joaolobo10)   | |

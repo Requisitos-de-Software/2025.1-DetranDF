@@ -90,7 +90,8 @@ Verificação foi realizada pela integrante [João Lobo](https://github.com/joao
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/YIMEuQqmPvI"YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/YIMEuQqmPvI"YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/YIMEuQqmPvI" target="blanket">Vídeo da verificação</a></p>
 
 ## Verificação dos RF 17 a 22 e RNF 8 a 10

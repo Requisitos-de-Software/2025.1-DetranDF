@@ -31,6 +31,7 @@ A **tabela 1** descreve o checklist da matriz geral
 | :----: | --------- |
 | [Giovana Barbosa](https://github.com/gio221) |RF 01 a 09|
 | [Maria Eduarda](https://github.com/maaduh) |RF 10 a 18|
+| [Gabriel Mendes](https://github.com/gbevi) |RF 26 a 32|
 | [Pedro Camilo](https://github.com/PedrooCamilo) |RF 33 a 38 e RNF1|
 
 

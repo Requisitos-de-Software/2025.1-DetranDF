@@ -78,7 +78,7 @@ Verificação foi realizada pela integrante [Maria Eduarda](https://github.com/m
 
 ## Verificação dos RF 26 a 32 
 
-Verificação foi realizada pel0 integrante [Gabriel Mendes](https://github.com/gbevi)
+Verificação foi realizada pelo integrante [Gabriel Mendes](https://github.com/gbevi)
 
 <font size="3"><p style="text-align: center">**Tabela X **- Inspeção técnica da matriz geral </p></font>
 

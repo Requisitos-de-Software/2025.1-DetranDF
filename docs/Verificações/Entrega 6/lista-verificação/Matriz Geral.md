@@ -25,5 +25,5 @@ A tabela 1 descreve o checklist do artefato da matriz geral
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 05/06/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |   |
-|  1.0   | 05/06/2025 | checlist da matriz geral |  [Giovana Barbosa](https://github.com/gio221)   |   |
+|  1.0   | 05/06/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |    [Maria Eduarda](https://github.com/maaduh) |
+|  1.0   | 05/06/2025 | checlist da matriz geral |  [Giovana Barbosa](https://github.com/gio221)   |   [Maria Eduarda](https://github.com/maaduh)  |

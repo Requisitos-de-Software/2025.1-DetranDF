@@ -54,7 +54,7 @@ Verificação foi realizada pela integrante [Giovana Barbosa](https://github.com
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/qDJ8NV8rBoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href=" https://youtu.be/qDJ8NV8rBoc" target="blanket">Vídeo da verficiação</a></p>
+<p style="text-align: center"><a href=" https://youtu.be/qDJ8NV8rBoc" target="blanket">Vídeo da verificação</a></p>
 
 ## Verificação dos RF 10 a 18
 
@@ -89,8 +89,9 @@ Verificação foi realizada pela integrante [João Lobo](https://github.com/joao
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/3584HK7z3cc"YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/3584HK7z3cc" target="blanket">Vídeo da verficiação</a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3584HK7z3cc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/3584HK7z3cc" target="blanket">Vídeo da verficiação</a></p>
+
 
 ## Verificação dos RF 26 a 32
 

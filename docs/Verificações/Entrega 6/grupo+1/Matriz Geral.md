@@ -127,8 +127,8 @@ Verificação foi realizada pelo integrante [Pedro Camilo](https://github.com/Pe
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href=" https://youtu.be/" target="blanket">Vídeo da verficiação</a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/zcRorpHH5TQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/zcRorpHH5TQ" target="blanket">Vídeo da verificação</a></p>
 
 ## Verificação dos RNF 02 a 08
 

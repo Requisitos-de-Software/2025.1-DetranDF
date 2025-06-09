@@ -33,6 +33,8 @@ A **tabela 1** descreve o checklist da matriz geral
 | :----: | --------- |
 | [Giovana Barbosa](https://github.com/gio221) |RF 01 a 09|
 | [Maria Eduarda](https://github.com/maaduh) |RF 10 a 18|
+| [João Lobo](https://github.com/joaolobo10) |RF 19 a 25|
+| [Luiz Bessa](https://github.com/lfelipebessa) |RNF 09 a 15|
 | [Gabriel Mendes](https://github.com/gbevi) |RF 26 a 32|
 | [Pedro Camilo](https://github.com/PedrooCamilo) |RF 33 a 38 e RNF1|
 | [Luiz Bessa](https://github.com/lfelipebessa) |RNF 09 a 15|
@@ -76,6 +78,26 @@ Verificação foi realizada pela integrante [Maria Eduarda](https://github.com/m
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href=" https://youtu.be/" target="blanket">Vídeo da verficiação</a></p>
+
+## Verificação dos RF 19 a 25
+
+Verificação foi realizada pela integrante [João Lobo](https://github.com/joaolobo10).
+
+<font size="3"><p style="text-align: center">**Tabela 4 **- Inspeção do artefato Pós-rastreabilidade </p></font>
+
+|ID| Critérios                             | Sim/Não/Incompleto        | Print
+| :----: | --------- | ---------- | ---------- | 
+| 1 | Há mecanismos para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| Sim | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
+| 2 |	As informações a serem rastreadas foram classificadas em ambiental, organizacional, gerencial, desenvolvimento?	| Não | [Sayão e Leite (2005)1](../../../assets/matriz/2.png) |
+| 3 | As informações classificadas como organizacional são relacionadas à organização, como missões, metas, objetivos e padrões, e podem impactar os requisitos do sistema?| Não | [Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+| 4 | As informações a serem rastreadas foram classificadas como gerencial são aquelas que podem auxiliar na gerência do projeto ao associar tarefas a requisitos?| Não |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+|5|As informações a serem rastreadas foram classificadas como desenvolvimento são aquelas ligadas a artefatos gerados durante o processo de desenvolvimento, como documentos de requisitos, diagramas, programas, casos de teste, etc.?| Incompleto |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+|6|Os elos de recurso indicam dependência de um recurso entre classe de origem e de destino?| Sim |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+
+<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/Ay2IMzhl3Yk"YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/Ay2IMzhl3Yk" target="blanket">Vídeo da verficiação</a></p>
 
 ## Verificação dos RF 26 a 32 
 
@@ -141,3 +163,4 @@ Verificação foi realizada pela integrante [Luiz Bessa](https://github.com/lfel
 |  1.3   | 09/06/2025 | verificação RF 33 a 38 e RNF 01|  [Pedro Camilo](https://github.com/PedrooCamilo)   |[Gabriel Mendes](https://github.com/gbevi)  |
 |  1.4   | 09/06/2025 | verificação RF 26 a 32 |  [Gabriel Mendes](https://github.com/gbevi)   | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.5   | 09/06/2025 | verificação RNF 09 a 15 |  [Luiz Bessa](https://github.com/lfelipebessa)   | |
+|  1.6   | 09/06/2025 | verificação RF 19 a 25 |  [João Lobo](https://github.com/joaolobo10)   | |

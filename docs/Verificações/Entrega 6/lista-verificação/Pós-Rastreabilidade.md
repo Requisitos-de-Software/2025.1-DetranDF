@@ -10,7 +10,7 @@ A tabela 1 descreve o checklist do artefato da pós-rastreabilidade
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
-| 1 | Há mecanism os para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
+| 1 | Há mecanismos para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
 | 2 |	As informações a serem rastreadas foram classificadas em ambiental, organizacional, gerencial, desenvolvimento?	| | [Sayão e Leite (2005)1](../../../assets/matriz/2.png) |
 | 3 | As informações classificadas como organizacional são relacionadas à organização, como missões, metas, objetivos e padrões, e podem impactar os requisitos do sistema?|| [Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
 | 4 | As informações a serem rastreadas foram classificadas como gerencial são aquelas que podem auxiliar na gerência do projeto ao associar tarefas a requisitos?||[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |

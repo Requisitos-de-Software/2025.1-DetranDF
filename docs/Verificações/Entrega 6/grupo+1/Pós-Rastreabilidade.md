@@ -18,7 +18,7 @@ A **tabela 1** descreve o checklist da matriz geral
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
-| 1 | Há mecanism os para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
+| 1 | Há mecanismos para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
 | 2 |	As informações a serem rastreadas foram classificadas em ambiental, organizacional, gerencial, desenvolvimento?	| | [Sayão e Leite (2005)1](../../../assets/matriz/2.png) |
 | 3 | As informações classificadas como organizacional são relacionadas à organização, como missões, metas, objetivos e padrões, e podem impactar os requisitos do sistema?|| [Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
 | 4 | As informações a serem rastreadas foram classificadas como gerencial são aquelas que podem auxiliar na gerência do projeto ao associar tarefas a requisitos?||[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
@@ -47,7 +47,7 @@ Verificação foi realizada pela integrante [Giovana Barbosa](https://github.com
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
-| 1 | Há mecanism os para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
+| 1 | Há mecanismos para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
 | 2 |	As informações a serem rastreadas foram classificadas em ambiental, organizacional, gerencial, desenvolvimento?	| | [Sayão e Leite (2005)1](../../../assets/matriz/2.png) |
 | 3 | As informações classificadas como organizacional são relacionadas à organização, como missões, metas, objetivos e padrões, e podem impactar os requisitos do sistema?|| [Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
 | 4 | As informações a serem rastreadas foram classificadas como gerencial são aquelas que podem auxiliar na gerência do projeto ao associar tarefas a requisitos?||[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
@@ -67,7 +67,7 @@ Verificação foi realizada pela integrante [Maria Eduarda](https://github.com/m
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
-| 1 | Há mecanism os para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
+| 1 | Há mecanismos para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
 | 2 |	As informações a serem rastreadas foram classificadas em ambiental, organizacional, gerencial, desenvolvimento?	| | [Sayão e Leite (2005)1](../../../assets/matriz/2.png) |
 | 3 | As informações classificadas como organizacional são relacionadas à organização, como missões, metas, objetivos e padrões, e podem impactar os requisitos do sistema?|| [Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
 | 4 | As informações a serem rastreadas foram classificadas como gerencial são aquelas que podem auxiliar na gerência do projeto ao associar tarefas a requisitos?||[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
@@ -107,7 +107,7 @@ Verificação foi realizada pelo integrante [Gabriel Mendes](https://github.com/
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
-| 1 | Há mecanism os para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
+| 1 | Há mecanismos para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
 | 2 |	As informações a serem rastreadas foram classificadas em ambiental, organizacional, gerencial, desenvolvimento?	| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/2.png) |
 | 3 | As informações classificadas como organizacional são relacionadas à organização, como missões, metas, objetivos e padrões, e podem impactar os requisitos do sistema?| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
 | 4 | As informações a serem rastreadas foram classificadas como gerencial são aquelas que podem auxiliar na gerência do projeto ao associar tarefas a requisitos?| SIM |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
@@ -127,7 +127,7 @@ Verificação foi realizada pela integrante [Pedro Camilo](https://github.com/Pe
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
-| 1 | Há mecanism os para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
+| 1 | Há mecanismos para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
 | 2 |	As informações a serem rastreadas foram classificadas em ambiental, organizacional, gerencial, desenvolvimento?	| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/2.png) |
 | 3 | As informações classificadas como organizacional são relacionadas à organização, como missões, metas, objetivos e padrões, e podem impactar os requisitos do sistema?| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
 | 4 | As informações a serem rastreadas foram classificadas como gerencial são aquelas que podem auxiliar na gerência do projeto ao associar tarefas a requisitos?| SIM |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
@@ -135,6 +135,23 @@ Verificação foi realizada pela integrante [Pedro Camilo](https://github.com/Pe
 |6|Os elos de recurso indicam dependência de um recurso entre classe de origem e de destino?| SIM |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
+
+## Verificação dos RNF 02 a 08
+
+Verificação foi realizada pelo integrante [Eric Akio](https://github.com/eric-kingu)
+
+<font size="3"><p style="text-align: center">**Tabela 6 **- Inspeção técnica da matriz geral </p></font>
+
+|ID| Critérios                             | Sim/Não/Incompleto        | Print
+| :----: | --------- | ---------- | ---------- | 
+| 1 | Há mecanismos para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
+| 2 |	As informações a serem rastreadas foram classificadas em ambiental, organizacional, gerencial, desenvolvimento?	| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/2.png) |
+| 3 | As informações classificadas como organizacional são relacionadas à organização, como missões, metas, objetivos e padrões, e podem impactar os requisitos do sistema?| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+| 4 | As informações a serem rastreadas foram classificadas como gerencial são aquelas que podem auxiliar na gerência do projeto ao associar tarefas a requisitos?| SIM |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+|5|As informações a serem rastreadas foram classificadas como desenvolvimento são aquelas ligadas a artefatos gerados durante o processo de desenvolvimento, como documentos de requisitos, diagramas, programas, casos de teste, etc.?| SIM |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+|6|Os elos de recurso indicam dependência de um recurso entre classe de origem e de destino?| SIM |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+
+<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## Verificação dos RNF 09 a 15
 
@@ -144,7 +161,7 @@ Verificação foi realizada pela integrante [Luiz Bessa](https://github.com/lfel
 
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
-| 1 | Há mecanism os para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
+| 1 | Há mecanismos para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
 | 2 |	As informações a serem rastreadas foram classificadas em ambiental, organizacional, gerencial, desenvolvimento?	| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/2.png) |
 | 3 | As informações classificadas como organizacional são relacionadas à organização, como missões, metas, objetivos e padrões, e podem impactar os requisitos do sistema?| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
 | 4 | As informações a serem rastreadas foram classificadas como gerencial são aquelas que podem auxiliar na gerência do projeto ao associar tarefas a requisitos?| SIM |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
@@ -162,5 +179,6 @@ Verificação foi realizada pela integrante [Luiz Bessa](https://github.com/lfel
 |  1.2   | 09/06/2025 | verificação RF 10 a 18|  [Maria Eduarda](https://github.com/maaduh)   | [Pedro Camilo](https://github.com/PedrooCamilo) |
 |  1.3   | 09/06/2025 | verificação RF 33 a 38 e RNF 01|  [Pedro Camilo](https://github.com/PedrooCamilo)   |[Gabriel Mendes](https://github.com/gbevi)  |
 |  1.4   | 09/06/2025 | verificação RF 26 a 32 |  [Gabriel Mendes](https://github.com/gbevi)   | [Luiz Bessa](https://github.com/lfelipebessa) |
-|  1.5   | 09/06/2025 | verificação RNF 09 a 15 |  [Luiz Bessa](https://github.com/lfelipebessa)   | |
-|  1.6   | 09/06/2025 | verificação RF 19 a 25 |  [João Lobo](https://github.com/joaolobo10)   | |
+|  1.5   | 09/06/2025 | verificação RNF 09 a 15 |  [Luiz Bessa](https://github.com/lfelipebessa)   | [Eric Akio](https://github.com/eric-kingu) |
+|  1.6   | 09/06/2025 | verificação RF 19 a 25 |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
+|  1.7   | 09/06/2025 | verificação RnF 02 a 08 |  [Eric Akio](https://github.com/eric-kingu)   | |

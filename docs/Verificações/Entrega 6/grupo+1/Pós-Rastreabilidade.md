@@ -35,6 +35,7 @@ A **tabela 1** descreve o checklist da matriz geral
 | [Maria Eduarda](https://github.com/maaduh) |RF 10 a 18|
 | [Gabriel Mendes](https://github.com/gbevi) |RF 26 a 32|
 | [Pedro Camilo](https://github.com/PedrooCamilo) |RF 33 a 38 e RNF1|
+| [Luiz Bessa](https://github.com/lfelipebessa) |RNF 09 a 15|
 
 ## Verificação dos RF 01 a 09
 
@@ -113,7 +114,22 @@ Verificação foi realizada pela integrante [Pedro Camilo](https://github.com/Pe
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
+## Verificação dos RNF 09 a 15
 
+Verificação foi realizada pela integrante [Luiz Bessa](https://github.com/lfelipebessa) 
+
+<font size="3"><p style="text-align: center">**Tabela 7 **- Inspeção técnica da matriz geral </p></font>
+
+|ID| Critérios                             | Sim/Não/Incompleto        | Print
+| :----: | --------- | ---------- | ---------- | 
+| 1 | Há mecanism os para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
+| 2 |	As informações a serem rastreadas foram classificadas em ambiental, organizacional, gerencial, desenvolvimento?	| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/2.png) |
+| 3 | As informações classificadas como organizacional são relacionadas à organização, como missões, metas, objetivos e padrões, e podem impactar os requisitos do sistema?| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+| 4 | As informações a serem rastreadas foram classificadas como gerencial são aquelas que podem auxiliar na gerência do projeto ao associar tarefas a requisitos?| SIM |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+|5|As informações a serem rastreadas foram classificadas como desenvolvimento são aquelas ligadas a artefatos gerados durante o processo de desenvolvimento, como documentos de requisitos, diagramas, programas, casos de teste, etc.?| SIM |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+|6|Os elos de recurso indicam dependência de um recurso entre classe de origem e de destino?| SIM |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
 ## Histórico de versão
 
@@ -123,4 +139,5 @@ Verificação foi realizada pela integrante [Pedro Camilo](https://github.com/Pe
 |  1.1   | 05/06/2025 | verificação RF 01 a 09|  [Giovana Barbosa](https://github.com/gio221)   | [Maria Eduarda](https://github.com/maaduh) |
 |  1.2   | 09/06/2025 | verificação RF 10 a 18|  [Maria Eduarda](https://github.com/maaduh)   | [Pedro Camilo](https://github.com/PedrooCamilo) |
 |  1.3   | 09/06/2025 | verificação RF 33 a 38 e RNF 01|  [Pedro Camilo](https://github.com/PedrooCamilo)   |[Gabriel Mendes](https://github.com/gbevi)  |
-|  1.4   | 09/06/2025 | verificação RF 26 a 32 |  [Gabriel Mendes](https://github.com/gbevi)   |  |
+|  1.4   | 09/06/2025 | verificação RF 26 a 32 |  [Gabriel Mendes](https://github.com/gbevi)   | [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.5   | 09/06/2025 | verificação RNF 09 a 15 |  [Luiz Bessa](https://github.com/lfelipebessa)   | |

@@ -96,7 +96,10 @@ nav:
             - Histórias de Usuário: modelagem/Agil/Historis-usuario.md
             - NFR Framework: modelagem/Agil/NfrFrameworkd.md
   - Rastreabilidade:
-          - Matriz Geral: Rastreabilidade/Matriz Geral.md
+          - Matrizes de Rastreabilidade: 
+              - Forward To: Rastreabilidade/Matrizes/Forward To.md
+              - Backward From: Rastreabilidade/Matrizes/Backward From.md
+              - Matriz Geral: Rastreabilidade/Matrizes/Matriz Geral.md
           - Pós-Rastreabilidade: Rastreabilidade/Pós-Rastreabilidade.md
   - Verificações:
       - Entrega 1:

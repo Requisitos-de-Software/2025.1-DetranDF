@@ -1,5 +1,5 @@
 # Introdução
-Esse artefato é para que possamos ter acesso a lista de verificação que será utilizada para verificar a elicitação por meio do Brainstorming
+Esse artefato é para que possamos ter acesso a lista de verificação que será utilizada para verificar a priorização por meio do Three Level Scale
 
 # Lista de Verificação — Técnica de Priorização *Three-Level Scale*
 

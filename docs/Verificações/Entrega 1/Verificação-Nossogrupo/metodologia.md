@@ -1,6 +1,6 @@
 ## Introdução
 
-Esse artefato verifica o termo de uso.
+Esse artefato verifica a metodologia.
 
 ## Objetivo
 

@@ -1,6 +1,6 @@
 ## Introdução
 
-Esse artefato verifica o termo de uso.
+Esse artefato verifica a metodologia.
 
 ## Objetivo
 
@@ -13,7 +13,7 @@ A metodologia abordada é a de checklist. Vamos responder a checklist previament
 ## Checklist Metodologia
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/oMfPS-j3my8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/oMfPS-j3my8" target="blanket">Vídeo da verificação do Metodologia</a></p>
+<p style="text-align: center"><a href="https://youtu.be/oMfPS-j3my8" target="blanket">Vídeo da verificação da Metodologia</a></p>
 
 A tabela 1 descreve a checklist respondido do artefato Metodologia.
 
@@ -21,8 +21,8 @@ A tabela 1 descreve a checklist respondido do artefato Metodologia.
 
 | ID  | Critérios                                                             | Sim/Não/Incompleto | Print                                                                                            |
 | :-: | --------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------ |
-|  1  | A metodologia está claramente descrita e justificada?                 | Não.               | [print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
-|  2  | A abordagem metodológica está adequada aos objetivos do projeto?      | Não.               | [print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+|  1  | A metodologia está claramente descrita e justificada?                 | Sim.               | [print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
+|  2  | A abordagem metodológica está adequada aos objetivos do projeto?      | Sim.               | [print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
 |  3  | Há referências bibliográficas que sustentam a escolha da metodologia? | Não.               | [print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf) |
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>

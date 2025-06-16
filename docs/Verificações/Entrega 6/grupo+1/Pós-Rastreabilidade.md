@@ -166,10 +166,10 @@ Verificação foi realizada pela integrante [Luiz Bessa](https://github.com/lfel
 |ID| Critérios                             | Sim/Não/Incompleto        | Print
 | :----: | --------- | ---------- | ---------- | 
 | 1 | Há mecanismos para registrar as ligações entre requisitos, suas origens e os artefatos de desenho e implementação?		| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/1.png) |
-| 2 |	As informações a serem rastreadas foram classificadas em ambiental, organizacional, gerencial, desenvolvimento?	| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/2.png) |
-| 3 | As informações classificadas como organizacional são relacionadas à organização, como missões, metas, objetivos e padrões, e podem impactar os requisitos do sistema?| SIM | [Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
-| 4 | As informações a serem rastreadas foram classificadas como gerencial são aquelas que podem auxiliar na gerência do projeto ao associar tarefas a requisitos?| SIM |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
-|5|As informações a serem rastreadas foram classificadas como desenvolvimento são aquelas ligadas a artefatos gerados durante o processo de desenvolvimento, como documentos de requisitos, diagramas, programas, casos de teste, etc.?| SIM |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+| 2 |	As informações a serem rastreadas foram classificadas em ambiental, organizacional, gerencial, desenvolvimento?	| NÃO | [Sayão e Leite (2005)1](../../../assets/matriz/2.png) |
+| 3 | As informações classificadas como organizacional são relacionadas à organização, como missões, metas, objetivos e padrões, e podem impactar os requisitos do sistema?| NÃO | [Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+| 4 | As informações a serem rastreadas foram classificadas como gerencial são aquelas que podem auxiliar na gerência do projeto ao associar tarefas a requisitos?| NÃO |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
+|5|As informações a serem rastreadas foram classificadas como desenvolvimento são aquelas ligadas a artefatos gerados durante o processo de desenvolvimento, como documentos de requisitos, diagramas, programas, casos de teste, etc.?| NÃO |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
 |6|Os elos de recurso indicam dependência de um recurso entre classe de origem e de destino?| SIM |[Sayão e Leite (2005)1](../../../assets/matriz/3.png) |
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>

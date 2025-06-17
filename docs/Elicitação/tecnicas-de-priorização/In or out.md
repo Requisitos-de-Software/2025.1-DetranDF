@@ -1,6 +1,6 @@
 ## 1. Introdução
 <p style="text-indent: 20px; text-align: justify">
-Após a elicitação de diversos requisitos pelos métodos de observação, brainstorm entre outros se faz necessário o uso de meios para priorizar tais requisitos, de maneira a intender o grau de importância de cada um deles. Com isso, nessa seção a técnica utilizada para a priorização dos requisitos é a In or Out.
+Após a elicitação de diversos requisitos pelos métodos de observação, brainstorm entre outros. Se faz necessário o uso de meios para priorizar tais requisitos, de maneira a intender o grau de importância de cada um deles. Com isso, nessa seção a técnica utilizada para a priorização dos requisitos é a In or Out.
 </p>
 
 ## 2. Metodologia
@@ -13,53 +13,63 @@ O método consiste em classificar os requisitos em duas categorias: "In" ou "Out
 <p style="text-indent: 20px; text-align: justify">
 As tabelas a seguir contém a priorização dos requisitos elicitados com base na técnica In or Out, em que a tabela 1 representa REQUISITOS IN e tabela 2 REQUISITOS Out.
 
+Legenda:
+
+BSxx: Requisitos do Brainstorming
+OBSxx: Requisitos da Observação
+ISxx: Requisitos de Introspecção
+GLO: Requisitos de Glossário
+STxx: Requisitos de Storytelling
+
 </p>
 <font size="2"><p style="text-align: center;">
     <b>Tabela 1</b> - contém os **REQUISITOS IN**.
 </p></font>
 
-| Identificador | Requisito                                                   |
-| ------------- | ----------------------------------------------------------- |
-| RF01          | Permitir consulta de multas e débitos do veículo            |
-| RF02          | Realizar agendamento de serviços (vistoria, CNH, etc.)      |
-| RF03          | Exibir informações da CNH e pontuação                       |
-| RF08          | Sistema de pagamento de taxas e débitos                     |
-| RF10          | Consulta de CNH, documentos e multas                        |
-| RF17          | Exibir status do licenciamento e do IPVA do veículo         |
-| RF19          | Consultar a pontuação da CNH diretamente no aplicativo      |
-| RF21          | Permitir acompanhamento de processos                        |
-| RNF01         | Interface intuitiva e fácil de navegar                      |
-| RNF02         | Compatibilidade com diferentes dispositivos e sistemas      |
-| RNF03         | Alta segurança no tratamento de dados pessoais e veiculares |
-| RNF05         | Acessibilidade (fonte grande, contraste, modo noturno)      |
-| RNF10         | Carregamento rápido das páginas                             |
-| RF05          | Exibir notificações de prazos e documentos vencidos         |
-| RF06          | Realizar transferência de documento do veículo              |
-| RF07          | Trocar a PPD para CNH definitiva pelo app                   |
-| RF11          | Agendamento online para provas teóricas e práticas          |
-| RF13          | Guia de documentos necessários para cada tipo de serviço    |
-| RF15          | Integração com CNH Digital e Gov.br                         |
-| RF18          | Gerar segunda via da CNH e CRLV digitalmente                |
-| RNF09         | Layout com foco em simplicidade e legibilidade              |
+| Identificador | Requisito                                                   | Fonte |
+| ------------- | ----------------------------------------------------------- | ------|
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF01</a>          | Permitir consulta de multas e débitos do veículo            |<a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspecção">IS01</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Observação">OBS001</a>|
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF02</a>          | Realizar agendamento de serviços (vistoria, CNH, etc.)      | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspecção">IS02</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Observação">OBS002</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF03</a>          | Exibir informações da CNH e pontuação                       | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspecção">IS03</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Observação">OBS003</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BSO1</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF08</a> | Sistema de pagamento de taxas e débitos | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS03</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF10</a> | Consulta de CNH, documentos e multas | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS05</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF17</a> | Exibir status do licenciamento e do IPVA do veículo | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/glossario">GLO03</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF19</a> | Consultar a pontuação da CNH diretamente no aplicativo | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/glossario">GLO01</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF21</a> | Permitir acompanhamento de processos | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Observação">OBS004</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF01</a> | Interface intuitiva e fácil de navegar | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS13</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspecção">IS07</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF02</a> | Compatibilidade com diferentes dispositivos e sistemas | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS14</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Introspecção">IS10</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF03</a> | Alta segurança no tratamento de dados pessoais e veiculares | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS15</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Introspecção">IS11</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/glossario">GLO06</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF05</a> | Acessibilidade (fonte grande, contraste, modo noturno) | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS17</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF10</a> | Carregamento rápido das páginas | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Introspecão">IS08</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF05</a> | Exibir notificações de prazos e documentos vencidos | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Introspecção">IS05</a>, <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS06</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF06</a> | Realizar transferência de documento do veículo | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Introspecção">IS06</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF07</a> | Trocar a PPD para CNH definitiva pelo app | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS02</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF11</a> | Agendamento online para provas teóricas e práticas | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS07</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF13</a> | Guia de documentos necessários para cada tipo de serviço | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS09</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF15</a> | Integração com CNH Digital e Gov.br | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS11</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF18</a> | Gerar segunda via da CNH e CRLV digitalmente | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/glossario">GLO04</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF09</a> | Layout com foco em simplicidade e legibilidade | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS21</a> |
+
 
 <font size="2"><p style="text-align: center;">
     <b>Tabela 2</b> - contém os **REQUISITOS OUT**.
 </p></font>
 
-| Identificador | Requisito                                                              |
-| ------------- | ---------------------------------------------------------------------- |
-| RF04          | Realizar a transferência da autuação de infração                       |
-| RF09          | Aviso automático em caso de roubo/recuperação do carro                 |
-| RF12          | Área para autoescolas com avaliações, comentários e localização        |
-| RF14          | Chat com IA para tirar dúvidas                                         |
-| RF22          | Exibir notificações de prazos e documentos vencidos (repetido do RF05) |
-| RNF04         | Área educacional com explicações e vídeos                              |
-| RNF06         | Leitor de tela e assistente por voz para pessoas cegas                 |
-| RNF07         | Sistema de avaliação com base em uso real (ex-alunos)                  |
-| RNF08         | Propaganda efetiva para promover o app                                 |
-| RNF11         | Acessibilidade para diferentes perfis de usuários                      |
-| RNF12         | Explicações acessíveis sobre siglas (ex: RENAVAM)                      |
-| RF16          | Atendimento ao vivo com servidor do DETRAN via chat/vídeo              |
+| Identificador | Requisito                                                              | Fonte |
+| ------------- | ---------------------------------------------------------------------- |-------|
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF04</a> | Realizar a transferência da autuação de infração                       | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspecção">IS04</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF09</a> | Aviso automático em caso de roubo/recuperação do carro                 | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS04</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF12</a> | Área para autoescolas com avaliações, comentários e localização        | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS08</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF14</a> | Chat com IA para tirar dúvidas                                         | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS10</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF22</a> | Exibir notificações de prazos e documentos vencidos (repetido do RF05) | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Observa%C3%A7%C3%A3o">OBS005</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF04</a> | Área educacional com explicações e vídeos                              | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS16</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF06</a> | Leitor de tela e assistente por voz para pessoas cegas                 | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS18</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF07</a> | Sistema de avaliação com base em uso real (ex-alunos)                  | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS19</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF08</a> | Propaganda efetiva para promover o app                                 | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS20</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF11</a> | Acessibilidade para diferentes perfis de usuários                      | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Introspecção">IS09</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais">RNF12</a> | Explicações acessíveis sobre siglas (ex: RENAVAM)                      | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/glossario">GLO05</a> |
+| <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF16</a> | Atendimento ao vivo com servidor do DETRAN via chat/vídeo              | <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/Brainstorming">BS12</a> |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
@@ -80,3 +90,4 @@ Disponível em: https://aprender3.unb.br/pluginfile.php/3096091/mod_resource/con
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 04/05/2025  | Confecção da primeira versão da técnica de priorização In or Out | [Pedro Camilo](https://github.com/PedrooCamilo)| [João Lobo](https://github.com/joaolobo10) ,  [Giovana Barbosa ](https://github.com/gio221)                                   | 
+| 1.1 | 04/05/2025  | Adicionando rastreabilidade dos requisitos | [Pedro Camilo](https://github.com/PedrooCamilo)|                                  | 

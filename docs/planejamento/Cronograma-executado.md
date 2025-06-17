@@ -194,7 +194,7 @@ O cronograma em si não é uma metodologia de fato, mas sim uma ferramenta que u
 
 ## Etapa 6: Pós-Rastreabilidade
 
-### Planejado
+###  Executado
 
 - A tabela abaixo descreve as **atividades planejadas da etapa 6**.
 
@@ -212,7 +212,7 @@ O cronograma em si não é uma metodologia de fato, mas sim uma ferramenta que u
 
 ## Inspeção da Entrega da apresentação do projeto etapa 6 do Grupo +1
 
-### Planejado
+### Executado
 
 - A tabela abaixo descreve as **atividades planejadas da etapa da inspeção 6**.
 
@@ -225,6 +225,24 @@ O cronograma em si não é uma metodologia de fato, mas sim uma ferramenta que u
 |     Responder perguntas     |  Inicio:10/06 Fim:10/06  | [Giovana Barbosa ](https://github.com/gio221) |   [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)   |
 | Grava Video da Apresentação | Inicio: 10/06 Fim: 11/06 | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)   |
 |    Correção pós entrega     | Inicio: 12/06 Fim:15/06  | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)   |
+
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
+
+## Etapa 5: Análise de Requisitos
+
+### Executado
+
+- A tabela abaixo descreve as **atividades planejadas da etapa 5**.
+
+<font size="3"><p style="text-align: center">**Tabela 11 -** Atividades planejadas da etapa 5</p></font>
+
+|          Atividade          |     Desenvolvimento      |                                                                                                                                                     Responsável                                                                                                                                                      | Revisores |
+| :-------------------------: | :----------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: |
+|         Verificação    das etapas     |  Inicio:15/06 Fim:23/06  | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)   |
+|         Prototipo     |  Inicio:15/06 Fim:23/06  | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)   |
+|     Responder perguntas     |  Inicio:23/06 Fim:23/06  | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)   |
+| Grava Video da Apresentação | Inicio: 23/06 Fim: 25/06 | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)   |
+|    Correção pós entrega     | Inicio: 26/06 Fim: 28/06 | [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo) |   [João Lobo](https://github.com/joaolobo10) ,[Giovana Barbosa ](https://github.com/gio221) ,[Maria Eduarda](https://github.com/maaduh),[Luiz Bessa](https://github.com/lfelipebessa) ,[Gabriel Dantas](https://github.com/gbevi),[Eric](https://github.com/eric-kingu),[Pedro Tulio](https://github.com/PedrooCamilo)   |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
@@ -243,4 +261,5 @@ O cronograma em si não é uma metodologia de fato, mas sim uma ferramenta que u
 |1.4|20/05|Adiconando etapa 2 e inspeção etapa 2|[Giovana Barbosa](https://github.com/gio221)| [João Lobo](https://github.com/joaolobo10)  |  
 |1.5|20/05|Adiconando etapa 3 e inspeção etapa 3|[Giovana Barbosa](https://github.com/gio221)| [João Lobo](https://github.com/joaolobo10)  |  
 |1.6|20/05|Adiconando etapa 4 e inspeção etapa 4|[Giovana Barbosa](https://github.com/gio221)| [João Lobo](https://github.com/joaolobo10)  |  
-|1.7|20/05|Adiconando etapa 6 e inspeção etapa 6|[Giovana Barbosa](https://github.com/gio221)| [João Lobo](https://github.com/joaolobo10)  |  
+|1.7|20/05|Adiconando etapa 6 e inspeção etapa 6|[Giovana Barbosa](https://github.com/gio221)| [João Lobo](https://github.com/joaolobo10)  |
+|1.7|20/05|Adiconando etapa 5 |[Giovana Barbosa](https://github.com/gio221)| [João Lobo](https://github.com/joaolobo10)  |   

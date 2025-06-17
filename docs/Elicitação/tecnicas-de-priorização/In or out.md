@@ -9,17 +9,23 @@ Após a elicitação de diversos requisitos pelos métodos de observação, brai
 O método consiste em classificar os requisitos em duas categorias: "In" ou "Out" (Que seria uma definição para "Dentro" ou "Fora") do escopo do projeto. O objetivo é identificar as funcionalidades que são essenciais para o projeto e as que não são. Os requisitos "In" são aqueles que o projeto não pode ser concluído sem eles, enquanto os "Out" são aqueles que são desejáveis, mas não são obrigatórios para o sucesso do projeto.
 </p>
 
-## 3. Requisitos 
+## 3. Participantes 
 <p style="text-indent: 20px; text-align: justify">
-As tabelas a seguir contém a priorização dos requisitos elicitados com base na técnica In or Out, em que a tabela 1 representa REQUISITOS IN e tabela 2 REQUISITOS Out.
+    A entrevistada para esta etapa foi Júlia Andrade, estudante de Direito e atual estagiária no Tribunal de Contas da União (TCU). Sua participação foi relevante por representar o ponto de vista de uma cidadã usuária de serviços públicos digitais, com conhecimento jurídico e experiência prática no setor público. Já Pedro Camilo atuou como mediador, orientando a entrevistada sobre a técnica e organizando os resultados.
+</p>
 
-Legenda:
+## 4. Requisitos 
+<p style="text-indent: 20px; text-align: justify">
+As tabelas a seguir contém a priorização dos requisitos elicitados com base na técnica In or Out, em que a tabela 1 representa REQUISITOS IN e tabela 2 REQUISITOS Out. <br> 
+<br>
 
-BSxx: Requisitos do Brainstorming
-OBSxx: Requisitos da Observação
-ISxx: Requisitos de Introspecção
-GLO: Requisitos de Glossário
-STxx: Requisitos de Storytelling
+Legenda: <br>
+
+• BSxx: Requisitos do Brainstorming <br>
+• OBSxx: Requisitos da Observação <br>
+• ISxx: Requisitos de Introspecção <br>
+• GLO: Requisitos de Glossário <br>
+• STxx: Requisitos de Storytelling <br>
 
 </p>
 <font size="2"><p style="text-align: center;">
@@ -90,4 +96,5 @@ Disponível em: https://aprender3.unb.br/pluginfile.php/3096091/mod_resource/con
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 04/05/2025  | Confecção da primeira versão da técnica de priorização In or Out | [Pedro Camilo](https://github.com/PedrooCamilo)| [João Lobo](https://github.com/joaolobo10) ,  [Giovana Barbosa ](https://github.com/gio221)                                   | 
-| 1.1 | 04/05/2025  | Adicionando rastreabilidade dos requisitos | [Pedro Camilo](https://github.com/PedrooCamilo)|                                  | 
+| 1.1 | 17/06/2025  | Adicionando rastreabilidade dos requisitos | [Pedro Camilo](https://github.com/PedrooCamilo)|                                  | 
+| 1.2 | 17/06/2025  | Adicionando informações sobre entrevistado | [Pedro Camilo](https://github.com/PedrooCamilo)|                                  | 

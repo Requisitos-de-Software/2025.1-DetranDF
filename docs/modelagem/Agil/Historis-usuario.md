@@ -655,14 +655,37 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
+---
+
 <a id="us32"></a>
-# [US32] - Pagamentos de Taxas e Débitos
+# [US32] - Editar quilometragem de veículos cadastrados
+
+
+<p align="center"><strong>Tabela 33 -</strong> Editar quilometragem de veículos cadastrados.</p>
+
+| Item                             | Descrição |
+|----------------------------------|-----------|
+| **Identificação da História (USx)**          | US32 |
+| **Tema**                         | Editar quilometragem de veículos cadastrados |
+| **Descrição**                    | Eu, como proprietário de veículo, desejo editar a quilometragem do meu veículo cadastrado. |
+| **Critérios de Aceitação**       | - O usuário deve ter veículo cadastrado.  |
+| **Prioridade Usuário**           | Média |
+| **Status**                       | Validada |
+| **Rastreabilidade**              | [RF12](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
+| **Validação**                    | [Vídeo de validação](https://youtu.be/3J56z-dXKP4) |
+
+<p align="center">Fonte: <a href="https://github.com/gbevi">Gabriel Dantas</a>, 2025.</p>
+
+---
+
+<a id="us33"></a>
+# [US33] - Pagamentos de Taxas e Débitos
 
 <p align="center"><strong>Tabela 34 -</strong> Pagamentos de Taxas e Débitos.</p>
 
 | Item                             | Descrição |
 |----------------------------------|-----------|
-| **Identificação da História (USx)**          | US32 |
+| **Identificação da História (USx)**          | US33 |
 | **Tema**                         | Pagamentos de Taxas e Débitos |
 | **Descrição**                    | 	Eu, como usuário, desejo realizar o pagamento de taxas e débitos diretamente no aplicativo para regularizar minha situação com o DETRAN. |
 | **Critérios de Aceitação**       | - Listagem de todos os débitos vinculados ao CPF/CNPJ do usuário. <br> - Integração com métodos de pagamento (PIX, cartão, boleto). <br> - Confirmação e histórico dos pagamentos realizados. |
@@ -675,14 +698,14 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
-<a id="us33"></a>
-# [US33] - Geração de Boletos
+<a id="us34"></a>
+# [US34] - Geração de Boletos
 
 <p align="center"><strong>Tabela 35 -</strong> Geração de Boletos</p>
 
 | Item                             | Descrição |
 |----------------------------------|-----------|
-| **Identificação da História (USx)**          | US33 |
+| **Identificação da História (USx)**          | US34 |
 | **Tema**                         | Geração de Boletos |
 | **Descrição**                    | 	Eu, como usuário, desejo gerar boletos e realizar pagamentos no app para simplificar a quitação de débitos. |
 | **Critérios de Aceitação**       | - Opção de geração de boletos com vencimento configurável. <br> - Integração com sistema bancário para validação do pagamento. <br> - Confirmação automática da quitação após pagamento. |
@@ -695,14 +718,14 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
-<a id="us34"></a>
-# [US34] - 	Atendimento com Inteligência Artificial
+<a id="us35"></a>
+# [US35] - 	Atendimento com Inteligência Artificial
 
 <p align="center"><strong>Tabela 36 -</strong> Geração de Boletos</p>
 
 | Item                             | Descrição |
 |----------------------------------|-----------|
-| **Identificação da História (USx)**          | US34 |
+| **Identificação da História (USx)**          | US35 |
 | **Tema**                         | 	Atendimento com Inteligência Artificial |
 | **Descrição**                    | 	Eu, como usuário, desejo utilizar um chat com inteligência artificial para tirar dúvidas sobre os serviços do DETRAN. |
 | **Critérios de Aceitação**       | - A IA deve entender perguntas frequentes e responder de forma clara. <br> - O chat deve funcionar 24h por dia. <br> - Sugestões de serviços baseados na dúvida do usuário. |
@@ -715,14 +738,14 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
-<a id="us35"></a>
-# [US35] - Atendimento Humano
+<a id="us36"></a>
+# [US36] - Atendimento Humano
 
 <p align="center"><strong>Tabela 37 -</strong> 	Atendimento Humano</p>
 
 | Item                             | Descrição |
 |----------------------------------|-----------|
-| **Identificação da História (USx)**          | US35 |
+| **Identificação da História (USx)**          | US36 |
 | **Tema**                         | 		Atendimento Humano |
 | **Descrição**                    | 	Eu, como usuário, desejo conversar com um atendente real por chat ou vídeo para resolver questões mais complexas. |
 | **Critérios de Aceitação**       | - Opção de agendamento ou atendimento em tempo real. <br> - Canal de vídeo e chat com suporte seguro. <br> - Histórico da conversa salvo para referência futura. |
@@ -735,14 +758,14 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
-<a id="us36"></a>
-# [US36] - Apoio com Termos Técnicos
+<a id="us37"></a>
+# [US37] - Apoio com Termos Técnicos
 
 <p align="center"><strong>Tabela 38 -</strong> 	Apoio com Termos Técnicos</p>
 
 | Item                             | Descrição |
 |----------------------------------|-----------|
-| **Identificação da História (USx)**          | US35 |
+| **Identificação da História (USx)**          | US37 |
 | **Tema**                         | 		Atendimento Humano |
 | **Descrição**                    | 	Eu, como usuário, desejo receber explicações simples de termos técnicos para entender melhor os processos. |
 | **Critérios de Aceitação**       | - Glossário de termos integrado ao app. <br> - Explicações claras e acessíveis. <br> - Sugestões automáticas de definição quando termos técnicos forem exibidos. |
@@ -755,14 +778,14 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 
 ---
 
-<a id="us37"></a>
-# [US37] - Acessar Atendimento Humano
+<a id="us38"></a>
+# [US38] - Acessar Atendimento Humano
 
 <font size="3"><b>Tabela 39:</b> História do usuário de Acessar Atendimento Humano</font>
 
 | Item | Descrição |
 |------|-----------|
-| **US37** | US37 |
+| **US37** | US38 |
 | **Tema** | Acessar Atendimento Humano |
 | **Descrição** | Eu, como usuário, desejo acessar um canal de atendimento humano para tirar dúvidas mais complexas.  |
 | **Critérios de Aceitação** | - O usuário deve conseguir acessar um canal de atendimento.<br> - O sistema deve permitir a conexão com um atendente. |
@@ -771,14 +794,14 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Rastreabilidade** | [RF30](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
 | **Validação** | [Link do vídeo](https://youtu.be/2gKGRSStj7s) |
 
-<a id="us38"></a>
-# [US38] -  Suporte Autônomo
+<a id="us39"></a>
+# [US39] -  Suporte Autônomo
 
 <font size="3"><b>Tabela 40:</b> História do usuário de Suporte Autônomo</font>
 
 | Item | Descrição |
 |------|-----------|
-| **US38** | US38 |
+| **US38** | US39 |
 | **Tema** | Suporte Autônomo |
 | **Descrição** |  Eu, como usuário, desejo acessar um FAQ com perguntas frequentes para resolver dúvidas simples sem precisar de atendimento |
 | **Critérios de Aceitação** | - O usuário deve conseguir acessar a seção "FAQ".<br> - O sistema deve permitir o registro de perguntas e respostas.<br> - O sistema deve mostrar as perguntas frequentes e suas respostas. |
@@ -787,38 +810,20 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | **Rastreabilidade** | [RF29](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
 | **Validação** | [Link do vídeo](https://youtu.be/2gKGRSStj7s) |
 
-<a id="us39"></a>
-# [US39] - Integração com Sistemas Oficiais
+<a id="us40"></a>
+# [US40] - Integração com Sistemas Oficiais
 
 <font size="3"><b>Tabela 41:</b> História do usuário de Integração com Sistemas Oficiais</font>
 
 | Item | Descrição |
 |------|-----------|
-| **US39** | US39 |
+| **US39** | US40 |
 | **Tema** | Integração com Sistemas Oficiais |
-| **Descrição** | Eu, como usuário, desejo integrar minha conta com a CNH Digital e com o Gov.br para autenticação segura e acesso facilitado. |
+| **Descrição** | Eu, como usuário, desejo integrar minha conta com a CNH Digital para autenticação segura e acesso facilitado. |
 | **Critérios de Aceitação** | - O usuário deve conseguir acessar o aplicativo pelo Gov.br.<br> - O sistema deve permitir a autenticação pelo Gov.br. |
 | **Prioridade Usuário** | Alta |
 | **Status** | Validada |
 | **Rastreabilidade** | [RF15](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
-| **Validação** | [Link do vídeo](https://youtu.be/2gKGRSStj7s) |
-
-<font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
-
-<a id="us40"></a>
-# [US40] - Área de auto-escolas
-
-<font size="3"><b>Tabela 42:</b> História do usuário de Área de auto-escolas</font>
-
-| Item | Descrição |
-|------|-----------|
-| **US40** | US40 |
-| **Tema** | Área de auto-escolas |
-| **Descrição** | Eu, como usuário, desejo acessar uma área de autoescolas com avaliações, comentários e localização para escolher a melhor opção. |
-| **Critérios de Aceitação** | - O usuário deve conseguir acessar uma sessão chamada "auto-escolas".<br> - O sistema deve exibir avaliações de auto-escolas.<br> - O sistema deve exibir comentários sobre as auto-escolas.<br> - O sistema deve exibir a localização das auto-escolas.<br> - O usuário deve conseguir avaliar e comentar sobre a auto-escola. |
-| **Prioridade Usuário** | Média |
-| **Status** | Validada |
-| **Rastreabilidade** | [RF12](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos) |
 | **Validação** | [Link do vídeo](https://youtu.be/2gKGRSStj7s) |
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>

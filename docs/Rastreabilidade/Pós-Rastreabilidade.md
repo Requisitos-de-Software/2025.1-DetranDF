@@ -585,7 +585,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 ## RF12 E012
 <details>
-  <summary>RF12 - Área para autoescolas com avaliações, comentários e localização</summary>
+  <summary>RF12 - Opção para adicionar quilometragem do seu carro</summary>
 
   <table>
     <tr>

@@ -76,7 +76,7 @@ Vale ressaltar que, por se tratar de um exercício teórico, não houve a partic
 |:-------------:|:----------|:-------------|
 | RF04 | Realizar a transferência da autuação de infração | A funcionalidade facilita o processo para o usuário, mas não é essencial para o funcionamento básico do app. |
 | RF09 | Aviso automático em caso de roubo/recuperação do carro | Embora seja útil, não é um requisito imediato para a maioria dos usuários, mas pode agregar valor. |
-| RF12 | Área para autoescolas com avaliações, comentários e localização | Funcionalidade interessante para usuários que estão em busca de autoescolas, mas não essencial para todos. |
+| RF12 | Opção para adicionar quilometragem do seu carro  | Funcionalidade interessante para usuários que estão em busca de registro, mas não essencial para todos. |
 | RF14 | Chat com IA para tirar dúvidas | Uma ferramenta útil, mas não crítica para a funcionalidade principal do aplicativo. |
 | RF22 | Exibir notificações de prazos e documentos vencidos (repetido do RF05) | Repetição que poderia ser evitada, mas ainda assim uma funcionalidade desejável. |
 | RNF06 | Leitor de tela e assistente por voz para pessoas cegas | Funcionalidade inclusiva, embora não seja um requisito imediato para todos os usuários. |

@@ -70,35 +70,35 @@ O backlog foi construído de forma iterativa, a partir dos requisitos levantados
 - **US29:** Eu, como usuário, desejo realizar o pagamento de débitos diretamente pelo app para liberar meu veículo do pátio de forma rápida. *(RF40)*
 - **US30:** Eu, como usuário, desejo verificar se um veículo possui autorização para transporte escolar para garantir a segurança dos estudantes. *(RF43)*
 - **US31:** Eu, como proprietário de veículo, desejo solicitar autorização para transporte escolar para atuar regularmente com esse serviço. *(RF44)*
+- **US32:** Eu, como usuário, desejo alterar a quilometragem do meu veículo cadastrado. *(RF12)*
 
 <a id="tabela-epicos1.5"></a>
 
 ## ÉPICO 1.5: Pagamentos e Financeiro
 
-- **US32:** Eu, como usuário, desejo realizar o pagamento de taxas e débitos diretamente no aplicativo para regularizar minha situação com o DETRAN. *(RF08)*
-- **US33:** Eu, como usuário, desejo gerar boletos e realizar pagamentos no app para simplificar a quitação de débitos. *(RF24)*
+- **US33:** Eu, como usuário, desejo realizar o pagamento de taxas e débitos diretamente no aplicativo para regularizar minha situação com o DETRAN. *(RF08)*
+- **US34:** Eu, como usuário, desejo gerar boletos e realizar pagamentos no app para simplificar a quitação de débitos. *(RF24)*
 
 <a id="tabela-epicos1.6"></a>
 
 ## ÉPICO 1.6: Suporte ao Usuário
 
-- **US34:** Eu, como usuário, desejo utilizar um chat com inteligência artificial para tirar dúvidas sobre os serviços do DETRAN. *(RF14)*  
-- **US35:** Eu, como usuário, desejo conversar com um atendente real por chat ou vídeo para resolver questões mais complexas. *(RF16)*
-- **US36:** Eu, como usuário, desejo receber explicações simples de termos técnicos para entender melhor os processos. *(RF29)*
-- **US37:** Eu, como usuário, desejo acessar um canal de atendimento humano para tirar dúvidas mais complexas. *(RF30)*
-- **US38:** Eu, como usuário, desejo acessar um FAQ com perguntas frequentes para resolver dúvidas simples sem precisar de atendimento *(RF29)*
+- **US35:** Eu, como usuário, desejo utilizar um chat com inteligência artificial para tirar dúvidas sobre os serviços do DETRAN. *(RF14)*  
+- **US36:** Eu, como usuário, desejo conversar com um atendente real por chat ou vídeo para resolver questões mais complexas. *(RF16)*
+- **US37:** Eu, como usuário, desejo receber explicações simples de termos técnicos para entender melhor os processos. *(RF29)*
+- **US38:** Eu, como usuário, desejo acessar um canal de atendimento humano para tirar dúvidas mais complexas. *(RF30)*
+- **US39:** Eu, como usuário, desejo acessar um FAQ com perguntas frequentes para resolver dúvidas simples sem precisar de atendimento *(RF29)*
 
 <a id="tabela-epicos1.7"></a>
 
 ## ÉPICO 1.7: Integração com Sistemas Oficiais
 
-- **US39:** Eu, como usuário, desejo integrar minha conta com a CNH Digital e com o Gov.br para autenticação segura e acesso facilitado. *(RF15)*
+- **US40:** Eu, como usuário, desejo integrar minha conta com a CNH Digital para autenticação segura e acesso facilitado. *(RF15)*
 
 <a id="tabela-epicos1.8"></a>
 
 ## ÉPICO 1.8: Recursos para Autoescolas
 
-- **US40:** Eu, como usuário, desejo acessar uma área de autoescolas com avaliações, comentários e localização para escolher a melhor opção. *(RF12)*  
 - **US41:** Eu, como usuário, desejo acessar um guia com os documentos necessários para cada tipo de serviço, a fim de me preparar corretamente. *(RF13)*
 - **US42:** Eu, como aluno de autoescola, desejo realizar simulados da prova teórica pelo app para me preparar melhor para o exame oficial. *(RF41)*
 
@@ -141,15 +141,15 @@ A tabela 1 organiza todos os épicos.
 | T04 - Gestão de Documentos   | [Épico 1.4](./backlog.md#tabela-epicos1.4)          | US29: Realizar pagamento para liberação do veículo no pátio      | Alta       | [RF40](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
 | T04 - Gestão de Documentos   | [Épico 1.4](./backlog.md#tabela-epicos1.4)          | US30: Verificar autorização de veículo para transporte escolar   | Média      | [RF43](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
 | T04 - Gestão de Documentos   | [Épico 1.4](./backlog.md#tabela-epicos1.4)          | US31: Solicitar autorização de veículo para transporte escolar   | Média      | [RF44](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
-| T05 - Pagamentos e Financeiro| [Épico 1.5](./backlog.md#tabela-epicos1.5)          | US32: Realizar pagamento de taxas e débitos                      | Média      | [RF08](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
-| T05 - Pagamentos e Financeiro| [Épico 1.5](./backlog.md#tabela-epicos1.5)          | US33: Gerar boletos e pagar no app                               | Alta       | [RF24](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
-| T06 - Suporte ao Usuário     | [Épico 1.6](./backlog.md#tabela-epicos1.6)          | US34: Usar chat com IA para tirar dúvidas                        | Alta       | [RF14](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
-| T06 - Suporte ao Usuário     | [Épico 1.6](./backlog.md#tabela-epicos1.6)          | US35: Atendimento real via chat ou vídeo                         | Alta       | [RF16](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
-| T06 - Suporte ao Usuário     | [Épico 1.6](./backlog.md#tabela-epicos1.6)          | US36: Receber explicações de termos técnicos                     | Média      | [RF29](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
-| T06 - Suporte ao Usuário     | [Épico 1.6](./backlog.md#tabela-epicos1.6)          | US37: Acessar atendimento humano                                 | Alta       | [RF30](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
-| T06 - Suporte ao Usuário     | [Épico 1.6](./backlog.md#tabela-epicos1.6)          | US38: Suporte autônomo                                           | Alta       | [RF29](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
-| T07 - Integração de Sistemas | [Épico 1.7](./backlog.md#tabela-epicos1.7)        | US39: Integrar conta com CNH Digital e Gov.br                    | Alta       | [RF15](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
-| T08 - Recursos para Autoescolas | [Épico 1.8](./backlog.md#tabela-epicos1.8)       | US40: Acessar área de autoescolas com avaliações e localização   | Média      | [RF12](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
+| T04 - Gestão de Documentos   | [Épico 1.4](./backlog.md#tabela-epicos1.4)          | US32: Editar quilometragem de veículos cadastrados   | Média      | [RF44](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
+| T04 - Pagamentos e Financeiro| [Épico 1.5](./backlog.md#tabela-epicos1.5)          | US33: Realizar pagamento de taxas e débitos                      | Média      | [RF08](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
+| T05 - Pagamentos e Financeiro| [Épico 1.5](./backlog.md#tabela-epicos1.5)          | US34: Gerar boletos e pagar no app                               | Alta       | [RF24](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
+| T06 - Suporte ao Usuário     | [Épico 1.6](./backlog.md#tabela-epicos1.6)          | US35: Usar chat com IA para tirar dúvidas                        | Alta       | [RF14](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
+| T06 - Suporte ao Usuário     | [Épico 1.6](./backlog.md#tabela-epicos1.6)          | US36: Atendimento real via chat ou vídeo                         | Alta       | [RF16](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
+| T06 - Suporte ao Usuário     | [Épico 1.6](./backlog.md#tabela-epicos1.6)          | US37: Receber explicações de termos técnicos                     | Média      | [RF29](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
+| T06 - Suporte ao Usuário     | [Épico 1.6](./backlog.md#tabela-epicos1.6)          | US38: Acessar atendimento humano                                 | Alta       | [RF30](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
+| T06 - Suporte ao Usuário     | [Épico 1.6](./backlog.md#tabela-epicos1.6)          | US39: Suporte autônomo                                           | Alta       | [RF29](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
+| T07 - Integração de Sistemas | [Épico 1.7](./backlog.md#tabela-epicos1.7)        | US40: Integrar conta com CNH Digital e Gov.br                    | Alta       | [RF15](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
 | T08 - Recursos para Autoescolas | [Épico 1.8](./backlog.md#tabela-epicos1.8)        | US41: Acessar guia de documentos para cada tipo de serviço       | Alta       | [RF13](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
 | T08 - Recursos para Autoescolas | [Épico 1.8](./backlog.md#tabela-epicos1.8)        | US42: Realizar simulado de prova teórica                         | Alta       | [RF41](../../Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md#tabela-requisitos)                  |
 

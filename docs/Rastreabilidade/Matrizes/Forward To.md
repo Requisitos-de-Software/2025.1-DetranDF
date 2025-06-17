@@ -29,7 +29,7 @@ A legenda para cada sigla é:
 | RF09|Aviso automático em caso de roubo/recuperação do carro| Não|[RFB04](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Brainstorming/#req-funcionais)|
 | RF10| Consulta de CNH, documentos e multas|SIM    |  [RFB05](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Brainstorming/#req-funcionais)|
 | RF11| Agendamento online para provas teóricas e práticas | Não   |  [RFB07](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Brainstorming/#req-funcionais)|
-| RF12| Área para autoescolas com avaliações, comentários e localização	|Não     |  [RFB08](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Brainstorming/#req-funcionais)|
+| RF12| Opção para adicionar quilometragem do seu carro 	|Não     |  [RFB08](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Brainstorming/#req-funcionais)|
 | RF13| Guia de documentos necessários para cada tipo de serviço| Não    |  [RFB09](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Brainstorming/#req-funcionais)|
 | RF14| Chat com IA para tirar dúvidas | Não    |  [RFB10](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Brainstorming/#req-funcionais)|
 | RF15| Integração com CNH Digital e Gov.br | SIM    |  [RFB11](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Brainstorming/#req-funcionais)|

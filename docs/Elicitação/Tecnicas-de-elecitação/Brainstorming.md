@@ -117,7 +117,7 @@ Após as duas reuniões percebe-se que a qualidade das ideias e a diversidade de
 | BS05 (RF05)| Consulta de CNH, documentos e multas                                                |
 | BS06 (RF06)| Notificação de multas, vencimentos e prazos com desconto                                         |
 | BS07 (RF07)| Agendamento online para provas teóricas e práticas                                  |
-| BS08 (RF08)| Área para autoescolas licenciadas com avaliações, comentários e localização         |
+| BS08 (RF08)| Opção para adicionar quilometragem do seu carro        |
 | BS09 (RF09)| Guia de documentos necessários para cada tipo de serviço                            |
 | BS10 (RF10)| Chat com IA para tirar dúvidas                                                      |
 | BS11 (RF11)| Integração com CNH Digital e Gov.br                                                |

@@ -28,7 +28,7 @@ Para alcançar os objetivos propostos, foram aplicadas as seguintes técnicas de
 | RF09   | Aviso automático em caso de roubo/recuperação do carro                              | BS04                        |
 | RF10   | Consulta de CNH, documentos e multas                                                 | BS05                        |
 | RF11   | Agendamento online para provas teóricas e práticas                                   | BS07                        |
-| RF12   | Área para autoescolas com avaliações, comentários e localização                     | BS08                        |
+| RF12   | Opção para adicionar quilometragem do seu carro                    | BS08                        |
 | RF13   | Guia de documentos necessários para cada tipo de serviço                            | BS09                        |
 | RF14   | Chat com IA para tirar dúvidas                                                       | BS10                        |
 | RF15   | Integração com CNH Digital e Gov.br                                                  | BS11                        |

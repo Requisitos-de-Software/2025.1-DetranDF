@@ -59,8 +59,8 @@ A tabela 2 descreve qual funcionalidade cada integrante fez um caso de uso.
 | 2     | UC02   | Sistema de pagamento de taxas e débitos                          | [Giovana Barbosa](https://github.com/gio221) |
 | 3     | UC03   | Chat com IA para tirar dúvidas                                   | [João Lobo](https://github.com/joaolobo10)   |
 | 4     | UC04   | Atendimento ao vivo com servidor do DETRAN via chat/vídeo        | [João Lobo](https://github.com/joaolobo10)   |
-| 5     | UC05   | Integração com CNH digital e gov.br                              | [Gabriel Mendes](https://github.com/gbevi)   |
-| 6     | UC06   | Área para autoescolas com avaliações, comentários e localizações | [Gabriel Mendes](https://github.com/gbevi)   |
+| 5     | UC05   | Integração com CNH digital                              | [Gabriel Mendes](https://github.com/gbevi)   |
+| 6     | UC06   | Opção para adicionar quilometragem do seu carro | [Gabriel Mendes](https://github.com/gbevi)   |
 | 7     | UC07   | Histórico de Pesquisas e Serviços Recentes                       | [Luiz Bessa](https://github.com/lfelipebessa)  |
 | 8     | UC08   | Notificação antecipada da data de vencimento da CNH              | [Luiz Bessa](https://github.com/lfelipebessa)  |
 | 9     | UC09   | Área educacional com explicações e vídeos                        |[Pedro Camilo](https://github.com/PedrooCamilo)|
@@ -164,41 +164,41 @@ Abaixo, na tabela 7, está especificado o caso de uso para a funcionalidade de "
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
-### Integração com CNH Digital e Gov BR  
+### Integração com CNH Digital
 
-Abaixo, na Tabela 8, está especificado o caso de uso para a funcionalidade **“Integração com CNH Digital e Gov BR”**.
+Abaixo, na Tabela 8, está especificado o caso de uso para a funcionalidade **“Integração com CNH Digital”**.
 
 <font size="3"><p style="text-align: center">**Tabela 8 –** Integração com CNH Digital e Gov BR.</p></font>
 
 | UC05                  | Integração com CNH Digital e Gov BR                                                                                                   |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | **Descrição**         | Permite que a pessoa usuária autentique-se via Gov BR (OAuth 2.0) e importe automaticamente os dados da sua CNH Digital para o app.   |
-| **Atores**            | • Usuário do aplicativo<br>• Serviço de Autenticação Gov BR<br>• API SENATRAN (CNH Digital)                                           |
-| **Pré-condição**      | • Usuário possui cadastro ativo no Gov BR.<br>• Dispositivo conectado à internet.                                                     |
-| **Pós-condição**      | • Token JWT válido armazenado com segurança.<br>• Dados da CNH sincronizados no perfil do usuárie.                                    |
-| **Fluxo principal**   | 1. Usuário seleciona “Entrar com Gov BR”.<br>2. Sistema redireciona para a tela de login Gov BR (OAuth 2.0).<br>3. Usuário autentica-se e concede consentimento.<br>4. Gov BR retorna *authorization code*.<br>5. Sistema troca o código por um token JWT.<br>6. Com o token, o sistema requisita dados da CNH na API SENATRAN.<br>7. Dados são armazenados e exibidos no aplicativo.<br>8. Caso de uso termina com usuário autenticado e CNH validada. |
-| **Fluxo alternativo** | **A1 – Usuárie já logade:**<br>• Passo 1: sistema detecta sessão ativa.<br>• Vai direto ao Passo 6.<br><br>**A2 – Consentimento negado:**<br>• Passo 3: usuário nega consentimento.<br>• Sistema exibe mensagem “Integração cancelada” e encerra. |
-| **Fluxo de exceções** | **E1 – Falha na autenticação Gov BR:**<br>• Sistema exibe erro e oferece tentar novamente.<br><br>**E2 – API SENATRAN indisponível:**<br>• Sistema armazena token, agenda nova tentativa de sincronização e notifica usuário. |
+| **Atores**            | • Usuário do aplicativo<br>• Serviço de Autenticação CNH digital<br>• API SENATRAN (CNH Digital)                                           |
+| **Pré-condição**      | • Usuário possui cadastro ativo na CNH Digital.<br>• Dispositivo conectado à internet.                                                     |
+| **Pós-condição**      | • Token JWT válido armazenado com segurança.<br>• Dados da CNH sincronizados no perfil do usuário.                                    |
+| **Fluxo principal**   | 1. Usuário seleciona “Entrar com CNH digital”.<br>2. Sistema redireciona para a tela de login CNH digital(OAuth 2.0).<br>3. Usuário autentica-se e concede consentimento.<br>4. Gov BR retorna *authorization code*.<br>5. Sistema troca o código por um token JWT.<br>6. Com o token, o sistema requisita dados da CNH na API SENATRAN.<br>7. Dados são armazenados e exibidos no aplicativo.<br>8. Caso de uso termina com usuário autenticado e CNH validada. |
+| **Fluxo alternativo** | **A1 – Usuário já logado:**<br>• Passo 1: sistema detecta sessão ativa.<br>• Vai direto ao Passo 6.<br><br>**A2 – Consentimento negado:**<br>• Passo 3: usuário nega consentimento.<br>• Sistema exibe mensagem “Integração cancelada” e encerra. |
+| **Fluxo de exceções** | **E1 – Falha na autenticação CNH digital:**<br>• Sistema exibe erro e oferece tentar novamente.<br><br>**E2 – API SENATRAN indisponível:**<br>• Sistema armazena token, agenda nova tentativa de sincronização e notifica usuário. |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi), 2025.</p></font>
 
 
 
-### Área para autoescolas com avaliações, comentários e localização  
+### Opção para adicionar quilometragem do seu carro
 
-Abaixo, na Tabela 9, está especificado o caso de uso para a funcionalidade **“Área para autoescolas com avaliações, comentários e localização”**.
+Abaixo, na Tabela 9, está especificado o caso de uso para a funcionalidade **“Opção para adicionar quilometragem do seu carro”**.
 
 <font size="3"><p style="text-align: center">**Tabela 9 –** Área para autoescolas com avaliações, comentários e localização.</p></font>
 
-| UC06                  | Área para Autoescolas                                                                                                                  |
+| UC06                  | Opção para adicionar quilometragem do seu carro                                                                                                                 |
 |-----------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| **Descrição**         | Permite que autoescolas cadastrem perfis, publiquem informações e recebam avaliações e comentários de alunes, exibindo localização no mapa. |
-| **Atores**            | • Autoescola (perfil empresarial)<br>• Aluno/cliente<br>• Sistema de Geolocalização                                                    |
-| **Pré-condição**      | • Autoescola possui cadastro aprovado.<br>• Aluno autenticade no aplicativo.                                                           |
-| **Pós-condição**      | • Avaliação ou comentário registrado e visível.<br>• Média de pontuação atualizada.                                                    |
-| **Fluxo principal**   | 1. Aluno acessa perfil de uma autoescola.<br>2. Sistema exibe detalhes (endereço, nota média, comentários).<br>3. Aluno clica em “Avaliar”.<br>4. Insere nota (1-5) e comentário opcional.<br>5. Sistema valida entrada e salva avaliação.<br>6. Nota média da autoescola é recalculada.<br>7. Avaliação aparece na lista pública. |
-| **Fluxo alternativo** | **A1 – Avaliação anônima:**<br>• Passo 4: aluno opta por anonimizar nome.<br>• Sistema registra avaliação como “Usuário anônimo”. |
-| **Fluxo de exceções** | **E1 – Comentário ofensivo detectado:**<br>• Sistema bloqueia envio, exibe mensagem e oferece editar.<br><br>**E2 – Autoescola desativada:**<br>• Sistema impede novas avaliações e informa indisponibilidade. |
+| **Descrição**         | Permite que usuários editem a quilometragem do carro cadastrado. |
+| **Atores**            | • Usuário                                                  |
+| **Pré-condição**      | • Carro cadastrado                                                         |
+| **Pós-condição**      | • Edição registrada.                                                |
+| **Fluxo principal**   | 1. Usuário acessa o seu carro cadastrado.<br>2. Edita a quilometragem.<br>4. Insere a quilometragem.<br>5. Sistema valida entrada e salva edição.<br>6. Edição aparece no app. |
+| **Fluxo alternativo** | **A1 – Cancela edição:**<br>• Passo 4: clica em cancelar.<br>• Sistema não registra alterações. |
+| **Fluxo de exceções** | **E1 – quilometragem neagtiva:**<br>• Sistema bloqueia envio, exibe mensagem e oferece editar. |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi), 2025.</p></font>
 

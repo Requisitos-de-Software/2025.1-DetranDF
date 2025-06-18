@@ -760,15 +760,7 @@ No video abaixo é feito a validação da parte de acessibilidade pelo integrant
 
 ##  6. Portabilidade / Compatibilidade
 
-#### SIG de compatibilidade
-
-Na figura mostra o SIG de compatibilidade
-
-<font size="3"><p style="text-align: center"><b> Figura 08:</b> SIG-compatibilidade</font>
-![SIG-Acessibilidade](../../assets/nfr/compatibilidade.jpg)
- <font size="3"><p style="text-align: center"><b>Fonte:[Gabriel Mendes](https://github.com/gbevi) , 2025.</b> </font>
-
-Na tabela x temos os requisitos não funcionais de portabilidade/compatibilidade
+Na tabela 23 temos os requisitos não funcionais de portabilidade/compatibilidade
 
 <font size="3"><b>Tabela 23:</b>requisitos não funcionais de portabilidade/compatibilidade </font>
 
@@ -778,7 +770,7 @@ Na tabela x temos os requisitos não funcionais de portabilidade/compatibilidade
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
 
-Na tabela x temos o cartão de especificação do requisito RNF02.
+Na tabela 24 temos o cartão de especificação do requisito RNF02.
 
 <font size="3"><b>Tabela 24:</b> Cartão de Especificação do Requisito RNF02</font>
 
@@ -796,6 +788,20 @@ Na tabela x temos o cartão de especificação do requisito RNF02.
 | **História**                           | Criado em 01/06/2025                                                                                                                                            |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Mendes](https://github.com/gbevi) , 2025.</p></font>
+
+#### SIG de compatibilidade
+
+Na figura mostra o SIG de compatibilidade sem propagação de impactos
+
+<font size="3"><p style="text-align: center"><b> Figura 08:</b> SIG-compatibilidade</font>
+![SIG-Acessibilidade](../../assets/nfr/compatibilidade.jpg)
+ <font size="3"><p style="text-align: center"><b>Fonte:[Gabriel Mendes](https://github.com/gbevi) , 2025.</b> </font>
+
+ Na figura mostra o SIG de compatibilidade com propagação de impactos
+
+<font size="3"><p style="text-align: center"><b> Figura 08:</b> SIG-compatibilidade</font>
+![SIG-Acessibilidade](../../assets/nfr/compatpro.jpg)
+ <font size="3"><p style="text-align: center"><b>Fonte:[Gabriel Mendes](https://github.com/gbevi) , 2025.</b> </font>
 
 # Propagação de Impactos
 

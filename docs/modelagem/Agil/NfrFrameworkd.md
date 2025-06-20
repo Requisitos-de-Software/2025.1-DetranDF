@@ -339,14 +339,6 @@ Com prapagação de impactos:
 
 ## 2. Acessibilidade
 
-#### SIG de Acessibilidade
-
-Na figura monstra o SIG de Acessibilidade 
-
-<font size="3"><p style="text-align: center"><b> Figura 6:</b> SIG-Acessibilidade</font>
-![SIG-Acessibilidade](../../assets/Captura%20de%20tela%202025-06-01%20001723.png)
-<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
-
 Na tabela 2 temos os requisitos não funcionais de acessibilidade 
 
 <font size="3"><b>Tabela 10:</b>requisitos não funcionais de acessibilidade </font>
@@ -454,21 +446,18 @@ Na tabela 7 temos o requisito não funcional 14
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
-#### Propagação de Impactos
-Na tabela 8 temos a propagação de impactos da acessibilidade 
+#### SIG de Acessibilidade sem propagação de impactos
 
-<font size="3"><b>Tabela 16:</b>requisito não funcional 14 </font>
+Na figura monstra o SIG de Acessibilidade 
 
-| NFR                                                                 | Impacto | Avaliador         |
-|----------------------------------------------------------------------|---------|--------------------|
-| O sistema deve ser capaz de montar uma atividade de forma fácil      | 𝒲++     | [Giovana Barbosa](https://github.com/gio221)  |
-| O sistema deve ser claro de forma que o usuário possa entender e realizar uma tarefa sem dificuldades | 𝒲+      | [Giovana Barbosa](https://github.com/gio221)  |
-| Capacidade de Aprendizado                                            | 𝒲++     | [Giovana Barbosa](https://github.com/gio221) |
-| Adaptabilidade                                                       | 𝒲+      | [Giovana Barbosa](https://github.com/gio221)  |
-| Proteção contra os erros                                             | X       | [Giovana Barbosa](https://github.com/gio221) |
-| Intuitivo                                                            | X       | [Giovana Barbosa](https://github.com/gio221) |
-| Usabilidade                                                          | 𝒲++     | [Giovana Barbosa](https://github.com/gio221)  |
+<font size="3"><p style="text-align: center"><b> Figura 6:</b> SIG-Acessibilidade</font>
+![SIG-Acessibilidade](../../assets/Captura%20de%20tela%202025-06-01%20001723.png)
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
+#### SIG de Acessibilidade com propagação de Impactos
+
+
+![SIG-Acessibilidade](../../assets/glossario.png)
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 #### Validação com o usuário

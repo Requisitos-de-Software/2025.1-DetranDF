@@ -60,6 +60,11 @@ Após o levantamento e definição dos termos do glossário, foi possível ident
 
 **Tabela 2: Requisitos elicitados a partir do Glossário (Fonte: autor, 2025).**
 
+### Video da validação com o usuario
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/aEuQwkNIHXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/aEuQwkNIHXA" target="blanket">Vídeo da validação com o usuário</a></p>
+
 ## Bibliografia 
 > 1. [Engenharia de requisitos](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf)
 

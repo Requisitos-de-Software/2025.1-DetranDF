@@ -50,12 +50,12 @@ Diego seguiu os passos, agendou o exame médico em uma clínica credenciada e re
 Comentou depois com um colega de profissão:
 — “Antigamente, eu perdia um dia inteiro no Detran. Agora, com o app, resolvi tudo entre uma corrida e outra.”
 
-### Gustavo Silva (Persona Primária)
-Gustavo Silva, 67 anos, é aposentado e mora no Lago Norte. Gosta de dirigir, mas não tem tanta afinidade com smartphones.
+### Olavo Silva (Persona Primária)
+Olavo Silva, 67 anos, é aposentado e mora no Lago Norte. Gosta de dirigir, mas não tem tanta afinidade com smartphones.
 
-Quando seu carro foi multado por estacionar em local proibido, Gustavo quis entender o motivo e como recorrer. Seu neto o ajudou a instalar o app do Detran-DF. Ao abrir, Gustavo achou as letras pequenas e ficou um pouco confuso com os ícones.
+Quando seu carro foi multado por estacionar em local proibido, Olavo quis entender o motivo e como recorrer. Seu neto o ajudou a instalar o app do Detran-DF. Ao abrir, Olavo achou as letras pequenas e ficou um pouco confuso com os ícones.
 
-Com ajuda, ele acessou a infração, viu a imagem do flagrante e leu as orientações para recurso. O neto também o ajudou a preencher o formulário digital. No fim, Gustavo conseguiu protocolar a defesa sem sair de casa.
+Com ajuda, ele acessou a infração, viu a imagem do flagrante e leu as orientações para recurso. O neto também o ajudou a preencher o formulário digital. No fim, Olavo conseguiu protocolar a defesa sem sair de casa.
 
 Comentou satisfeito:
 — “É bom não precisar ir ao Detran. Só precisava mesmo de letras maiores e um botão escrito ‘Recorrer’, aí até eu usava sem ajuda.”
@@ -94,6 +94,12 @@ Comentou satisfeito:
 | RNF08   Confiabilidade e tolerância a falhas      | O sistema deve garantir estabilidade e recuperação automática de falhas ou quedas de conexão. |
 | RNF09    Feedback visual e sonoro     | O app deve dar retorno imediato sobre ações realizadas (ex: solicitação de recurso ou pagamento confirmado). |
 | RNF10   Disponibilidade 24/7      | O sistema deve estar disponível para uso a qualquer momento, sem depender de horário comercial. |
+
+### Video da validação com o usuario
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/BeyB4mXfw8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/BeyB4mXfw8Y" target="blanket">Vídeo da validação com o usuário</a></p>
+
 
 ## Bibliografia 
 > 1. [Engenharia de requisitos](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf)

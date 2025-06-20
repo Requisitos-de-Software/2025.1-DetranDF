@@ -2959,4 +2959,4 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 |  1.8   | 08/06/2025 | adicionei RNF14 a RNF16 e RF 29 a RF 34  | [Pedro Camilo](https://github.com/PedrooCamilo) | [Luiz Bessa](https://github.com/lfelipebessa) |
 |  1.9   | 08/06/2025 | adicionei RNF20 e RF 01 a RF 04 e 42 a 44  | [Luiz Bessa](https://github.com/lfelipebessa) | [Giovana Barbosa](https://github.com/gio221)   |
 |  2.0   | 08/06/2025 | Consertei print da funcionalidade RF15  | [João Lobo](https://github.com/joaolobo10) |   [Giovana Barbosa](https://github.com/gio221)  |
-|  2.1   | 16/06/2025 | Adicionando imagens do protótipo e do aplicativo das quais já estavam implementadas  | [Luiz Bessa](https://github.com/lfelipebessa) |  |
+|  2.1   | 16/06/2025 | Adicionando imagens do protótipo e do aplicativo das quais já estavam implementadas  | [Luiz Bessa](https://github.com/lfelipebessa) | [Giovana Barbosa](https://github.com/gio221) |

@@ -1,78 +1,99 @@
-#Introdução
+# Introdução
+
 <p align="justify">
-Com o avanço das tecnologias móveis, órgãos públicos passaram a disponibilizar serviços por meio de aplicativos, visando otimizar o atendimento à população e reduzir a necessidade de deslocamentos presenciais. O aplicativo do Departamento de Trânsito do Distrito Federal (DETRAN-DF) integra essa tendência, oferecendo funcionalidades como consulta de débitos, agendamento de serviços, acompanhamento de processos, entre outras. A análise do uso real desses sistemas digitais é essencial para entender como ocorrem as interações dos usuários e quais obstáculos surgem durante a navegação. A observação direta se apresenta como uma técnica eficaz de elicitação de requisitos, permitindo identificar, com base no comportamento espontâneo dos usuários, problemas de usabilidade e oportunidades de melhoria.
+Com o avanço das tecnologias móveis, órgãos públicos têm adotado aplicativos para melhorar o atendimento à população e reduzir a necessidade de deslocamentos presenciais. O aplicativo do Departamento de Trânsito do Distrito Federal (DETRAN-DF) segue essa tendência, oferecendo funcionalidades como consulta de débitos, agendamento de serviços e acompanhamento de processos. A análise do uso real desses sistemas é crucial para entender as interações dos usuários, identificar problemas de usabilidade e sugerir melhorias. A técnica de observação direta se mostra eficaz nesse contexto, permitindo a elicitação de requisitos com base no comportamento espontâneo dos usuários.
 </p>
 
-#Objetivo
+# Objetivo
+
 <p align="justify">
-Identificar aspectos relacionados à usabilidade, navegação e desempenho do aplicativo DETRAN-DF por meio da técnica de elicitação por observação, analisando o comportamento dos usuários durante o uso e apontando possíveis ajustes que contribuam para a melhoria da experiência e eficiência no uso do sistema.
+Identificar aspectos relacionados à usabilidade, navegação e desempenho do aplicativo DETRAN-DF por meio da técnica de elicitação por observação. Analisaremos o comportamento dos usuários durante o uso, destacando oportunidades de melhoria que contribuam para uma melhor experiência e eficiência no sistema.
 </p>
 
+# Observações com Usuários
 
-## Requisitos funcionais
+Durante a elicitação de requisitos, aplicamos a técnica de observação com dois usuários diferentes utilizando sistemas semelhantes ao que está sendo proposto. O objetivo foi compreender o uso espontâneo de funcionalidades e identificar requisitos reais a partir do comportamento e das decisões dos usuários. A análise das observações foi feita com base nas personas previamente definidas no projeto.
 
-São as funcionalidades que o sistema deve oferecer.
-<a id="req-funcionais"></a>
-**A tabela 1** descreve as funcionalidades
+## Primeira Observação – Usuária 1
 
-<font size="3"><p style="text-align: center">**Tabela 1:** Requisitos Funcionais.</p></font>
+<p align="justify">
+A primeira observação foi conduzida com uma usuária que utilizou a plataforma de IA para adaptar seu currículo com base em vagas específicas. Durante a realização da tarefa, a usuária explicou verbalmente as etapas do processo, o que possibilitou uma observação ativa. A observadora pôde fazer perguntas sobre as funcionalidades mais utilizadas, dificuldades percebidas e contexto de uso. A usuária também relatou outros usos da IA, como suporte na escrita de documentos e organização profissional.
+</p>
 
-| Código | Requisito Funcional                                              | Nome | Nível de Prioridade | Sugestão de Melhoria |
-|--------|------------------------------------------------------------------|---------------------------|----------------------|-----------------------|
-| RF01   | Permitir consulta de multas e débitos do veículo                |       OBS001                        | Alta                 |   Tornar a opção mais visível e acessível na tela principal                    |
-| RF02   | Realizar agendamento de serviços (vistoria, CNH, etc.)         |        OBS002                       | Alta                 |            Simplificar o fluxo e adicionar barra de progresso           |
-| RF03   | Exibir informações da CNH e pontuação                           |       OBS003                        | Média                |          Melhorar desempenho e indicar carregamento em andamento             |
-| RF04   | Permitir acompanhamento de processos                            |       OBS004                        | Média                |          	Renomear menu com termos mais claros e autoexplicativos             |
-| RF05   | Exibir notificações de prazos e documentos vencidos            |       OBS005                       | Alta                 |       Corrigir sistema de push notifications                |
-| RF06  | Reposição de placa Mercosul          |       OBS006                       | Alta                 |    Torna opção mais visivel     |
-| RF07  | Conversão de placa Mercosul          |       OBS007                       | Alta                 |    Torna opção mais visivel     |
-|RF08|Histórico de infração do condutor|OBS008|média| Ser de fácil acesso|
-|RF09|Histórico de infração do veículo|OBS009|média|Ser de fácil acesso|
-|RF10|Converção de autuação em penalidade|OBS010|média| Ter menos passos|
-|RF11|Protocolo-e, nova solicitação|OBS011|média|Ter menos passos, ser mais acessivel|
-|RF12|Protocolo-e, acompanhar solicitação|OBS012|média| Ter menos passos, ser mais acessivel|
-|RF13|Credencial de estacionamento : Autorização de estacionamento de idoso|OBS013| baixa|Ser mais acessivel |
-|RF14|Credencial de estacionamento: Transtorno espectro autista|OBS014|baixa|Ser mais acessivel |
-|RF15|Opção de pagamento para liberação do carro no patio|OBS015|baixa| Funcionalidade nova|
-|RF16|Simulado de prova teorica na parte das autos escolas|OBS016|baixa|Funcionalidade nova|
-|RF17|Ter uma parte sobre leilão|OBS017| baixa| Funcionalidade nova|
-|RF18|Verificar se o veiculo tem autorização para transporte escolar|OBS018|media|Funcionalidade nova|
-|RF19|O veiculo conseguir solicitar autorização para trnaspporte escolar|OBS019|baixa|Funcionalidade nova|
+**Persona associada:** [Marina Souza](#persona-2---primária)  
 
-<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
+---
+
+## Segunda Observação – Usuário 2
+
+<p align="justify">
+A segunda observação foi realizada com um usuário que demonstrou duas interações distintas com a IA. Na primeira, solicitou a geração de um e-mail formal em inglês para pedir férias no trabalho. Na segunda, utilizou a ferramenta para buscar informações sobre algoritmos para resolução de cubo mágico, atividade que faz parte de seus interesses pessoais. Esta observação foi passiva, sem interferência da observadora, com foco em captar o uso natural da interface e das funcionalidades.
+</p>
+
+**Persona associada:** [Diego Martins](#persona-3---secundária)  
 
 
+---
 
-## Requisitos Não-Funcionais
-
-São as qualidades que o sistema deve ter (desempenho, usabilidade, segurança, etc.).
-<a id="req-nao-funcionais"></a>
-**A tabela 2** descreve as qualidades
-
-<font size="3"><p style="text-align: center">**Tabela 2:** Requisitos Não-Funcionais.</p></font>
-
-| Código | Requisito Não-Funcional                                         |Nome | Nível de Prioridade | Sugestão de Melhoria |
-|--------|------------------------------------------------------------------|---------------------------|----------------------|-----------------------|
-| RNF01  | Interface intuitiva e fácil de navegar                          |          OBS001                 | Alta                 |    Redesenhar o layout e menus com foco na hierarquia visual                   |
-| RNF02  | Carregamento rápido das páginas                                 |         OBS002                  | Alta                 |                 Otimizar chamadas à API e melhorar tempo de resposta      |
-| RNF03  | Acessibilidade para diferentes perfis de usuário                |        OBS003                   | Média                |              Adotar padrões de acessibilidade e contraste adequado         |
-| RNF04  | Compatibilidade com diferentes dispositivos e sistemas          |        OBS004                   | Alta                 |               Melhorar testes de compatibilidade e otimização por modelo        |
-| RNF05  | Segurança na exibição de dados pessoais                         |         OBS005                  | Alta                 |                	Adicionar autenticação de dois fatores para dados críticos       |
-
-<font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
+> As observações contribuíram para a identificação de funcionalidades essenciais, além de levantarem oportunidades de melhoria na usabilidade e acessibilidade do sistema com base em situações reais de uso.
 
 
+# Requisitos Funcionais
 
-## Bibliografia
+**A tabela abaixo descreve os requisitos funcionais observados.**
 
-> 1. Aplicativo do DetranDF. Disponível em: Apple Store. Acesso em: 12 abr 2025.
+### Tabela 1: Requisitos Funcionais
 
-## Histórico de versão
+| Código | Requisito Funcional                                       | Nome   | Nível de Prioridade | Sugestão de Melhoria                                                |
+|--------|-----------------------------------------------------------|--------|----------------------|----------------------------------------------------------------------|
+| RF01   | Permitir consulta de multas e débitos do veículo          | OBS001 | Alta                 | Tornar a opção mais visível e acessível na tela principal           |
+| RF02   | Realizar agendamento de serviços (vistoria, CNH, etc.)    | OBS002 | Alta                 | Simplificar o fluxo e adicionar barra de progresso                  |
+| RF03   | Exibir informações da CNH e pontuação                      | OBS003 | Média                | Melhorar desempenho e indicar carregamento em andamento             |
+| RF04   | Permitir acompanhamento de processos                       | OBS004 | Média                | Renomear menu com termos mais claros e autoexplicativos             |
+| RF05   | Exibir notificações de prazos e documentos vencidos       | OBS005 | Alta                 | Corrigir sistema de push notifications                              |
+| RF06   | Reposição de placa Mercosul                               | OBS006 | Alta                 | Tornar opção mais visível                                           |
+| RF07   | Conversão de placa Mercosul                                | OBS007 | Alta                 | Tornar opção mais visível                                           |
+| RF08   | Histórico de infração do condutor                          | OBS008 | Média                | Ser de fácil acesso                                                 |
+| RF09   | Histórico de infração do veículo                           | OBS009 | Média                | Ser de fácil acesso                                                 |
+| RF10   | Conversão de autuação em penalidade                        | OBS010 | Média                | Ter menos passos                                                    |
+| RF11   | Protocolo-e, nova solicitação                              | OBS011 | Média                | Ter menos passos, ser mais acessível                                |
+| RF12   | Protocolo-e, acompanhar solicitação                        | OBS012 | Média                | Ter menos passos, ser mais acessível                                |
+| RF13   | Autorização de estacionamento de idoso                     | OBS013 | Baixa                | Ser mais acessível                                                  |
+| RF14   | Autorização de estacionamento: Transtorno espectro autista| OBS014 | Baixa                | Ser mais acessível                                                  |
+| RF15   | Pagamento para liberação do carro no pátio                 | OBS015 | Baixa                | Funcionalidade nova                                                 |
+| RF16   | Simulado de prova teórica (autoescolas)                   | OBS016 | Baixa                | Funcionalidade nova                                                 |
+| RF17   | Ter uma seção sobre leilão                                 | OBS017 | Baixa                | Funcionalidade nova                                                 |
+| RF18   | Verificar se o veículo tem autorização para transporte escolar | OBS018 | Média           | Funcionalidade nova                                                 |
+| RF19   | Solicitar autorização para transporte escolar              | OBS019 | Baixa                | Funcionalidade nova                                                 |
 
-| Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
-| :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 21/04/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     |[Luiz Bessa](https://github.com/lfelipebessa), [Giovana Barbosa](https://github.com/gio221) |
-|  1.1   | 01/05/2025 | adicionando nomeclatura | [Giovana Barbosa](https://github.com/gio221) | [Maria Eduarda](https://github.com/maaduh)  |
-|  1.2   | 03/05/2025 | adicionando sugestão de melhoria | [Maria Eduarda](https://github.com/maaduh)     | [Giovana Barbosa ](https://github.com/gio221) |
-|  1.3  | 07/06/2025 | adição de anchors nas tabelas | [Gabriel Mendes](https://github.com/gbevi)       |                                           | 
+<sub>Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</sub>
 
+# Requisitos Não-Funcionais
+
+**A tabela abaixo descreve os requisitos não-funcionais observados.**
+
+### Tabela 2: Requisitos Não-Funcionais
+
+| Código | Requisito Não-Funcional                                  | Nome   | Nível de Prioridade | Sugestão de Melhoria                                          |
+|--------|-----------------------------------------------------------|--------|----------------------|----------------------------------------------------------------|
+| RNF01  | Interface intuitiva e fácil de navegar                    | OBS001 | Alta                 | Redesenhar o layout e menus com foco na hierarquia visual      |
+| RNF02  | Carregamento rápido das páginas                           | OBS002 | Alta                 | Otimizar chamadas à API e melhorar tempo de resposta           |
+| RNF03  | Acessibilidade para diferentes perfis de usuário          | OBS003 | Média                | Adotar padrões de acessibilidade e contraste adequado           |
+| RNF04  | Compatibilidade com diferentes dispositivos e sistemas    | OBS004 | Alta                 | Melhorar testes de compatibilidade e otimização por modelo      |
+| RNF05  | Segurança na exibição de dados pessoais                   | OBS005 | Alta                 | Adicionar autenticação de dois fatores para dados críticos      |
+
+<sub>Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</sub>
+
+# Bibliografia
+
+> 1. Aplicativo do DetranDF. Disponível em: Apple Store. Acesso em: 12 abr. 2025.
+
+# Histórico de Versão
+
+| Versão | Data       | Descrição                          | Autor                                           | Revisor                                                                              |
+|--------|------------|------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------------|
+| 1.0    | 21/04/2025 | Início da documentação             | [Maria Eduarda](https://github.com/maaduh)     | [Luiz Bessa](https://github.com/lfelipebessa), [Giovana Barbosa](https://github.com/gio221) |
+| 1.1    | 01/05/2025 | Adicionando nomenclatura           | [Giovana Barbosa](https://github.com/gio221)   | [Maria Eduarda](https://github.com/maaduh)                                           |
+| 1.2    | 03/05/2025 | Adicionando sugestão de melhoria   | [Maria Eduarda](https://github.com/maaduh)     | [Giovana Barbosa](https://github.com/gio221)                                         |
+| 1.3    | 07/06/2025 | Adição de anchors nas tabelas      | [Gabriel Mendes](https://github.com/gbevi)     |   [Maria Eduarda](https://github.com/maaduh)        |
+| 1.4    | 20/06/2025 | Melhorando erros     | [Maria Eduarda](https://github.com/maaduh)     |         |

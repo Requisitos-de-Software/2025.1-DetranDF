@@ -1354,7 +1354,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
 ## RF29 E29
-<details>
+<details open>
   <summary>RF29 - Explicações simples sobre termos técnicos</summary>
 
   <table>
@@ -1391,14 +1391,23 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td><img src="../../assets/RF29-pt1.png"
+             alt="Print RF29"
+             width="30%"
+             style="height:auto;">
+          <img src="../../assets/RF29-pt2.png"
+             alt="Print RF29"
+             width="30%"
+             style="height:auto;">   
+             </td>
     </tr>
+    
   </table>
 </details>
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
 ## RF30 E30
-<details>
+<details open>
   <summary>RF30 - Canal de atendimento humano</summary>
 
   <table>
@@ -1420,7 +1429,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
               <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF30</a>,
 
                 <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling">STO08</a>,
-        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us35">US35</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us35">US36</a>
       </td>
     </tr>
     <tr>
@@ -1437,7 +1446,10 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td><img src="../../assets/RF30.png"
+             alt="Print RF30"
+             width="30%"
+             style="height:auto;"></td>
     </tr>
   </table>
 </details>
@@ -1445,7 +1457,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 
 ## RF31 E31
-<details>
+<details open>
   <summary>RF31 - Reposição de placa Mercosul</summary>
 
   <table>
@@ -1483,14 +1495,17 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td><img src="../../assets/RF31.png"
+             alt="Print RF31"
+             width="30%"
+             style="height:auto;"></td>
     </tr>
   </table>
 </details>
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
 ## RF32 E32
-<details>
+<details open>
   <summary>RF32 - Conversão de placa Mercosul</summary>
 
   <table>
@@ -1528,7 +1543,10 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td><img src="../../assets/RF31.png"
+             alt="Print RF32"
+             width="30%"
+             style="height:auto;"></td>
     </tr>
   </table>
 </details>
@@ -1536,7 +1554,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 
 ## RF33 E33
-<details>
+<details open>
   <summary>RF33 - Histórico de infração do condutor</summary>
 
   <table>
@@ -1574,14 +1592,17 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td><img src="../../assets/RF33.png"
+             alt="Print RF33"
+             width="30%"
+             style="height:auto;"></td>
     </tr>
   </table>
 </details>
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
 ## RF34 E34
-<details>
+<details open>
   <summary>RF34 - Histórico de infração do veículo	</summary>
 
   <table>
@@ -1619,7 +1640,10 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td><img src="../../assets/RF34.png"
+             alt="Print RF34"
+             width="30%"
+             style="height:auto;"></td>
     </tr>
   </table>
 </details>

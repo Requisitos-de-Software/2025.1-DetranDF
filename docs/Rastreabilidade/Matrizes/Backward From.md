@@ -15,18 +15,18 @@ A abordagem backward-from foca em estabelecer conexões claras entre os requisit
 
 - RF - Requisito Funcional nº
 - RNF - Requisito Não Funcional nº
-- RFB - Requisito Funcional de Brainstorming nº
-- RFI - Requisito Funcional de Instrospecção nº
-- RFO - Requisito Funcional de Observação nº
-- RFG - Requisito Funcional de Glossário nº
-- RFS - Requisito Funcional de Storytelling nº
+- BSX - Requisito Funcional de Brainstorming nº
+- ISX - Requisito Funcional de Instrospecção nº
+- OBSX - Requisito Funcional de Observação nº
+- GLOX - Requisito Funcional de Glossário nº
+- STOX - Requisito Funcional de Storytelling nº
 
 ### Requisitos Funcionais
 
 <font size="3" style="text-align: center"><p>**Tabela 3 -** Matriz para os Requisitos funcionais.</p></font>
 
-| Requisito  | Descrição | Implementado | Versão |     Elicitação      |       Modelagem        | 
-| :--------: | :-------: | :----------: | :----: | :-----: |:-----------------: | 
+| Requisito  | Descrição | Tema | Técnica de Elicitação |     Modelagem      |  
+| :--------: | :-------: | :----------: | :----: | :-----: |
 | RF01      | Permitir consulta de multas e débitos do veículo          |   | [IS01 / OBS001](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Introspecção/#req-funcionais) [BS06](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Brainstorming/#req-funcionais)      | [US01](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us01)         | 
 | RF02      | Realizar agendamento de serviços (vistoria, CNH, etc.)    |  | [IS02 / OBS002](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Brainstorming/#req-funcionais)        | [US14](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us14)         | 
 | RF03      | Exibir informações da CNH e pontuação                     |   | [IS03 / BS01 / OBS003](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Brainstorming/#req-funcionais) | [US02](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us02)         | 
@@ -72,6 +72,7 @@ A abordagem backward-from foca em estabelecer conexões claras entre os requisit
 | RF43      | Verificar autorização de veículo p/ transporte escolar    |  | [OBS018](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Introspecção/#req-funcionais)               | [US31](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us31)         | 
 | RF44      | Solicitar autorização de transporte escolar pelo app      |   | [OBS019](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Introspecção/#req-funcionais)              | [US32](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us32)         | 
 
+<font size="2"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), [Gabriel Mendes](https://github.com/gbevi) , [João Lobo](https://github.com/joaolobo10), [Maria Eduarda](https://github.com/maaduh), [Pedro Camilo](https://github.com/PedrooCamilo), [Eric Akio](https://github.com/eric-kingu), [Luiz Bessa](https://github.com/lfelipebessa)  , 2025.</p></font>
 
 
 ### Requisitos Não Funcionais
@@ -100,6 +101,8 @@ A abordagem backward-from foca em estabelecer conexões claras entre os requisit
 | RNF18 | Disponibilidade do sistema 24/7 | | [STO2.10](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling/#req-nao-funcionais) | [Confiabilidade e Disponibilidade](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/#confia) | 
 | RNF19 | Confiabilidade: recuperação de falhas e continuidade da navegação | |[STO2.08](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling/#req-nao-funcionais) | [Confiabilidade e Disponibilidade](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/#confia) |
 | RNF20     | Interface com poucos elementos por tela (leitura fácil)       |  | [STO2.08](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling/#req-nao-funcionais)      | [Usabilidade](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/#usa) | 
+
+<font size="2"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), [Gabriel Mendes](https://github.com/gbevi) , [João Lobo](https://github.com/joaolobo10), [Maria Eduarda](https://github.com/maaduh), [Pedro Camilo](https://github.com/PedrooCamilo), [Eric Akio](https://github.com/eric-kingu), [Luiz Bessa](https://github.com/lfelipebessa)  , 2025.</p></font>
 
 
 ## Histórico de versão

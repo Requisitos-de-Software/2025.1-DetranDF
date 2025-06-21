@@ -94,10 +94,12 @@ A seção de Ajuda e Documentação de um aplicativo é composta por uma série 
 
 | ID    | Descrição                                              | Rastreabilidade                                                                                  |
 | --------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| US01 | Interface intuitiva e fácil de navegar                 | **RNF01**      |
-| US02 | Acessibilidade (fonte grande, contraste, modo noturno) | **RNF05**      |
-| US03 | Leitor de tela e assistente por voz para pessoas cegas | **RNF05**      |
-| US04 | Acessibilidade para diferentes perfis de usuários      | **RNF11**      |
+| AD01 | Interface intuitiva e fácil de navegar                 | [RNF01](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais)      |
+| AD02 | Acessibilidade (fonte grande, contraste, modo noturno) | **RNF05**      |
+| AD03 | Leitor de tela e assistente por voz para pessoas cegas | **RNF05**      |
+| AD04 | Acessibilidade para diferentes perfis de usuários      | **RNF11**      |
+| AD05 | Explicações acessíveis sobre siglas                    | **RNF12**      |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
 <a id="restri"></a>
@@ -166,4 +168,4 @@ Os requisitos físicos descrevem as necessidades de hardware e ambiente para o u
 |  1.6  | 17/05/2025 | Adição de tabelas de Restrições de Design |   [Luiz Bessa](https://github.com/lfelipebessa)| [Maria Eduarda](https://github.com/maaduh) |
 |  1.7  | 17/05/2025 | Adição de tabelas de Requisitos Físicos |   [Luiz Bessa](https://github.com/lfelipebessa)  | [Maria Eduarda](https://github.com/maaduh) |
 |  1.8  | 17/05/2025 | Adição de tabelas de Requisitos de implementação | [Maria Eduarda](https://github.com/maaduh) |               [Giovana Barbosa](https://github.com/gio221)                             |
-
+|  1.9  | 21/06/2025 | Adicionando Requisito Explicações acessíveis sobre siglas em ajuda e documentação  | [Pedro Camilo](https://github.com/PedrooCamilo) | [João Lobo](https://github.com/joaolobo10)|

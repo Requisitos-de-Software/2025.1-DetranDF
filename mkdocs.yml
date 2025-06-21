@@ -80,12 +80,12 @@ nav:
           - Introspecção: Elicitação/Tecnicas-de-elecitação/Introspecção.md
           - Glossário: Elicitação/Tecnicas-de-elecitação/glossario.md
           - Storytelling: Elicitação/Tecnicas-de-elecitação/Storytelling.md
-          - Requisitos Elicitados: Elicitação/Tecnicas-de-elecitação/requisitos-elicitados.md
       - Tecnicas de Priorização:
           - First thing First: Elicitação/tecnicas-de-priorização/First thing First.md
           - In or out: Elicitação/tecnicas-de-priorização/In or out.md
           - $100: Elicitação/tecnicas-de-priorização/$100.md
           - Moscow: Elicitação/tecnicas-de-priorização/moscow.md
+      - Requisitos Elicitados: Elicitação/requisitos-elicitados.md
   - Modelagem:
           - Cenários: modelagem/Cenários..md
           - Léxicos: modelagem/lexico.md
@@ -97,7 +97,7 @@ nav:
             - NFR Framework: modelagem/Agil/NfrFrameworkd.md
   - Rastreabilidade:
           - Matrizes de Rastreabilidade: 
-              - Forward To: Rastreabilidade/Matrizes/Forward To.md
+              - Forward From: Rastreabilidade/Matrizes/Forward-from.md
               - Backward From: Rastreabilidade/Matrizes/Backward From.md
               - Matriz Geral: Rastreabilidade/Matrizes/Matriz Geral.md
           - Pós-Rastreabilidade: Rastreabilidade/Pós-Rastreabilidade.md

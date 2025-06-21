@@ -1,4 +1,4 @@
-# Inspeção Fagan - Etapa 4
+# Inspeção Fagan - Etapa 6
 
 ## Introdução
 
@@ -6,7 +6,7 @@ A verificação é uma etapa fundamental em qualquer projeto, pois permite ident
 
 ## Objetivo
 
-Este documento tem como objetivo apresentar uma lista de verificação destinada a avaliar se os artefatos desenvolvidos pelo Grupo 1 na Etapa 4 estão completos, seguem os padrões estabelecidos e contêm todos os elementos necessários.
+Este documento tem como objetivo apresentar uma lista de verificação destinada a avaliar se os artefatos desenvolvidos pelo Grupo 1 na Etapa 6 estão completos, seguem os padrões estabelecidos e contêm todos os elementos necessários.
 
 ---
 
@@ -24,61 +24,38 @@ Este documento tem como objetivo apresentar uma lista de verificação destinada
 
 ## Etapas da Inspeção - Método de Fagan
 
-### 1. Planejamento
+### Planejamento
 - **Artefato inspecionado:** Backlog e Histórias de Usuário – Etapa 4  
 - **Critérios de entrada:** Artefato finalizado e validado pelo grupo  
 - **Materiais de apoio:** Checklists de requisitos, boas práticas de histórias de usuário  
-- **Papel dos participantes:**  
-  - Moderador: Gabriel  
-  - Leitor: João  
-  - Autor: Luiz  
-  - Inspetores: Todos os demais
 
-### 2. Visão Geral
+### Visão Geral
 - O autor apresentou o artefato ao grupo, explicando seu objetivo e estrutura.  
 - Foram discutidos os critérios adotados para escrever as histórias de usuário e como o backlog foi organizado.  
 - Dúvidas sobre escopo e formato foram esclarecidas antes da fase de preparação.
 
-### 3. Preparação
+### Preparação
 
-Cada inspetor realizou a leitura individual dos artefatos, aplicando o checklist fornecido.
-
-| Inspetor | Itens analisados                 | Erros identificados | Observações                       |
-|----------|----------------------------------|---------------------|-----------------------------------|
-| Giovana  | Histórias de usuário             | 3                   | Formato inconsistente             |
-| Eric     | Requisitos não funcionais (RNF)  | 2                   | RNFs ausentes ou vagos            |
-| Maria    | Critérios de aceitação           | 1                   | Critério genérico demais          |
-| Pedro    | Títulos e padrões das histórias  | 0                   | Tudo conforme                     |
-
-### 4. Inspeção
-
-Reunião conduzida com base nas análises individuais. Os seguintes defeitos foram consolidados:
-
-Adicionar um link que vai para a inspeção.
-
-### 5. Correção
-
-As correções foram aplicadas de acordo com os apontamentos da reunião.
-
-| Nº | Ação Corretiva Realizada                                 | Responsável | Data       |
-|----|-----------------------------------------------------------|-------------|------------|
-| 01 | Adicionado critério de aceitação na HU 03                | Maria       | 02/06/2025 |
-| 02 | Inserido RNF de desempenho na seção apropriada           | Eric        | 02/06/2025 |
-| 03 | Ajustado título da HU 05 para padrão autoexplicativo     | Giovana     | 02/06/2025 |
-
-### 6. Acompanhamento
-
-- Todas as correções foram revisadas e validadas pelo moderador.  
-- O artefato foi considerado **aprovado** e está pronto para seguir para as próximas etapas do projeto.
-
----
+Todos os integrantes do grupo participaram da elaboração das listas de verificação que foram utilizadas na inspeção dos itens técnicos, documentais e dos conteúdos exigidos pela disciplina. 
 
 ## Lista de Verificação – Itens Técnicos e Documentais
 
 | Item | Descrição | Autor | Data | Status | Referência |
 |------|-----------|--------|------|--------|------------|
-| 01 | Backlog documentado com estrutura clara | Pedro | 30/05/2025 | Aprovado | `artefatos/etapa4/backlog.md` |
-| 02 | Histórias de usuário seguem padrão | Maria | 30/05/2025 | Aprovado | `artefatos/etapa4/historias.md` |
+| 01 | Existe um documento formal descrevendo todos os requisitos a serem implementados? |  |  |  |  |
+| 02 | As mudanças nos requisitos possuem justificativas documentadas, como alterações no contexto ou requisitos não identificados inicialmente? |  |  |  |  |
+| 03 | A documentação dos requisitos registra origem, observações, histórico de mudanças, versões e status atualizados? |  |  |  |  |
+| 04 | Os requisitos estão vinculados ao planejamento técnico e à implementação do sistema? |  |  |  |  |
+| 05 | Todos os requisitos estão identificados com um ID único e origem clara, conforme o modelo backward-from? |  |  |  |  |
+| 06 | A tabela backward-from apresenta campos como ID, descrição, tema, fonte e documentos relacionados? |  |  |  |  |
+| 07 | O modelo forward-to está implementado e conecta documentos de elicitação aos requisitos com status de implementação? |  |  |  |  |
+| 08 | Existe uma matriz geral consolidando requisitos, fontes, modelagem e status de implementação? |  |  |  |  |
+| 09 | Todos os hiperlinks e referências entre documentos funcionam corretamente? | |  |  |  |
+| 10 | O nível de detalhamento da documentação está proporcional à complexidade e criticidade do projeto? |  |  |  |  |
+| 11 | Os tipos de elos de rastreabilidade (ex.: satisfação, recurso, responsabilidade, etc.) estão identificados e registrados? |  |  |  |  |
+| 12 | A matriz ou grafo de rastreabilidade estabelece vínculos entre requisitos, artefatos de origem e artefatos de implementação? |  |  |  |  |
+| 13 | A matriz possibilita rastrear os requisitos até os componentes onde foram implementados? |  |  |  |  |
+| 14 | Foram utilizados hiperlinks ou outras referências funcionais para facilitar a navegação entre os requisitos e seus artefatos relacionados? |  |  |  |  |
 
 ---
 
@@ -86,28 +63,44 @@ As correções foram aplicadas de acordo com os apontamentos da reunião.
 
 | Item | Descrição | Autor | Data | Status | Referência |
 |------|-----------|--------|------|--------|------------|
-| 01 | Os títulos das histórias de usuário são autoexplicativos? | Giovana | 30/05/2025 | Correção aplicada | `HU 05` |
-| 02 | O “quem”, “o que” e o “por que” estão definidos na HU? | Luiz | 30/05/2025 | Aprovado | `backlog.md` |
-| 03 | Participação do cliente/persona na validação das HUs | João | 30/05/2025 | Aprovado | `entrevistas.md` |
-| 04 | A história possui critérios de aceitação? | Maria | 30/05/2025 | Correção aplicada | `HU 03` |
-| 05 | Participação do cliente/persona na elicitação de requisitos | Eric | 30/05/2025 | Aprovado | `requisitos.md` |
-| 06 | Todas as histórias de usuário podem ser testadas? | Pedro | 30/05/2025 | Aprovado | `testes.md` |
-| 07 | As HUs seguem algum modelo ou padrão? | Giovana | 30/05/2025 | Aprovado | `HU_template.md` |
-| 08 | As HUs representam bem a experiência do usuário no Detran DF? | Gabriel | 30/05/2025 | Aprovado | `HU_avaliacao.md` |
-| 09 | Backlog possui épicos e temas bem definidos? | Luiz | 30/05/2025 | Aprovado | `backlog.md` |
-| 10 | Backlog cobre todas as funcionalidades do produto? | Maria | 30/05/2025 | Aprovado | `backlog.md` |
-| 11 | Itens do backlog estão estruturados como histórias de usuário? | Pedro | 30/05/2025 | Aprovado | `backlog.md` |
-| 12 | Itens seguem o formato “Como <persona>, eu desejo <ação> para que <valor>”? | João | 30/05/2025 | Aprovado | `HU_template.md` |
-| 13 | Itens do backlog estão agrupados em épicos? | Luiz | 30/05/2025 | Aprovado | `backlog.md` |
-| 14 | RNFs foram definidos com base na literatura? | Eric | 30/05/2025 | Correção aplicada | `requisitos.md` |
+| 01 | O artefato permite confirmar se todos os requisitos previstos foram implementados no sistema? |  |  |  |  |
+| 02 | É possível identificar funcionalidades implementadas que não estão ligadas a nenhum requisito (gold-plating)? |  |  |  |  |
+| 03 | O artefato permite verificar se cada requisito possui uma fonte ou origem identificável? |  |  |  |  |
+| 04 | A rastreabilidade permite realizar análise de impacto em caso de mudanças nos requisitos? |  |  |  |  |
+| 05 | Os esforços de desenvolvimento estão relacionados aos respectivos requisitos? |  |  |  |  |
+| 06 | O artefato registra apenas informações relevantes à evolução do sistema? |  |  |  |  |
+| 07 | Há vínculos claros entre os requisitos, o design do sistema e a implementação? |  |  |  |  |
+| 08 | O artefato permite identificar requisitos conflitantes ou mal especificados? |  |  |  |  |
+| 09 | A documentação contribui para detectar a origem de defeitos relacionados a requisitos? |  |  |  |  |
+| 10 | O artefato auxilia na demonstração da qualidade do processo e do produto resultante? |  |  |  |  |
+| 11 | A matriz ou grafo de rastreabilidade inclui relações com casos de uso, cenários e código-fonte? |  |  |  |  |
+| 12 | Há definição de um processo para atualização e manutenção dos elos de rastreabilidade? |  |  |  |  |
+| 13 | A rastreabilidade permite verificar se todos os requisitos possuem casos de teste associados? |  |  |  |  |
+
 
 ---
+
+### Inspeção
+
+Reunião conduzida com base nas análises individuais. Os seguintes defeitos foram consolidados:
+
+Adicionar um link que vai para a inspeção.
+
+### Correção
+
+As correções foram aplicadas de acordo com os apontamentos da reunião.
+
+| Nº | Ação Corretiva Realizada                                 | Responsável | Data       |
+|----|-----------------------------------------------------------|-------------|------------|
+|  |               |        | |
+
+---
+
 
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|--------|---------|
-| 1.0 | 31/05/2025 | Criação do documento com base nas perguntas e inspeções realizadas pelo grupo | João Carlos Lobo Sousa Monteiro | Gabriel Dantas B. M. |
+| 1.0 | 20/06/2025 | Criação do documento e estruturação da organização seguindo modelo de Fagan| [João Lobo](https://github.com/joaolobo10) | |
 
 ---
-

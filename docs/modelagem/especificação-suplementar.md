@@ -95,10 +95,10 @@ A seção de Ajuda e Documentação de um aplicativo é composta por uma série 
 | ID    | Descrição                                              | Rastreabilidade                                                                                  |
 | --------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
 | AD01 | Interface intuitiva e fácil de navegar                 | [RNF01](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais)      |
-| AD02 | Acessibilidade (fonte grande, contraste, modo noturno) | **RNF05**      |
-| AD03 | Leitor de tela e assistente por voz para pessoas cegas | **RNF05**      |
-| AD04 | Acessibilidade para diferentes perfis de usuários      | **RNF11**      |
-| AD05 | Explicações acessíveis sobre siglas                    | **RNF12**      |
+| AD02 | Acessibilidade (fonte grande, contraste, modo noturno) | [RNF05] (https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais)     |
+| AD03 | Leitor de tela e assistente por voz para pessoas cegas | [RNF06] (https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais)       |
+| AD04 | Acessibilidade para diferentes perfis de usuários      | [RNF11] (https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais)      |
+| AD05 | Explicações acessíveis sobre siglas                    | [RNF12] (https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-nao-funcionais)       |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>

@@ -871,7 +871,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     <tr>
       <td><strong>Elementos</strong></td>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF17</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados/#req-funcionais">RF17</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/glossario/#req-funcionais">GLO03</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us04">US04</a>
       </td>
@@ -889,7 +889,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/rastrea/rf17.PNG"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -916,7 +921,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     <tr>
       <td><strong>Elementos</strong></td>
       <td>
-      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF18</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados/#req-funcionais">RF18</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/glossario/#req-funcionais">GLO04</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us20">US20</a>
       </td>
@@ -934,7 +939,18 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/rastrea/rf18_1.PNG"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
+      <td>
+        <img src="../../assets/rastrea/rf18_2.PNG"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -961,7 +977,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     <tr>
       <td><strong>Elementos</strong></td>
       <td>
-      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF19</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados/#req-funcionais">RF19</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/glossario/#req-funcionais">GLO01</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us02">US02</a>
       </td>
@@ -979,7 +995,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/rastrea/rf19.PNG"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1006,7 +1027,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     <tr>
       <td><strong>Elementos</strong></td>
       <td>
-      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF20</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados/#req-funcionais">RF20</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/glossario/#req-funcionais">GLO02</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us02">US02</a>
       </td>
@@ -1024,7 +1045,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/rastrea/rf20.PNG"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1051,7 +1077,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     <tr>
       <td><strong>Elementos</strong></td>
       <td>
-      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF21</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados/#req-funcionais">RF21</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS004</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us21">US21</a>
       </td>
@@ -1069,7 +1095,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/rastrea/rf21.PNG"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1096,7 +1127,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     <tr>
       <td><strong>Elementos</strong></td>
       <td>
-      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF22</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados/#req-funcionais">RF22</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS005</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us11">US11</a>
       </td>
@@ -1114,7 +1145,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/rastrea/rf22.PNG"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>

@@ -70,8 +70,7 @@ A abordagem backward-from foca em estabelecer conexões claras entre os requisit
 | RF43 | Verificar autorização de veículo p/ transporte escolar | Transporte escolar | [OBS018](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Introspecção/#req-funcionais) | [US31](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us31) |
 | RF44 | Solicitar autorização de transporte escolar pelo app | Transporte escolar | [OBS019](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Introspecção/#req-funcionais) | [US32](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us32) |
 
-
-<font size="2"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), [Gabriel Mendes](https://github.com/gbevi) , [João Lobo](https://github.com/joaolobo10), [Maria Eduarda](https://github.com/maaduh), [Pedro Camilo](https://github.com/PedrooCamilo), [Eric Akio](https://github.com/eric-kingu), [Luiz Bessa](https://github.com/lfelipebessa)  , 2025.</p></font>
 
 
 ### Requisitos Não Funcionais
@@ -101,7 +100,7 @@ A abordagem backward-from foca em estabelecer conexões claras entre os requisit
 | RNF19 | Confiabilidade: recuperação de falhas e continuidade da navegação | Confiabilidade | [STO2.08](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling/#req-nao-funcionais) | [Confiabilidade e Disponibilidade](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/#confia) |
 | RNF20 | Interface com poucos elementos por tela (leitura fácil) | Usabilidade | [STO2.08](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling/#req-nao-funcionais) | [Usabilidade](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/NfrFrameworkd/#usa) |
 
-<font size="2"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), [João Lobo](https://github.com/joaolobo10) ,  , 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), [Gabriel Mendes](https://github.com/gbevi) , [João Lobo](https://github.com/joaolobo10), [Maria Eduarda](https://github.com/maaduh), [Pedro Camilo](https://github.com/PedrooCamilo), [Eric Akio](https://github.com/eric-kingu), [Luiz Bessa](https://github.com/lfelipebessa)  , 2025.</p></font>
 
 
 ## Histórico de versão

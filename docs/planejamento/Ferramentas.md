@@ -18,7 +18,10 @@ Tendo a finalidade de facilitar a organização e gerenciamento do planejamento 
 |<img class="card-img img-fluid rounded" src="https://raw.githubusercontent.com/Requisitos-de-software/2025.1-DetranDF/main/docs/assets/ferramentas/Youtube_logo.png" title="YouTube" width=100>|YouTube|Hospedagem dos vídeos produzidos.<a id="anchor_6" href="#FRM6"><sup>6</sup></a>|
 |<img class="card-img img-fluid rounded" src="https://raw.githubusercontent.com/Requisitos-de-software/2025.1-DetranDF/main/docs/assets/ferramentas/Figma/Figma-Icon(Full-color)/Figma-Icon(Full-color).png" title="Figma" width=100>|Figma|Prototipação do aplicativo.<a id="anchor_7" href="#FRM7"><sup>7</sup></a>|
 |<img class="card-img img-fluid rounded" src="https://raw.githubusercontent.com/Requisitos-de-software/2025.1-DetranDF/main/docs/assets/ferramentas/this-person-does-not-exist.png" title="This person does not exist" width=100>|This person does not exist|Geração de imagens de pessoas com inteligência artificial.<a id="anchor_8" href="#FRM8"><sup>8</sup></a>|
-|<img class="card-img img-fluid rounded" width=100 src="https://static-cse.canva.com/blob/1148850/image2.14726cf7.avif">|Canva| Edição de vídeo.<a id="anchor_9" href="#FRM9"><sup>9</sup></a>|
+|<img class="card-img img-fluid rounded" width=100 src="https://static-cse.canva.com/blob/1148850/image2.14726cf7.avif" title="Canva">|Canva| Edição de vídeo.<a id="anchor_9" href="#FRM9"><sup>9</sup></a>|
+| <img class="card-img img-fluid rounded" width=75 src="https://raw.githubusercontent.com/Requisitos-de-software/2025.1-DetranDF/main/docs/assets/ferramentas/Lucidchart-Logos/1a/1a/Lucidchart-Primary3D-Logo-Default-TypeCG100-onClear-np-RGB-M.png" title="Lucidchart">| Lucidchart | Criação de diagramas.<a id="anchor_10" href="#FRM10"><sup>10</sup></a>|
+|<img class="card-img img-fluid rounded only-light" width=100 src="https://raw.githubusercontent.com/Requisitos-de-software/2025.1-DetranDF/main/docs/assets/ferramentas/OpenAI-logos(new)/OpenAI-black-monoblossom.png" title="OpenAI"><img class="card-img img-fluid rounded only-dark" width=100 src="https://raw.githubusercontent.com/Requisitos-de-software/2025.1-DetranDF/main/docs/assets/ferramentas/OpenAI-logos(new)/OpenAI-white-monoblossom.png" title="OpenAI">|OpenAI(ChatGPT)|Auxílio na criação de tabelas e textos.<a id="anchor_11" href="#FRM11"><sup>11</sup></a>|
+|<img class="card-img img-fluid rounded" width=100 src="https://raw.githubusercontent.com/Requisitos-de-software/2025.1-DetranDF/main/docs/assets/ferramentas/icon.jpeg" title="miro">|Miro|Colaborações visuais.<a id="anchor_12" href="#FRM12"><sup>12</sup></a>|
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
@@ -39,7 +42,13 @@ Tendo a finalidade de facilitar a organização e gerenciamento do planejamento 
 >
 > <a id="#FRM8" href="anchor_8">8</a>. This Person Does Not Exist. Disponível em: [https://thispersondoesnotexist.tools](https://thispersondoesnotexist.tools), acesso em 5 de maio de 2025.
 >
-> <a id="#FRM9" href="anchor_9">9</a>. Canva. Disponível em: [https://www.canva.com/learn/brand-identity/](https://www.canva.com/learn/brand-identity/), acesso em 5 de maio de2025.
+> <a id="#FRM9" href="anchor_9">9</a>. Canva. Disponível em: [https://www.canva.com/learn/brand-identity/](https://www.canva.com/learn/brand-identity/), acesso em 5 de maio de 2025.
+>
+> <a id="#FRM10" href="anchor_10">10</a>. Lucidchart. Disponível em: [https://brandpad.io/lucid-software-brand-book](https://brandpad.io/lucid-software-brand-book), acesso em 20 de junho de 2025.
+>
+> <a id="#FRM11" href="anchor_11">11</a>. OpenAI. Disponível em: [https://openai.com/brand/](https://openai.com/brand/), acesso em 20 de junho de 2025.
+>
+> <a id="#FRM12" href="anchor_12">12</a>. Miro. Disponível em: [https://brandkit.miro.com](https://brandkit.miro.com), acesso em 21 de junho de 2025.
 
 ## Histórico de versões
 
@@ -47,3 +56,4 @@ Tendo a finalidade de facilitar a organização e gerenciamento do planejamento 
 |:----:|:--:|:-------:|:-------:|:-----:|
 |`1.0`|11/04/2025|Criação da página de ferramentas|[Eric Akio](https://github.com/eric-kingu)|  [Giovana Barbosa](https://github.com/gio221)  |
 |`1.1`|05/05/2025|Adicionando This Person Does Not Exist, Canva e Figma como ferramentas que podemos usar|[Eric Akio](https://github.com/eric-kingu)| [Giovana Barbosa ](https://github.com/gio221)|
+|`1.1`|21/06/2025|Adicionando Lucidchart, OpenAI e Miro como ferramentas que podemos usar|[Eric Akio](https://github.com/eric-kingu)| |

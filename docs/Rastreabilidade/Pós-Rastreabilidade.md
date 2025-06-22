@@ -1353,7 +1353,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 <font size="3"><p style="text-align: center">Autor: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
-## RF29 E29
+## Requisito Funcional 29 - Elo 29
 <details open>
   <summary>RF29 - Explicações simples sobre termos técnicos</summary>
 
@@ -1419,7 +1419,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
-## RF30 E30
+## Requisito Funcional 30 - Elo 30
 <details open>
   <summary>RF30 - Canal de atendimento humano</summary>
 
@@ -1474,7 +1474,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
 
-## RF31 E31
+## Requisito Funcional 31 - Elo 31
 <details open>
   <summary>RF31 - Reposição de placa Mercosul</summary>
 
@@ -1522,7 +1522,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
-## RF32 E32
+## Requisito Funcional 32 - Elo 32
 <details open>
   <summary>RF32 - Conversão de placa Mercosul</summary>
 
@@ -1571,7 +1571,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
 
-## RF33 E33
+## Requisito Funcional 33 - Elo 33
 <details open>
   <summary>RF33 - Histórico de infração do condutor</summary>
 
@@ -1619,7 +1619,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
-## RF34 E34
+## Requisito Funcional 34 - Elo 34
 <details open>
   <summary>RF34 - Histórico de infração do veículo	</summary>
 

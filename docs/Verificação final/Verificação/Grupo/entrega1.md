@@ -1,10 +1,12 @@
-# Introdução
+# Inspeção Fagan - Etapa 1
+
+## Introdução
 A verificação é uma fase muito importante de um projeto, ela possibilita acharmos erros que sem ela não poderiamos detectar, nessa parte todos os artefatos produzidos no projeto são analisado para garantir sua total eficiência
 
-# Objetivo
+## Objetivo
 Esse documento tem como objetivo criar a lista para podermos verificar os artefatos produzidos na Etapa 1 pelo Grupo 1 contêm todos os elementos necessários e seguem o padrão exigido.
 
-# Quem participou da verificação 
+## Participantes da Verificação
 - Giovana Barbosa da Silva
 - Eric Akio Lages Nishimura
 - Gabriel Dantas Bevilaqua Mendes
@@ -12,6 +14,22 @@ Esse documento tem como objetivo criar a lista para podermos verificar os artefa
 - Luiz Felipe Bessa Santos
 - Maria Eduarda Araujo Pereira
 - Pedro Túlio Curvelo Camilo
+
+## Etapas da Inspeção - Método de Fagan
+
+### Planejamento
+- **Artefato inspecionado:** Backlog e Histórias de Usuário – Etapa 1 
+- **Critérios de entrada:** Artefato finalizado e validado pelo grupo  
+- **Materiais de apoio:** Checklists de requisitos, boas práticas de histórias de usuário  
+
+### Visão Geral
+- O autor apresentou o artefato ao grupo, explicando seu objetivo e estrutura.  
+- Foram discutidos os critérios adotados para escrever as histórias de usuário e como o backlog foi organizado.  
+- Dúvidas sobre escopo e formato foram esclarecidas antes da fase de preparação.
+
+### Preparação
+
+Todos os integrantes do grupo participaram da elaboração das listas de verificação que foram utilizadas na inspeção dos itens técnicos, documentais e dos conteúdos exigidos pela disciplina. 
 
 # Lista de Verificação Itens Tecnicos e Documentais
 | Item |   Pergunta   |      Avaliação       |                     Autor                      |                  Referência                |
@@ -35,19 +53,19 @@ Esse documento tem como objetivo criar a lista para podermos verificar os artefa
 |13|A visualização do heatmap está clara e fácil de interpretar, com um bom uso das cores?||[João Lobo](https://github.com/joaolobo10)|[heatmap da equipe](https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/planejamento/heatmap/)|
 |14|Os dados do heatmap estão corretos e refletem com precisão a escala da equipe?||[João Lobo](https://github.com/joaolobo10)|[heatmap da equipe](https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/planejamento/heatmap/)|
 |15|O heatmap ajuda na identificação rápida de horários de pico e baixa demanda?||[João Lobo](https://github.com/joaolobo10)|[heatmap da equipe](https://requisitos-de-software.github.io/2025.1-Guardioes-da-Saude/planejamento/heatmap/)|
-|17|Possui 7 funcionalidades?||[Maria Eduarda](https://github.com/maaduh) |[Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
-|18|Possui autorização para estudo no termo de uso	?||[Maria Eduarda](https://github.com/maaduh) |[Print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
-|19|O termo de uso permite a análise para estudo?	?||[Gabriel Mendes](https://github.com/gbevi)|[print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
-|20|O Cronograma possui atividades que serão realizadas?||[Giovana Barbosa](https://github.com/gio221)|[print](https://drive.google.com/file/d/1SNVtO1Dbi5h7drkfLvD2yurDPu55ua2I/view?usp=sharing)|
-|21|Cada atividade possui um período para o desenvolvimento?||[Giovana Barbosa](https://github.com/gio221)|[print](https://drive.google.com/file/d/1SNVtO1Dbi5h7drkfLvD2yurDPu55ua2I/view?usp=sharing)|
-|22|Apresenta os responsáveis para cada atividade?||[Giovana Barbosa](https://github.com/gio221)|[print](https://drive.google.com/file/d/1SNVtO1Dbi5h7drkfLvD2yurDPu55ua2I/view?usp=sharing)|
-|23|Possui os responsáveis pelas revisões?||[Giovana Barbosa](https://github.com/gio221)|[print](https://drive.google.com/file/d/1SNVtO1Dbi5h7drkfLvD2yurDPu55ua2I/view?usp=sharing)|
-|24|O rich picture é fácil de entender?||[Gabriel Mendes](https://github.com/gbevi)|[Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
-|25|	Os autores do Rich picture estão bem especificados?	||[Gabriel Mendes](https://github.com/gbevi)|[Print](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
-|27|As operações do Rich picture estão bem especificadas?||[Gabriel Mendes](https://github.com/gbevi)| [Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
-|28|As tabelas do Rich picture estão bem especificadas?	||[Gabriel Mendes](https://github.com/gbevi)| [Print](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
-|29|A abordagem metodológica está adequada aos objetivos do projeto?||[Luiz Bessa](https://github.com/lfelipebessa)|[print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
-|30|A metodologia está claramente descrita e justificada?||[Luiz Bessa](https://github.com/lfelipebessa)|[print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+|17|Possui 7 funcionalidades?||[Maria Eduarda](https://github.com/maaduh) |[Criterios para entrega](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+|18|Possui autorização para estudo no termo de uso	?||[Maria Eduarda](https://github.com/maaduh) |[Criterios para entrega](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+|19|O termo de uso permite a análise para estudo?	?||[Gabriel Mendes](https://github.com/gbevi)|[Criterios para entrega](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+|20|O Cronograma possui atividades que serão realizadas?||[Giovana Barbosa](https://github.com/gio221)|[Criterios para entrega](https://drive.google.com/file/d/1SNVtO1Dbi5h7drkfLvD2yurDPu55ua2I/view?usp=sharing)|
+|21|Cada atividade possui um período para o desenvolvimento?||[Giovana Barbosa](https://github.com/gio221)|[Criterios para entrega](https://drive.google.com/file/d/1SNVtO1Dbi5h7drkfLvD2yurDPu55ua2I/view?usp=sharing)|
+|22|Apresenta os responsáveis para cada atividade?||[Giovana Barbosa](https://github.com/gio221)|[Criterios para entrega](https://drive.google.com/file/d/1SNVtO1Dbi5h7drkfLvD2yurDPu55ua2I/view?usp=sharing)|
+|23|Possui os responsáveis pelas revisões?||[Giovana Barbosa](https://github.com/gio221)|[Criterios para entrega](https://drive.google.com/file/d/1SNVtO1Dbi5h7drkfLvD2yurDPu55ua2I/view?usp=sharing)|
+|24|O rich picture é fácil de entender?||[Gabriel Mendes](https://github.com/gbevi)|[Criterios para entrega](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
+|25|	Os autores do Rich picture estão bem especificados?	||[Gabriel Mendes](https://github.com/gbevi)|[Criterios para entrega](https://drive.google.com/file/d/1RTsU-_e78TORKS90YyBhLp-XZpEIPCO5/view?usp=sharing)|
+|27|As operações do Rich picture estão bem especificadas?||[Gabriel Mendes](https://github.com/gbevi)| [Criterios para entrega](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|28|As tabelas do Rich picture estão bem especificadas?	||[Gabriel Mendes](https://github.com/gbevi)| [Criterios para entrega](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
+|29|A abordagem metodológica está adequada aos objetivos do projeto?||[Luiz Bessa](https://github.com/lfelipebessa)|[Criterios para entrega](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+|30|A metodologia está claramente descrita e justificada?||[Luiz Bessa](https://github.com/lfelipebessa)|[Criterios para entrega](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
 
 # Histórico de versão
 

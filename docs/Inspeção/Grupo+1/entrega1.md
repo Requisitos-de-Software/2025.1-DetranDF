@@ -49,9 +49,22 @@ Esse documento tem como objetivo verificar os artefatos produzidos na Etapa 1 pe
 |29|A abordagem metodológica está adequada aos objetivos do projeto?||[Luiz Bessa](https://github.com/lfelipebessa)|[print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
 |30|A metodologia está claramente descrita e justificada?||[Luiz Bessa](https://github.com/lfelipebessa)|[print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
 
-# Observação do grupo 
 
-# Video da inspeção
+### Inspeção
+
+Reunião conduzida com base nas análises individuais. Os seguintes defeitos foram consolidados:
+
+Adicionar um link que vai para a inspeção.
+
+### Correção
+
+As correções foram aplicadas de acordo com os apontamentos da reunião.
+
+| Nº | Ação Corretiva Realizada                                 | Responsável | Data       |
+|----|-----------------------------------------------------------|-------------|------------|
+|  |               |        | |
+
+
 
 # Referências
 - Utilizando a lista de verificação da entrega 1 presente neste projeto.

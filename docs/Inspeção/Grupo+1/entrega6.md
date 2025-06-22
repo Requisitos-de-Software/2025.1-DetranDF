@@ -38,16 +38,16 @@ Este documento tem como objetivo apresentar uma lista de verificação destinada
 
 | Item | Descrição | Autor | Avaliação | Referência |
 |------|-----------|--------|--------|------------|
-| 01 | Possui a matriz geral | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 02 | Possui a rastreabilidade dos requisitos funcionais? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 03 | Possui a rastreabilidade dos requisitos não funcionais? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 04 | Possui rastreabilidade entre os artefatos relacionados aos requisitos? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 05 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 06 | Referências bibliográficas e/ou bibliografia em todos os artefatos?	 | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 07 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342)  | | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 08 | Um texto fazendo uma introdução dos artefatos? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 09 | O histórico de versão padronizado? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 10 | Cada integrante da equipe elaboraou ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência?	 | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 01 | Possui a matriz geral | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 02 | Possui a rastreabilidade dos requisitos funcionais? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 03 | Possui a rastreabilidade dos requisitos não funcionais? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |Sim   | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 04 | Possui rastreabilidade entre os artefatos relacionados aos requisitos? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 05 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  Sim | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 06 | Referências bibliográficas e/ou bibliografia em todos os artefatos?	 | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 07 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342)  | Sim | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 08 | Um texto fazendo uma introdução dos artefatos? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 09 | O histórico de versão padronizado? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |Sim   | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 10 | Cada integrante da equipe elaboraou ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência?	 | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
 
 <font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
@@ -59,19 +59,19 @@ Este documento tem como objetivo apresentar uma lista de verificação destinada
 
 | Item | Descrição | Autor | Status | Referência |
 |------|-----------|--------|--------|------------|
-| 01 | O Backward-from liga seus requisitos às suas fontes? | [Giovana Barbosa](https://github.com/gio221) |  | [1.](#ref1)[Pág. 04](../../../assets/pos-ver/pag4.png) |
-| 02 | Os requisitos elicitados possuem rastreabilidade de acordo com os documentos antes feitos pelo grupo? | [Gabriel Mendes](https://github.com/gbevi) |  | [1.](#ref1)[Pág. 06](../../../assets/pos-ver/pag6.png) |
-| 03 | O artefato em avaliação possui os elos de rastreabilidade? | [João Lobo](https://github.com/joaolobo10) |  | [1.](#ref1)[Pág. 07](../../../assets/pos-ver/pag7.png) |
-| 04 | Foi utilizado como metodologia para execução do backward-from o metamodelo de Toranzo? | [Maria Eduarda](https://github.com/maaduh) |  | [1.](#ref1)[Pág. 07](../../../assets/pos-ver/pag7.png) |
-| 05 | Dentro do backward-from tem o nome e a descrição do requisito na tabela? | [Pedro Camilo](https://github.com/PedrooCamilo) |  | [1.](#ref1)[Pág. 12](../../../assets/pos-ver/pag12.png) |
-| 06 | Dentro do backward-from tem o documento fonte de onde ele foi rastreado? | [Eric Akio](https://github.com/eric-kingu) |  | [1.](#ref1)[Pág. 12](../../../assets/pos-ver/pag12.png) |
-| 07 | Dentro do backward-from tem se o requisito está implementado ou não? | [Luiz Bessa](https://github.com/lfelipebessa) |  | [1.](#ref1)[Pág. 12](../../../assets/pos-ver/pag12.png) |
-| 08 | Os requisitos estão sendo rastreados corretamente de acordo com suas fontes? | [Giovana Barbosa](https://github.com/gio221) |  | [1.](#ref1)[Pág. 04](../../../assets/pos-ver/forpag4.png) |
-| 09 | As informações estão classificadas como ambiental, organizacional, gerencial ou desenvolvimento? | [Gabriel Mendes](https://github.com/gbevi) |  | [3.](#ref3)[Pág. 03](../../../assets/pos-ver/forpag3.png) |
-| 10 | Os requisitos possuem os relacionamentos de satisfação, recurso, responsabilidade, representação, alocado, agregação e generalização? | [Maria Eduarda](https://github.com/maaduh) |  | [3.](#ref3)[Pág. 05](../../../assets/pos-ver/forpag5.png) |
-| 11 | A matriz faz a ligação dos requisitos com os artefatos relacionados à ele durante o desenvolvimento do projeto? | [João Lobo](https://github.com/joaolobo10) |  | [1.](#ref1) e [3.](#ref3) [Pág. 126](../../../assets/pos-ver/mat-pag126.png) e [Pág. 13](../../../assets/pos-ver/mat-pag13.png) |
-| 12 | A matriz faz a ligação dos requisitos com as suas fontes? | [Pedro Camilo](https://github.com/PedrooCamilo) |  | [1.](#ref1)[Pág. 126](../../../assets/pos-ver/mat-pag126.png) |
-| 13 | A matriz apresenta possíveis interdependências entre requisitos funcionais e não-funcionais? | [Eric Akio](https://github.com/eric-kingu) |  | [3.](#ref3)[Pág. 13](../../../assets/pos-ver/mat-pag13.png) |
+| 01 | O Backward-from liga seus requisitos às suas fontes? | [Giovana Barbosa](https://github.com/gio221) |Não se aplica| [1.](#ref1)[Pág. 04](../../../assets/pos-ver/pag4.png) |
+| 02 | Os requisitos elicitados possuem rastreabilidade de acordo com os documentos antes feitos pelo grupo? | [Gabriel Mendes](https://github.com/gbevi) | Sim   | [1.](#ref1)[Pág. 06](../../../assets/pos-ver/pag6.png) |
+| 03 | O artefato em avaliação possui os elos de rastreabilidade? | [João Lobo](https://github.com/joaolobo10) | Sim   | [1.](#ref1)[Pág. 07](../../../assets/pos-ver/pag7.png) |
+| 04 | Foi utilizado como metodologia para execução do backward-from o metamodelo de Toranzo? | [Maria Eduarda](https://github.com/maaduh) | Não se aplica  | [1.](#ref1)[Pág. 07](../../../assets/pos-ver/pag7.png) |
+| 05 | Dentro do backward-from tem o nome e a descrição do requisito na tabela? | [Pedro Camilo](https://github.com/PedrooCamilo) | Não se aplica | [1.](#ref1)[Pág. 12](../../../assets/pos-ver/pag12.png) |
+| 06 | Dentro do backward-from tem o documento fonte de onde ele foi rastreado? | [Eric Akio](https://github.com/eric-kingu) | Não se aplica | [1.](#ref1)[Pág. 12](../../../assets/pos-ver/pag12.png) |
+| 07 | Dentro do backward-from tem se o requisito está implementado ou não? | [Luiz Bessa](https://github.com/lfelipebessa) | Não se aplica   | [1.](#ref1)[Pág. 12](../../../assets/pos-ver/pag12.png) |
+| 08 | Os requisitos estão sendo rastreados corretamente de acordo com suas fontes? | [Giovana Barbosa](https://github.com/gio221) |  Não se aplica  | [1.](#ref1)[Pág. 04](../../../assets/pos-ver/forpag4.png) |
+| 09 | As informações estão classificadas como ambiental, organizacional, gerencial ou desenvolvimento? | [Gabriel Mendes](https://github.com/gbevi) | Sim   | [3.](#ref3)[Pág. 03](../../../assets/pos-ver/forpag3.png) |
+| 10 | Os requisitos possuem os relacionamentos de satisfação, recurso, responsabilidade, representação, alocado, agregação e generalização? | [Maria Eduarda](https://github.com/maaduh) | Sim   | [3.](#ref3)[Pág. 05](../../../assets/pos-ver/forpag5.png) |
+| 11 | A matriz faz a ligação dos requisitos com os artefatos relacionados à ele durante o desenvolvimento do projeto? | [João Lobo](https://github.com/joaolobo10) | Sim   | [1.](#ref1) e [3.](#ref3) [Pág. 126](../../../assets/pos-ver/mat-pag126.png) e [Pág. 13](../../../assets/pos-ver/mat-pag13.png) |
+| 12 | A matriz faz a ligação dos requisitos com as suas fontes? | [Pedro Camilo](https://github.com/PedrooCamilo) | Sim   | [1.](#ref1)[Pág. 126](../../../assets/pos-ver/mat-pag126.png) |
+| 13 | A matriz apresenta possíveis interdependências entre requisitos funcionais e não-funcionais? | [Eric Akio](https://github.com/eric-kingu) |  Sim  | [3.](#ref3)[Pág. 13](../../../assets/pos-ver/mat-pag13.png) |
 
 <font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
@@ -79,19 +79,16 @@ Este documento tem como objetivo apresentar uma lista de verificação destinada
 
 ### Inspeção
 
-Reunião conduzida com base nas análises individuais. Os seguintes defeitos foram consolidados:
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Zs1T1fkCxgY
+" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/Zs1T1fkCxgY
+" target="blanket">Vídeo da verificação</a></p>
 
-Adicionar um link que vai para a inspeção.
 
 ### Correção
 
-As correções foram aplicadas de acordo com os apontamentos da reunião.
+Não precisa de correção
 
-| Nº | Ação Corretiva Realizada                                 | Responsável | Data       |
-|----|-----------------------------------------------------------|-------------|------------|
-|  |               |        | |
-
----
 
 # Referência Bibliográfica
 

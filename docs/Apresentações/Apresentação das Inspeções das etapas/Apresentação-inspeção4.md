@@ -30,7 +30,9 @@ Tabela 1: Critérios de avaliação para a entrega da inspeção da etapa 4
 |                                                                                   1 – Uma página apresentando as listas de verificação para cada artefato                                                                                |              Sim      |                                 
 |                                2 - Averificação do grupo +1  |         Sim               
 |                                                                               3 - A verificação do próprio grupo                                      |        Sim         
-                                                 
+
+  <font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
 
 ## Referências Bibliográficas
 

@@ -44,6 +44,8 @@ Todos os integrantes do grupo participaram da elaboração das listas de verific
 |7| A gravação da reunião do grupo?|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
 |8|Cada integrante da equipe  elaboraou ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência?|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
 
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
 # Lista de Verificação Conteúdo da Disciplina
 | Item |   Pergunta   |      Avaliação       |                     Autor                      |                  Referência                |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |

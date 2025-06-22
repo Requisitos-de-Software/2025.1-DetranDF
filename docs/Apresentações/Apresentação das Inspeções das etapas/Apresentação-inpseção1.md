@@ -31,6 +31,8 @@ Tabela 1: Critérios de avaliação para a entrega da inspeção da etapa 1
 |                                                                               3 - A verificação do próprio grupo                                      |        Sim         
                                                  
 
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
 ## Referências Bibliográficas
 
 > Plano de ensino

@@ -30,6 +30,7 @@ Tabela 1: Critérios de avaliação para a entrega 6
 | 2 - possui a rastreabilidade dos requisitos funcionais?    |  sim|
 | 3 - Possui a rastreabilidade dos requisitos não funcionais?                                                     |sim|
 
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 ## Referências Bibliográficas
 

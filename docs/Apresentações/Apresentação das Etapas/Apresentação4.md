@@ -45,6 +45,7 @@ Tabela 1: Critérios de avaliação para a entrega 4
 | 16 -  Softgoals representam metas bem definidas?  |sim|
 | 17 - Os impactos foram corretamente propagados?    |sim|
 
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 ## Referências Bibliográficas
 

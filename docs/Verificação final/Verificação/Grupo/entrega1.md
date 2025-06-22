@@ -67,6 +67,8 @@ Todos os integrantes do grupo participaram da elaboração das listas de verific
 |29|A abordagem metodológica está adequada aos objetivos do projeto?||[Luiz Bessa](https://github.com/lfelipebessa)|[Criterios para entrega](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
 |30|A metodologia está claramente descrita e justificada?||[Luiz Bessa](https://github.com/lfelipebessa)|[Criterios para entrega](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
 
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
 # Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |

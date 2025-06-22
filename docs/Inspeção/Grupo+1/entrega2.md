@@ -117,6 +117,8 @@ Todos os integrantes do grupo participaram da elaboração das listas de verific
 | 68 | Houve envolvimento dos usuários na priorização?                                             |      | [Pedro Camilo](https://github.com/PedrooCamilo)                   |     [Criterios para entrega](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |
 | 69 | O usuário foi informado sobre a técnica de priorização?                                     |     | [Pedro Camilo](https://github.com/PedrooCamilo)                    |     [Criterios para entrega](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |
 
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
 ### Inspeção
 
 Reunião conduzida com base nas análises individuais. Os seguintes defeitos foram consolidados:

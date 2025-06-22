@@ -100,6 +100,11 @@ Comentou satisfeito:
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/BeyB4mXfw8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href=" https://youtu.be/BeyB4mXfw8Y" target="blanket">Vídeo da validação com o usuário</a></p>
 
+No video abaixo é feito a validação da parte de acessibilidade pelo integrante [Gabriel Mendes](https://github.com/gbevi) com a usuária Karinna.
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OxgmjRm--kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/OxgmjRm--kw" target="blanket">Vídeo da validação com o usuário</a></p>
+
 
 ## Bibliografia 
 > 1. [Engenharia de requisitos](https://aprender3.unb.br/pluginfile.php/3096085/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf)
@@ -109,4 +114,5 @@ Comentou satisfeito:
 | Versão |    Data    |                           Descrição                            |                    Autor                     |                   Revisor                    |
 | :----: | :--------: | :------------------------------------------------------------: | :--------: | :--------: | 
 |  1.0   | 01/05/2025 | Início da documentação, criação dos storytelling e elicitação dos requisitos| [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Dantas](https://github.com/gbevi)|
-|  1.1  | 07/06/2025 | adição de anchors nas tabelas | [Gabriel Mendes](https://github.com/gbevi)       |      [Giovana Barbosa ](https://github.com/gio221)                                      | 
+|  1.1  | 07/06/2025 | adição de anchors nas tabelas | [Gabriel Mendes](https://github.com/gbevi)       |      [Giovana Barbosa ](https://github.com/gio221)                                      |
+|  1.2  | 21/06/2025 | validação com usuário | [Gabriel Mendes](https://github.com/gbevi)       |      [Giovana Barbosa ](https://github.com/gio221)                                      | 

@@ -101,6 +101,13 @@ Vale ressaltar que, por se tratar de um exercício teórico, não houve a partic
 <p>Fonte: Autoria própria</p>
 </div>
 
+#### Validação com o usuário
+
+No video abaixo é feito a validação da parte de acessibilidade pelo integrante [Gabriel Mendes](https://github.com/gbevi) com a usuária Karinna.
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/vaMu94ieOFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/vaMu94ieOFY" target="blanket">Vídeo da validação com o usuário</a></p>
+
 ## 4. Referências
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Disponível em: https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 3 maio. 2025.
@@ -109,4 +116,5 @@ Vale ressaltar que, por se tratar de um exercício teórico, não houve a partic
 
 | Versão | Data    | Autor                         | Alterações                                                           |         Revisor         |
 |:------:| --- | ----------------------------- | -------------------------------------------------------------------- |:-----------------------:|
-|  1.0   |  03/005/2025   | [Gabriel Dantas](https://github.com/gbevi) | Confecção da primeira versão da técnica de priorização MosCoW                          | [Pedro Camilo](https://github.com/PedrooCamilo)  |
+|  1.0   |  03/05/2025   | [Gabriel Dantas](https://github.com/gbevi) | Confecção da primeira versão da técnica de priorização MosCoW                          | [Pedro Camilo](https://github.com/PedrooCamilo)  |
+|  1.1   |  21/06/2025   | [Gabriel Dantas](https://github.com/gbevi) | validação com usuário                        | [Pedro Camilo](https://github.com/PedrooCamilo)  |

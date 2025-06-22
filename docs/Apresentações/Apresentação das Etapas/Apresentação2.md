@@ -37,6 +37,8 @@ Tabela 1: Critérios de avaliação para a entrega 2
 |8 - A participação do cliente e/ou persona no processo de priorização?|sim|
 |9-A gravação e o(s) registro(s) da atividade de priorização dos requisitos?|sim|
 
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
 ## Referências Bibliográficas
 
 > Plano de ensino

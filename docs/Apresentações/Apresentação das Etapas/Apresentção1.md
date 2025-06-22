@@ -46,6 +46,8 @@ Tabela 1: Critérios de avaliação para a entrega 1
 | 18- todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. Referência bibliográfica da fonte: Introducing Rich Pictures - Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project |                   sim
 |                                                 19 -Cada integrante da equipe deve elaborar ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência.                                                 |                    sim
 
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
 ## Referências Bibliográficas
 
 > Plano de ensino

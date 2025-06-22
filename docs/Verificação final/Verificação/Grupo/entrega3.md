@@ -73,6 +73,8 @@ Todos os integrantes do grupo participaram da elaboração das listas de verific
 | 32| Verificar a seção sobre **Restrições de Projeto**, indicando decisões de design impostas que devem ser obedecidas, como linguagens, processo de software ou uso de ferramentas específicas. | |  [Maria Eduarda](https://github.com/maaduh)  | [1.](#ref1) Página 6 |
 | 33| Verificar a seção sobre **Interfaces**, definindo as interfaces que devem ser suportadas pelo aplicativo, incluindo interfaces de usuário, hardware, software e comunicações. ||  [Maria Eduarda](https://github.com/maaduh)   | [1.](#ref1) Página 7 |
 
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
 # Histórico de versão
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |

@@ -45,6 +45,9 @@ Tabela 1: Critérios de avaliação para a entrega 3
 | 17 - Especifica a plataforma em que o app pode ser executado?     |sim|
 | 18 - Todos os requisitos podem ser testados (RF e RNF)?   |Sim|
 
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
+
 ## Referências Bibliográficas
 
 > Plano de ensino

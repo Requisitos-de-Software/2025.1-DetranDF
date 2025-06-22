@@ -27,6 +27,8 @@ Esse documento tem como objetivo verificar os artefatos produzidos na Etapa 1 pe
 |9| A gravação da reunião do grupo?|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
 |10|Cada integrante da equipe  elaboraou ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência?|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
 
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
 # Lista de Verificação Conteúdo da Disciplina
 | Item |   Pergunta   |      Avaliação       |                     Autor                      |                  Referência                |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
@@ -49,6 +51,7 @@ Esse documento tem como objetivo verificar os artefatos produzidos na Etapa 1 pe
 |29|A abordagem metodológica está adequada aos objetivos do projeto?||[Luiz Bessa](https://github.com/lfelipebessa)|[print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
 |30|A metodologia está claramente descrita e justificada?||[Luiz Bessa](https://github.com/lfelipebessa)|[print](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
 
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 ### Inspeção
 

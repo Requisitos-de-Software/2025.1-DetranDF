@@ -30,6 +30,7 @@ Tabela 1: Critérios de avaliação para a entrega da inspeção da etapa 2
 |                                2 - Averificação do grupo +1  |         Sim               
 |                                                                               3 - A verificação do próprio grupo                                      |        Sim         
                                                  
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 ## Referências Bibliográficas
 

@@ -29,6 +29,7 @@ Tabela 1: Critérios de avaliação para a entrega 5
 | 2 - possui o prototipo geral?    |  sim|
 | 3 - Possui as validações de todas as etapas?                                                     |sim|
 
+<font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
 ## Referências Bibliográficas
 

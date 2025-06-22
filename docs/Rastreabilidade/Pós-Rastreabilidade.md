@@ -1196,7 +1196,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/licenciamento.jpg"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1242,7 +1247,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/boleto.png"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1286,7 +1296,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/multas.png"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1331,7 +1346,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/recurso.png"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1377,7 +1397,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/agendamento.png"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1423,7 +1448,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/notiicaçao.png"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1696,10 +1726,11 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Elementos</strong></td>
-      <td>
+      <td><br>
               <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF34</a>,
+
                 <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação#req-funcionais">OBS009</a>,
-               <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us09">US08</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us09">US08</a>
       </td>
     </tr>
     <tr>
@@ -1951,7 +1982,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## RF40 E40
-<details open>
+<details>
   <summary>RF40 - Pagamento de débitos para liberação de veículo</summary>
 
   <table>
@@ -1988,11 +2019,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>
-        <img src="../assets/RF40.png"
-              alt="Tela pagamento de débitos"
-              width=60%>
-      </td>
+      <td>Imagem</td>
     </tr>
   </table>
 </details>
@@ -2000,7 +2027,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## RF41 E41
-<details open>
+<details>
   <summary>RF41 - Simulado de prova teórica</summary>
 
   <table>
@@ -2037,13 +2064,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td><img src="../assets/RF41-1.png"
-              alt="Tela inicial com Simulados"
-              width=60%>
-          <img src="../assets/RF41-2.png"
-              alt="Tela do módulo de Simulados"
-              width=60%>
-      </td>
+      <td>Imagem</td>
     </tr>
   </table>
 </details>
@@ -3090,5 +3111,4 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 |  1.9   | 08/06/2025 | adicionei RNF20 e RF 01 a RF 04 e 42 a 44  | [Luiz Bessa](https://github.com/lfelipebessa) | [Giovana Barbosa](https://github.com/gio221)   |
 |  2.0   | 08/06/2025 | Consertei print da funcionalidade RF15  | [João Lobo](https://github.com/joaolobo10) |   [Giovana Barbosa](https://github.com/gio221)  |
 |  2.1   | 16/06/2025 | Adicionando imagens do protótipo e do aplicativo das quais já estavam implementadas  | [Luiz Bessa](https://github.com/lfelipebessa) | [Giovana Barbosa](https://github.com/gio221) |
-|  2.2  | 16/06/2025 | Adicionando imagens do protótipo RF14 e RF16, em que não estavam implementados   | [João Lobo](https://github.com/joaolobo10) | [Eric Akio](https://github.com/eric-kingu) |
-| 2.3 | 22/06/2025 | Adicionando imagens do protótipo RF40 e RF41 | [Eric Akio](https://github.com/eric-kingu) |  |
+|  2.1   | 16/06/2025 | Adicionando imagens do protótipo RF14 e RF16, em que não estavam implementados   | [João Lobo](https://github.com/joaolobo10) | |

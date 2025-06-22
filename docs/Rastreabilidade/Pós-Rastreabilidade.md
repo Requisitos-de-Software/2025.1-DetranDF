@@ -1391,7 +1391,20 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td><img src="../../assets/RF29-pt1.png"
+      <td>
+      <img src="../../assets/RF29-pt0.png"
+             alt="Print RF29"
+             width="30%"
+             style="height:auto;">
+      <img src="../../assets/RF29-pt4.png"
+             alt="Print RF29"
+             width="30%"
+             style="height:auto;">
+      <img src="../../assets/RF29-pt3.png"
+             alt="Print RF29"
+             width="30%"
+             style="height:auto;">
+      <img src="../../assets/RF29-pt1.png"
              alt="Print RF29"
              width="30%"
              style="height:auto;">
@@ -1446,7 +1459,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td><img src="../../assets/RF30.png"
+      <td>
+      <img src="../../assets/RF30-PT1.png"
+             alt="Print RF30"
+             width="30%"
+             style="height:auto;">
+      <img src="../../assets/RF30.png"
              alt="Print RF30"
              width="30%"
              style="height:auto;"></td>

@@ -500,8 +500,17 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
       </td>
     </tr>
     <tr>
-      <td><strong>Print</strong></td>
-      <td>Imagem- nao implementado</td>
+       <td>
+        <img src="../../assets/rastrea/gi rf05.png"
+             alt="Tela de transferência de autuação"
+             width="30%"
+             style="height:auto;">
+      </td>
+    </tr>
+     <tr>
+       <td>
+        <a href="https://www.figma.com/proto/ohrsL5pYJxKWrbSbha2sQE/Detran-DF?node-id=74-3132&t=DBGuf4RHISFNe3IO-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1">Link do prototipo</a>
+      </td>
     </tr>
   </table>
 </details>
@@ -2310,9 +2319,18 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
       <td><strong>Elos Forward-from</strong></td>
       <td>Satisfação – O requisito auxilia na educação e orientação dos usuários</td>
     </tr>
-    <tr>
-      <td><strong>Print</strong></td>
-      <td>Imagem- nao implementado</td>
+   <tr>
+       <td>
+        <img src="../../assets/rastrea/rnf.png"
+             alt="Tela de transferência de autuação"
+             width="30%"
+             style="height:auto;">
+      </td>
+    </tr>
+     <tr>
+       <td>
+        <a href="https://www.figma.com/proto/ohrsL5pYJxKWrbSbha2sQE/Detran-DF?node-id=76-3340&t=DBGuf4RHISFNe3IO-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1">Link do prototipo</a>
+      </td>
     </tr>
   </table>
 </details>

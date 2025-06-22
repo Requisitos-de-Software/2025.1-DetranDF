@@ -1196,7 +1196,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/licenciamento.jpg"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1242,7 +1247,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/boleto.png"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1286,7 +1296,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/multas.png"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1331,7 +1346,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/recurso.png"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1377,7 +1397,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/agendamento.png"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -1423,7 +1448,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/notiicaçao.png"
+             alt="Tela de avisos"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>

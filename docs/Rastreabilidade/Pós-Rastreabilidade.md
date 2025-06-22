@@ -300,8 +300,13 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     Agregação – O requisito será alocado no Módulo de Notificações
   </td>
 </tr>
-      <td><strong>Print</strong></td>
-      <td>Imagem</td>
+  <td><strong>Print</strong></td>
+      <td>
+        <img src="../../assets/rastrea/gi rf05.png"
+             alt="Tela de transferência de autuação"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 
@@ -345,9 +350,13 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
         Agregação – O requisito será classificado no Módulo de Serviços do Veículo
       </td>
     </tr>
-    <tr>
-      <td><strong>Print</strong></td>
-      <td>Imagem</td>
+     <td><strong>Print</strong></td>
+      <td>
+        <img src="../../assets/rastrea/girf06.png"
+             alt="Tela de transferência de autuação"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -391,8 +400,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
       </td>
     </tr>
     <tr>
-      <td><strong>Print</strong></td>
-      <td>Imagem</td>
+         <td>
+        <img src="../../assets/rastrea/rf07.png"
+             alt="Tela de transferência de autuação"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -437,8 +450,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
       </td>
     </tr>
     <tr>
-      <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td>
+        <img src="../../assets/rastrea/rf07.png"
+             alt="Tela de transferência de autuação"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -528,8 +545,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
       </td>
     </tr>
     <tr>
-      <td><strong>Print</strong></td>
-      <td>Imagem</td>
+        <td>
+        <img src="../../assets/rastrea/rf07.png"
+             alt="Tela de transferência de autuação"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -2149,8 +2170,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
       <td>Satisfação – O requisito contribui para a usabilidade da interface</td>
     </tr>
     <tr>
-      <td><strong>Print</strong></td>
-      <td>Imagem</td>
+       <td>
+        <img src="../../assets/rastrea/rf07.png"
+             alt="Tela de transferência de autuação"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -2192,8 +2217,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
       <td>Satisfação – O requisito garante acessibilidade em múltiplos dispositivos e plataformas</td>
     </tr>
     <tr>
-      <td><strong>Print</strong></td>
-      <td>Imagem</td>
+        <td>
+        <img src="../../assets/rastrea/rf07.png"
+             alt="Tela de transferência de autuação"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -2236,8 +2265,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
       <td>Satisfação – O requisito assegura a proteção e integridade dos dados do usuário</td>
     </tr>
     <tr>
-      <td><strong>Print</strong></td>
-      <td>Imagem</td>
+       <td>
+        <img src="../../assets/rastrea/rf07.png"
+             alt="Tela de transferência de autuação"
+             width="30%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>

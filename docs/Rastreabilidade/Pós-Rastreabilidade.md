@@ -2037,7 +2037,9 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td><img src="../assets/RF40.png"
+              alt="Tela pagamento de débitos"
+              width=60%></td>
     </tr>
   </table>
 </details>
@@ -2082,7 +2084,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem</td>
+      <td><img src="../assets/RF41-1.png"
+              alt="Tela inicial com Simulados"
+              width=60%>
+          <img src="../assets/RF41-2.png"
+              alt="Tela do módulo de Simulados"
+              width=60%></td>
     </tr>
   </table>
 </details>
@@ -3129,4 +3136,5 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 |  1.9   | 08/06/2025 | adicionei RNF20 e RF 01 a RF 04 e 42 a 44  | [Luiz Bessa](https://github.com/lfelipebessa) | [Giovana Barbosa](https://github.com/gio221)   |
 |  2.0   | 08/06/2025 | Consertei print da funcionalidade RF15  | [João Lobo](https://github.com/joaolobo10) |   [Giovana Barbosa](https://github.com/gio221)  |
 |  2.1   | 16/06/2025 | Adicionando imagens do protótipo e do aplicativo das quais já estavam implementadas  | [Luiz Bessa](https://github.com/lfelipebessa) | [Giovana Barbosa](https://github.com/gio221) |
-|  2.1   | 16/06/2025 | Adicionando imagens do protótipo RF14 e RF16, em que não estavam implementados   | [João Lobo](https://github.com/joaolobo10) | |
+|  2.2   | 16/06/2025 | Adicionando imagens do protótipo RF14 e RF16, em que não estavam implementados   | [João Lobo](https://github.com/joaolobo10) | [Eric Akio](https://github.com/eric-kingu) |
+| 2.3 | 22/06/2025 | Adicionando imagens do protótipo RF40 e RF41 | [Eric Akio](https://github.com/eric-kingu) |  |

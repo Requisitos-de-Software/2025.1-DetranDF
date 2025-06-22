@@ -84,10 +84,15 @@ A segunda observação foi realizada com um usuário que demonstrou duas intera�
 
 <sub>Fonte: [Maria Eduarda](https://github.com/maaduh), 2025.</sub>
 
-### Video da validação com o usuario
+### Video da validação com o usuario 1
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YKwzHX9pFpQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href=" https://youtu.be/YKwzHX9pFpQ" target="blanket">Vídeo da validação com o usuário</a></p>
+
+### Video da validação com o usuario 2
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/H6mO8NqY6gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/H6mO8NqY6gg" target="blanket">Vídeo da validação com o usuário</a></p>
 
 # Bibliografia
 
@@ -102,5 +107,6 @@ A segunda observação foi realizada com um usuário que demonstrou duas intera�
 | 1.2    | 03/05/2025 | Adicionando sugestão de melhoria   | [Maria Eduarda](https://github.com/maaduh)     | [Giovana Barbosa](https://github.com/gio221)                                         |
 | 1.3    | 07/06/2025 | Adição de anchors nas tabelas      | [Gabriel Mendes](https://github.com/gbevi)     |   [Maria Eduarda](https://github.com/maaduh)        |
 | 1.4    | 20/06/2025 | Melhorando erros     | [Maria Eduarda](https://github.com/maaduh)     |  [Pedro Camilo](https://github.com/PedrooCamilo)       |
-| 1.5    | 21/06/2025 | Validação da técnica com usuário     | [Pedro Camilo](https://github.com/PedrooCamilo)     |     |
+| 1.5    | 21/06/2025 | Validação da técnica com usuário     | [Pedro Camilo](https://github.com/PedrooCamilo)     | [Maria Eduarda](https://github.com/maaduh)    |
+| 1.6    | 22/06/2025 | Validação da técnica com usuário     | [Maria Eduarda](https://github.com/maaduh)     |     |
 

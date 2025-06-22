@@ -742,7 +742,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem - Não Implementado</td>
+      <td>
+        <img src="../../assets/rf14.png"
+             alt="RF14"
+             width="90%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -834,7 +839,12 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem - Não Implementado</td>
+      <td>
+        <img src="../../assets/rf16.png"
+             alt="RF16"
+             width="90%"
+             style="height:auto;">
+      </td>
     </tr>
   </table>
 </details>
@@ -3035,3 +3045,4 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 |  1.9   | 08/06/2025 | adicionei RNF20 e RF 01 a RF 04 e 42 a 44  | [Luiz Bessa](https://github.com/lfelipebessa) | [Giovana Barbosa](https://github.com/gio221)   |
 |  2.0   | 08/06/2025 | Consertei print da funcionalidade RF15  | [João Lobo](https://github.com/joaolobo10) |   [Giovana Barbosa](https://github.com/gio221)  |
 |  2.1   | 16/06/2025 | Adicionando imagens do protótipo e do aplicativo das quais já estavam implementadas  | [Luiz Bessa](https://github.com/lfelipebessa) | [Giovana Barbosa](https://github.com/gio221) |
+|  2.1   | 16/06/2025 | Adicionando imagens do protótipo RF14 e RF16, em que não estavam implementados   | [João Lobo](https://github.com/joaolobo10) | |

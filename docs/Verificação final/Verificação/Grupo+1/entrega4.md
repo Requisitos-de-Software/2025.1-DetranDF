@@ -56,8 +56,6 @@ Todos os integrantes do grupo participaram da elaboração das listas de verific
 
 <font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
-<font size="2"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), [Gabriel Mendes](https://github.com/gbevi) , [João Lobo](https://github.com/joaolobo10), [Maria Eduarda](https://github.com/maaduh), [Pedro Camilo](https://github.com/PedrooCamilo), [Eric Akio](https://github.com/eric-kingu), [Luiz Bessa](https://github.com/lfelipebessa)  , 2025.</p></font>
-
 ---
 
 ## Lista de Verificação – Conteúdo da Disciplina

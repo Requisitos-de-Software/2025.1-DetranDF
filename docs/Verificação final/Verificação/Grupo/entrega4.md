@@ -40,14 +40,14 @@ Todos os integrantes do grupo participaram da elaboração das listas de verific
 
 ## Lista de Verificação – Itens Técnicos e Documentais
 
-| Item | Descrição | Autor | Avaliação | Referência |
-|------|-----------|--------|--------|------------|
-| 01 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 02 | Referências bibliográficas e/ou bibliografia em todos os artefatos?	 | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 03 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342)  | | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 04 | Um texto fazendo uma introdução dos artefatos? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 05 | O histórico de versão padronizado? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 06 | Cada integrante da equipe elaboraou ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência?	 | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| Item | Descrição | Avaliação | Referência |
+|------|-----------|--------|--------|
+| 01 | O(s) autor(es) e o(s) revisor(es) para cada artefato? |   | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 02 | Referências bibliográficas e/ou bibliografia em todos os artefatos?	 |   | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 03 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 04 | Um texto fazendo uma introdução dos artefatos? |   | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 05 | O histórico de versão padronizado? |   | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 06 | Cada integrante da equipe elaboraou ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência?	 |   | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
 
 <font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
@@ -58,26 +58,26 @@ Todos os integrantes do grupo participaram da elaboração das listas de verific
 | Item | Descrição | Autor | Avaliação | Referência |
 |------|-----------|--------|--------|------------|
 | 01 | Backlog documentado com estrutura clara |[Giovana Barbosa](https://github.com/gio221)  |  |  [1.](#ref1) [Imagem](../../../assets/productBacklog.png) |
-| 02 | As Histórias de Usuário seguem algum modelo ou padrão? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 02 | As Histórias de Usuário seguem algum modelo ou padrão? |   | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
 | 03 | O artefato possui uma visão geral clara do NFR Framework? | [Gabriel Mendes](https://github.com/gbevi) |   | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag30.png) |
-| 04 | Existe o backlog? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 04 | Existe o backlog? |   | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
 | 05 | Itens do backlog estão estruturados como histórias de usuário? | [João Lobo](https://github.com/joaolobo10) |  | [1.](#ref1) [Imagem](../../../assets/verificação/backlog2.png) |
 | 06 | Itens seguem o formato “Como <persona>, eu desejo <ação> para que <valor>”? | [Maria Eduarda](https://github.com/maaduh) |   | [4.](#ref4) [Imagem](../../../assets/verificação/backlog3.png) |
 | 07 | Itens do backlog estão agrupados em épicos? | [Pedro Camilo](https://github.com/PedrooCamilo) |  | [1.](#ref1) [Imagem](../../../assets/verificação/backlog4.png) |
-| 08 | Existe NFR Framework? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 08 | Existe NFR Framework? |   | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
 | 09 | Existe histórias de usuário? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342)  |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png)  |
-| 10 | Os títulos das histórias de usuário são autoexplicativos? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 10 | Os títulos das histórias de usuário são autoexplicativos? |   | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
 | 11 | O “quem”, “o que” e o “por que” estão definidos na Histórias de Usuário? |[Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342)  |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 12 | A participação do cliente/persona na validação das Histórias de Usuário | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 13 | A história possui critérios de aceitação? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 14 | Participação do cliente/persona na elicitação de requisitos | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 15 | Todas as histórias de usuário podem ser testadas? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 12 | A participação do cliente/persona na validação das Histórias de Usuário |   | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 13 | A história possui critérios de aceitação? |   | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 14 | Participação do cliente/persona na elicitação de requisitos |   | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 15 | Todas as histórias de usuário podem ser testadas? |   | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
 | 16 | As histórias de usuário são adequadas para representar a experiência do usuário no Detran DF? | [Eric Akio](https://github.com/eric-kingu) |  | [2.](#ref2) |
-| 17 | Backlog possui épicos e temas bem definidos? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 17 | Backlog possui épicos e temas bem definidos? |   | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
 | 18 | Backlog cobre todas as funcionalidades do produto? |  [Luiz Bessa](https://github.com/lfelipebessa) |  | [1.](#ref1) [Imagem](../../../assets/verificação/backlog1.png) |
 | 19 | A definição do RNF e as fontes de evidência na literatura? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342)  |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 20 | Os softgoals condizem com o contexto? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 21 | Softgoals representam metas bem definidas? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 20 | Os softgoals condizem com o contexto? |   | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 21 | Softgoals representam metas bem definidas? |   | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
 | 22 | O artefato descreve adequadamente o Softgoal Interdependency Graph (SIG)? | [Giovana Barbosa](https://github.com/gio221) |  | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag30.png) |
 | 23 | O artefato define claramente os tipos de Softgoals usados no NFR Framework? | [Gabriel Mendes](https://github.com/gbevi) |  | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag31.png) |
 | 24 | O artefato apresenta exemplos de interdependências entre os Softgoals? | [João Lobo](https://github.com/joaolobo10) |  | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag31.png) |
@@ -103,7 +103,8 @@ Todos os integrantes do grupo participaram da elaboração das listas de verific
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|--------|---------|
-| 1.0 | 20/06/2025 | Criação do documento e estruturação da organização seguindo modelo de Fagan |[João Lobo](https://github.com/joaolobo10) | |
-| 2.0 | 20/06/2025 | Preenchi as tabelas devidamente com os items para fazer a verificação de maneira correta, e além disso adicionei cada referência, referente ao item descrito. |[João Lobo](https://github.com/joaolobo10) | |
+|1.0|20/06/2025|Criação do documento | [Giovana Barbosa](https://github.com/gio221)|[João Lobo](https://github.com/joaolobo10) |
+| 1.1 | 20/06/2025 |  estruturação da organização seguindo modelo de Fagan |[João Lobo](https://github.com/joaolobo10) | [Giovana Barbosa](https://github.com/gio221)|
+| 2.0 | 20/06/2025 | Preenchi as tabelas devidamente com os items para fazer a verificação de maneira correta, e além disso adicionei cada referência, referente ao item descrito. |[João Lobo](https://github.com/joaolobo10) | [Giovana Barbosa](https://github.com/gio221)|
 
 ---

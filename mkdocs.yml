@@ -54,6 +54,7 @@ nav:
           - Apresentação etapa 4: Apresentações/Apresentação das Etapas/Apresentação4.md
           - Apresentação etapa 6: Apresentações/Apresentação das Etapas/Apresentação6.md
           - Apresentação etapa 5: Apresentações/Apresentação das Etapas/apresentação5.md
+          - Apresentação final: Apresentações/Apresentação das Etapas/Apresentação_final.md
       - Apresentação das Inspeções das Etapas:
           - Apresentação Inspeção da etapa 1: Apresentações/Apresentação das Inspeções das etapas/Apresentação-inpseção1.md
           - Apresentação Inspeção da etapa 2: Apresentações/Apresentação das Inspeções das etapas/Apresentação-inspeção2.md
@@ -237,7 +238,8 @@ nav:
         - Entrega 6: Inspeção/Grupo+1/entrega6.md
       - Grupo -1 e professor: Inspeção/Grupo_1 e professor.md
       - Validação:
-        - Comprovação Informal: Validação/Comprovação Informal.md
+        - Comprovação Informal: Inspeção/Validação/Comprovação Informal.md
+        - Prototipação: Inspeção/Validação/Prototipos.md
   - Projeto Final:
     - Aplicativo Selecionado: Entrega Final/app_selecionado.md
     - Cronograma Planejado: Entrega Final/Cronograma_planejado.md

@@ -30,6 +30,23 @@ Os requisitos foram coletados por meio das técinas de elicitação:
 
 Os requisitos elicitados são organizados no artefato [Requisitos elicitados](http://127.0.0.1:8000/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/)
 
+## Qual integrante fez cada especificação
+
+<font size="3"><p style="text-align: center">**Tabela 1 -**Distribuição das especificação entre os integrantes .</p></font>
+
+|                  Integrante                  |                    Especificação                |
+| :------------------------------------------: | :-------------------------------------------------------: |
+| [Giovana Barbosa](https://github.com/gio221) |  Usabilidade  |
+|  [João Lobo](https://github.com/joaolobo10)  |          Confiabilidade              |
+|  [João Lobo](https://github.com/joaolobo10)  |        Desempenho          |
+|  [Gabriel Mendes](https://github.com/gbevi)  |          Suportabilidade           |
+|  [Pedro Camilo](https://github.com/PedrooCamilo) |Ajuda e Documentação             |
+|[Luiz Bessa](https://github.com/lfelipebessa)|Restrições de Design|
+|  [Maria Eduarda](https://github.com/maaduh) | Requisitos de Implementação         |
+|[Luiz Bessa](https://github.com/lfelipebessa)|Requisitos Físicos|
+
+
+
 #### Usabilidade
 
 A usabilidade trata da experiência do usuário ao interagir com o sistema. Foca em tornar a interface intuitiva, fácil de usar e acessível a diferentes tipos de usuários, garantindo que o sistema seja eficiente e agradável. A tabela 1 mostra os requisitos não funcionais que se encaixam em "usabilidade"
@@ -169,3 +186,4 @@ Os requisitos físicos descrevem as necessidades de hardware e ambiente para o u
 |  1.7  | 17/05/2025 | Adição de tabelas de Requisitos Físicos |   [Luiz Bessa](https://github.com/lfelipebessa)  | [Maria Eduarda](https://github.com/maaduh) |
 |  1.8  | 17/05/2025 | Adição de tabelas de Requisitos de implementação | [Maria Eduarda](https://github.com/maaduh) |               [Giovana Barbosa](https://github.com/gio221)                             |
 |  1.9  | 21/06/2025 | Adicionando Requisito Explicações acessíveis sobre siglas em ajuda e documentação  | [Pedro Camilo](https://github.com/PedrooCamilo) | [João Lobo](https://github.com/joaolobo10)|
+|2.0|26/06/2025|adicionando tabela de divisão, para o professor entender quem fez o que | [Giovana Barbosa](https://github.com/gio221) |[João Lobo](https://github.com/joaolobo10)|

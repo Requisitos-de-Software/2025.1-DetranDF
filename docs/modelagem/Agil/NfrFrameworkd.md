@@ -1,4 +1,4 @@
-# Introdução
+## Introdução
 
 Os **Requisitos Não-Funcionais (RNFs)** são essenciais para a qualidade de sistemas de software, influenciando usabilidade, desempenho e conformidade. No entanto, são frequentemente mal definidos, o que afeta negativamente a satisfação dos stakeholders e a qualidade do produto.
 
@@ -6,7 +6,7 @@ Devido à sua **subjetividade e complexidade**, a documentação e análise dos 
 
 Para lidar com essas dificuldades, foi proposto o **NFR Framework** (Chung et al., 2000), que modela RNFs como **softgoals** — objetivos sem critérios de satisfação claros — organizados em **Softgoal Interdependency Graphs (SIGs)**, que mostram as relações de apoio ou conflito entre os RNFs.
 
-# SIG - Softgoal Interdependency Graph
+## SIG - Softgoal Interdependency Graph
 
 <p align="justify">
 
@@ -173,7 +173,22 @@ Primeiro fizemos a elicitação de requisitos na etapa anterior, que pode ser en
 
 <a id="usa"></a>
 
-## 1. NFR Usabilidade
+## Qual integrante fez cada NFR
+
+<font size="3"><p style="text-align: center">**Tabela 1 -**Distribuição dos NFR entre os integrantes .</p></font>
+
+|                  Integrante                  |                      NFR               |
+| :------------------------------------------: | :-------------------------------------------------------: |
+|  [Pedro Camilo](https://github.com/PedrooCamilo) |Usabilidade             |
+| [Giovana Barbosa](https://github.com/gio221) |  Acessibilidade|
+|  [Erick](https://github.com/joaolobo10)  |         Desempenho e Eficiência             |
+|  [Maria Eduarda](https://github.com/maaduh) | Segurança|
+|  [João Lobo](https://github.com/joaolobo10)  |       Confiabilidade e Disponibilidade        |
+|  [Gabriel Mendes](https://github.com/gbevi)  |         Portabilidade / Compatibilidade       |
+|[Luiz Bessa](https://github.com/lfelipebessa)|Qualidade e Feedback|
+
+
+# 1. NFR Usabilidade
 
 <font size="3"><b>Tabela 2:</b>Requisitos não funcionais de usabilidade </font>
 
@@ -948,3 +963,5 @@ No video abaixo é feito a validação da parte de acessibilidade pelo integrant
 | 2.3 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Eric Akio](https://github.com/eric-kingu) | [Maria Eduarda](https://github.com/maaduh) |
 | 2.4 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Maria Eduarda](https://github.com/maaduh) |  [Giovana Barbosa ](https://github.com/gio221)|
 | 2.5 | 01/06/2025 | Adição de imagens das Softgoals de com e sem propagação de impactos, das RNF Disponibilidade e Confiabilidade | [João Lobo](https://github.com/joaolobo10) | [Giovana Barbosa ](https://github.com/gio221) |
+|2.6|26/06/2025|adicionando tabela de divisão, para o professor entender quem fez o que | [Giovana Barbosa](https://github.com/gio221) |[João Lobo](https://github.com/joaolobo10)|
+

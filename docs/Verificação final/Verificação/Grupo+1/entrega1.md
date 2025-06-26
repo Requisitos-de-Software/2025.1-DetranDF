@@ -32,18 +32,20 @@ Esse documento tem como objetivo criar a lista para podermos verificar os artefa
 Todos os integrantes do grupo participaram da elaboração das listas de verificação que foram utilizadas na inspeção dos itens técnicos, documentais e dos conteúdos exigidos pela disciplina. 
 
 # Lista de Verificação Itens Tecnicos e Documentais
-| Item |   Pergunta   |      Avaliação       |                     Autor                      |                  Referência                |
-| :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|1| Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|2|Possui opção de contraste de cores?|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|3|O histórico de versão padronizado?|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|4|O(s) autor(es) e o(s) revisor(es) para cada artefato?|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|5| Referências bibliográficas e/ou bibliografia em todos os artefatos?|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|6|As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?	|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|7| Um texto fazendo uma introdução dos artefatos?|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|8|Vídeo de apresentação na categoria “não listado” no youtube?|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|9| A gravação da reunião do grupo?|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|10|Cada integrante da equipe  elaboraou ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência?|| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+| Item |   Pergunta   |      Avaliação       |                  Referência                |
+| :----: | :--------: | :--------------------: | :--------------------------------------------: | 
+|1| Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?| |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|2|Possui opção de contraste de cores?| |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|3|O histórico de versão padronizado?| |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|4|O(s) autor(es) e o(s) revisor(es) para cada artefato?| |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|5| Referências bibliográficas e/ou bibliografia em todos os artefatos?| |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|6|As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?	| |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|7| Um texto fazendo uma introdução dos artefatos?| |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|8|Vídeo de apresentação na categoria “não listado” no youtube?| |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|9| A gravação da reunião do grupo?| |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|10|Cada integrante da equipe  elaboraou ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência?| |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+
+<font size="2"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 # Lista de Verificação Conteúdo da Disciplina
 | Item |   Pergunta   |      Avaliação       |                     Autor                      |                  Referência                |
@@ -66,6 +68,8 @@ Todos os integrantes do grupo participaram da elaboração das listas de verific
 |28|As tabelas do Rich picture estão bem especificadas?	||[Gabriel Mendes](https://github.com/gbevi)| [Criterios para entrega](https://drive.google.com/file/d/15LhLA49HUj7ydIZRZ38Z4arREHkcXx2W/view?usp=sharing)|
 |29|A abordagem metodológica está adequada aos objetivos do projeto?||[Luiz Bessa](https://github.com/lfelipebessa)|[Criterios para entrega](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
 |30|A metodologia está claramente descrita e justificada?||[Luiz Bessa](https://github.com/lfelipebessa)|[Criterios para entrega](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf)|
+
+<font size="2"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 # Histórico de versão
 

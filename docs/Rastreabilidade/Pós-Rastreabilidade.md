@@ -766,7 +766,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 ## RF15 E015
 <details>
-  <summary>RF15 - Integração com CNH Digital e Gov.br</summary>
+  <summary>RF15 - Integração com CNH Digital</summary>
 
   <table>
     <tr>
@@ -775,7 +775,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Descrição do requisito</strong></td>
-      <td>Ter a possibilidade de entrar no aplicativo, utilizando o Gov.br, onde utiliza as mesmas credenciais e facilita a autenticação.</td>
+      <td>Ter a possibilidade de entrar no aplicativo, utilizando a CNH Digital, onde utiliza as mesmas credenciais e facilita a autenticação.</td>
     </tr>
     <tr>
       <td><strong>Categoria</strong></td>

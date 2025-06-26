@@ -236,5 +236,19 @@ nav:
         - Entrega 4: Inspeção/Grupo+1/entrega4.md
         - Entrega 6: Inspeção/Grupo+1/entrega6.md
       - Grupo -1 e professor: Inspeção/Grupo_1 e professor.md
-  - Validação:
-    - Comprovação Informal: Validação/Comprovação Informal.md
+      - Validação:
+        - Comprovação Informal: Validação/Comprovação Informal.md
+  - Projeto Final:
+    - Aplicativo Selecionado: Entrega Final/app_selecionado.md
+    - Cronograma Planejado: Entrega Final/Cronograma_planejado.md
+    - Cronograma Executado: Entrega Final/Cronograma_executaod.md
+    - Execução do Projeto: Entrega Final/execução_projeto.md
+    - Resultados do Projeto: Entrega Final/resultados.md
+    - Ferramentas Utilizadas: Entrega Final/ferramentas.md
+    - Técnicas Utilizadas: Entrega Final/tecnicas.md
+    - Artefatos Criados: Entrega Final/Artefatos.md
+    - Verificação: Entrega Final/verificação.md
+    - Validação: Entrega Final/Validação.md
+    - Apresentações: Entrega Final/apresentações.md
+    - Facilidades do Projeto: Entrega Final/facilidades.md
+    - Dificuldades do Projeto: Entrega Final/dificuldades.md

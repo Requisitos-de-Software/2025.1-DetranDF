@@ -36,18 +36,18 @@ Este documento tem como objetivo apresentar uma lista de verificação destinada
 
 ## Lista de Verificação – Itens Técnicos e Documentais
 
-| Item | Descrição | Autor | Avaliação | Referência |
-|------|-----------|--------|--------|------------|
-| 01 | Possui a matriz geral | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 02 | Possui a rastreabilidade dos requisitos funcionais? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 03 | Possui a rastreabilidade dos requisitos não funcionais? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |Sim   | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 04 | Possui rastreabilidade entre os artefatos relacionados aos requisitos? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 05 | O(s) autor(es) e o(s) revisor(es) para cada artefato? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |  Sim | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 06 | Referências bibliográficas e/ou bibliografia em todos os artefatos?	 | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 07 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342)  | Sim | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 08 | Um texto fazendo uma introdução dos artefatos? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 09 | O histórico de versão padronizado? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |Sim   | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
-| 10 | Cada integrante da equipe elaboraou ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência?	 | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| Item | Descrição | Avaliação | Referência |
+|------|-----------|--------|--------|
+| 01 | Possui a matriz geral | Sim | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 02 | Possui a rastreabilidade dos requisitos funcionais? | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 03 | Possui a rastreabilidade dos requisitos não funcionais? |Sim   | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 04 | Possui rastreabilidade entre os artefatos relacionados aos requisitos? | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 05 | O(s) autor(es) e o(s) revisor(es) para cada artefato? |  Sim | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 06 | Referências bibliográficas e/ou bibliografia em todos os artefatos?	 | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 07 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?  | Sim | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 08 | Um texto fazendo uma introdução dos artefatos? | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 09 | O histórico de versão padronizado? |Sim   | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
+| 10 | Cada integrante da equipe elaboraou ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência?	 | Sim  | [Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega) |
 
 <font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
@@ -101,7 +101,7 @@ Não precisa de correção
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|--------|---------|
-| 1.0 | 20/06/2025 | Criação do documento e estruturação da organização seguindo modelo de Fagan| [João Lobo](https://github.com/joaolobo10) | |
-| 2.0 | 20/06/2025 | Preenchi as tabelas devidamente com os items para fazer a verificação de maneira correta, e além disso adicionei cada referência, referente ao item descrito. |[João Lobo](https://github.com/joaolobo10) | |
+| 1.0 | 20/06/2025 | Criação do documento e estruturação da organização seguindo modelo de Fagan| [João Lobo](https://github.com/joaolobo10) |  [Giovana Barbosa](https://github.com/gio221) |
+| 2.0 | 20/06/2025 | Preenchi as tabelas devidamente com os items para fazer a verificação de maneira correta, e além disso adicionei cada referência, referente ao item descrito. |[João Lobo](https://github.com/joaolobo10) |  [Giovana Barbosa](https://github.com/gio221) |
 
 ---

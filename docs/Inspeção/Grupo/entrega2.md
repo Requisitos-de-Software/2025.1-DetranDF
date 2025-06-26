@@ -33,16 +33,16 @@ Todos os integrantes do grupo participaram da elaboração das listas de verific
 
 
 # Lista de Verificação Itens Tecnicos e Documentais
-| Item |   Pergunta   |      Avaliação       |                     Autor                      |                  Referência                |
-| :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|1|O histórico de versão padronizado?|Sim| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|2|O(s) autor(es) e o(s) revisor(es) para cada artefato?|Sim| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|3| Referências bibliográficas e/ou bibliografia em todos os artefatos?|Sim| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|4|As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?	|Sim| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|5| Um texto fazendo uma introdução dos artefatos?|Sim| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|6|Vídeo de apresentação na categoria “não listado” no youtube?|Sim| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|7| A gravação da reunião do grupo?|Sim| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
-|8|Cada integrante da equipe  elaboraou ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência?|Sim| [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+| Item |   Pergunta   |      Avaliação       |                   Referência                |
+| :----: | :--------: | :--------------------: | :--------------------------------------------: | 
+|1|O histórico de versão padronizado?|Sim |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|2|O(s) autor(es) e o(s) revisor(es) para cada artefato?|Sim |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|3| Referências bibliográficas e/ou bibliografia em todos os artefatos?|Sim |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|4|As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?	|Sim |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|5| Um texto fazendo uma introdução dos artefatos?|Sim |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|6|Vídeo de apresentação na categoria “não listado” no youtube?|Sim |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|7| A gravação da reunião do grupo?|Sim |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
+|8|Cada integrante da equipe  elaboraou ao menos um 1 item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência?|Sim |[Criterios para entrega](https://requisitos-de-software.github.io/2025.1-DetranDF/Apresenta%C3%A7%C3%B5es/Apresenta%C3%A7%C3%A3o%20das%20Etapas/Apresent%C3%A7%C3%A3o1/#criterios-para-entrega)|
 
 
 <font size="3"><p style="text-align: center">Fonte:  [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
@@ -120,6 +120,8 @@ Todos os integrantes do grupo participaram da elaboração das listas de verific
 | 67 | Os critérios que definem o que é "IN" e o que é "OUT" foram estabelecidos antes da priorização? |   Sim  |   [Pedro Camilo](https://github.com/PedrooCamilo)                  |    [Criterios para entrega](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)       |
 | 68 | Houve envolvimento dos usuários na priorização?                                             |    Sim  |    [Pedro Camilo](https://github.com/PedrooCamilo)                   |     [Criterios para entrega](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |
 | 69 | O usuário foi informado sobre a técnica de priorização?                                     |   Sim  | [Pedro Camilo](https://github.com/PedrooCamilo)                    |     [Criterios para entrega](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |
+
+<font size="2"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 ### Inspeção
 

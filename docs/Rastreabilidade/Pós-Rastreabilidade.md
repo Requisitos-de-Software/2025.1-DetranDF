@@ -651,7 +651,17 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td>Imagem - Não implementado</td>
+      <td>
+      <img src="../../assets/rastrea/rf12.png"
+             alt="Tela de editar quilometragem"
+             width="30%"
+             style="height:auto;">
+      </td>
+    </tr>
+    <tr>
+       <td>
+        <a href="https://www.figma.com/design/ohrsL5pYJxKWrbSbha2sQE/Detran-DF?node-id=32-480&t=Zg0B6U9icKFhECIM-1">Link do protótipo</a>
+      </td>
     </tr>
   </table>
 </details>
@@ -793,7 +803,17 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     </tr>
     <tr>
       <td><strong>Print</strong></td>
-      <td><img src="/2025.1-DetranDF/assets/print-intgov.png" alt="print-integração-govbr" width="500" height="500"></td>
+      <td>
+      <img src="../../assets/rastrea/rf15.png"
+             alt="integração cnh digital"
+             width="30%"
+             style="height:auto;">
+      </td>
+    </tr>
+    <tr>
+       <td>
+        <a href="https://www.figma.com/design/ohrsL5pYJxKWrbSbha2sQE/Detran-DF?node-id=29-230&t=Zg0B6U9icKFhECIM-1">Link do protótipo</a>
+      </td>
     </tr>
   </table>
 </details>

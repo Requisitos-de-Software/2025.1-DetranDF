@@ -84,8 +84,8 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 | :----: | --------- |
 | [Luiz Bessa](https://github.com/lfelipebessa)|RF 01 a 04, 42 a 44, e RNF 20|
 | [Giovana Barbosa](https://github.com/gio221) |RF 05 a 10 e RNF 01 a 04|
-| [João Lobo](https://github.com/joaolobo10)   | RF 11 a 16 e RNF 05 a 07|
-|[Gabriel Mendes](https://github.com/gbevi)|RF 17 a 22 e RNF 8 a 10|
+| [João Lobo](https://github.com/joaolobo10)   | RF 11, 13, 14, 16, 17, 21 e RNF 05 a 07|
+|[Gabriel Mendes](https://github.com/gbevi)|RF 12, 15, 18, 19, 20, 22 e RNF 8 a 10|
 | [Maria Eduarda](https://github.com/maaduh) | RF 23 a 28 e RNF 11 a 13|
 | [Pedro Camilo](https://github.com/PedrooCamilo)  |RF 29 a 34 e RNF 14 a 16|
 | [Eric Akio](https://github.com/eric-kingu)|RF 35 a 41 e RNF 17 a 19|
@@ -656,7 +656,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
   </table>
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
 ## RF13 E013
 <details>
@@ -798,7 +798,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
   </table>
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
 ## RF16 E016
 <details>
@@ -899,7 +899,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
   </table>
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 ## RF18 E18
 <details>
@@ -1105,7 +1105,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
   </table>
 </details>
 
-<font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
+<font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 ## RF22 E22
 <details>

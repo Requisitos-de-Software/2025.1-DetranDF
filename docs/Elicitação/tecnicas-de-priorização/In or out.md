@@ -101,7 +101,7 @@ Disponível em: https://aprender3.unb.br/pluginfile.php/3096091/mod_resource/con
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 04/05/2025  | Confecção da primeira versão da técnica de priorização In or Out | [Pedro Camilo](https://github.com/PedrooCamilo)| [João Lobo](https://github.com/joaolobo10) ,  [Giovana Barbosa ](https://github.com/gio221)                                   | 
-| 1.1 | 17/06/2025  | Adicionando rastreabilidade dos requisitos | [Pedro Camilo](https://github.com/PedrooCamilo)|                                  | 
-| 1.2 | 17/06/2025  | Adicionando informações sobre entrevistado | [Pedro Camilo](https://github.com/PedrooCamilo)|                                  | 
-| 1.3 | 21/06/2025  | Validação presencial com usuário entrevistado | [Pedro Camilo](https://github.com/PedrooCamilo)|                                  | 
+| 1.1 | 17/06/2025  | Adicionando rastreabilidade dos requisitos | [Pedro Camilo](https://github.com/PedrooCamilo)|          [Giovana Barbosa ](https://github.com/gio221)                          | 
+| 1.2 | 17/06/2025  | Adicionando informações sobre entrevistado | [Pedro Camilo](https://github.com/PedrooCamilo)|         [Giovana Barbosa ](https://github.com/gio221)                           | 
+| 1.3 | 21/06/2025  | Validação presencial com usuário entrevistado | [Pedro Camilo](https://github.com/PedrooCamilo)|                [Giovana Barbosa ](https://github.com/gio221)                    | 
 

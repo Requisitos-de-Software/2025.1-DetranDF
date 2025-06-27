@@ -40,6 +40,6 @@ Video da verificação
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 14/05/2025 | criação do documento, introdução,objetivo e metodologia |  [Giovana Barbosa](https://github.com/gio221)   | |
+|  1.0   | 14/05/2025 | criação do documento, introdução,objetivo e metodologia |  [Giovana Barbosa](https://github.com/gio221)   | [Giovana Barbosa](https://github.com/gio221)  |
 |  1.1  | 14/05/2025 |inspeção, e video da inspeção |  [Giovana Barbosa](https://github.com/gio221)   |[João Lobo](https://github.com/joaolobo10) |
-|  1.2   | 14/05/2025 | Padronização das referências  |  [João Lobo](https://github.com/joaolobo10)   |  |
+|  1.2   | 14/05/2025 | Padronização das referências  |  [João Lobo](https://github.com/joaolobo10)   |   [Giovana Barbosa](https://github.com/gio221) |

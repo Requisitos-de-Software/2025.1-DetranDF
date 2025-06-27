@@ -71,4 +71,4 @@ Em um cenário cada vez mais digital e dinâmico, a organização das demandas d
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 03/05/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     |  [Giovana Barbosa ](https://github.com/gio221) |
 |  1.1   | 04/05/2025 | correção de erros | [Maria Eduarda](https://github.com/maaduh)     |       [Giovana Barbosa ](https://github.com/gio221) | 
-|  1.2   | 20/06/2025 | correção das partes erradas | [Maria Eduarda](https://github.com/maaduh)     |        | 
+|  1.2   | 20/06/2025 | correção das partes erradas | [Maria Eduarda](https://github.com/maaduh)     |    [Giovana Barbosa ](https://github.com/gio221)      | 

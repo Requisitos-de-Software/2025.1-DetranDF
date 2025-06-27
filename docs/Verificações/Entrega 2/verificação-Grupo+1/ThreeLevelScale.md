@@ -43,4 +43,4 @@ A metodologia consiste na utilização de um checklist previamente elaborado, o 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 05/05/2025 | Execução da lista de verificação/inspeção | [Luiz Bessa](https://github.com/lfelipebessa)  | |
-|  1.1   | 05/05/2025 | Adicionando vídeo da inspeção | [Luiz Bessa](https://github.com/)       |                                            |
+|  1.1   | 05/05/2025 | Adicionando vídeo da inspeção | [Luiz Bessa](https://github.com/)       |         [Giovana Barbosa ](https://github.com/gio221)                                   |

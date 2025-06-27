@@ -35,4 +35,4 @@ A **tabela 1** descreve o checklist da especificação suplementar
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   | [João Lobo](https://github.com/joaolobo10)|
 |  1.1   | 18/05/2025 | adição da lista de verificação |  [Gabriel Mendes](https://github.com/gbevi)   | [João Lobo](https://github.com/joaolobo10)|
-|  1.2   | 18/05/2025 | Verificação da especificação suplementar do grupo+1 |  [João Lobo](https://github.com/joaolobo10)   | |
+|  1.2   | 18/05/2025 | Verificação da especificação suplementar do grupo+1 |  [João Lobo](https://github.com/joaolobo10)   | [Giovana Barbosa](https://github.com/gio221)  |

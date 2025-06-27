@@ -23,4 +23,4 @@ A **tabela 1** descreve a lista de verificação do app Guardiões da Saúde
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/04/2025 | Início da documentação | [maria Eduarda](https://github.com/maaduh)  |[Giovana Barbosa ](https://github.com/gio221)  |
-|  1.1   | 05/05/2025 | Vídeo da inspeção | [maria Eduarda](https://github.com/maaduh)  |  |
+|  1.1   | 05/05/2025 | Vídeo da inspeção | [maria Eduarda](https://github.com/maaduh)  | [Giovana Barbosa ](https://github.com/gio221) |

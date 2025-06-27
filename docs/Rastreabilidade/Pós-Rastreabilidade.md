@@ -1,4 +1,4 @@
-# Introdução
+## Introdução
 No presente documento, abordamos conceitos e métodos baseados no Meta-modelo de Toranzo, que orienta a organização e representação dos principais elementos e suas relações na análise de requisitos, promovendo uma compreensão estruturada e rastreável
 
 Adotamos os elos Backward-from e Forward-from, essenciais para a rastreabilidade dos requisitos:
@@ -6,7 +6,7 @@ Adotamos os elos Backward-from e Forward-from, essenciais para a rastreabilidade
 Elos Backward-from: Apontam a origem de um requisito ou elemento, permitindo identificar de onde ele foi derivado e compreender o motivo de sua existência.
 Elos Forward-from: Indicam como um requisito ou elemento se relaciona com outros, evidenciando sua contribuição para a implementação ou satisfação de outros elementos do sistema.
 
-# Objetivo
+## Objetivo
 O objetivo deste documento é detalhar a estruturação dos requisitos do aplicativo detran-df, utilizando o Meta-modelo de Toranzo como base.
 
 # Metodologia
@@ -269,7 +269,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 ---
 
 ## RF05 E05
-<details>
+<details open>
   <summary>RF05 - Exibir notificações de prazos e documentos vencidos</summary>
 
   <table>
@@ -315,7 +315,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 ## RF06 E06
-<details>
+<details open>
   <summary>RF06 - Realizar transferência de documento do veículo</summary>
 
   <table>
@@ -364,7 +364,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 ## RF07 E07
-<details>
+<details open>
   <summary>RF07 - Trocar a PPD para CNH definitiva pelo app</summary>
 
   <table>
@@ -413,7 +413,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 ## RF08 E08
-<details>
+<details open>
   <summary>RF08 - Sistema de pagamento de taxas e débitos</summary>
 
   <table>
@@ -463,7 +463,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 ## RF09 E09
-<details>
+<details open>
   <summary>RF09 - Aviso automático em caso de roubo/recuperação do carro</summary>
 
   <table>
@@ -518,7 +518,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 ## RF10 E010
-<details>
+<details open>
   <summary>RF10 - Consulta de CNH, documentos e multas</summary>
 
   <table>
@@ -567,7 +567,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 ## RF11 E011
-<details>
+<details open>
   <summary>RF11 - Agendamento online para provas teóricas e práticas</summary>
 
   <table>
@@ -614,7 +614,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 ## RF12 E012
-<details>
+<details open>
   <summary>RF12 - Opção para adicionar quilometragem do seu carro</summary>
 
   <table>
@@ -669,7 +669,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
 ## RF13 E013
-<details>
+<details open>
   <summary>RF13 - Guia de documentos necessários para cada tipo de serviço</summary>
 
   <table>
@@ -714,7 +714,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 ## RF14 E014
-<details>
+<details open>
   <summary>RF14 - Chat com IA para tirar dúvidas</summary>
 
   <table>
@@ -765,7 +765,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 ## RF15 E015
-<details>
+<details open>
   <summary>RF15 - Integração com CNH Digital</summary>
 
   <table>
@@ -821,7 +821,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
 ## RF16 E016
-<details>
+<details open>
   <summary>RF16 - Atendimento ao vivo com servidor do DETRAN via chat/vídeo</summary>
 
   <table>
@@ -872,7 +872,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 ## RF17 E17
-<details>
+<details open>
   <summary>RF17 - Exibir status do licenciamento e do IPVA do veículo</summary>
 
   <table>
@@ -922,7 +922,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 ## RF18 E18
-<details>
+<details open>
   <summary>RF18 - Gerar segunda via da CNH e CRLV digitalmente</summary>
 
   <table>
@@ -978,7 +978,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
 ## RF19 E19
-<details>
+<details open>
   <summary>RF19 - Deve ser possível consultar a pontuação da CNH diretamente no aplicativo</summary>
 
   <table>
@@ -1028,7 +1028,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
 ## RF20 E20
-<details>
+<details open>
   <summary>RF20 - O aplicativo deve permitir o agendamento de serviços presenciais</summary>
 
   <table>
@@ -1078,7 +1078,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
 ## RF21 E21
-<details>
+<details open>
   <summary>RF21 - Permitir acompanhamento de processos</summary>
 
   <table>
@@ -1128,7 +1128,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 ## RF22 E22
-<details>
+<details open>
   <summary>RF22 - Exibir notificações de prazos e documentos vencidos</summary>
 
   <table>
@@ -1179,7 +1179,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
 ## RF23 E23
-<details>
+<details open>
   <summary>RF23 - Permitir consulta do status do licenciamento em tempo real</summary>
 
   <table>
@@ -1229,7 +1229,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 
 ## RF24 E24
-<details>
+<details open>
   <summary>RF24 - Permitir geração de boleto e pagamento integrado no app</summary>
 
   <table>
@@ -1280,7 +1280,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 
 ## RF25 E25
-<details>
+<details open>
   <summary>RF25 - Permitir consulta e detalhamento de infrações com imagens</summary>
 
   <table>
@@ -1329,7 +1329,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 
 ## RF26 E26
-<details>
+<details open>
   <summary>RF26 - Iniciar e acompanhar recurso de multa pelo app</summary>
 
   <table>
@@ -1379,7 +1379,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 
 ## RF27 E27
-<details>
+<details open>
   <summary>RF27 - Permitir agendamento de exame médico para CNH</summary>
 
   <table>
@@ -1430,7 +1430,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 
 ## RF28 E28
-<details>
+<details open>
   <summary>RF28 - Enviar notificações de vencimento da CNH, multas e licenciamento</summary>
 
   <table>
@@ -1479,7 +1479,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 <font size="3"><p style="text-align: center">Autor: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
-## Requisito Funcional 29 - Elo 29
+## RF 29 E 29
 <details open>
   <summary>RF29 - Explicações simples sobre termos técnicos</summary>
 
@@ -1499,8 +1499,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
     <tr>
       <td><strong>Elementos</strong></td>
       <td><br>
-              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF29</a>,
-
+              <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/Tecnicas-de-elecita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais">RF29</a>
                 <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling">STO07</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/Agil/Historis-usuario/#us36">US36</a>
       </td>
@@ -1545,7 +1544,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
-## Requisito Funcional 30 - Elo 30
+## RF 30 E 30
 <details open>
   <summary>RF30 - Canal de atendimento humano</summary>
 
@@ -1600,7 +1599,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
 
-## Requisito Funcional 31 - Elo 31
+## RF 31  E 31
 <details open>
   <summary>RF31 - Reposição de placa Mercosul</summary>
 
@@ -1648,7 +1647,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
-## Requisito Funcional 32 - Elo 32
+## RF 32 E32
 <details open>
   <summary>RF32 - Conversão de placa Mercosul</summary>
 
@@ -1697,7 +1696,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
 
-## Requisito Funcional 33 - Elo 33
+## RF 33 E 33
 <details open>
   <summary>RF33 - Histórico de infração do condutor</summary>
 
@@ -1745,7 +1744,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 </details>
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
-## Requisito Funcional 34 - Elo 34
+## RF 34 E 34
 <details open>
   <summary>RF34 - Histórico de infração do veículo	</summary>
 
@@ -1795,7 +1794,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 
 ## RF35 E35
-<details>
+<details open>
   <summary>RF35 - Conversão de autuação em penalidade</summary>
 
   <table>
@@ -1840,7 +1839,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## RF36 E36
-<details>
+<details open>
   <summary>RF36 - Nova solicitação de Protocolo-e</summary>
 
   <table>
@@ -1885,7 +1884,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## RF37 E37
-<details>
+<details open>
   <summary>RF37 - Acompanhar solicitação de protocolo-e</summary>
 
   <table>
@@ -1930,7 +1929,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## RF38 E38
-<details>
+<details open>
   <summary>RF38 - Solicitar credencial de estacionamento para idoso</summary>
 
   <table>
@@ -1975,7 +1974,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## RF39 E39
-<details>
+<details open>
   <summary>RF38 - Solicitar credencial de estacionamento para TEA</summary>
 
   <table>
@@ -2020,7 +2019,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## RF40 E40
-<details>
+<details open>
   <summary>RF40 - Pagamento de débitos para liberação de veículo</summary>
 
   <table>
@@ -2067,7 +2066,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## RF41 E41
-<details>
+<details open>
   <summary>RF41 - Simulado de prova teórica</summary>
 
   <table>
@@ -2266,7 +2265,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 ## RNF01 E045
 
-<details>
+<details open>
   <summary>RNF01 - Interface intuitiva e fácil de navegar</summary>
 
   <table>
@@ -2313,7 +2312,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 ## RNF02 E046
-<details>
+<details open>
   <summary>RNF02 - Compatibilidade com diferentes dispositivos e sistemas</summary>
 
   <table>
@@ -2360,7 +2359,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 ## RNF03 E047
-<details>
+<details open>
   <summary>RNF03 - Alta segurança no tratamento de dados pessoais e veiculares</summary>
 
   <table>
@@ -2408,7 +2407,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 ## RNF04 E048
-<details>
+<details open>
   <summary>RNF04 - Área educacional com explicações e vídeos</summary>
 
   <table>
@@ -2459,7 +2458,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Giovana Barbosa](https://github.com/gio221), 2025.</p></font>
 
 ## RNF05 E049
-<details>
+<details open>
   <summary>RNF05 - Acessibilidade (fonte grande, contraste, modo noturno)</summary>
 
   <table>
@@ -2503,7 +2502,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 ## RNF06 E050
-<details>
+<details open>
   <summary>RNF06 - Leitor de tela e assistente por voz para pessoas cegas</summary>
 
   <table>
@@ -2547,7 +2546,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 ## RNF07 E051
-<details>
+<details open>
   <summary>RNF07 - Sistema de avaliação com base em uso real (ex-alunos)</summary>
 
   <table>
@@ -2590,7 +2589,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 
 ## RNF08 E052
-<details>
+<details open>
   <summary>RNF08 - Propaganda efetiva para promover o app</summary>
 
   <table>
@@ -2636,7 +2635,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
 ## RNF09 E053
-<details>
+<details open>
   <summary>RNF09 - Layout com foco em simplicidade e legibilidade</summary>
 
   <table>
@@ -2682,7 +2681,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
 ## RNF10 E054
-<details>
+<details open>
   <summary>RNF10 - Carregamento rápido das páginas</summary>
 
   <table>
@@ -2730,7 +2729,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Gabriel Mendes](https://github.com/gbevi), 2025.</p></font>
 
 ## RNF11 E55
-<details>
+<details open>
   <summary>RNF11 - Acessibilidade para diferentes perfis de usuários</summary>
 
   <table>
@@ -2774,7 +2773,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 
 ## RNF12 E56
-<details>
+<details open>
   <summary>RNF12 - Explicações acessíveis sobre siglas (ex: RENAVAM)</summary>
 
   <table>
@@ -2819,7 +2818,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 
 ## RNF13 E57
-<details>
+<details open>
   <summary>RNF13 - Texto com fontes ajustáveis e botões grandes</summary>
 
   <table>
@@ -2861,7 +2860,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Maria Eduarda](https://github.com/maaduh), 2025.</p></font>
 
 ## RNF14 E58
-<details>
+<details open>
   <summary>RNF14 - Interface adaptada para idosos e iniciantes</summary>
 
   <table>
@@ -2906,7 +2905,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 
 
 ## RNF15 E59
-<details>
+<details open>
   <summary>RNF15 - Aplicativo leve e com baixo consumo de dados</summary>
 
   <table>
@@ -2951,7 +2950,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
 ## RNF16 E60
-<details>
+<details open>
   <summary>RNF16 - Tempo de resposta rápido</summary>
 
   <table>
@@ -2996,7 +2995,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Pedro Camilo](https://github.com/PedrooCamilo), 2025.</p></font>
 
 ## RNF17 E61
-<details>
+<details open>
   <summary>RNF17 - Feedback visual e sonoro</summary>
 
   <table>
@@ -3038,7 +3037,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## RNF18 E62
-<details>
+<details open>
   <summary>RNF18 - Disponibilidade do sistema 24/7</summary>
 
   <table>
@@ -3080,7 +3079,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## RNF19 E63
-<details>
+<details open>
   <summary>RNF19 - Recuperação de falhas e continuidade da navegação</summary>
 
   <table>
@@ -3122,7 +3121,7 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 <font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## RNF20 E64
-<details>
+<details open>
   <summary>RNF20 - Interface com poucos elementos por tela</summary>
 
   <table>
@@ -3157,4 +3156,4 @@ Para fazermos esse modelo ultilizamos o template da tabela abaixo
 |  2.0   | 08/06/2025 | Consertei print da funcionalidade RF15  | [João Lobo](https://github.com/joaolobo10) |   [Giovana Barbosa](https://github.com/gio221)  |
 |  2.1   | 16/06/2025 | Adicionando imagens do protótipo e do aplicativo das quais já estavam implementadas  | [Luiz Bessa](https://github.com/lfelipebessa) | [Giovana Barbosa](https://github.com/gio221) |
 |  2.2   | 16/06/2025 | Adicionando imagens do protótipo RF14 e RF16, em que não estavam implementados   | [João Lobo](https://github.com/joaolobo10) | [Eric Akio](https://github.com/eric-kingu) |
-| 2.3 | 22/06/2025 | Adicionando imagens do protótipo RF40 e RF41 | [Eric Akio](https://github.com/eric-kingu) |  |
+| 2.3 | 22/06/2025 | Adicionando imagens do protótipo RF40 e RF41 | [Eric Akio](https://github.com/eric-kingu) |   [Giovana Barbosa](https://github.com/gio221)   |

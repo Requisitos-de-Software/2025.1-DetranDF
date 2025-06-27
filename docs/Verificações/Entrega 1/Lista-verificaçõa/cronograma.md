@@ -28,4 +28,4 @@ A tabela 1 descreve o checklist do artefato Cronograma.
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 20/04/2025 | Início da documentação | [Giovana Barbosa ](https://github.com/gio221)  |  |
+|  1.0   | 20/04/2025 | Início da documentação | [Giovana Barbosa ](https://github.com/gio221)  |[Pedro Camilo](https://github.com/PedrooCamilo)  |

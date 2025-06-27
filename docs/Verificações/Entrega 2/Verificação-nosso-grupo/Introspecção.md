@@ -22,4 +22,4 @@ Esse artefato é para que possamos verificar a elicitação por meio da introspe
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 05/05/2025 | Início da documentação | [Eric Akio](https://github.com/eric-kingu)  |   |
+|  1.0   | 05/05/2025 | Início da documentação | [Eric Akio](https://github.com/eric-kingu)  | [Giovana Barbosa ](https://github.com/gio221)  |

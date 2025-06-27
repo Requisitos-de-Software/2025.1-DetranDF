@@ -25,4 +25,4 @@ A tabela 1 descreve a checklist respondido do artefato Metodologia.
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 16/06/2025 | Início da documentação | [Luiz Bessa](https://github.com/lfelipebessa)  |  |
+|  1.0   | 16/06/2025 | Início da documentação | [Luiz Bessa](https://github.com/lfelipebessa)  |[Giovana Barbosa ](https://github.com/gio221)  |

@@ -881,4 +881,4 @@ O video abaixo monstra a validação realizada pela integrante [Giovana Barbosa]
 | 2.0 | 31/05/2025 |  Documentação das histórias de usuário US37 a 38 |  [Eric Akio](https://github.com/eric-kingu) | [Pedro Camilo](https://github.com/PedrooCamilo)  |
 | 2.1 | 31/05/2025 |  Vídeo de validação das histórias de usuário US31 até a US36 |  [Pedro Camilo](https://github.com/PedrooCamilo) |  [Giovana Barbosa ](https://github.com/gio221) |
 | 2.2 | 31/05/2025 | numeração das tabelas |   [Giovana Barbosa ](https://github.com/gio221) | [Gabriel Mendes ](https://github.com/gbevi) | 
-| 2.3 | 07/06/2025 | adição de anchors em cada US |   [Gabriel Mendes ](https://github.com/gbevi) |  | 
+| 2.3 | 07/06/2025 | adição de anchors em cada US |   [Gabriel Mendes ](https://github.com/gbevi) |  [Giovana Barbosa ](https://github.com/gio221)  | 

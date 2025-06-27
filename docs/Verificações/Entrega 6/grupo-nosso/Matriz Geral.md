@@ -178,6 +178,6 @@ Verificação foi realizada pelo integrante [Eric Akio](https://github.com/eric-
 |  1.2   | 05/06/2025 | verificação RF 23 a 28 e RNF 11 a 13 |  [Maria Eduarda](https://github.com/maaduh)   | [Pedro Camilo](https://github.com/PedrooCamilo)  |
 |  1.3   | 09/06/2025 | verificação RF 29 a 34 e RNF 14 a 16 |  [Pedro Camilo](https://github.com/PedrooCamilo)   |[Gabriel Mendes](https://github.com/gbevi)  |
 |  1.4   | 09/06/2025 | verificação RF 17 a 22 e RNF 08 a 10 |  [Gabriel Mendes](https://github.com/gbevi)   | [Luiz Bessa](https://github.com/lfelipebessa) |
-|  1.5   | 09/06/2025 | verificação RF 01 a 04, 32 a 44, e RNF 20 |  [Luiz Bessa](https://github.com/lfelipebessa)   | |
+|  1.5   | 09/06/2025 | verificação RF 01 a 04, 32 a 44, e RNF 20 |  [Luiz Bessa](https://github.com/lfelipebessa)   |  [Giovana Barbosa](https://github.com/gio221) |
 |  1.6   | 09/06/2025 | verificação RF 11 a 16 e RNF 05 a 07 |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
 | 1.7 | 09/06/2025| verificação RF 35 a 41 e RNF 17 a 19 | [Eric Akio](https://github.com/eric-kingu) | [Luiz Bessa](https://github.com/lfelipebessa) |

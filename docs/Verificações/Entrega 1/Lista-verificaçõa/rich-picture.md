@@ -29,5 +29,5 @@ A tabela 1 descreve a checklist do artefato Rich Picture.
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 20/04/2025 | Início da documentação | [Giovana Barbosa ](https://github.com/gio221)  |  |
+|  1.0   | 20/04/2025 | Início da documentação | [Giovana Barbosa ](https://github.com/gio221)  | [Pedro Camilo](https://github.com/PedrooCamilo) |
 

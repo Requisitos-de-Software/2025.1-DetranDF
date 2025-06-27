@@ -20,5 +20,5 @@ Esse artefato é para que possamos fazer a inspeção da elicitação por observ
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 05/05/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     | |
-|  1.1   | 05/05/2025 | Inspeção do nosso grupo | [Maria Eduarda](https://github.com/maaduh)     | |
+|  1.0   | 05/05/2025 | Início da documentação | [Maria Eduarda](https://github.com/maaduh)     | [Giovana Barbosa ](https://github.com/gio221)|
+|  1.1   | 05/05/2025 | Inspeção do nosso grupo | [Maria Eduarda](https://github.com/maaduh)     | [Giovana Barbosa ](https://github.com/gio221)|

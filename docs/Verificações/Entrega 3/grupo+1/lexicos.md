@@ -340,4 +340,4 @@ A tabela abaixo descreve o checklist do artefato.
 |  1.4  | 19/05/2025 | Inspeção do léxico Léxico para UC05 (Cancelamento de mensagem que está sendo gerada pela IA) e do léxico Léxico para UC04 (Uso da função Pensamento Profundo)  |  [João Lobo](https://github.com/joaolobo10)   | [Pedro Camilo](https://github.com/PedrooCamilo)  |
 |  1.5  | 19/05/2025 | Inspeção do Léxico para UC07 (Consulta Atualizada via Search na Web) e Léxico para UC08 (Iteração de Resposta com Feedback)   |  [Pedro Camilo](https://github.com/PedrooCamilo)   | [João Lobo](https://github.com/joaolobo10)  |
 | 1.6 | 19/05/2025 | Inspeção léxicos: UC11*(UC06) e UC12 | [Eric Akio](https://github.com/eric-kingu) | [João Lobo](https://github.com/joaolobo10) |
-| 1.7 | 19/05/2025 | Padronização de títulos de tabela e referências. | [João Lobo](https://github.com/joaolobo10) |  |
+| 1.7 | 19/05/2025 | Padronização de títulos de tabela e referências. | [João Lobo](https://github.com/joaolobo10) |   [Giovana Barbosa](https://github.com/gio221) |

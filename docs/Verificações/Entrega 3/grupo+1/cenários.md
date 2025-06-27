@@ -370,6 +370,6 @@ A tabela abaixo descreve o checklist do artefato Resumo de Vídeos do YouTube.
 |  1.3  | 19/05/2025 | inspeção Upload de Documento   |  [Luiz Bessa](https://github.com/lfelipebessa)   | [João Lobo](https://github.com/joaolobo10) |
 |  1.4  | 19/05/2025 | Inspeção do cenário Utilização da Ferramenta Pensamento Profundo para Resolver um Problema Difícil de Matemática e do cenário Opção de Interromper Resposta em Andamento  |  [João Lobo](https://github.com/joaolobo10)   | [Pedro Camilo](https://github.com/PedrooCamilo) |
 |  1.5  | 19/05/2025 | Inspeção do cenário Consulta Atualizada via Search na Web, Iteração de Resposta com Opções Disponíveis Para Resposta  |  [Pedro Camilo](https://github.com/PedrooCamilo)   | [Maria Eduarda](https://github.com/maaduh) |
-|  1.6  | 19/05/2025 | Inspeção do cenário Limpeza do histórico de conversas e Resumo de vídeos do YouTube  |  [Maria Eduarda](https://github.com/maaduh)  |  |
+|  1.6  | 19/05/2025 | Inspeção do cenário Limpeza do histórico de conversas e Resumo de vídeos do YouTube  |  [Maria Eduarda](https://github.com/maaduh)  |   [Giovana Barbosa](https://github.com/gio221) |
 | 1.7 | 19/05/2025 | Inspeção cenários: UC11 e UC12 | [Eric Akio](https://github.com/eric-kingu) | [João Lobo](https://github.com/joaolobo10) |
-| 1.8 | 19/05/2025 | Padronização de títulos de tabela e referências. | [João Lobo](https://github.com/joaolobo10) |  |
+| 1.8 | 19/05/2025 | Padronização de títulos de tabela e referências. | [João Lobo](https://github.com/joaolobo10) |  [Giovana Barbosa](https://github.com/gio221)  |

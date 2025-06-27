@@ -52,4 +52,4 @@ O Heatmap se mostra uma ferramenta essencial para o planejamento da equipe, torn
 | Versão |    Data    |       Descrição        |                     Autor                     |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :-------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/04/2025 | Início da documentação | [Giovana Barbosa ](https://github.com/gio221) | [João Lobo](https://github.com/joaolobo10) |
-|  1.1   | 14/04/2025 | Início da documentação |  [João Lobo](https://github.com/joaolobo10)   |                                            |
+|  1.1   | 14/04/2025 | Início da documentação |  [João Lobo](https://github.com/joaolobo10)   |        [Giovana Barbosa ](https://github.com/gio221)                                    |

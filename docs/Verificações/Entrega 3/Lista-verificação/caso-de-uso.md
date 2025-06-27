@@ -40,4 +40,4 @@ A **tabela 1** descreve o checklist dos casos de uso
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/05/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi) |
 |  1.1   | 17/05/2025 | adição da lista de verificação |  [Gabriel Mendes](https://github.com/gbevi)   |[Giovana Barbosa](https://github.com/gio221) |
-|  1.1   | 17/05/2025 | Ajuste de referências |  [João Lobo](https://github.com/joaolobo10)   |  |
+|  1.1   | 17/05/2025 | Ajuste de referências |  [João Lobo](https://github.com/joaolobo10)   |  [Giovana Barbosa](https://github.com/gio221)  |

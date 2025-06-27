@@ -39,5 +39,5 @@ A tabela 1 descreve o checklist do artefato de técnica de priorização, sendo 
 
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
-|  1.0   | 05/05/2025 | Lista de verificação In or Out | [Pedro Camilo](https://github.com/PedrooCamilo)  |  |
-|  1.1   | 05/05/2025 | Adicionando vídeo de inspeção | [Pedro Camilo](https://github.com/PedrooCamilo)  |  |
+|  1.0   | 05/05/2025 | Lista de verificação In or Out | [Pedro Camilo](https://github.com/PedrooCamilo)  | [Giovana Barbosa ](https://github.com/gio221) |
+|  1.1   | 05/05/2025 | Adicionando vídeo de inspeção | [Pedro Camilo](https://github.com/PedrooCamilo)  |  [Giovana Barbosa ](https://github.com/gio221)|

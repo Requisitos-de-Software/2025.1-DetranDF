@@ -302,5 +302,5 @@ A tabela abaixo descreve o checklist do artefato.
 |  1.5  | 19/05/2025 | Inpeção de Chat com ia para tirar dúvidas e Atendimento ao vivo com servidor do DETRAN via chat/vídeo|  [João Lobo](https://github.com/joaolobo10)   | [Pedro Camilo](https://github.com/PedrooCamilo) |
 |  1.6  | 19/05/2025 | Inspeção área educacional com explicações e vídeos e acesso rápido a explicações de siglas  |  [Pedro Camilo](https://github.com/PedrooCamilo)   | [Maria Eduarda](https://github.com/maaduh) |
 |  1.7  | 19/05/2025 | Inspeção notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro  |  [Maria Eduarda](https://github.com/maaduh)   |[João Lobo](https://github.com/joaolobo10) |
-|  1.7  | 19/05/2025 | Padronização das referências e Títulos de tabelas  |  [João Lobo](https://github.com/joaolobo10)   | |
+|  1.7  | 19/05/2025 | Padronização das referências e Títulos de tabelas  |  [João Lobo](https://github.com/joaolobo10)   | [Giovana Barbosa](https://github.com/gio221)  |
 

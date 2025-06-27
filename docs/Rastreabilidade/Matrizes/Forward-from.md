@@ -111,4 +111,4 @@ Cenário não implementado | Lexico não implementado|[Caso de Uso](https://requ
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 12/06/2025 | criação do documento |  [Giovana Barbosa](https://github.com/gio221)   |[Gabriel Mendes](https://github.com/gbevi)   |
 |  2.0   | 20/06/2025 | Criação da estrutura da tabela |  [João Lobo](https://github.com/joaolobo10)   |[Giovana Barbosa](https://github.com/gio221)   |
-|2.2|22/06/2025|montando a tabela|[Giovana Barbosa](https://github.com/gio221)||
+|2.2|22/06/2025|montando a tabela|[Giovana Barbosa](https://github.com/gio221)| [Giovana Barbosa ](https://github.com/gio221) |

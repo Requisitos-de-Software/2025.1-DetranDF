@@ -28,4 +28,4 @@ A **tabela 1** descreve qual a lista de verificação das ferramentas do grupo
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 14/04/2025 | Início da documentação | [Eric Akio](https://github.com/eric-kingu)  |[Giovana Barbosa ](https://github.com/gio221)  |
-|  1.1   | 05/05/2025 | Adicionado o vídeo de inspeção | [Eric Akio](https://github.com/eric-kingu) |   |
+|  1.1   | 05/05/2025 | Adicionado o vídeo de inspeção | [Eric Akio](https://github.com/eric-kingu) | [Giovana Barbosa ](https://github.com/gio221)  |

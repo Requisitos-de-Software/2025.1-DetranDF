@@ -173,7 +173,7 @@ A partir dos dados coletados por meio de um questionário de perfil de usuário,
 
 # Referência Bibliografica
 
-[This person not exist](https://thispersonnotexist.org/)
+> [This person not exist](https://thispersonnotexist.org/)
 
 ## Histórico de versão
 

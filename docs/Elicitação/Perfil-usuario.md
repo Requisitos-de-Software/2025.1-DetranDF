@@ -253,4 +253,4 @@ Como os resultados do questionário apontam, o perfil do usuário tem como perfi
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | :--: | :-------: | :---: | :-----: |
 | 1.0 | 23/04/2025 | Inicialização da página | [Gabriel Dantas](https://github.com/gbevi) | [Giovana Barbosa ](https://github.com/gio221)  |
-| 1.1 | 17/06/2025 | adição da definição de perfil | [Gabriel Dantas](https://github.com/gbevi) |   |
+| 1.1 | 17/06/2025 | adição da definição de perfil | [Gabriel Dantas](https://github.com/gbevi) |   [Giovana Barbosa ](https://github.com/gio221)  |

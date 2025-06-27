@@ -10,6 +10,8 @@ Todos os integrantes deixaram sua considerações, como suas facilidades e dific
 
 ## Giovana Barbosa da Silva
 
+Gostei muito da disciplina, apesar de ela ter sido bem trabalhosa. A carga de trabalho foi intensa e desafiadora, mas o aprendizado foi muito gratificante. O projeto exigiu bastante dedicação, mas a experiência foi enriquecedora de várias formas. O que tornou tudo mais fácil foi o excelente trabalho em equipe, onde todos se mostraram comprometidos e dispostos a contribuir. Cada membro do grupo se dedicou ao máximo, o que facilitou a execução do projeto e fez com que o processo fosse mais fluido. Acredito que o resultado final reflete a boa colaboração de todos, e o aprendizado que tive ao longo dessa disciplina será valioso para minha trajetória futura. 
+
 ## João Carlos Lobo Sousa Monteiro
 
 ## Luiz Felipe Bessa Santos

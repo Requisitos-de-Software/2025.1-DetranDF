@@ -67,18 +67,55 @@ O video acima descreve a apresentação que foi realizada na terceira etapa do p
 
 ## Apresentação da inspeção da etapa 1
 
+    Video da apresentação
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/yKj5iJhm34s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/yKj5iJhm34s" target="blanket">Vídeo da Reunião 1</a></p>
+
+
+O video acima descreve a apresentação que foi realizada na etapa de inspeção da etapa 1 do projeto, inspirada no plano de ensino da disciplina Requisitos, da matéria de Requisitos.
+
 ## Apresentação da inspeção da etapa 2
+
+    Video da apresentação
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YQwXgec4ktw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="  https://youtu.be/YQwXgec4ktw" target="blanket">Vídeo da Apresentação da inspeção 2</a></p>
+
+
+O video acima descreve a apresentação que foi realizada na etapa de inspeção da etapa 2 do projeto, inspirada no plano de ensino da disciplina Requisitos, da matéria de Requisitos.
 
 ## Apresentação da inspeção da etapa 3
 
+    Video da apresentação
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/4poV3CJMFiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="  https://youtu.be/4poV3CJMFiM" target="blanket">Vídeo da Apresentação da inspeção 3</a></p>
+
+
+
+O video acima descreve a apresentação que foi realizada na etapa de inspeção da etapa 3 do projeto, inspirada no plano de ensino da disciplina Requisitos, da matéria de Requisitos. 
+
 ## Apresentação da inspeção da etapa 4
 
-## Apresentação da inspeção da etapa 5
+    Video da apresentação
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YZkYhCG_VD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="  https://youtu.be/YZkYhCG_VD4" target="blanket">Vídeo da Apresentação da inspeção 4</a></p>
+
+O video acima descreve a apresentação que foi realizada na etapa de inspeção da etapa 4 do projeto, inspirada no plano de ensino da disciplina Requisitos, da matéria de Requisitos.
 
 ## Apresentação da inspeção da etapa 6
+
+    Video da apresentação
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/PARnCoAXPhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="  https://youtu.be/PARnCoAXPhs" target="blanket">Vídeo da Apresentação da inspeção 6</a></p>
+
+O video acima descreve a apresentação que foi realizada na etapa de inspeção da etapa 4 do projeto, inspirada no plano de ensino da disciplina Requisitos, da matéria de Requisitos.
 
 ## Histórico de versão
 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
-|  1.0   | 06/06/2025 |       Início da documentação       | [Giovana Barbosa ](https://github.com/gio221) |     [Gabriel Mendes](https://github.com/gbevi)          |
+|  1.0   | 06/06/2025 |       Início da documentação e as apresentações de todas as etapas      | [Giovana Barbosa ](https://github.com/gio221) |     [Gabriel Mendes](https://github.com/gbevi)          |

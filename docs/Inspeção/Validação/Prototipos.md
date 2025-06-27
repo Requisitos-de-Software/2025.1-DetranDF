@@ -13,48 +13,50 @@ Fizemos o prototipo no FIGMA, e validamos com usuários presencialmente
 
 |                  Integrante                  |                        Prototipo                  |
 | :------------------------------------------: | :-------------------------------------------------------: |
-| [Giovana Barbosa](https://github.com/gio221) |  Realizar agendamentos presencias (vistoria, CNH, etc.)   |
-| [Giovana Barbosa](https://github.com/gio221) |         Realizar agendamentos presencias (vistoria, CNH, etc.)           |
-|  [Gabriel Mendes](https://github.com/gbevi)  |            Integração com CNH digital e gov.br            |
-|  [Gabriel Mendes](https://github.com/gbevi)  |    Opção para adicionar quilometragem do seu carro     |
-|  [Eric Akio](https://github.com/eric-kingu)  |         Agendamento de provas teóricas e práticas         |
-|  [Eric Akio](https://github.com/eric-kingu)  |      Acessibilidade para diferentes tipos de usuário      |
-|  [João Lobo](https://github.com/joaolobo10)  |              Chat com IA para tirar dúvidas               |
-|  [João Lobo](https://github.com/joaolobo10)  | Atendimento ao vivo com servidor do DETRAN via chat/vídeo |
-|[Luiz Bessa](https://github.com/lfelipebessa)|Histórico de Pesquisas e Serviços Recentes|
-|[Luiz Bessa](https://github.com/lfelipebessa)|Notificação antecipada da data de vencimento da CNH|
-|  [Pedro Camilo](https://github.com/PedrooCamilo) |Área educacional com explicações e vídeos              |
-|  [Pedro Camilo](https://github.com/PedrooCamilo) | Acesso rápido a explicações de siglas                 |
-|  [Maria Eduarda](https://github.com/maaduh) | Notificação de multas e prazos com desconto                |
-|  [Maria Eduarda](https://github.com/maaduh) | Aviso automático em caso de roubo/recuperação do carro     |
+| [Giovana Barbosa](https://github.com/gio221) |  Aviso automático em caso de roubo/recuperação do carro  |
+| [Giovana Barbosa](https://github.com/gio221) |         Área educacional com explicações e vídeos         |
+|  [Gabriel Mendes](https://github.com/gbevi)  |   Opção para adicionar quilometragem do seu carro                |
+|  [Gabriel Mendes](https://github.com/gbevi)  |    Integração com CNH Digital |
+|  [Eric Akio](https://github.com/eric-kingu)  |            |
+|  [Eric Akio](https://github.com/eric-kingu)  |      |
+|  [João Lobo](https://github.com/joaolobo10)  |  Atendimento ao vivo com servidor do DETRAN via chat/vídeo                |
+|  [João Lobo](https://github.com/joaolobo10)  | Chat com IA para tirar dúvidas |
+|[Luiz Bessa](https://github.com/lfelipebessa)|    Verificar autorização de veículo p/ transporte escolar   |
+|[Luiz Bessa](https://github.com/lfelipebessa)|    Disponibilizar seção de leilões de veículos  |
+|  [Pedro Camilo](https://github.com/PedrooCamilo) |    Canal de atendimento humano         |
+|  [Pedro Camilo](https://github.com/PedrooCamilo) |   Explicações Simples sobre termos técnicos            |
+|  [Maria Eduarda](https://github.com/maaduh) |      Consulta e detalhamento de infrações com imagens       |
+|  [Maria Eduarda](https://github.com/maaduh) |   Agendamento de exame médico para CNH |
+|  [Maria Eduarda](https://github.com/maaduh) |  Notificações de vencimento da CNH, multas e licenciamento|
 
-## Realizar agendamentos presencias (vistoria, CNH, etc.)  
 
-## Realizar agendamentos presencias (vistoria, CNH, etc.)  
+<font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa ](https://github.com/gio221), 2025.</p></font>
 
-## Integração com CNH digital e gov.br  
+## Aviso automático em caso de roubo/recuperação do carro
 
-## Opção para adicionar quilometragem do seu carro   
+## Área educacional com explicações e vídeos
 
-## Agendamento de provas teóricas e práticas    
+## Opção para adicionar quilometragem do seu carro
 
-## Acessibilidade para diferentes tipos de usuário
-
-## Chat com IA para tirar dúvidas
+## Integração com CNH Digital 
 
 ## Atendimento ao vivo com servidor do DETRAN via chat/vídeo
 
-## Histórico de Pesquisas e Serviços Recentes
+## Chat com IA para tirar dúvidas
 
-## Notificação antecipada da data de vencimento da CNH
+## Verificar autorização de veículo p/ transporte escolar
 
-## Área educacional com explicações e vídeos 
+## Disponibilizar seção de leilões de veículos
 
-## Acesso rápido a explicações de siglas
+## Canal de atendimento humano
 
-## Notificação de multas e prazos com desconto 
+## Explicações Simples sobre termos técnicos
 
-## Aviso automático em caso de roubo/recuperação do carro
+## Consulta e detalhamento de infrações com imagens
+
+## Agendamento de exame médico para CNH
+
+## Notificações de vencimento da CNH, multas e licenciamento
 
 ## Histórico de versão
 

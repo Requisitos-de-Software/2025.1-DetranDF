@@ -374,7 +374,7 @@ Abaixo, na tabela 17, está especificado o caso de uso para a funcionalidade de 
 | **Pós-condição**      | O usuário não tem reclamações sobre o uso do sistema |
 | **Fluxo principal**   | 1. O usuário acessa o aplicativo. <br>2. A extensão, aplicativo ou o próprio sistema modifica o aplicativo visual ou sonoramente. |
 | **Fluxo alternativo** | 1a. O usuário pede auxílio para outra pessoa para configurar o aplicativo.  |
-| **Fluxo de exceções** | - E1. Sistema não tem suporte para a extensão ou aplicativo: Sistema alerta e impede o acesso. <br>- E2. Sistema não possui configurações de acessibilidade: Sistema apresenta um botão de reclamações. |
+| **Fluxo de exceções** | - E1. Sistema não tem suporte para a extensão ou aplicativo: Sistema alerta e impede o acesso. <br> - E2. Sistema não possui configurações de acessibilidade: Sistema apresenta um botão de reclamações. |
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
 

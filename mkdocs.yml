@@ -41,6 +41,9 @@ markdown_extensions:
   - attr_list
   - tables
 
+extra_css:
+  - custom.css
+
 nav:
   - Início: index.md
   - Atas das Reuniões:
@@ -101,7 +104,7 @@ nav:
               - Backward From: Rastreabilidade/Matrizes/Backward From.md
               - Matriz Geral: Rastreabilidade/Matrizes/Matriz Geral.md
           - Pós-Rastreabilidade: Rastreabilidade/Pós-Rastreabilidade.md
-  - Verificações Projeto:
+  - Verificação:
       - Entrega 1:
           - Lista de Verificação:
               - Home: Verificações/Entrega 1/Lista-verificaçõa/home.md
@@ -210,19 +213,19 @@ nav:
           - Verificação Nosso Grupo:
             - Matriz Geral: Verificações/Entrega 6/grupo-nosso/Matriz Geral.md
             - Pós-Rastreabilidade: Verificações/Entrega 6/grupo-nosso/Pós-Rastreabilidade.md
-  - Verificação Final :
-      - Grupo:
-        - Entrega 1: Verificação final/Verificação/Grupo/entrega1.md
-        - Entrega 2: Verificação final/Verificação/Grupo/entrega2.md
-        - Entrega 3: Verificação final/Verificação/Grupo/entrega3.md
-        - Entrega 4: Verificação final/Verificação/Grupo/entrega4.md
-        - Entrega 6: Verificação final/Verificação/Grupo/entrega6.md
-      - Grupo + 1:
-        - Entrega 1: Verificação final/Verificação/Grupo+1/entrega1.md
-        - Entrega 2: Verificação final/Verificação/Grupo+1/entrega2.md
-        - Entrega 3: Verificação final/Verificação/Grupo+1/entrega3.md
-        - Entrega 4: Verificação final/Verificação/Grupo+1/entrega4.md
-        - Entrega 6: Verificação final/Verificação/Grupo+1/entrega6.md
+      - Verificação Final :
+          - Grupo:
+            - Entrega 1: Verificações/Verificação-final/Verificação/Grupo/entrega1.md
+            - Entrega 2: Verificações/Verificação-final/Verificação/Grupo/entrega2.md
+            - Entrega 3: Verificações/Verificação-final/Verificação/Grupo/entrega3.md
+            - Entrega 4: Verificações/Verificação-final/Verificação/Grupo/entrega4.md
+            - Entrega 6: Verificações/Verificação-final/Verificação/Grupo/entrega6.md
+          - Grupo + 1:
+            - Entrega 1: Verificações/Verificação-final/Verificação/Grupo/entrega1.md
+            - Entrega 2: Verificações/Verificação-final/Verificação/Grupo/entrega2.md
+            - Entrega 3: Verificações/Verificação-final/Verificação/Grupo/entrega3.md
+            - Entrega 4: Verificações/Verificação-final/Verificação/Grupo/entrega4.md
+            - Entrega 6: Verificações/Verificação-final/Verificação/Grupo/entrega6.md
   - Inspeção:
       - Grupo:
         - Entrega 1: Inspeção/Grupo/entrega1.md
@@ -237,9 +240,11 @@ nav:
         - Entrega 4: Inspeção/Grupo+1/entrega4.md
         - Entrega 6: Inspeção/Grupo+1/entrega6.md
       - Grupo -1 e professor: Inspeção/Grupo_1 e professor.md
-      - Validação:
-        - Comprovação Informal: Inspeção/Validação/Comprovação Informal.md
-        - Prototipação: Inspeção/Validação/Prototipos.md
+  
+  - Validação:
+      - Comprovação Informal: Validação/Comprovação Informal.md
+      - Prototipação: Validação/Prototipos.md
+
   - Projeto Final:
     - Aplicativo Selecionado: Entrega Final/app_selecionado.md
     - Cronograma Planejado: Entrega Final/Cronograma_planejado.md

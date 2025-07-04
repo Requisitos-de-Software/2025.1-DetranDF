@@ -34,18 +34,14 @@ Os requisitos elicitados são organizados no artefato [Requisitos elicitados](ht
 
 <font size="3"><p style="text-align: center">**Tabela 1 -**Distribuição das especificação entre os integrantes .</p></font>
 
-|                  Integrante                  |                    Especificação                |
-| :------------------------------------------: | :-------------------------------------------------------: |
-| [Giovana Barbosa](https://github.com/gio221) |  Usabilidade  |
-|  [João Lobo](https://github.com/joaolobo10)  |          Confiabilidade              |
-|  [João Lobo](https://github.com/joaolobo10)  |        Desempenho          |
-|  [Gabriel Mendes](https://github.com/gbevi)  |          Suportabilidade           |
-|  [Pedro Camilo](https://github.com/PedrooCamilo) |Ajuda e Documentação             |
-|[Luiz Bessa](https://github.com/lfelipebessa)|Restrições de Design|
-|  [Maria Eduarda](https://github.com/maaduh) | Requisitos de Implementação         |
-|[Luiz Bessa](https://github.com/lfelipebessa)|Requisitos Físicos|
-
-
+|                  Integrante                  |                    Especificação                                      |
+| :------------------------------------------: | :-------------------------------------------------------------------: |
+| [Giovana Barbosa](https://github.com/gio221) | Usabilidade                                                           |
+|  [João Lobo](https://github.com/joaolobo10)  | Confiabilidade, Desempenho                                            |
+| [Gabriel Mendes](https://github.com/gbevi)   | Suportabilidade                                                       |
+| [Pedro Camilo](https://github.com/PedrooCamilo) | Ajuda e Documentação                                                 |
+| [Luiz Bessa](https://github.com/lfelipebessa)| Restrições de Design, Requisitos Físicos                             |
+| [Maria Eduarda](https://github.com/maaduh)   | Requisitos de Implementação                                           |
 
 #### Usabilidade
 
@@ -69,8 +65,8 @@ Confiabilidade diz respeito à operação correta e estável do sistema ao longo
 
 |  ID  |                                                            Descrição                                                             | Rastreabilidade |
 | :--: | :------------------------------------------------------------------------------------------------------------------------------: | :-------------: |
-| US01 |    Segurança é parte da confiabilidade, pois falhas na proteção de dados comprometem a integridade e a confiança no sistema.     |      RNF03      |
-| US02 | Garante que as informações sejam compreendidas corretamente, evitando erros de uso, o que reforça a confiabilidade da interação. |      RNF12      |
+| US01 | O sistema deve garantir criptografia de dados sensíveis e autenticação segura, com tolerância a falhas inferior a 1% por mês.    |      RNF03      |
+| US02 | A taxa de erro por uso incorreto da interface deve ser inferior a 2% durante testes de usabilidade com, no mínimo, 10 usuários. |      RNF12      |
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
@@ -82,11 +78,12 @@ Desempenho refere-se à capacidade do sistema de responder de forma rápida e ef
 
 <font size="3"><p style="text-align: center">**Tabela 3 -** Requisitos Não Funcionais – Desempenho.</p></font>
 
-|  ID  |                                                                                     Descrição                                                                                      | Rastreabilidade |
-| :--: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: |
-| US01 | Relaciona-se ao desempenho pois o sistema deve manter sua performance estável em diferentes ambientes (Android, iOS, navegadores), exigindo otimização para múltiplas plataformas. |      RNF02      |
-| US02 |                            Aumenta o número de acessos simultâneos; o sistema deve ter bom desempenho sob picos de tráfego sem lentidão ou travamentos.                            |      RNF08      |
-| US03 |                                 Está diretamente ligado ao desempenho, pois exige respostas rápidas do sistema para garantir fluidez na navegação.                                 |      RNF10      |
+|  ID  |                                                                                   Descrição                                                                                   | Rastreabilidade |
+| :--: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: |
+| US01 | O sistema deve manter tempo de resposta inferior a 500 ms em 95% das requisições nos principais navegadores e plataformas móveis, com foco em Android 14 e iOS 18.            |      RNF02      |
+| US02 | O sistema deve suportar no mínimo 500 usuários simultâneos, especialmente em dispositivos Android 14, com degradação de desempenho inferior a 10% durante testes de estresse. |      RNF08      |
+| US03 | Em dispositivos com Android 14, as transições de tela devem ocorrer em até 300 ms para garantir fluidez na navegação em pelo menos 90% dos testes com usuários.              |      RNF10      |
+
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 

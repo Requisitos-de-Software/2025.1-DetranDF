@@ -53,22 +53,15 @@ A tabela 2 descreve qual funcionalidade cada integrante fez um caso de uso.
 
 <font size="3"><p style="text-align: center">**Tabela 2 -** Divisão de caso de uso por integrantes da equipe.</p></font>
 
-| Ordem | Código | Funcionalidade                                                   | Responsável                                  |
-| ----- | ------ | ---------------------------------------------------------------- | -------------------------------------------- |
-| 1     | UC01   | Realizar agendamentos presenciais (vistoria, CNH, etc.)          | [Giovana Barbosa](https://github.com/gio221) |
-| 2     | UC02   | Sistema de pagamento de taxas e débitos                          | [Giovana Barbosa](https://github.com/gio221) |
-| 3     | UC03   | Chat com IA para tirar dúvidas                                   | [João Lobo](https://github.com/joaolobo10)   |
-| 4     | UC04   | Atendimento ao vivo com servidor do DETRAN via chat/vídeo        | [João Lobo](https://github.com/joaolobo10)   |
-| 5     | UC05   | Integração com CNH digital                              | [Gabriel Mendes](https://github.com/gbevi)   |
-| 6     | UC06   | Opção para adicionar quilometragem do seu carro | [Gabriel Mendes](https://github.com/gbevi)   |
-| 7     | UC07   | Histórico de Pesquisas e Serviços Recentes                       | [Luiz Bessa](https://github.com/lfelipebessa)  |
-| 8     | UC08   | Notificação antecipada da data de vencimento da CNH              | [Luiz Bessa](https://github.com/lfelipebessa)  |
-| 9     | UC09   | Área educacional com explicações e vídeos                        |[Pedro Camilo](https://github.com/PedrooCamilo)|
-| 10    | UC10   | Explicações acessíveis sobre siglas                              |[Pedro Camilo](https://github.com/PedrooCamilo)|
-| 11    | UC11   | Notificação de multas e prazos com desconto                      | [Maria Eduarda](https://github.com/maaduh)  |
-| 12    | UC12   | Aviso automático em caso de roubo/recuperação do carro           | [Maria Eduarda](https://github.com/maaduh)  |
-| 13    | UC13   | Agendamento online para provas teóricas e práticas               | [Eric Akio](https://github.com/eric-kingu)   |
-| 14    | UC14   | Acessibilidade para diferentes perfis de usuários                | [Eric Akio](https://github.com/eric-kingu)   |
+| Responsável                                   | Funcionalidades                                                                                      |
+| -------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [Giovana Barbosa](https://github.com/gio221) | [UC01 - Realizar agendamentos presenciais](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/#uc1) <br>[UC02 - Sistema de pagamento de taxas e débitos](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/#uc2)          |
+| [João Lobo](https://github.com/joaolobo10)   | [UC03 - Chat com IA para tirar dúvidas](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/#uc3) <br>[UC04 - Atendimento ao vivo com servidor do DETRAN](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/#uc4)          |
+| [Gabriel Mendes](https://github.com/gbevi)   | [UC05 - Integração com CNH digital](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/#uc5) <br>[UC06 - Opção para adicionar quilometragem do seu carro](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/#uc6)         |
+| [Luiz Bessa](https://github.com/lfelipebessa)| [UC07 - Histórico de Pesquisas e Serviços Recentes](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/#uc7) <br>[UC08 - Notificação antecipada da data de vencimento da CNH](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/#uc8) |
+| [Pedro Camilo](https://github.com/PedrooCamilo) | [UC09 - Área educacional com explicações e vídeos](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/#uc9) <br>[UC10 - Explicações acessíveis sobre siglas](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/#uc10)     |
+| [Maria Eduarda](https://github.com/maaduh)   | [UC11 - Notificação de multas e prazos com desconto](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/#uc11) <br>[UC12 - Aviso automático em caso de roubo/recuperação do carro](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/#uc12) |
+| [Eric Akio](https://github.com/eric-kingu)   | [UC13 - Agendamento online para provas teóricas e práticas](https://requisitos-de-software.github.io/2025.1-DetranDF/modelagem/caso-de-uso/#uc13) <br>[UC14 - Acessibilidade para diferentes perfis de usuários](#uc14) |
 
 Já na tabela 3 temos o modelo base usado em nossas especificações dos casos de uso.
 
@@ -85,6 +78,9 @@ Já na tabela 3 temos o modelo base usado em nossas especificações dos casos d
 | **Fluxo de exceções** | Sequências de passos que descrevem como lidar com erros ou situações inesperadas durante a execução do caso de uso.                                           |
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+
+<a id="uc01"></a>
 
 ### Requisitos Realizar agendamento de serviços
 
@@ -104,6 +100,8 @@ Abaixo, na tabela 4, está especificado o caso de uso para a funcionalidade de "
 | **Fluxo de exceções** | - E1. Falha de conexão com o sistema: exibir mensagem de erro e tentar nova conexão. <br>- E2. Dados obrigatórios não preenchidos: sistema alerta e impede a confirmação do agendamento.                                                                                                                                                                                                         |
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
+
+<a id="uc02"></a>
 
 ### Sistema de pagamento de taxas e débitos
 
@@ -125,6 +123,8 @@ Abaixo, na tabela 5, está especificado o caso de uso para a funcionalidade de "
 
 <font size="3"><p style="text-align: center">Fonte: [Giovana Barbosa](https://github.com/gio221) , 2025.</p></font>
 
+<a id="uc03"></a>
+
 ### Chat com IA para tirar dúvidas
 
 Abaixo, na tabela 6, está especificado o caso de uso para a funcionalidade de "Chat com IA para tirar dúvidas".
@@ -138,9 +138,9 @@ Abaixo, na tabela 6, está especificado o caso de uso para a funcionalidade de "
 | **Pré-condição**      | O usuário deve estar logado no aplicativo, possuir conexão com a internet e a IA e base de conhecimento devem estar ativas.                                                                                                                                               |
 | **Pós-condição**      | O usuário recebe uma resposta adequada à sua dúvida ou é redirecionado para atendimento humano, se necessário.                                                                                                                                                            |
 | **Fluxo principal**   | 1. O usuário acessa o aplicativo do Detran DF. <br>2. Clica na opção “Chat de dúvidas”. <br>3. A IA cumprimenta e oferece categorias de ajuda. <br>4. O usuário faz uma pergunta. <br>5. A IA responde com base na base de conhecimento. <br>6. O usuário encerra o chat. |
-| **Fluxo alternativo** | O usuário faz uma pergunta fora das categorias mostradas, e a IA tenta redirecioná-lo para uma categoria relevante.                                                                                                                                                       |
-| **Fluxo de exceções** | - A IA não entende a pergunta ou o assunto está fora do escopo: a IA informa que não pode ajudar e fornece contato humano. <br>- O limite diário de 10 interações é atingido: a IA informa o limite e sugere tentar no dia seguinte.                                      |
-|                       |
+| **Fluxos alternativos** | - O usuário faz uma pergunta fora das categorias mostradas, e a IA tenta redirecioná-lo para uma categoria relevante. <br> - O usuário utiliza linguagem inadequada ou ofensiva: a IA emite um aviso de conduta e pode encerrar o atendimento após 3 infrações. <br> - O usuário solicita atendimento humano diretamente: a IA verifica disponibilidade e encaminha para um atendente, se possível.  <br> - O usuário deseja salvar o histórico de conversa: a IA oferece opção de exportar via PDF ou e-mail.  <br> - O usuário pergunta sobre um serviço temporariamente indisponível: a IA informa a indisponibilidade e sugere alternativas. |
+| **Fluxos de exceção** | - A IA não entende a pergunta ou o assunto está fora do escopo: a IA informa que não pode ajudar e fornece contato humano. <br> - O limite diário de 10 interações é atingido: a IA informa o limite e sugere tentar no dia seguinte. <br> - Conexão com a internet é perdida durante o uso: o chat é interrompido e uma notificação orienta o usuário a verificar sua conexão. <br> - A IA está indisponível por manutenção: o sistema exibe aviso de indisponibilidade temporária e sugere canais alternativos de atendimento. <br> - O usuário não interage por mais de 5 minutos: a sessão é encerrada automaticamente com aviso de inatividade. |
+
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
@@ -159,10 +159,13 @@ Abaixo, na tabela 7, está especificado o caso de uso para a funcionalidade de "
 | **Pré-condição**      | O usuário deve estar logado, ter conexão com a internet, e já ter feito um agendamento válido.                                                                                                                                                                                                                             |
 | **Pós-condição**      | O atendimento é realizado com sucesso e registrado no sistema.                                                                                                                                                                                                                                                             |
 | **Fluxo principal**   | 1. O usuário acessa o app. <br>2. Navega até “Atendimento ao vivo”. <br>3. Escolhe o serviço e agenda o horário. <br>4. No dia e hora marcados, acessa o atendimento. <br>5. O servidor inicia o atendimento por vídeo. <br>6. O atendimento ocorre por vídeo, voz ou chat. <br>7. O atendimento é encerrado e registrado. |
-| **Fluxo alternativo** | O usuário opta por não ativar a câmera e é atendido apenas por voz ou chat.                                                                                                                                                                                                                                                |
-| **Fluxo de exceções** | - O usuário não comparece no horário agendado: o atendimento é cancelado automaticamente. <br>- Instabilidade de conexão: o servidor pode remarcar. <br>- Tentativa de acesso fora do horário: o sistema bloqueia a conexão.                                                                                               |
+| **Fluxos alternativos** | - O usuário opta por não ativar a câmera e é atendido apenas por voz ou chat.  <br> - O servidor inicia o atendimento com atraso de até 5 minutos por questões operacionais.  <br> - O usuário decide reagendar antes do horário marcado: o sistema permite uma remarcação com no mínimo 1 hora de antecedência.  <br> - O atendimento começa por vídeo, mas é transferido para o chat por problemas técnicos com o microfone ou câmera.  <br> - O servidor verifica que a solicitação do usuário não corresponde ao serviço agendado e o orienta a reagendar corretamente. |
+| **Fluxos de exceções** | - O usuário não comparece no horário agendado: o atendimento é cancelado automaticamente após 10 minutos de tolerância.  <br> - Instabilidade de conexão de qualquer das partes: o servidor pode remarcar automaticamente ou sugerir novo horário. <br> - Tentativa de acesso fora do horário agendado: o sistema bloqueia a conexão e exibe mensagem de erro. <br> - O servidor não está disponível no horário marcado: o sistema notifica o usuário e oferece reagendamento prioritário.  <br> - O atendimento é interrompido por queda do sistema: o sistema registra o erro e envia confirmação ao usuário para reagendamento.  <br> - O usuário se comporta de forma inadequada ou desrespeitosa: o servidor pode encerrar a sessão e o sistema registra o incidente. |
+                                                                                          |
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+<a id="uc05"></a>
 
 ### Integração com CNH Digital
 
@@ -182,7 +185,7 @@ Abaixo, na Tabela 8, está especificado o caso de uso para a funcionalidade **�
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi), 2025.</p></font>
 
-
+<a id="uc06"></a>
 
 ### Opção para adicionar quilometragem do seu carro
 
@@ -201,6 +204,8 @@ Abaixo, na Tabela 9, está especificado o caso de uso para a funcionalidade **�
 | **Fluxo de exceções** | **E1 – quilometragem neagtiva:**<br>• Sistema bloqueia envio, exibe mensagem e oferece editar. |
 
 <font size="3"><p style="text-align: center">Fonte: [Gabriel Dantas](https://github.com/gbevi), 2025.</p></font>
+
+<a id="uc07"></a>
 
 ### Histórico de Pesquisas e Serviços Recentes
 
@@ -222,6 +227,8 @@ Abaixo, na Tabela 10, está especificado o caso de uso para a funcionalidade de 
 
 ---
 
+<a id="uc08"></a>
+
 ### Notificação antecipada da data de vencimento da CNH
 
 Abaixo, na Tabela 11, está especificado o caso de uso para a funcionalidade de **"Notificação antecipada da data de vencimento da CNH"**.
@@ -240,6 +247,8 @@ Abaixo, na Tabela 11, está especificado o caso de uso para a funcionalidade de 
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Bessa](https://github.com/lfelipebessa), 2025.</p></font>
 
+<a id="uc09"></a>
+
 ### Área educacional com explicações e vídeos
 
 Abaixo, na tabela 12, está especificado o caso de uso para a funcionalidade de "Área educacional com explicações e vídeos".
@@ -257,8 +266,9 @@ Abaixo, na tabela 12, está especificado o caso de uso para a funcionalidade de 
 | **Fluxo alternativo** | A1. O usuário utiliza o campo de busca para encontrar um tema específico. <br> A2. O sistema exibe apenas os conteúdos relacionados ao termo buscado.                                                                                                                                                                |
 | **Fluxo de exceções** | E1. Falha na conexão com a internet. <br> → O sistema exibe mensagem de erro: “Conexão indisponível. Verifique sua internet.” <br> E2. Nenhum conteúdo disponível no momento. <br> → O sistema informa que novos conteúdos serão adicionados em breve.                                                               |
 
-
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
+
+<a id="uc10"></a>
 
 ### Explicações acessíveis sobre siglas
 
@@ -277,8 +287,9 @@ Abaixo, na tabela 13, está especificado o caso de uso para a funcionalidade de 
 | **Fluxo alternativo** | A1. O usuário acessa uma seção dedicada com a lista completa de siglas e significados. <br> A2. O sistema exibe a lista e permite busca por sigla.                                                                                                                                        |
 | **Fluxo de exceções** | E1. A sigla não possui explicação cadastrada. <br> → O sistema exibe a mensagem: “Estamos trabalhando para adicionar essa explicação. Você pode enviar sua dúvida aqui.”                                                                                                                  |
 
-
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo](https://github.com/PedrooCamilo) , 2025.</p></font>
+
+<a id="uc11"></a>
 
 ### Notificação de multas e prazos com desconto
 
@@ -286,7 +297,7 @@ Abaixo, na tabela 14, está especificado o caso de uso para a funcionalidade de 
 
 <font size="3"><p style="text-align: center">**Tabela 14 -** Notificação de multas e prazos com desconto.</p></font>
 
-| UC12                  | Notificação de multas e prazos com desconto                                                                                                                                            |
+| UC11                  | Notificação de multas e prazos com desconto                                                                                                                                            |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Descrição**         | Permite que o sistema informe o usuário sobre uma multa registrada, indicando que ainda está dentro do prazo para pagamento com desconto.                                                                                                   |
 | **Atores**            | 	Usuário, Sistema do Detran DF                                                                                                           |
@@ -302,6 +313,8 @@ Abaixo, na tabela 14, está especificado o caso de uso para a funcionalidade de 
 - E2. Multa vencida durante o processo: o sistema atualiza o status e remove desconto.                                           |
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
+
+<a id="uc12"></a>
 
 ### Aviso automático em caso de roubo/recuperação do carro
 
@@ -325,6 +338,8 @@ Abaixo, na tabela 15, está especificado o caso de uso para a funcionalidade de 
 
 <font size="3"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/maaduh) , 2025.</p></font>
 
+<a id="uc13"></a>
+
 ### Agendamento online para provas teóricas e práticas
 
 Abaixo, na tabela 16, está especificado o caso de uso para a funcionalidade de "Agendamento online para provas teóricas e práticas".
@@ -342,6 +357,8 @@ Abaixo, na tabela 16, está especificado o caso de uso para a funcionalidade de 
 | **Fluxo de exceções** | - E1. Falha de conexão com o sistema: exibir mensagem de erro e tentar nova conexão. <br>- E2. Dados obrigatórios não preenchidos: sistema alerta e impede a confirmação do agendamento. <br>- E3. Usuário tenta selecionar prova prática mas não fez ou não passou na prova teórica: Sistema alerta e impede a confirmação do agendamento. |
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
+
+<a id="uc14"></a>
 
 ### Acessibilidade para diferentes perfis de usuários
 
@@ -378,4 +395,4 @@ Abaixo, na tabela 17, está especificado o caso de uso para a funcionalidade de 
 |  1.8   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Área educacional com explicações e vídeos, Explicações acessíveis sobre siglas             |  [Pedro Camilo](https://github.com/PedrooCamilo)   |                  [Gabriel Mendes](https://github.com/gbevi)                             |
 |  1.9   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, Integração CNH digital e gov.br, área de autoescolas             |  [Gabriel Mendes](https://github.com/gbevi)   | [Maria Eduarda](https://github.com/maaduh) |
 |  2.0   | 17/05/2025 |            Realização das tabelas de caso de uso das funcionalidades, notificação de multas e prazos com desconto, aviso automático em caso de roubo/recuperação do carro             |  [Maria Eduarda](https://github.com/maaduh)   | [Giovana Barbosa](https://github.com/gio221)  |
-
+|  2.1   | 04/07/2025 |         Adicionei mais tópicos para fluxos alternativos na UC03 e UC04, e tirei a redundância de nomes da tabela de contribuição além de criar a rastreabilidades para as UC             |  [João Lobo](https://github.com/joaolobo10)   |   |

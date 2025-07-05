@@ -59,37 +59,28 @@ Todos os integrantes do grupo participaram da elaboração das listas de verific
 ## Lista de Verificação – Conteúdo da Disciplina
 
 | Item | Descrição | Autor | Avaliação | Referência |
-|------|-----------|--------|--------|------------|
-| 01 | Backlog documentado com estrutura clara |[Giovana Barbosa](https://github.com/gio221)  | Sim |  [1.](#ref1) [Imagem](../../../assets/productBacklog.png) |
-| 02 | As Histórias de Usuário seguem algum modelo ou padrão? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |Sim  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 03 | O artefato possui uma visão geral clara do NFR Framework? | [Gabriel Mendes](https://github.com/gbevi) |  Sim | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag30.png) |
-| 04 | Existe o backlog? |[Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 05 | Itens do backlog estão estruturados como histórias de usuário? | [João Lobo](https://github.com/joaolobo10) | Sim | [1.](#ref1) [Imagem](../../../assets/verificação/backlog2.png) |
-| 06 | Itens seguem o formato “Como <persona>, eu desejo <ação> para que <valor>”? | [Maria Eduarda](https://github.com/maaduh) |  Sim | [4.](#ref4) [Imagem](../../../assets/verificação/backlog3.png) |
-| 07 | Itens do backlog estão agrupados em épicos? | [Pedro Camilo](https://github.com/PedrooCamilo) | Sim | [1.](#ref1) [Imagem](../../../assets/verificação/backlog4.png) |
-| 08 | Existe NFR Framework? |[Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 09 | Existe histórias de usuário? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342)  |  Sim| [2.](#ref2) [Imagem](../../../assets/plano-ensino.png)  |
-| 10 | Os títulos das histórias de usuário são autoexplicativos? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |Sim  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 11 | O “quem”, “o que” e o “por que” estão definidos na Histórias de Usuário? |[Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342)  |Sim  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 12 | A participação do cliente/persona na validação das Histórias de Usuário |[Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 13 | A história possui critérios de aceitação? |[Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 14 | Participação do cliente/persona na elicitação de requisitos | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |Sim | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 15 | Todas as histórias de usuário podem ser testadas? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |Sim  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 16 | As histórias de usuário são adequadas para representar a experiência do usuário no Detran DF? | [Eric Akio](https://github.com/eric-kingu) | Sim | [2.](#ref2) |
-| 17 | Backlog possui épicos e temas bem definidos? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |Sim  | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 18 | Backlog cobre todas as funcionalidades do produto? |  [Luiz Bessa](https://github.com/lfelipebessa) | Sim | [1.](#ref1) [Imagem](../../../assets/verificação/backlog1.png) |
-| 19 | A definição do RNF e as fontes de evidência na literatura? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342)  | Sim | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 20 | Os softgoals condizem com o contexto? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |Sim | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 21 | Softgoals representam metas bem definidas? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |Sim | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
-| 22 | O artefato descreve adequadamente o Softgoal Interdependency Graph (SIG)? | [Giovana Barbosa](https://github.com/gio221) |Sim  | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag30.png) |
-| 23 | O artefato define claramente os tipos de Softgoals usados no NFR Framework? | [Gabriel Mendes](https://github.com/gbevi) |Sim  | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag31.png) |
-| 24 | O artefato apresenta exemplos de interdependências entre os Softgoals? | [João Lobo](https://github.com/joaolobo10) | Sim | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag31.png) |
-| 25 | O artefato descreve o procedimento de avaliação dos Softgoals? | [João Lobo](https://github.com/joaolobo10) |Sim  | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag37.png) |
-| 26 | O artefato fornece uma visão geral das interdependências e contribuições entre Softgoals? |  [Maria Eduarda](https://github.com/maaduh) |Sim  | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag32png) |
-| 27 | O diagrama Softgoal Interdependency Graph (SIG) foi representado de forma adequada, destacando corretamente os relacionamentos do tipo AND, OR, bem como as contribuições e conflitos? | [Pedro Camilo](https://github.com/PedrooCamilo) |  Sim | [1.](#ref1) [Imagem](../../../assets/and-or.png) |
-| 28 | As interdependências entre os softgoals, sejam elas positivas ou negativas, foram claramente reconhecidas e registradas? | [Eric Akio](https://github.com/eric-kingu) | Sim | [1.](#ref1) [Imagem](../../../assets/and-or.png) |
-| 29 | O artefato apresenta o conceito de refinamentos de Softgoals e suas contribuições para o desenvolvimento do projeto? | [Luiz Bessa](https://github.com/lfelipebessa) | Sim | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag31.png) |
-| 30 | O modelo do NFR Framework apresenta softgoals, interdependências, métodos e correlações de forma estruturada e bem definida? |  [João Lobo](https://github.com/joaolobo10) |Sim   | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag32.png) |
+|------|-----------|--------|-----------|------------|
+| 01 | Backlog documentado com estrutura clara | [Giovana Barbosa](https://github.com/gio221) | Sim | [1.](#ref1) [Imagem](../../../assets/productBacklog.png) |
+| 02 | O artefato possui uma visão geral clara do NFR Framework? | [Gabriel Mendes](https://github.com/gbevi) | Sim | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag30.png) |
+| 03 | Itens do backlog estão estruturados como histórias de usuário? | [João Lobo](https://github.com/joaolobo10) | Sim | [1.](#ref1) [Imagem](../../../assets/verificação/backlog2.png) |
+| 04 | Itens seguem o formato “Como <persona>, eu desejo <ação> para que <valor>”? | [Maria Eduarda](https://github.com/maaduh) | Sim | [4.](#ref4) [Imagem](../../../assets/verificação/backlog3.png) |
+| 05 | Itens do backlog estão agrupados em épicos? | [Pedro Camilo](https://github.com/PedrooCamilo) | Sim | [1.](#ref1) [Imagem](../../../assets/verificação/backlog4.png) |
+| 06 | Existe histórias de usuário? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 07 | O “quem”, “o que” e o “por que” estão definidos na Histórias de Usuário? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 08 | As histórias de usuário são adequadas para representar a experiência do usuário no Detran DF? | [Eric Akio](https://github.com/eric-kingu) | Sim | [2.](#ref2) |
+| 09 | Backlog cobre todas as funcionalidades do produto? | [Luiz Bessa](https://github.com/lfelipebessa) | Sim | [1.](#ref1) [Imagem](../../../assets/verificação/backlog1.png) |
+| 10 | A definição do RNF e as fontes de evidência na literatura? | [Andre Barros](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Sim | [2.](#ref2) [Imagem](../../../assets/plano-ensino.png) |
+| 11 | O artefato descreve adequadamente o Softgoal Interdependency Graph (SIG)? | [Giovana Barbosa](https://github.com/gio221) | Sim | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag30.png) |
+| 12 | O artefato define claramente os tipos de Softgoals usados no NFR Framework? | [Gabriel Mendes](https://github.com/gbevi) | Sim | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag31.png) |
+| 13 | O artefato apresenta exemplos de interdependências entre os Softgoals? | [João Lobo](https://github.com/joaolobo10) | Sim | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag31.png) |
+| 14 | O artefato descreve o procedimento de avaliação dos Softgoals? | [João Lobo](https://github.com/joaolobo10) | Sim | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag37.png) |
+| 15 | O artefato fornece uma visão geral das interdependências e contribuições entre Softgoals? | [Maria Eduarda](https://github.com/maaduh) | Sim | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag32png) |
+| 16 | O diagrama Softgoal Interdependency Graph (SIG) foi representado de forma adequada, destacando corretamente os relacionamentos do tipo AND, OR, bem como as contribuições e conflitos? | [Pedro Camilo](https://github.com/PedrooCamilo) | Sim | [1.](#ref1) [Imagem](../../../assets/and-or.png) |
+| 17 | As interdependências entre os softgoals, sejam elas positivas ou negativas, foram claramente reconhecidas e registradas? | [Eric Akio](https://github.com/eric-kingu) | Sim | [1.](#ref1) [Imagem](../../../assets/and-or.png) |
+| 18 | O artefato apresenta o conceito de refinamentos de Softgoals e suas contribuições para o desenvolvimento do projeto? | [Luiz Bessa](https://github.com/lfelipebessa) | Sim | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag31.png) |
+| 19 | O modelo do NFR Framework apresenta softgoals de forma estruturada e bem definida? | [João Lobo](https://github.com/joaolobo10) | Sim | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag32.png) |
+| 20 | O modelo do NFR Framework apresenta interdependências, métodos e correlações de forma estruturada e bem definida? | [João Lobo](https://github.com/joaolobo10) | Sim | [3.](#ref3) [Imagem](../../../assets/nfr-verificacao/pag32.png) |
+
 
 <font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
 

@@ -46,10 +46,10 @@ O cronograma da realização do protótipo de alta fidelidade se encontra na tab
 
 ## Protótipo
 
-O resultado final do protótipo de alta fidelidade, com base nos requisitos listados na seção [metodologia](#metodologia), pode ser obervado [aqui](https://embed.figma.com/proto/ohrsL5pYJxKWrbSbha2sQE/Detran-DF?page-id=0%3A1&node-id=121-4908&viewport=309%2C-794%2C0.35&scaling=min-zoom&content-scaling=fixed&embed-host=share).
+O resultado final do protótipo de alta fidelidade, com base nos requisitos listados na seção [metodologia](#metodologia), pode ser obervado [aqui](https://embed.figma.com/proto/mk04tcRJ6kghICf6w5hJmI/Detran-DF?page-id=0%3A1&node-id=4-1702&p=f&viewport=351%2C61%2C0.15&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A339&embed-host=share).
 
 <center>
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="500" height="800" src="https://embed.figma.com/proto/ohrsL5pYJxKWrbSbha2sQE/Detran-DF?page-id=0%3A1&node-id=121-4908&viewport=309%2C-794%2C0.35&scaling=min-zoom&content-scaling=fixed&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="500" height="800" src="https://embed.figma.com/proto/mk04tcRJ6kghICf6w5hJmI/Detran-DF?page-id=0%3A1&node-id=4-1702&p=f&viewport=351%2C61%2C0.15&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A339&embed-host=share" allowfullscreen></iframe>
 </center>
 
 ## Validação

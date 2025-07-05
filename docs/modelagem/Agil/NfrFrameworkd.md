@@ -110,6 +110,15 @@ A propagação de impactos denota a relação entre os requisitos não-funcionai
 
 - **u** (indeterminado): indica uma relação desconhecida ou indefinida entre os requisitos, quando não há informações suficientes para avaliar o impacto.
 
+<font size="3"><p style="text-align: center">**Figura 5 -** Impactos softgoals</p></font>
+
+
+![Tipo-decomposição](../../assets/procedimento.png)
+
+
+<font size="2"><p style="text-align: center">**Fonte:** (SILVA, Reinaldo Antônio. NFR4ES)
+, 2025.</p></font>
+
 # Cartões de Especificação
 
 A utilização de cartões de especificação proporciona uma abordagem estruturada e clara para documentar cada requisito não funcional. Esses cartões reúnem informações fundamentais, como a descrição, a justificativa, a origem, os critérios de aceitação, as dependências, a prioridade, possíveis conflitos e o histórico de alterações. A Tabela 1 apresenta uma visão detalhada e de fácil compreensão dos RNFs, destacando os principais elementos que devem compor cada cartão de especificação.
@@ -964,4 +973,5 @@ No video abaixo é feito a validação da parte de acessibilidade pelo integrant
 | 2.4 | 01/06/2025 | Adição de cartões para desempenho e eficiência e propagação de impactos | [Maria Eduarda](https://github.com/maaduh) |  [Giovana Barbosa ](https://github.com/gio221)|
 | 2.5 | 01/06/2025 | Adição de imagens das Softgoals de com e sem propagação de impactos, das RNF Disponibilidade e Confiabilidade | [João Lobo](https://github.com/joaolobo10) | [Giovana Barbosa ](https://github.com/gio221) |
 |2.6|26/06/2025|adicionando tabela de divisão, para o professor entender quem fez o que | [Giovana Barbosa](https://github.com/gio221) |[João Lobo](https://github.com/joaolobo10)|
+|2.7|04/07/2025| Adição da imagens de impactos | [João Lobo](https://github.com/joaolobo10) | |
 

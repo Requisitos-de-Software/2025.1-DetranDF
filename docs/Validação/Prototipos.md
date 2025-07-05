@@ -90,7 +90,11 @@ add video
 
 ### Validação RF30 e RF29
 
-texto introduzindo
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/gc2wA1H3h-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/gc2wA1H3h-o" target="blanket">Vídeo da validação do RF29 com o usuário Júlia Ratti 21/06/2025 </a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/kxLuPv6Zagc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/kxLuPv6Zagc" target="blanket">Vídeo da validação do RF30 com o usuário Júlia Ratti 21/06/2025 </a></p>
 
 add video
 

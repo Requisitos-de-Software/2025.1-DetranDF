@@ -20,6 +20,8 @@ O artefato foi criado a partir dos requisitos ainda não implementados, distribu
 - [RF30](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Canal de atendimento humano  
 - [RF12](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Opção para adicionar quilometragem do seu carro  
 - [RF15](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Integração com CNH Digital  
+- [RF40](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Pagamento de débitos para liberação do veículo
+- [RF41](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Simulado de prova teórica
 - [RF42](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Disponibilizar seção de leilões de veículos  
 - [RF43](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Verificar autorização de veículo p/ transporte escolar  
 - [RFXX](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Área educacional com explicações e vídeos
@@ -35,7 +37,7 @@ O cronograma da realização do protótipo de alta fidelidade se encontra na tab
 | :------------------------------------------: | :----------------------------------: | :--------: | :----: |
 | [Giovana Barbosa](https://github.com/gio221) | Prototipação dos RF09 e RNF04        |  20/06/25  | 18:00  |
 | [Gabriel Mendes](https://github.com/gbevi)   | Prototipação dos RF12 e RF15         |  19/06/25  | 20:00  |
-| [Eric Akio](https://github.com/eric-kingu)   |                                      |  20/06/25  | 19:00  |
+| [Eric Akio](https://github.com/eric-kingu)   | Prototipação dos RF40 e RF41        |  20/06/25  | 19:00  |
 | [João Lobo](https://github.com/joaolobo10)   | Prototipação dos RF16 e RF14         |  19/06/25  | 15:00  |
 | [Luiz Bessa](https://github.com/lfelipebessa)| Prototipação dos RF42 e RF43         |  20/06/25  | 20:00  |
 | [Pedro Camilo](https://github.com/PedrooCamilo)| Prototipação dos RF30 e RF29       |  19/06/25  | 21:00  |
@@ -46,7 +48,7 @@ O cronograma da realização do protótipo de alta fidelidade se encontra na tab
 
 ## Protótipo
 
-O resultado final do protótipo de alta fidelidade, com base nos requisitos listados na seção [metodologia](#metodologia), pode ser obervado [aqui](https://embed.figma.com/proto/mk04tcRJ6kghICf6w5hJmI/Detran-DF?page-id=0%3A1&node-id=4-1702&p=f&viewport=351%2C61%2C0.15&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A339&embed-host=share).
+O resultado final do protótipo de alta fidelidade, com base nos requisitos listados na seção [metodologia](#metodologia), pode ser observado [aqui](https://embed.figma.com/proto/mk04tcRJ6kghICf6w5hJmI/Detran-DF?page-id=0%3A1&node-id=4-1702&p=f&viewport=351%2C61%2C0.15&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A339&embed-host=share).
 
 <center>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="500" height="800" src="https://embed.figma.com/proto/mk04tcRJ6kghICf6w5hJmI/Detran-DF?page-id=0%3A1&node-id=4-1702&p=f&viewport=351%2C61%2C0.15&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A339&embed-host=share" allowfullscreen></iframe>
@@ -88,6 +90,14 @@ texto introduzindo
 
 add video
 
+### Validação RF40 e RF41
+
+Foi feito a validação com a usuária Lucivane sobre os protótipos de requisitos funcionais: pagamento de débitos para liberação de veículo; e simulado de prova teórica. O resultado da validação é encontrado no vídeo abaixo
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/f__DpQWkf6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/f__DpQWkf6M" target="blanket">Vídeo da validação do RF40 e RF41 com a usuária Lucivane 05/07/2025 </a></p>
+
+
 ### Validação RF42 e RF43
 
 texto introduzindo
@@ -119,4 +129,5 @@ add video
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 17/06/2025 | criação da pagina,introdução, objetivo , metodologia e tabela 1 |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Dantas](https://github.com/gbevi) |
-|  1.1   | 04/07/2025 | Reestruturação da página por inteira, adição de textos para cada tópico, adição de protótipo do figma integrado, listagem dos requisitos e tabela de cronograma dos protótipos, faltando apenas agora cada integrande adicionar o vídeo da validação individual do protótipo de cada requisito |  [João Lobo](https://github.com/joaolobo10)   | |
+|  1.1   | 04/07/2025 | Reestruturação da página por inteira, adição de textos para cada tópico, adição de protótipo do figma integrado, listagem dos requisitos e tabela de cronograma dos protótipos, faltando apenas agora cada integrande adicionar o vídeo da validação individual do protótipo de cada requisito |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
+| 1.2 | 05/07/2025 | Adiciona vídeo de validação dos protótipos para o RF40 e RF41 | [Eric Akio](https://github.com/eric-kingu) |  |

@@ -85,5 +85,6 @@ A metodologia adotada foi baseada no modelo de Inspeção proposto por Michael E
 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
-|  1.0   | 05/07/2025 |   Adição de Introdução e metodologia     |     [João Lobo](https://github.com/joaolobo10)          | |
-|  1.1   | 05/07/2025 |   Adição de tabelas de sintetização, colocando todos dados de acordo com os projeto e tendo a rastreabilidade de cada Artefato      |     [João Lobo](https://github.com/joaolobo10)          | |
+|  1.0   | 06/06/2025 |       Início da documentação       |[Giovana Barbosa ](https://github.com/gio221)  |     [Gabriel Mendes](https://github.com/gbevi)          |
+|  1.1   | 05/07/2025 |   Adição de Introdução e metodologia     |     [João Lobo](https://github.com/joaolobo10)          |[Giovana Barbosa ](https://github.com/gio221)  |
+|  1.2  | 05/07/2025 |   Adição de tabelas de sintetização, colocando todos dados de acordo com os projeto e tendo a rastreabilidade de cada Artefato      |     [João Lobo](https://github.com/joaolobo10)          |[Giovana Barbosa ](https://github.com/gio221)  |

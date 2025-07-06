@@ -87,6 +87,10 @@ Abaixo, apresentamos a validação realizada individualmente para cada requisito
 
 ### Validação RF14 e RF16
 
+A validação do protótipo foi realizada presencialmente com a usuária Nicole Neves, que representa um dos perfis de usuário definidos no projeto do aplicativo Detran DF. A sessão permitiu obter feedback direto sobre a navegação, usabilidade e possíveis melhorias nas funcionalidades apresentadas no protótipo.
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/at25958hB44?si=neRwM1y6K-q1XdED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/at25958hB44?si=neRwM1y6K-q1XdED" target="blanket">Vídeo da validação do RF14 e RF16 com a usuária Nicole 05/07/2025</a></p>
 
 ### Validação RF40 e RF41
 
@@ -95,15 +99,6 @@ Foi feito a validação com a usuária Lucivane sobre os protótipos de requisit
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/f__DpQWkf6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/f__DpQWkf6M" target="blanket">Vídeo da validação do RF40 e RF41 com a usuária Lucivane 05/07/2025 </a></p>
 
-
-### Validação RF42 e RF43
-
-A validação do protótipo foi realizada presencialmente com a usuária Nicole Neves, que representa um dos perfis de usuário definidos no projeto do aplicativo Detran DF. A sessão permitiu obter feedback direto sobre a navegação, usabilidade e possíveis melhorias nas funcionalidades apresentadas no protótipo.
-
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/at25958hB44?si=neRwM1y6K-q1XdED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/at25958hB44?si=neRwM1y6K-q1XdED" target="blanket">Link para o vídeo</a></p>
-
 ### Validação RF30 e RF29
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/gc2wA1H3h-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
@@ -111,8 +106,6 @@ A validação do protótipo foi realizada presencialmente com a usuária Nicole 
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/kxLuPv6Zagc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href=" https://youtu.be/kxLuPv6Zagc" target="blanket">Vídeo da validação do RF30 com o usuário Júlia Ratti 21/06/2025 </a></p>
-
-add video
 
 ### Validação RF25, RF26, RF27 e RF28
 
@@ -127,11 +120,6 @@ A validação do protótipo foi realizada presencialmente com a usuária Giovana
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/A_kGBA7N3EE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href=" https://youtu.be/A_kGBA7N3EE" target="blanket">Vídeo da validação do RF42 e RF43 com a usuária Giovana Bessa 21/06/2025 </a></p>
-
-
-## Referências Bibliográficas
-
-
 
 ## Histórico de versão
 

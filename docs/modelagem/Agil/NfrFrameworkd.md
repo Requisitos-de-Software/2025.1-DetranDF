@@ -589,6 +589,22 @@ Tempo de resposta, leveza do app e uso eficiente de recursos.
 | Infraestrutura | 🗲 | [Eric Akio](https://github.com/eric-kingu) |
 
 <font size="3"><p style="text-align: center">Fonte: [Eric Akio](https://github.com/eric-kingu) , 2025.</p></font>
+
+Abaixo é apresentado os Softgoals do requisito não funcional de Desempenho:
+
+#### Sem propagação de impactos
+
+![Tipo-decomposição](../../assets/nfr/sigs/sig-desempenho.png)
+
+<font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+#### Com propagação de impactos
+
+![Tipo-decomposição](../../assets/nfr/sigs/sig-desempenhoprop.png)
+
+<font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+
+
 ---
 
 ##  4. Segurança
@@ -696,36 +712,7 @@ Continuidade do sistema e recuperação de falhas.
 
 ---
 
-#### Propagação de Impactos
-
-<font size="3"><p style="text-align: center">**Tabela 21 -** Requisito não funcional 18.</p></font>
-
-| **NFR Relacionado**                                        | **Impacto sobre RNF18 – Disponibilidade** | **Avaliador**                                           |
-|------------------------------------------------------------|--------------------------------------------|---------------------------------------------------------|
-| **RNF19 – Tolerância a Falhas**                            | ✓                                          | [João Lobo](https://github.com/joaolobo10)             |
-| **Monitoramento e Logs**                                   | ✓                                          | [João Lobo](https://github.com/joaolobo10)             |
-| **Capacidade de Escalabilidade**                           | 𝒲+                                         | [João Lobo](https://github.com/joaolobo10)             |
-| **Redundância de Infraestrutura**                          | ✓                                          | [João Lobo](https://github.com/joaolobo10)             |
-| **Balanceamento de Carga**                                  | ✓                                          | [João Lobo](https://github.com/joaolobo10)             |
-| **Simplicidade** <br>*(O sistema deve ser simples e intuitivo em sua arquitetura e funcionamento)* | 🗲                                         | [João Lobo](https://github.com/joaolobo10)             |
-| **Backup Contínuo**                                                  | 𝒲+                                           | [João Lobo](https://github.com/joaolobo10)             |
-| **Custo**                                                  | X                                          | [João Lobo](https://github.com/joaolobo10)             |
-
-<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
-
-<font size="3"><p style="text-align: center">**Tabela 22 -** Requisito não funcional 19.</p></font>
-
-| **NFR Relacionado**                                        | **Impacto sobre RNF19 – Confiabilidade** | **Avaliador**                                           |
-|------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------|
-| **RNF18 – Disponibilidade**                                | ✓                                              | [João Lobo](https://github.com/joaolobo10)             |
-| **Monitoramento e Logs**                                   | ✓                                              | [João Lobo](https://github.com/joaolobo10)             |
-| **Capacidade de Escalabilidade**                           | 𝒲+                                             | [João Lobo](https://github.com/joaolobo10)             |
-| **Redundância de Infraestrutura**                          | ✓                                              | [João Lobo](https://github.com/joaolobo10)             |
-| **Proteção contra erros**                                  | ✓                                              | [João Lobo](https://github.com/joaolobo10)             |
-| **Simplicidade** <br>*(O sistema deve ser simples e intuitivo em sua arquitetura e funcionamento)* | 🗲                                             | [João Lobo](https://github.com/joaolobo10)             |
-| **Custo**                                                  | X                                              | [João Lobo](https://github.com/joaolobo10)             |
-
-<font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
+Abaixo é apresentado os Softgoals dos requisitos não funcionais de Disponibilidade e Confiabilidade
 
 #### Sem Propagação de Impactos
 
@@ -740,7 +727,7 @@ Continuidade do sistema e recuperação de falhas.
 <font size="3"><p style="text-align: center">**Figura 05:** NFR Confiabilidade Sem propagação de Impactos.</p></font>
 
 
-![Tipo-decomposição](../../assets/nfr/sigs/SIG-de-confiabilidade.jpg)
+![Tipo-decomposição](../../assets/nfr/sigs/SIG-de-confiabilidade.png)
 
 
 <font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
@@ -758,7 +745,7 @@ Continuidade do sistema e recuperação de falhas.
 <font size="2"><p style="text-align: center">**Figura 07:** NFR Confiabilidade Com propagação de Impactos.</p></font>
 
 
-![Tipo-decomposição](../../assets/nfr/sigs/SIG-de-confiabilidade-comprop.jpg)
+![Tipo-decomposição](../../assets/nfr/sigs/SIG-de-confiabilidade-comprop.png)
 
 
 <font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
@@ -974,4 +961,4 @@ No video abaixo é feito a validação da parte de acessibilidade pelo integrant
 | 2.5 | 01/06/2025 | Adição de imagens das Softgoals de com e sem propagação de impactos, das RNF Disponibilidade e Confiabilidade | [João Lobo](https://github.com/joaolobo10) | [Giovana Barbosa ](https://github.com/gio221) |
 |2.6|26/06/2025|adicionando tabela de divisão, para o professor entender quem fez o que | [Giovana Barbosa](https://github.com/gio221) |[João Lobo](https://github.com/joaolobo10)|
 |2.7|04/07/2025| Adição da imagens de impactos | [João Lobo](https://github.com/joaolobo10) | |
-
+|2.8|04/07/2025| Adição de softgoal de desempenho | [João Lobo](https://github.com/joaolobo10) | |

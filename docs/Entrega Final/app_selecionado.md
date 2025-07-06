@@ -43,4 +43,4 @@ Portanto, a escolha do aplicativo se mostrou acertada, proporcionando um objeto 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
 |  1.0   | 06/06/2025 |       Início da documentação       | [Giovana Barbosa ](https://github.com/gio221) |     [Gabriel Mendes](https://github.com/gbevi)          |
-|  1.1   | 05/07/2025 |      Formulação do artefato completo    | [Gabriel Mendes](https://github.com/gbevi)   |             |
+|  1.1   | 05/07/2025 |      Formulação do artefato completo    | [Gabriel Mendes](https://github.com/gbevi)   |    [Giovana Barbosa ](https://github.com/gio221)          |

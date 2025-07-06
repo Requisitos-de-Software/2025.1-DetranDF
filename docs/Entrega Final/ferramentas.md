@@ -51,5 +51,5 @@ Tendo a finalidade de facilitar a organização e gerenciamento do planejamento 
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
 |  1.0   | 06/06/2025 |       Criação da página       | [Giovana Barbosa ](https://github.com/gio221) |     [Gabriel Mendes](https://github.com/gbevi)          |
-|  1.1   | 04/07/2025 |       Início da documentação       | [Luiz Bessa](https://github.com/lfelipebessa) |     |
-|  1.2   | 04/07/2025 |       Inclusão de novas ferramentas       | [Luiz Bessa](https://github.com/lfelipebessa) |     |
+|  1.1   | 04/07/2025 |       Início da documentação       | [Luiz Bessa](https://github.com/lfelipebessa) |  [Giovana Barbosa ](https://github.com/gio221)    |
+|  1.2   | 04/07/2025 |       Inclusão de novas ferramentas       | [Luiz Bessa](https://github.com/lfelipebessa) |   [Giovana Barbosa ](https://github.com/gio221)   |

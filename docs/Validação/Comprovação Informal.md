@@ -1,13 +1,13 @@
 # Introdução
-Tentamos contato via e-mail com o DETRAN-DF
+Tentamos contato via e-mail com o DETRAN-DF.
 
 # Objetivo
 
-Queriamos que algum funcionário do detran-df validace nossos prototipos e nosso projeto 
+Queríamos que algum funcionário do detran-df validasse nossos protótipos e nosso projeto.
 
 # E-mail
 
-Apesar de enviarmos o e-mail, não obtivemos retorno, o email está logo abaixo
+Apesar de enviarmos o e-mail, não obtivemos retorno, o email está logo abaixo.
 
 <font size="3"><p style="text-align: center"><b> Figura 1:</b> email</font>
 ![SIG-Acessibilidade](../../assets/email.png)

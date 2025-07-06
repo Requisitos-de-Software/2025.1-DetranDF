@@ -15,7 +15,7 @@ Os artefatos criados na etapa 1 estão dispostos na tabela 1.
 <details open>
     <summary>Tabela 1 - Artefatos criados na etapa 1</summary>
 
-    <table>
+<table>
         <tr>
             <th>ID</th>
             <th>Artefato</th>
@@ -184,6 +184,220 @@ Os artefatos criados na etapa 1 estão dispostos na tabela 1.
         </tr>
     </table>
 </details>
+
+<font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
+
+### Etapa 2
+
+Os artefatos criados na etapa 2 estão dispostos na tabela 2.
+
+<details open>
+    <summary>Tabela 2 - Artefatos criados na etapa 2</summary>
+
+<table>
+        <tr>
+            <th>ID</th>
+            <th>Artefato</th>
+            <th>Descrição</th>
+            <th>Autor(es)</th>
+            <th>Revisor(es)</th>
+        </tr>
+        <tr>
+            <td>38</td>
+            <td>[Perfil do usuário](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Perfil-usuario)</td>
+            <td>Apresentação do perfil do usuário</td>
+            <td>[Gabriel Mendes](https://github.com/gbevi)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+        </tr>
+        <tr>
+            <td>39</td>
+            <td>[Personas](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/personas/)</td>
+            <td>Elaboração de personas que foram utilizadas no projeto</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+            <td>[Gabriel Mendes](https://github.com/gbevi)</td>
+        </tr>
+        <tr>
+            <td>Técnicas de elicitação</td>
+        </tr>
+        <tr>
+            <td>40</td>
+            <td>[Brainstorming](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Brainstorming/)</td>
+            <td>Documentar os requisitos elicitados pela técnica de brainstorming</td>
+            <td>[Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa) e [Eric Akio](https://github.com/eric-kingu)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221) e [Pedro Camilo](https://github.com/PedrooCamilo)</td>
+        </tr>
+        <tr>
+            <td>41</td>
+            <td>[Observação](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Observação/)</td>
+            <td>Documentar os requisitos elicitados pela técnica de observação</td>
+            <td>[Gabriel Mendes](https://github.com/gbevi), [Giovana Barbosa](https://github.com/gio221), [Maria Eduarda](https://github.com/maaduh) e [Pedro Camilo](https://github.com/PedrooCamilo)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221), [Luiz Bessa](https://github.com/lfelipebessa), [Maria Eduarda](https://github.com/maaduh) e [Pedro Camilo](https://github.com/PedrooCamilo)</td>
+        </tr>
+        <tr>
+            <td>42</td>
+            <td>[Introspecção](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Introspecção/)</td>
+            <td>Requisitos elicitados pela técnica de introspecção</td>
+            <td>[Eric Akio](https://github.com/eric-kingu), [Gabriel Mendes](https://github.com/gbevi) e [João Lobo](https://github.com/joaolobo10)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+        </tr>
+        <tr>
+            <td>43</td>
+            <td>[Glossário](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/glossario/)</td>
+            <td>Requisitos elicitados pela técnica do glossário</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+            <td>[Gabriel Mendes](https://github.com/gbevi)</td>
+        </tr>
+        <tr>
+            <td>44</td>
+            <td>[Storytelling](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/Tecnicas-de-elecitação/Storytelling/)</td>
+            <td>Requisitos elicitados pela técnica de Strytelling</td>
+            <td>[Gabriel Mendes](https://github.com/gbevi) e [Giovana Barbosa](https://github.com/gio221)</td>
+            <td>[Gabriel Mendes](https://github.com/gbevi) e [Giovana Barbosa](https://github.com/gio221)</td>
+        </tr>
+        <tr>
+            <td>Técnicas de priorização</td>
+        </tr>
+        <tr>
+            <td>45</td>
+            <td>[First things first](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/tecnicas-de-priorização/First%20thing%20First/)</td>
+            <td>Prioridade de acordo com a técnica First things First</td>
+            <td>[Maria Eduarda](https://github.com/maaduh)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+        </tr>
+        <tr>
+            <td>46</td>
+            <td>[In or Out](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/tecnicas-de-priorização/In%20or%20out/)</td>
+            <td>Prioridade de acordo com a técnica In or Out</td>
+            <td>[Pedro Camilo](https://github.com/PedrooCamilo)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221) e [João Lobo](https://github.com/joaolobo10)</td>
+        </tr>
+        <tr>
+            <td>47</td>
+            <td>[$100](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/tecnicas-de-priorização/%24100/)</td>
+            <td>Prioridade de acordo com a técnica dos $100</td>
+            <td>[João Lobo](https://github.com/joaolobo10)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+        </tr>
+        <tr>
+            <td>48</td>
+            <td>[MoSCoW](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/tecnicas-de-priorização/moscow/)</td>
+            <td>Priorização de acordo com a técnica MoSCoW</td>
+            <td>[Gabriel Mendes](https://github.com/gbevi)</td>
+            <td>[Pedro Camilo](https://github.com/PedrooCamilo)</td>
+        </tr>
+        <tr>
+            <td>Requisitos Elicitados</td>
+        <tr>
+            <td>49</td>
+            <td>[REquisitos Elicitados](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados/)</td>
+            <td>Apresenta os requisitos elicitados</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+            <td>[Gabriel Mendes](https://github.com/gbevi)</td>
+        </tr>
+        <tr>
+            <th>Listas de verificação e verificações</th>
+        </tr>
+        <tr>
+            <th>ID</th>
+            <th>Lista de Verificação</th>
+            <th>Artefatos verificados</th>
+            <th>Autor</th>
+            <th>Revisor</th>
+        </tr>
+        <tr>
+            <td>50</td>
+            <td>[Perfil de usuário](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Lista-verificação/perfil-usuario/)</td>
+            <td>51 [Perfil de usuário do nosso grupo](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Verificação-nosso-grupo/perfil-usuario) e 52 [perfil de usuário do grupo+1](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/verificação-Grupo%2B1/perfil-usuario/)</td>
+            <td>[Gabriel Mendes](https://github.com/gbevi)</td>
+            <td>[Luiz Bessa](https://github.com/lfelipebessa)</td>
+        </tr>
+            <td>53</td>
+            <td>[Personas](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Lista-verificação/Personas/)</td>
+            <td>54 [Personas do nosso grupo](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Verificação-nosso-grupo/Personas/) e 55 [personas do grupo+1](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/verificação-Grupo%2B1/Personas/)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+            <td>[Luiz Bessa](https://github.com/lfelipebessa)</td>
+        </tr>
+        <tr>
+            <td>56</td>
+            <td>[Brainstorming](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Lista-verificação/Brainstorming/)</td>
+            <td>57 [Brainstorming do nosso grupo](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Verificação-nosso-grupo/Brainstorming/)</td>
+            <td>[Luiz Bessa](https://github.com/lfelipebessa)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+        </tr>
+        <tr>
+            <td>58</td>
+            <td>[Observação](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Lista-verificação/Observação/)</td>
+            <td>59 [Observação do aplicativo do nosso grupo](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Verificação-nosso-grupo/Observação/) e 60 [Observação do aplicativo do grupo+1](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/verificação-Grupo%2B1/Observação/)</td>
+            <td>[Maria Eduarda](https://github.com/maaduh)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+        </tr>
+        <tr>
+            <td>61</td>
+            <td>[Introspecção](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Lista-verificação/Introspecção/)</td>
+            <td>62 [Introspecção do nosso grupo](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Verificação-nosso-grupo/Introspecção/)</td>
+            <td>[Eric Akio](https://github.com/eric-kingu)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+        </tr>
+        <tr>
+            <td>63</td>
+            <td>[Pesquisa/questionário](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Lista-verificação/Questionario/)</td>
+            <td>64 [Questionário grupo+1](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/verificação-Grupo%2B1/Questionario/)</td>
+            <td>[Eric Akio](https://github.com/eric-kingu)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+        </tr>
+        <tr>
+            <td>65</td>
+            <td>[Glossário](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Lista-verificação/glossario/)</td>
+            <td>66 [Glossário do nosso grupo](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Verificação-nosso-grupo/glossario/)
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+            <td>[Luiz Bessa](https://github.com/lfelipebessa)</td>
+        </tr>
+        <tr>
+            <td>67</td>
+            <td>[Requisitos elicitados](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Lista-verificação/verificação/)</td>
+            <td>68 [metodologia do nosso grupo](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Verificação-nosso-grupo/verificação/) e 69 [metodologia do grupo+1](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/verificação-Grupo%2B1/verficação/)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+            <td>[Luiz Bessa](https://github.com/lfelipebessa)</td>
+        </tr>
+        <tr>
+            <td>70</td>
+            <td>[First Things First](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Lista-verificação/First%20thing%20First/)</td>
+            <td>71 [First things first nosso grupo](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Verificação-nosso-grupo/First%20thing%20First/)</td>
+            <td>[Maria Eduarda](https://github.com/maaduh)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+        </tr>
+        <tr>
+            <td>72</td>
+            <td>[$100](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Lista-verificação/%24100/)</td>
+            <td>73 [$100 nosso grupo](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Verificação-nosso-grupo/100/)</td>
+            <td>[João Lobo](https://github.com/joaolobo10)</td>
+            <td>[Pedro Camilo](https://github.com/PedrooCamilo)</td>
+        </tr>
+        <tr>
+            <td>74</td>
+            <td>[MoSCoW](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Lista-verificação/moscow/)</td>
+            <td>75 [Nosso MoSCoW](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Verificação-nosso-grupo/moscow/) e 76 [MoSCoW](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/verificação-Grupo%2B1/moscow/)</td>
+            <td>[Gabriel Mendes](https://github.com/gbevi)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+        </tr>
+        <tr>
+            <td>77</td>
+            <td>[Three Level Scale](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Lista-verificação/ThreeLevelScale/)</td>
+            <td>78 [Three Level Scale grupo+1](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/verificação-Grupo%2B1/ThreeLevelScale/)</td>
+            <td>[Luiz Bessa](https://github.com/lfelipebessa)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+        </tr>
+        <tr>
+            <td>79</td>
+            <td>[In or Out](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Lista-verificação/In%20or%20Out/)</td>
+            <td>80 [nosso In or Out](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/Verificação-nosso-grupo/In%20or%20Out/) e 81 [In or Out grupo+1](https://requisitos-de-software.github.io/2025.1-DetranDF/Verificações/Entrega%202/verificação-Grupo%2B1/In%20or%20Out/)</td>
+            <td>[Pedro Camilo](https://github.com/PedrooCamilo)</td>
+            <td>[Giovana Barbosa](https://github.com/gio221)</td>
+        </tr>
+    </table>
+</details>
+
+<font size="3"><p style="text-align: center">Autor: [Eric Akio](https://github.com/eric-kingu), 2025.</p></font>
 
 ## Histórico de versão
 

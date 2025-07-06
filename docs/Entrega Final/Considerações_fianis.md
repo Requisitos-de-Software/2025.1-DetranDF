@@ -29,6 +29,10 @@ A disciplina foi exigente, mas muito proveitosa. A quantidade de atividades nos 
 
 ## Pedro Túlio Curvelo Camilo
 
+A disciplina de Requisitos de Software foi desafiadora, exigindo um esforço considerável. No entanto, o retorno foi de muito aprendizado. O aprendizado superou a teoria, proporcionando uma compreensão prática e aprofundada de como definir e gerenciar o escopo de projetos de tecnologia.
+
+O mais importante é que esse conhecimento não ficou apenas no campo acadêmico. Já estou aplicando as técnicas e conceitos aprendidos diretamente em minhas atividades profissionais. Isso resultou em uma melhoria notável na minha capacidade de lidar com os requisitos de software, tornando meu trabalho mais eficiente e preciso. Em suma, o esforço investido na matéria se traduziu em um crescimento profissional real e imediato.
+
 
 ## Histórico de versão
 

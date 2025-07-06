@@ -25,6 +25,7 @@ Um ponto crítico a ser destacado é a obrigatoriedade de aulas presenciais. Emb
 ## Luiz Felipe Bessa Santos
 
 ## Maria Eduarda Araujo Pereira
+A disciplina foi exigente, mas muito proveitosa. A quantidade de atividades nos obrigou a manter um bom nível de organização e comprometimento o tempo todo, o que tornou tudo mais desafiador, mas também mais significativo. Trabalhar no projeto foi uma chance real de aplicar o que aprendemos na teoria, o que ajudou bastante a fixar o conteúdo. Um dos pontos mais marcantes foi o trabalho em grupo — a troca de ideias e a colaboração entre todos fez muita diferença para que o projeto evoluísse bem. Saio dessa matéria com uma visão mais clara sobre como lidar com requisitos de software e com aprendizados que com certeza levarei para os próximos projetos.
 
 ## Pedro Túlio Curvelo Camilo
 
@@ -34,4 +35,5 @@ Um ponto crítico a ser destacado é a obrigatoriedade de aulas presenciais. Emb
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
 |  1.0   | 06/06/2025 |       Início da documentação , introdução      | [Giovana Barbosa ](https://github.com/gio221) |     [Gabriel Mendes](https://github.com/gbevi)          |
-|  1.1   | 06/06/2025 |       Adição de considerações finais     | [João Lobo](https://github.com/joaolobo10) |              |
+|  1.1   | 06/06/2025 |       Adição de considerações finais     | [João Lobo](https://github.com/joaolobo10) |   [Maria Eduarda](https://github.com/maaduh)            |
+|  1.2   | 06/07/2025 |       Adição de considerações finais     | [Maria Eduarda](https://github.com/maaduh) |              |

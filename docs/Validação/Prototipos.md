@@ -18,7 +18,7 @@ O artefato foi criado a partir dos requisitos ainda não implementados, distribu
 - [RF28](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Notificações de vencimento da CNH, multas e licenciamento  
 - [RF29](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Explicações simples sobre termos técnicos  
 - [RF30](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Canal de atendimento humano  
-- [RF40](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Opção para adicionar quilometragem do seu carro  
+- [RF12](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Opção para adicionar quilometragem do seu carro  
 - [RF15](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Integração com CNH Digital  
 - [RF42](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Disponibilizar seção de leilões de veículos  
 - [RF43](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Verificar autorização de veículo p/ transporte escolar  
@@ -34,7 +34,7 @@ O cronograma da realização do protótipo de alta fidelidade se encontra na tab
 |                  Integrante                  |              Protótipo              |    Data    |  Hora  |
 | :------------------------------------------: | :----------------------------------: | :--------: | :----: |
 | [Giovana Barbosa](https://github.com/gio221) | Prototipação dos RF09 e RFXX         |  20/06/25  | 18:00  |
-| [Gabriel Mendes](https://github.com/gbevi)   | Prototipação dos RF40 e RF15         |  19/06/25  | 20:00  |
+| [Gabriel Mendes](https://github.com/gbevi)   | Prototipação dos RF12 e RF15         |  19/06/25  | 20:00  |
 | [Eric Akio](https://github.com/eric-kingu)   |                                      |  20/06/25  | 19:00  |
 | [João Lobo](https://github.com/joaolobo10)   | Prototipação dos RF16 e RF14         |  19/06/25  | 15:00  |
 | [Luiz Bessa](https://github.com/lfelipebessa)| Prototipação dos RF42 e RF43         |  20/06/25  | 20:00  |
@@ -70,11 +70,10 @@ texto introduzindo
 
 add video
 
-### Validação RF40 e RF15
+### Validação RF12 e RF15
 
-texto introduzindo
-
-add video
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/gqBwkuDGB9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/gqBwkuDGB9I" target="blanket">Vídeo da validação do RF12 e RF15 com o usuária Mayara 26/06/2025 </a></p>
 
 ### Validação RF14 e RF16
 

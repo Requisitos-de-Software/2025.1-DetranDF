@@ -14,7 +14,8 @@ Utilizamos a técnica/ferramenta para fazer todas gravações através do Micros
 
     Video da apresentação final
 
-
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0wxWOc6y0Oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/0wxWOc6y0Oc" target="blanket">Vídeo da Apresentação final</a></p>
 
 O video acima descreve a apresentação que foi realizada na etapa final do projeto, inspirada no plano de ensino da disciplina Requisitos, da matéria de Requisitos. Abaixo estão listados os critérios de avaliação:
 

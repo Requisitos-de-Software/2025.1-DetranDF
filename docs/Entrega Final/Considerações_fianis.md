@@ -6,6 +6,8 @@ Todos os integrantes deixaram sua considerações, como suas facilidades e dific
 
 ## Eric Akio Lages Nishimura
 
+A disciplina foi exigente e um teste de organização e equilíbrio com as entregas, foi um esforço hercúleo aplicar o que foi aprendido em tão curto espaço de tempo e considero ser um dos mais importantes passos aprender sobre tal conteúdo que, segundo um dos usuários que tive a possibilidade de fazer uma validação com, faz parte do cotidiano dos Engenheiros de Software e programadores.
+
 ## Gabriel Dantas Bevilaqua Mendes
 
 A disciplina foi uma experiência exigente, mas extremamente enriquecedora. O volume de atividades demandou organização e comprometimento constante, o que tornou o processo desafiador, porém muito recompensador. O desenvolvimento do projeto nos proporcionou uma oportunidade concreta de aplicar conceitos teóricos na prática, fortalecendo o aprendizado de maneira significativa. O trabalho em equipe foi, sem dúvida, um dos pontos mais positivos da jornada. A colaboração entre os integrantes do grupo foi essencial para o andamento do projeto, permitindo que superássemos obstáculos com mais leveza e eficiência. A responsabilidade compartilhada e o apoio mútuo tornaram a experiência mais agradável e produtiva. Sinto que saio dessa disciplina com um olhar mais apurado sobre requisitos de software e com aprendizados que certamente levarei para futuros projetos. O esforço investido valeu a pena, e o conhecimento adquirido será um diferencial importante na minha formação.
@@ -43,4 +45,5 @@ O mais importante é que esse conhecimento não ficou apenas no campo acadêmico
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
 |  1.0   | 06/06/2025 |       Início da documentação , introdução      | [Giovana Barbosa ](https://github.com/gio221) |     [Gabriel Mendes](https://github.com/gbevi)          |
 |  1.1   | 06/06/2025 |       Adição de considerações finais     | [João Lobo](https://github.com/joaolobo10) |   [Maria Eduarda](https://github.com/maaduh)            |
-|  1.2   | 06/07/2025 |       Adição de considerações finais     | [Maria Eduarda](https://github.com/maaduh) |              |
+|  1.2   | 06/07/2025 |       Adição de considerações finais     | [Maria Eduarda](https://github.com/maaduh) |       [Eric Akio](https://github.com/eric-kingu)       |
+| 1.3 | 06/07/2025 | Adição de considerações finais | [Eric Akio](https://github.com/eric-kingu) |  |

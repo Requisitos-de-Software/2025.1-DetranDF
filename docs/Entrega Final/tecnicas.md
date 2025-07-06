@@ -47,4 +47,4 @@ Na tabela 1 é possível ver as técnicas utilizadas relacionando-as com a entre
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
 |  1.0   | 06/06/2025 |       Início da documentação       | [Giovana Barbosa ](https://github.com/gio221) |     [Gabriel Mendes](https://github.com/gbevi)          |
-|  1.1   | 06/06/2025 |       Adicionando tópicos e tabelas     | [Pedro Camilo ](https://github.com/PedrooCamilo) |          |
+|  1.1   | 06/06/2025 |       Adicionando tópicos e tabelas     | [Pedro Camilo ](https://github.com/PedrooCamilo) |    [Maria Eduarda](https://github.com/maaduh)      |

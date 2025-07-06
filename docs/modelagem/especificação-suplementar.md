@@ -63,10 +63,10 @@ Confiabilidade diz respeito à operação correta e estável do sistema ao longo
 
 <font size="3"><p style="text-align: center">**Tabela 2 -** Requisitos Não Funcionais – Confiabilidade.</p></font>
 
-|  ID  |                                                            Descrição                                                             | Rastreabilidade |
-| :--: | :------------------------------------------------------------------------------------------------------------------------------: | :-------------: |
-| US01 | O sistema deve garantir criptografia de dados sensíveis e autenticação segura, com tolerância a falhas inferior a 1% por mês.    |      RNF03      |
-| US02 | A taxa de erro por uso incorreto da interface deve ser inferior a 2% durante testes de usabilidade com, no mínimo, 10 usuários. |      RNF12      |
+|   ID  | Descrição originalmente elicitada                                                                                              |    Rastreabilidade   |
+| :---: | :----------------------------------------------------------------------------------------------------------------------------- | :------------------: |
+| RNF18 | O sistema deve estar disponível para uso 24 horas por dia, 7 dias por semana, com **disponibilidade mínima de 99,5% por mês**. | Storytelling - Lucas |
+| RNF19 | O sistema deve recuperar automaticamente a navegação em até 5 segundos após falhas de conexão e manter o estado anterior.      | Storytelling - Diego |
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
@@ -78,12 +78,11 @@ Desempenho refere-se à capacidade do sistema de responder de forma rápida e ef
 
 <font size="3"><p style="text-align: center">**Tabela 3 -** Requisitos Não Funcionais – Desempenho.</p></font>
 
-|  ID  |                                                                                   Descrição                                                                                   | Rastreabilidade |
-| :--: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: |
-| US01 | O sistema deve manter tempo de resposta inferior a 500 ms em 95% das requisições nos principais navegadores e plataformas móveis, com foco em Android 14 e iOS 18.            |      RNF02      |
-| US02 | O sistema deve suportar no mínimo 500 usuários simultâneos, especialmente em dispositivos Android 14, com degradação de desempenho inferior a 10% durante testes de estresse. |      RNF08      |
-| US03 | Em dispositivos com Android 14, as transições de tela devem ocorrer em até 300 ms para garantir fluidez na navegação em pelo menos 90% dos testes com usuários.              |      RNF10      |
-
+|   ID  | Descrição                                                                          |    Rastreabilidade   |
+| :---: | :--------------------------------------------------------------------------------------------------------- | :------------------: |
+| RNF10 | O sistema deve carregar todas as páginas em até 2 segundos em pelo menos 95% das requisições.              |         IS08         |
+| RNF15 | O aplicativo deve ter tamanho máximo de instalação de 50MB e consumo de dados inferior a 500KB por sessão. | Storytelling - Diego |
+| RNF16 | O tempo de resposta para qualquer ação do usuário deve ser inferior a 2 segundos em 95% dos casos.         | Storytelling - Lucas |
 
 <font size="3"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10) , 2025.</p></font>
 
@@ -95,7 +94,7 @@ Esta seção apresenta os requisitos não-funcionais já elicitados que impactam
 
 <font size="3"><p style="text-align: center">**Tabela 1 –** Requisitos Não Funcionais – Suportabilidade.</p></font>
 
-| ID    | Descrição originalmente elicitada | Rastreabilidade |
+| ID    | Descrição  | Rastreabilidade |
 |:-----:|:----------------------------------|:---------------:|
 | RNF02 | Compatibilidade com diferentes dispositivos e sistemas | RNF02 |
 | RNF10 | Carregamento rápido das páginas | RNF10 |

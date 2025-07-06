@@ -16,6 +16,12 @@ Gostei muito da disciplina, apesar de ela ter sido bem trabalhosa. A carga de tr
 
 ## João Carlos Lobo Sousa Monteiro
 
+A disciplina foi extremamente exigente do ponto de vista organizacional. O grupo, assim como cada integrante individualmente, precisou ter uma boa disponibilidade para realizar as tarefas com antecedência, possibilitando correções quando necessário. Além disso, era essencial seguir um padrão estabelecido e manter a organização ao longo do processo.
+
+A participação de usuários em diversas etapas exigiu ajustes no cronograma para que as validações pudessem ser feitas adequadamente. Apesar desses desafios, a disciplina foi muito rica em conteúdo, contribuindo significativamente para o desenvolvimento acadêmico e, possivelmente, profissional dos alunos.
+
+Um ponto crítico a ser destacado é a obrigatoriedade de aulas presenciais. Embora o contato direto com o professor seja importante para esclarecer dúvidas, grande parte do trabalho é feito online ou envolve atividades que poderiam ser desenvolvidas no horário da aula. Assim, seria mais produtivo utilizar parte das aulas presenciais para realizar as tarefas propostas pela disciplina. Fora isso, a experiência foi bastante positiva e enriquecedora.
+
 ## Luiz Felipe Bessa Santos
 
 ## Maria Eduarda Araujo Pereira
@@ -28,3 +34,4 @@ Gostei muito da disciplina, apesar de ela ter sido bem trabalhosa. A carga de tr
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
 |  1.0   | 06/06/2025 |       Início da documentação , introdução      | [Giovana Barbosa ](https://github.com/gio221) |     [Gabriel Mendes](https://github.com/gbevi)          |
+|  1.1   | 06/06/2025 |       Adição de considerações finais     | [João Lobo](https://github.com/joaolobo10) |              |

@@ -41,7 +41,7 @@ O cronograma da realização do protótipo de alta fidelidade se encontra na tab
 | [João Lobo](https://github.com/joaolobo10)   | Prototipação dos RF16 e RF14         |  19/06/25  | 15:00  |
 | [Luiz Bessa](https://github.com/lfelipebessa)| Prototipação dos RF42 e RF43         |  20/06/25  | 20:00  |
 | [Pedro Camilo](https://github.com/PedrooCamilo)| Prototipação dos RF30 e RF29       |  19/06/25  | 21:00  |
-| [Maria Eduarda](https://github.com/maaduh)   | Prototipação dos RF25, RF27 e RF28   |  20/06/25  | 11:00  |
+| [Maria Eduarda](https://github.com/maaduh)   | Prototipação dos RF25, RF26, RF27 e RF28  |  20/06/25  | 11:00  |
 
 
 <font size="2"><p style="text-align: center">Fonte: [João Lobo](https://github.com/joaolobo10), 2025.</p></font>
@@ -62,7 +62,8 @@ Para assegurar que as informações coletadas, modeladas e desenvolvidas na etap
 
 As validações foram realizadas presencialmente com um usuário, permitindo observar sua interação com os protótipos desenvolvidos. Durante essa etapa, foi possível coletar feedback em tempo real, identificar pontos de melhoria e confirmar se os requisitos levantados estavam sendo representados de forma clara e funcional nas interfaces. Essa abordagem contribuiu diretamente para alinhar a solução às expectativas do público-alvo.
 
-add video
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/dRU1nlgcGHY?si=0iIWqKD0ZYt0RyRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/dRU1nlgcGHY?si=svad9qTIPfBHxh3a" target="blanket">Link para o vídeo</a></p>
 
 Abaixo, apresentamos a validação realizada individualmente para cada requisito implementado, destacando como cada funcionalidade foi avaliada e ajustada conforme o feedback obtido durante os testes presenciais com o usuário.
 
@@ -86,9 +87,6 @@ Abaixo, apresentamos a validação realizada individualmente para cada requisito
 
 ### Validação RF14 e RF16
 
-texto introduzindo
-
-add video
 
 ### Validação RF40 e RF41
 
@@ -100,9 +98,11 @@ Foi feito a validação com a usuária Lucivane sobre os protótipos de requisit
 
 ### Validação RF42 e RF43
 
-texto introduzindo
+A validação do protótipo foi realizada presencialmente com a usuária Nicole Neves, que representa um dos perfis de usuário definidos no projeto do aplicativo Detran DF. A sessão permitiu obter feedback direto sobre a navegação, usabilidade e possíveis melhorias nas funcionalidades apresentadas no protótipo.
 
-add video
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/at25958hB44?si=neRwM1y6K-q1XdED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/at25958hB44?si=neRwM1y6K-q1XdED" target="blanket">Link para o vídeo</a></p>
 
 ### Validação RF30 e RF29
 
@@ -114,11 +114,20 @@ add video
 
 add video
 
-### Validação RF25, RF27, RF28
+### Validação RF25, RF26, RF27 e RF28
 
-texto introduzindo
+A validação do protótipo foi realizada presencialmente com a usuária Soraia Gomes, que representa um dos perfis de usuário definidos no projeto do aplicativo Detran DF. A sessão permitiu obter feedback direto sobre a navegação, usabilidade e possíveis melhorias nas funcionalidades apresentadas no protótipo.
 
-add video
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/n8hDMmsQYec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/n8hDMmsQYec" target="blanket">Vídeo da validação dos RF25 ao RF28 com a usuária Soraia Gomes 06/07/2025 </a></p>
+
+### Validação RF42, RF43
+
+A validação do protótipo foi realizada presencialmente com a usuária Giovana Casilo, que representa um dos perfis de usuário definidos no projeto do aplicativo Detran DF. A sessão permitiu obter feedback direto sobre a navegação, usabilidade e possíveis melhorias nas funcionalidades apresentadas no protótipo.
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/A_kGBA7N3EE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/A_kGBA7N3EE" target="blanket">Vídeo da validação do RF42 e RF43 com a usuária Giovana Bessa 21/06/2025 </a></p>
+
 
 ## Referências Bibliográficas
 
@@ -129,5 +138,11 @@ add video
 | Versão |    Data    |       Descrição        |                     Autor                      |                  Revisor                   |
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 17/06/2025 | criação da pagina,introdução, objetivo , metodologia e tabela 1 |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Dantas](https://github.com/gbevi) |
-|  1.1   | 04/07/2025 | Reestruturação da página por inteira, adição de textos para cada tópico, adição de protótipo do figma integrado, listagem dos requisitos e tabela de cronograma dos protótipos, faltando apenas agora cada integrande adicionar o vídeo da validação individual do protótipo de cada requisito |  [João Lobo](https://github.com/joaolobo10)   | [Eric Akio](https://github.com/eric-kingu) |
-| 1.2 | 05/07/2025 | Adiciona vídeo de validação dos protótipos para o RF40 e RF41 | [Eric Akio](https://github.com/eric-kingu) |  |
+|  1.1   | 04/07/2025 | Reestruturação da página por inteira, adição de textos para cada tópico, adição de protótipo do figma integrado, listagem dos requisitos e tabela de cronograma dos protótipos, faltando apenas agora cada integrande adicionar o vídeo da validação individual do protótipo de cada requisito |  [João Lobo](https://github.com/joaolobo10)   |[Maria Eduarda](https://github.com/maaduh)  |
+|  1.2   | 04/07/2025 | Adição de validação dos protótipos dos RF14 e RF16 |  [João Lobo](https://github.com/joaolobo10)   |[Maria Eduarda](https://github.com/maaduh)  |
+|  1.3   | 04/07/2025 | Adição de validação do protótipo geral |  [João Lobo](https://github.com/joaolobo10)   | [Maria Eduarda](https://github.com/maaduh) |
+|  1.4   | 06/07/2025 | Adição de validação do protótipo dos RF 25 ao RF 28 |  [Maria Eduarda](https://github.com/maaduh)   | [Luiz Bessa](https://github.com/lfelipebessa) |
+|  1.5   | 06/07/2025 | Adição de validação do protótipo RF42 e RF43 |  [Luiz Bessa](https://github.com/lfelipebessa)   | [Eric Akio](https://github.com/eric-kingu) |
+| 1.6 | 06/07/2025 | Adiciona vídeo de validação dos protótipos para o RF40 e RF41 | [Eric Akio](https://github.com/eric-kingu) |  |
+
+

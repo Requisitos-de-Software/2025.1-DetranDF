@@ -20,7 +20,7 @@ Para realizar a técnica de introspecção, as funcionalidades do aplicativo for
 
 <p align="justify"> Para tornar o processo de elicitação mais transparente e rastreável, foi realizada uma gravação onde um dos analistar navegava pelo aplicativo e o outro ajudava na concepção das ideias. Durante a gravação, o analista se colocou no lugar do usuário, explorando funcionalidades, navegando pela interface e verbalizando percepções, dificuldades e sugestões de melhoria. </p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/uMro1M4lL9w?si=AUC9TiV3eS7Xhcn6"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/uMro1M4lL9w?si=KGD-eEDTExoS-jeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/uMro1M4lL9w?si=AUC9TiV3eS7Xhcn6" target="blanket">Link para o vídeo</a></p>
 
 ## Requisitos funcionais

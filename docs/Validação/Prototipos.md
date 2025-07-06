@@ -10,19 +10,19 @@ Documentar os protótipos desenvolvidos com base nos requisitos não implementad
 
 O artefato foi criado a partir dos requisitos ainda não implementados, distribuídos entre os integrantes do grupo para modelagem, e representa as principais telas e fluxos do aplicativo. Desenvolvido no Figma, o protótipo tem como foco principal ilustrar visualmente esses requisitos não implementados:
 
-- [RF09](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Aviso automático em caso de roubo/recuperação do carro  
-- [RF16](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Atendimento ao vivo com servidor do DETRAN via chat/vídeo  
-- [RF14](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Chat com IA para tirar dúvidas  
-- [RF25](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Consulta e detalhamento de infrações com imagens  
-- [RF27](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Agendamento de exame médico para CNH  
-- [RF28](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Notificações de vencimento da CNH, multas e licenciamento  
-- [RF29](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Explicações simples sobre termos técnicos  
-- [RF30](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Canal de atendimento humano  
-- [RF12](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Opção para adicionar quilometragem do seu carro  
-- [RF15](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Integração com CNH Digital  
-- [RF42](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Disponibilizar seção de leilões de veículos  
-- [RF43](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Verificar autorização de veículo p/ transporte escolar  
-- [RFXX](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicitação/requisitos-elicitados.md/#req-funcionais) - Área educacional com explicações e vídeos
+- [RF09](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais) - Aviso automático em caso de roubo/recuperação do carro  
+- [RF16](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais) - Atendimento ao vivo com servidor do DETRAN via chat/vídeo  
+- [RF14](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais) - Chat com IA para tirar dúvidas  
+- [RF25](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais) - Consulta e detalhamento de infrações com imagens  
+- [RF27](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais) - Agendamento de exame médico para CNH  
+- [RF28](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais) - Notificações de vencimento da CNH, multas e licenciamento  
+- [RF29](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais) - Explicações simples sobre termos técnicos  
+- [RF30](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais) - Canal de atendimento humano  
+- [RF12](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais) - Opção para adicionar quilometragem do seu carro  
+- [RF15](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais) - Integração com CNH Digital  
+- [RF42](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais) - Disponibilizar seção de leilões de veículos  
+- [RF43](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais) - Verificar autorização de veículo p/ transporte escolar  
+- [RFXX](https://requisitos-de-software.github.io/2025.1-DetranDF/Elicita%C3%A7%C3%A3o/requisitos-elicitados/#req-funcionais) - Área educacional com explicações e vídeos
 
 
 ### Cronograma
@@ -60,7 +60,8 @@ Para assegurar que as informações coletadas, modeladas e desenvolvidas na etap
 
 As validações foram realizadas presencialmente com um usuário, permitindo observar sua interação com os protótipos desenvolvidos. Durante essa etapa, foi possível coletar feedback em tempo real, identificar pontos de melhoria e confirmar se os requisitos levantados estavam sendo representados de forma clara e funcional nas interfaces. Essa abordagem contribuiu diretamente para alinhar a solução às expectativas do público-alvo.
 
-add video
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/dRU1nlgcGHY?si=0iIWqKD0ZYt0RyRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/dRU1nlgcGHY?si=svad9qTIPfBHxh3a" target="blanket">Link para o vídeo</a></p>
 
 Abaixo, apresentamos a validação realizada individualmente para cada requisito implementado, destacando como cada funcionalidade foi avaliada e ajustada conforme o feedback obtido durante os testes presenciais com o usuário.
 
@@ -84,15 +85,10 @@ Abaixo, apresentamos a validação realizada individualmente para cada requisito
 
 ### Validação RF14 e RF16
 
-texto introduzindo
+A validação do protótipo foi realizada presencialmente com a usuária Nicole Neves, que representa um dos perfis de usuário definidos no projeto do aplicativo Detran DF. A sessão permitiu obter feedback direto sobre a navegação, usabilidade e possíveis melhorias nas funcionalidades apresentadas no protótipo.
 
-add video
-
-### Validação RF42 e RF43
-
-texto introduzindo
-
-add video
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/at25958hB44?si=neRwM1y6K-q1XdED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/at25958hB44?si=neRwM1y6K-q1XdED" target="blanket">Link para o vídeo</a></p>
 
 ### Validação RF30 e RF29
 
@@ -120,3 +116,5 @@ add video
 | :----: | :--------: | :--------------------: | :--------------------------------------------: | :----------------------------------------: |
 |  1.0   | 17/06/2025 | criação da pagina,introdução, objetivo , metodologia e tabela 1 |  [Giovana Barbosa](https://github.com/gio221)   | [Gabriel Dantas](https://github.com/gbevi) |
 |  1.1   | 04/07/2025 | Reestruturação da página por inteira, adição de textos para cada tópico, adição de protótipo do figma integrado, listagem dos requisitos e tabela de cronograma dos protótipos, faltando apenas agora cada integrande adicionar o vídeo da validação individual do protótipo de cada requisito |  [João Lobo](https://github.com/joaolobo10)   | |
+|  1.1   | 04/07/2025 | Adição de validação dos protótipos dos RF14 e RF16 |  [João Lobo](https://github.com/joaolobo10)   | |
+|  1.2   | 04/07/2025 | Adição de validação do protótipo geral |  [João Lobo](https://github.com/joaolobo10)   | |

@@ -33,7 +33,7 @@ O cronograma da realização do protótipo de alta fidelidade se encontra na tab
 
 |                  Integrante                  |              Protótipo              |    Data    |  Hora  |
 | :------------------------------------------: | :----------------------------------: | :--------: | :----: |
-| [Giovana Barbosa](https://github.com/gio221) | Prototipação dos RF09 e RFXX         |  20/06/25  | 18:00  |
+| [Giovana Barbosa](https://github.com/gio221) | Prototipação dos RF09 e RNF04        |  20/06/25  | 18:00  |
 | [Gabriel Mendes](https://github.com/gbevi)   | Prototipação dos RF40 e RF15         |  19/06/25  | 20:00  |
 | [Eric Akio](https://github.com/eric-kingu)   |                                      |  20/06/25  | 19:00  |
 | [João Lobo](https://github.com/joaolobo10)   | Prototipação dos RF16 e RF14         |  19/06/25  | 15:00  |
@@ -64,11 +64,18 @@ add video
 
 Abaixo, apresentamos a validação realizada individualmente para cada requisito implementado, destacando como cada funcionalidade foi avaliada e ajustada conforme o feedback obtido durante os testes presenciais com o usuário.
 
-### Validação RF09 e RFXX
+### Validação RF09 e RNF04
 
-texto introduzindo
+#### RF09-Aviso automático em caso de roubo/recuperação do carro
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/i1YZVjvTEDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/i1YZVjvTEDE" target="blanket">Verificação</a></p>
 
-add video
+#### RNF04-Área educacional com explicações e vídeos
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/i1YZVjvTEDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href=" https://youtu.be/i1YZVjvTEDE" target="blanket">Verificação</a></p>
+
+
 
 ### Validação RF40 e RF15
 

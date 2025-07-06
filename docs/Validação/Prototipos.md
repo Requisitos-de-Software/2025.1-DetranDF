@@ -105,17 +105,7 @@ add video
 A validação do protótipo foi realizada presencialmente com a usuária Soraia Gomes, que representa um dos perfis de usuário definidos no projeto do aplicativo Detran DF. A sessão permitiu obter feedback direto sobre a navegação, usabilidade e possíveis melhorias nas funcionalidades apresentadas no protótipo.
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/n8hDMmsQYec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href=" https://youtu.be/n8hDMmsQYec" target="blanket">Vídeo da validação do RF25 com a usuária Soraia Gomes 06/07/2025 </a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/n8hDMmsQYec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href=" https://youtu.be/n8hDMmsQYec" target="blanket">Vídeo da validação do RF26 com a usuária Soraia Gomes 06/07/2025 </a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/n8hDMmsQYec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href=" https://youtu.be/n8hDMmsQYec" target="blanket">Vídeo da validação do RF27 com a usuária Soraia Gomes 06/07/2025 </a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/n8hDMmsQYec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href=" https://youtu.be/n8hDMmsQYec" target="blanket">Vídeo da validação do RF28 com a usuária Soraia Gomes 06/07/2025 </a></p>
-
+<p style="text-align: center"><a href=" https://youtu.be/n8hDMmsQYec" target="blanket">Vídeo da validação dos RF25 ao RF28 com a usuária Soraia Gomes 06/07/2025 </a></p>
 
 ### Validação RF42, RF43
 

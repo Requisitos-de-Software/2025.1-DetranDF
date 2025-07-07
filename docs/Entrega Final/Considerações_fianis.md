@@ -46,4 +46,5 @@ O mais importante é que esse conhecimento não ficou apenas no campo acadêmico
 |  1.0   | 06/06/2025 |       Início da documentação , introdução      | [Giovana Barbosa ](https://github.com/gio221) |     [Gabriel Mendes](https://github.com/gbevi)          |
 |  1.1   | 06/06/2025 |       Adição de considerações finais     | [João Lobo](https://github.com/joaolobo10) |   [Maria Eduarda](https://github.com/maaduh)            |
 |  1.2   | 06/07/2025 |       Adição de considerações finais     | [Maria Eduarda](https://github.com/maaduh) |       [Eric Akio](https://github.com/eric-kingu)       |
-| 1.3 | 06/07/2025 | Adição de considerações finais | [Eric Akio](https://github.com/eric-kingu) |  |
+| 1.3 | 06/07/2025 | Adição de considerações finais | [Eric Akio](https://github.com/eric-kingu) | [Pedro Camilo](https://github.com/PedrooCamilo) |
+| 1.4 | 06/07/2025 | Adição de considerações finais | [Pedro Camilo](https://github.com/PedrooCamilo) | [João Lobo](https://github.com/joaolobo10) |

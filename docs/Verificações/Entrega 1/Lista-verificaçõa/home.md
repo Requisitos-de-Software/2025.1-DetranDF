@@ -13,11 +13,11 @@ A tabela 1 descreve a checklist relativa a home do projeto.
 
 | ID  | Critérios                                                            | Sim/Não/Incompleto | Print                                                                                       |
 | :-: | -------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------- |
-|  1  | A home do projeto apresenta introdução sobre a disciplina/artefatos? |               |  |
-|  2  | A home dá uma breve introdução sobre o que é o aplicativo escolhido? |              |  |
-|  3  | A home explica brevemente o motivo da escolha do aplicativo?         |               |  |
-|  4  | Nome e foto de todos os membros do grupo constam?                    |            |  |
-|  5  | A home segue o padrão para referências e formatação?                 |            |  |
+|  1  | A home do projeto apresenta introdução sobre a disciplina/artefatos? |               | ![Imagem](../../../assets/home_lv_3.png) |
+|  2  | A home dá uma breve introdução sobre o que é o aplicativo escolhido? |              | ![Imagem](../../../assets/home_lv_3.png) |
+|  3  | A home explica brevemente o motivo da escolha do aplicativo?         |               | ![Imagem](../../../assets/home_lv_2.png) |
+|  4  | Nome e foto de todos os membros do grupo constam?                    |            | ![Imagem](../../../assets/home_lv_1.png) |
+|  5  | A home segue o padrão para referências e formatação?                 |            | ![Imagem](../../../assets/home_lv_4.png) |
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo ](https://github.com/PedrooCamilo), 2025.</p></font>
 

@@ -16,13 +16,13 @@ A tabela 1 descreve o checklist do artefato de técnica de priorização, sendo 
 | ID | Critérios                                                                                   | Sim/Não/Incompleto | Evidência |
 |----|---------------------------------------------------------------------------------------------|--------------------|-----------|
 | 1  | Todos os itens da lista foram previamente identificados e compreendidos pelo cliente?       |                 |    [Print](../../../assets/verificação/In_or_out_print.png)       |
-| 2  | Os critérios que definem o que é "IN" e o que é "OUT" foram estabelecidos antes da priorização? |              |    [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)       |
-| 3  | Houve envolvimento dos usuários na priorização?                                             |                |     [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |
-| 4  | O usuário foi informado sobre a técnica de priorização?                                     |                |     [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |
-| 5  | Foi gravada uma reunião da priorização dos requisitos?                                      |                |     [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |
-| 6  | A priorização dos requisitos ficou similar com as diferentes técnicas?                      |                |     [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |
-| 7  | Os participantes puderam justificar suas escolhas?                                          |                 |       [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)    |
-| 8  | Foi tomada uma decisão binária para cada requisito?                                         |                 |      [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)     |
+| 2  | Os critérios que definem o que é "IN" e o que é "OUT" foram estabelecidos antes da priorização? |              |    [Print](../../../assets/verificação/In_or_out_print.png)       |
+| 3  | Houve envolvimento dos usuários na priorização?                                             |                |     [Print](../../../assets/verificação/In_or_out_print.png)      |
+| 4  | O usuário foi informado sobre a técnica de priorização?                                     |                |     [Print](../../../assets/verificação/In_or_out_print.png)      |
+| 5  | Foi gravada uma reunião da priorização dos requisitos?                                      |                |     [Print](../../../assets/verificação/In_or_out_print.png)      |
+| 6  | A priorização dos requisitos ficou similar com as diferentes técnicas?                      |                |     [Print](../../../assets/verificação/In_or_out_print.png)      |
+| 7  | Os participantes puderam justificar suas escolhas?                                          |                 |       [Print](../../../assets/verificação/In_or_out_print.png)    |
+| 8  | Foi tomada uma decisão binária para cada requisito?                                         |                 |      [Print](../../../assets/verificação/In_or_out_print.png)     |
 | 9  | A decisão de "IN" ou "OUT" foi baseada na aderência do requisito aos objetivos do projeto, não em preferências pessoais? |       |   [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)        
 
 

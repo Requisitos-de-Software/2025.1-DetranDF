@@ -158,5 +158,5 @@ Abaixo estão os artefatos criados na etapa 4
  |  Versão  |     Data     |               Descrição               |                      Autor                      |  Revisor  | 
  |  :----:  |  :--------:  |  :---------------------------------:  |  :-------------------------------------------:  |  :-----:  | 
  |   1.0    |  06/06/2025  |        Início da documentação        |  [Giovana Barbosa ](https://github.com/gio221)  |      [Gabriel Mendes](https://github.com/gbevi)           | 
- |  1.1  |  06/07/2025 |  Adição das tabelas das etapas 1, 2 e 3  |  [Eric Akio](https://github.com/eric-kingu)  |    | 
- | 1.4 | 06/07/2025 | Adição das tabelas das entregas 4 e 6 | [Eric Akio](https://github.com/eric-kingu)| |
+ |  1.1  |  06/07/2025 |  Adição das tabelas das etapas 1, 2 e 3  |  [Eric Akio](https://github.com/eric-kingu)  |  [Pedro Camilo](https://github.com/PedrooCamilo)  | 
+ | 1.4 | 06/07/2025 | Adição das tabelas das entregas 4 e 6 | [Eric Akio](https://github.com/eric-kingu)| [Pedro Camilo](https://github.com/PedrooCamilo) |

@@ -19,9 +19,9 @@ A tabela 1 descreve o checklist do artefato de técnica de priorização, sendo 
 
 | ID | Critérios                                                                                   | Sim/Não/Incompleto | Evidência |
 |----|---------------------------------------------------------------------------------------------|--------------------|-----------|
-| 1  | Todos os itens da lista foram previamente identificados e compreendidos pelo cliente?       | Sim                |    [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)       |
-| 2  | Os critérios que definem o que é "IN" e o que é "OUT" foram estabelecidos antes da priorização? | Sim             |    [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)       |
-| 3  | Houve envolvimento dos usuários na priorização?                                             | Sim                |     [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |
+| 1  | Todos os itens da lista foram previamente identificados e compreendidos pelo cliente?       | Sim                |    [Print](../../../assets/lv_in_out_1.png)       |
+| 2  | Os critérios que definem o que é "IN" e o que é "OUT" foram estabelecidos antes da priorização? | Sim             |    [Print](../../../assets/lv_in_out_2.png)       |
+| 3  | Houve envolvimento dos usuários na priorização?                                             | Sim                |     [Print](../../../assets/lv_in_out_3.png)      |
 | 4  | O usuário foi informado sobre a técnica de priorização?                                     | Sim                |     [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |
 | 5  | Foi gravada uma reunião da priorização dos requisitos?                                      | Incompleto               |     [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |
 | 6  | A priorização dos requisitos ficou similar com as diferentes técnicas?                      | Sim                |     [Print](docs/Verificações/Entrega 2/Lista-verificação/In or Out.md)      |

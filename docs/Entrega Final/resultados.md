@@ -21,4 +21,4 @@ Por fim, para garantir a qualidade dos artefatos produzidos, foi utilizada a met
 | Versão |    Data    |              Descrição              |                     Autor                     | Revisor |
 | :----: | :--------: | :---------------------------------: | :-------------------------------------------: | :-----: |
 |  1.0   | 06/06/2025 |       Início da documentação       | [Giovana Barbosa ](https://github.com/gio221) |     [Gabriel Mendes](https://github.com/gbevi)          |
-|  1.1   | 06/07/2025 |       Resultados       | [Maria Eduarda ](https://github.com/maaduh) |             |
+|  1.1   | 06/07/2025 |       Resultados       | [Maria Eduarda ](https://github.com/maaduh) |   [Pedro Camilo](https://github.com/PedrooCamilo)          |

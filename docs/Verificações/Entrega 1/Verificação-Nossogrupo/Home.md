@@ -17,11 +17,11 @@ A tabela 1 descreve a checklist relativa a home do projeto.
 
 | ID  | Critérios                                                            | Sim/Não/Incompleto | Print                                                                                       |
 | :-: | -------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------- |
-|  1  | A home do projeto apresenta introdução sobre a disciplina/artefatos? | Sim.               | [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
-|  2  | A home dá uma breve introdução sobre o que é o aplicativo escolhido? | Sim.               | [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
-|  3  | A home explica brevemente o motivo da escolha do aplicativo?         | Sim.               | [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
-|  4  | Nome e foto de todos os membros do grupo constam?                    | Sim.               | [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
-|  5  | A home segue o padrão para referências e formatação?                 | Sim.               | [print](https://drive.google.com/file/d/1oqBEVEsMu8xSKef2zhDwEN1dr8JDr0IJ/view?usp=sharing) |
+|  1  | A home do projeto apresenta introdução sobre a disciplina/artefatos? | Sim.               | [Imagem](../../../assets/lv_home_nossgp_1.png) |
+|  2  | A home dá uma breve introdução sobre o que é o aplicativo escolhido? | Sim.               | [Imagem](../../../assets/lv_home_nossgp_2.png) |
+|  3  | A home explica brevemente o motivo da escolha do aplicativo?         | Sim.               | [Imagem](../../../assets/lv_home_nossgp_3.png) |
+|  4  | Nome e foto de todos os membros do grupo constam?                    | Sim.               |  [Imagem](../../../assets/lv_home_nossgp_4.png) |
+|  5  | A home segue o padrão para referências e formatação?                 | Sim.               |  [Imagem](../../../assets/lv_home_nossgp_5.png) |
 
 <font size="3"><p style="text-align: center">Fonte: [Pedro Camilo ](https://github.com/PedrooCamilo), 2025.</p></font>
 
